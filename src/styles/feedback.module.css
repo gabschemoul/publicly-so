@@ -1,0 +1,53 @@
+.container {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  row-gap: 12px;
+  width: 500px;
+}
+
+.message,
+.email {
+  border: none;
+  border-radius: 6px;
+  padding: 20px;
+  padding-left: 20px;
+  background-color: white;
+  color: black;
+  font-weight: 900;
+  font-size: 14px;
+  font-family: var(--font-mono);
+}
+
+.message {
+  height: 200px;
+}
+
+.email {
+  height: 50px;
+}
+
+.submitButton {
+  height: 50px;
+  font-size: 16px;
+  border-radius: 6px;
+  border: none;
+  background-color: #a657f6;
+  transition: all 150ms ease-in-out;
+  cursor: pointer;
+  font-family: var(--font-mono);
+  font-weight: 900;
+}
+
+.submitButton:hover {
+  background-color: #a757f6c1;
+}

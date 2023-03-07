@@ -1,0 +1,19 @@
+.container {
+  position: fixed;
+  bottom: 12px;
+  right: 12px;
+  font-size: 12px;
+  font-family: var(--font-classic);
+  font-weight: 600;
+}
+
+.link {
+  padding: 5px 7px 5px 5px;
+  background-color: white;
+  color: black;
+  border-radius: 3px;
+  display: flex;
+  align-items: center;
+  column-gap: 8px;
+  box-shadow: 0 0 0 1px rgb(0 0 0 / 10%), 0 1px 3px rgb(0 0 0 / 10%);
+}
