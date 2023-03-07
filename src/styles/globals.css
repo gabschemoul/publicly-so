@@ -122,11 +122,13 @@ a {
   font-weight: 700;
   cursor: pointer;
   box-shadow: 0px 0px 30px rgba(167, 87, 246, 0.4);
+  -webkit-box-shadow: 0px 0px 30px rgba(167, 87, 246, 0.4);
   transition: all 200ms ease-in-out;
 }
 
 .purpleButton:hover {
   box-shadow: 0px 0px 50px rgba(167, 87, 246, 0.6);
+  -webkit-box-shadow: 0px 0px 50px rgba(167, 87, 246, 0.6);
 }
 
 .smallPurpleButton {

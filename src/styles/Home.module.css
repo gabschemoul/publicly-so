@@ -54,6 +54,7 @@
   background-color: #a757f66f;
   z-index: -1;
   filter: blur(160px);
+  -webkit-filter: blur(130px);
 }
 .heroScreenshotGlowTop {
   top: -70px;
