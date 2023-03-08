@@ -135,6 +135,7 @@ textarea:focus-visible {
   font-family: var(--font-classic) !important;
   font-weight: 700;
   cursor: pointer;
+  color: white !important;
   box-shadow: 0px 0px 30px rgba(167, 87, 246, 0.4);
   -webkit-box-shadow: 0px 0px 30px rgba(167, 87, 246, 0.4);
   transition: all 200ms ease-in-out;
@@ -157,6 +158,7 @@ textarea:focus-visible {
   cursor: pointer;
   box-shadow: 0px 0px 30px rgba(167, 87, 246, 0.4);
   transition: all 200ms ease-in-out;
+  color: white !important;
 }
 
 .smallPurpleButton:hover {
