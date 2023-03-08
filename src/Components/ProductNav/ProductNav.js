@@ -22,13 +22,13 @@ export default function ProductNav({ product }) {
               href={`/products/${product.slug}/feedback`}
               className={styles.menuLink}
             >
-              Give a feedback
+              <span>Give a </span>Feedback
             </Link>
             <Link
               href={`/products/${product.slug}/bugs`}
               className={styles.menuLink}
             >
-              Report a bug
+              <span>Report a </span>Bug
             </Link>
           </div>
         </div>

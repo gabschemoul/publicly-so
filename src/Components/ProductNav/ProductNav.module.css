@@ -74,4 +74,8 @@
   .menuWrapper {
     column-gap: 20px;
   }
+
+  .menuWrapper span {
+    display: none;
+  }
 }
