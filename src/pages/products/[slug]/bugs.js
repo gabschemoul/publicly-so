@@ -193,6 +193,7 @@ export default function bugs({ product }) {
             </div>
             <input
               type="file"
+              accept="image/*"
               name="attachment"
               id="attachment"
               onChange={submitUpload}
