@@ -16,6 +16,7 @@ import likeIcon from "../../public/Icons/likeIcon.svg";
 import planeIcon from "../../public/Icons/planeIcon.svg";
 import calendarIcon from "../../public/Icons/calendarIcon.svg";
 import closeButton from "../../public/Icons/close-white.svg";
+import doneIcon from "../../public/Icons/doneIcon.svg";
 
 import {
   collection,
@@ -40,6 +41,8 @@ export default function Home() {
   const [popupOpened, setPopupOpened] = useState(false);
 
   const popupRef = useRef();
+  const formRef = useRef();
+  const formSubmittedRef = useRef();
 
   const togglePopup = () => {
     popupOpened
@@ -58,10 +61,17 @@ export default function Home() {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
+    console.log("coucou");
 
     const waitlistInstance = collection(dbLeads, "waitlist");
+    console.log(waitlistInstance);
 
     const signupRef = await addDoc(waitlistInstance, newSignup);
+    console.log("done");
+    console.log(signupRef);
+
+    formRef.current.style.display = "none";
+    formSubmittedRef.current.style.display = "flex";
   };
 
   return (
@@ -151,35 +161,43 @@ export default function Home() {
 
         <div className={styles.joinPopupWrapper} ref={popupRef}>
           <div className={styles.joinPopup}>
-            <h2>Join the waitlist of Publicly</h2>
-            <form className={styles.joinForm} onSubmit={handleSubmit}>
-              <input
-                type="email"
-                name="email"
-                placeholder="Enter your email*"
-                onChange={handleChange}
-                required
-              />
-              <input
-                type="text"
-                name="name"
-                placeholder="Enter your name*"
-                onChange={handleChange}
-                required
-              />
-              <input
-                type="text"
-                name="product"
-                placeholder="What's the name of your product?*"
-                onChange={handleChange}
-                required
-              />
-              <input
-                type="submit"
-                className={styles.submitButton}
-                value="Submit"
-              />
-            </form>
+            <div className={styles.initialFormWrapper} ref={formRef}>
+              <h2>Join the waitlist of Publicly</h2>
+              <form className={styles.joinForm} onSubmit={handleSubmit}>
+                <input
+                  type="email"
+                  name="email"
+                  placeholder="Enter your email*"
+                  onChange={handleChange}
+                  required
+                />
+                <input
+                  type="text"
+                  name="name"
+                  placeholder="Enter your name*"
+                  onChange={handleChange}
+                  required
+                />
+                <input
+                  type="text"
+                  name="product"
+                  placeholder="What's the name of your product?*"
+                  onChange={handleChange}
+                  required
+                />
+                <input
+                  type="submit"
+                  className={styles.submitButton}
+                  value="Submit"
+                />
+              </form>
+            </div>
+            <div className={styles.formSubmittedWrapper} ref={formSubmittedRef}>
+              <Image src={doneIcon} width={80} height={80} />
+              <p className={styles.formSubmittedMessage}>
+                Thank you for signing up!
+              </p>
+            </div>
             <Image
               src={closeButton}
               width={16}

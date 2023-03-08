@@ -62,6 +62,13 @@
   background-color: #a757f6c1;
 }
 
+.feedbackSent {
+  display: none;
+  color: rgb(99, 99, 99);
+  font-weight: 700;
+  text-align: center;
+}
+
 @media screen and (max-width: 480px) {
   .container {
     padding: 0 30px;

@@ -136,13 +136,30 @@
   border-radius: 12px;
   display: flex;
   flex-direction: column;
-  display: flex;
-  flex-direction: column;
   align-items: center;
 }
 
 .joinPopup h2 {
   margin-bottom: 40px;
+}
+
+.initialFormWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.formSubmittedWrapper {
+  display: none;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  row-gap: 20px;
+  min-height: 300px;
+}
+
+.formSubmittedMessage {
+  font-size: 20px;
 }
 
 .joinForm {

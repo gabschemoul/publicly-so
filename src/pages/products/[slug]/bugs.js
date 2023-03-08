@@ -42,6 +42,8 @@ export default function bugs({ product }) {
   const [newAttachmentsList, setNewAttachmentsList] = useState([]);
 
   const closeRefs = useRef([]);
+  const submitButtonRef = useRef();
+  const bugSentRef = useRef();
 
   const storage = getStorage();
 
@@ -107,6 +109,9 @@ export default function bugs({ product }) {
   const handleSubmit = async (e) => {
     e.preventDefault();
 
+    bugSentRef.current.style.display = "none";
+    submitButtonRef.current.innerText = "Sending...";
+
     const productInstance = doc(db, "products", product.id);
     const bugsInstance = collection(db, "bugs");
 
@@ -130,7 +135,11 @@ export default function bugs({ product }) {
 
     await setDoc(productInstance, newProduct);
 
-    router.push(`/products/${product.slug}/bugs`);
+    e.target.reset();
+    submitButtonRef.current.innerText = "Send bug";
+    bugSentRef.current.style.display = "block";
+
+    //router.push(`/products/${product.slug}/bugs`);
   };
 
   return (
@@ -164,7 +173,7 @@ export default function bugs({ product }) {
           />
           <div className={styles.attachmentsWrapper}>
             <label for="icon" className={styles.label}>
-              Attachments
+              Screenshots
             </label>
             <div className={styles.attachmentsList} ref={attachmentsRef}>
               {newAttachmentsList.map((a, i) => {
@@ -204,13 +213,20 @@ export default function bugs({ product }) {
               className={styles.addAttachment}
               onClick={() => handleClickAttachment()}
             >
-              <p>Add attachment</p>
+              <p>+ Add</p>
             </div>
           </div>
 
-          <button type="submit" className={styles.submitButton}>
+          <button
+            type="submit"
+            className={styles.submitButton}
+            ref={submitButtonRef}
+          >
             Send bug
           </button>
+          <p className={styles.bugSent} ref={bugSentRef}>
+            Bug sent successfully!
+          </p>
         </form>
       </div>
       <MadeWithPublicly />

@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useRef } from "react";
 import {
   collection,
   addDoc,
@@ -26,6 +26,9 @@ export default function feedback({ product }) {
     productId: product.id,
   });
 
+  const submitButtonRef = useRef();
+  const feedbackSentRef = useRef();
+
   const router = useRouter();
 
   const handleChange = (e) => {
@@ -38,6 +41,9 @@ export default function feedback({ product }) {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
+
+    feedbackSentRef.current.style.display = "none";
+    submitButtonRef.current.innerText = "Sending...";
 
     const productInstance = doc(db, "products", product.id);
     const feedbackInstance = collection(db, "feedbacks");
@@ -61,7 +67,11 @@ export default function feedback({ product }) {
 
     await setDoc(productInstance, newProduct);
 
-    router.push(`/products/${product.slug}/feedback`);
+    e.target.reset();
+    submitButtonRef.current.innerText = "Send feedback";
+    feedbackSentRef.current.style.display = "block";
+
+    //router.push(`/products/${product.slug}/feedback`);
   };
 
   return (
@@ -85,9 +95,16 @@ export default function feedback({ product }) {
             className={styles.message}
             onChange={handleChange}
           />
-          <button type="submit" className={styles.submitButton}>
+          <button
+            type="submit"
+            className={styles.submitButton}
+            ref={submitButtonRef}
+          >
             Send feedback
           </button>
+          <p className={styles.feedbackSent} ref={feedbackSentRef}>
+            Feedback sent successfully!
+          </p>
         </form>
       </div>
       <MadeWithPublicly />

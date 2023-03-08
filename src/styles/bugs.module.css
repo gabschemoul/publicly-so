@@ -50,10 +50,10 @@
 }
 
 .label {
-  color: rgba(0, 0, 0, 0.633);
-  text-transform: uppercase;
+  color: #838383;
+  /*text-transform: uppercase;*/
   font-weight: 700;
-  font-size: 14px;
+  font-size: 16px;
 }
 
 .attachmentsWrapper {
@@ -134,6 +134,13 @@
 
 .submitButton:hover {
   background-color: #a757f6c1;
+}
+
+.bugSent {
+  display: none;
+  color: rgb(99, 99, 99);
+  font-weight: 700;
+  text-align: center;
 }
 
 @media screen and (max-width: 480px) {
