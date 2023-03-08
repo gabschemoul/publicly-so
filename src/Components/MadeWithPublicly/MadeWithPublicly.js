@@ -4,7 +4,7 @@ import Image from "next/image";
 
 import styles from "./MadeWithPublicly.module.css";
 
-import publiclyLogo from "../../../../public/logos/publicly-icon.svg";
+import publiclyLogo from "../../../public/logos/publicly-icon.svg";
 
 export default function MadeWithPublicly() {
   return (

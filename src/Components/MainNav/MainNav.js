@@ -4,7 +4,7 @@ import Link from "next/link";
 
 import styles from "./MainNav.module.css";
 
-import publiclyLogo from "../../../../public/logos/publicly-icon.svg";
+import publiclyLogo from "../../../public/logos/publicly-icon.svg";
 
 export default function MainNav({ openPopup }) {
   return (

@@ -106,9 +106,6 @@
   align-items: center;
   padding: 0 20px;
   row-gap: 16px;
-  /*background-color: #0f0f0f;
-  border-radius: 10px;
-  border: 1px solid rgba(108, 108, 108, 0.3);*/
 }
 
 .singleFeatureWrapper p {
@@ -163,9 +160,8 @@
   padding-left: 20px;
   background-color: white;
   color: black;
-  font-weight: 900;
+  font-weight: 700;
   font-size: 14px;
-  font-family: var(--font-mono);
 }
 
 .submitButton {
@@ -177,7 +173,6 @@
   color: white !important;
   transition: all 150ms ease-in-out;
   cursor: pointer;
-  font-family: var(--font-mono);
   font-weight: 900;
   padding: 0 20px !important;
 }

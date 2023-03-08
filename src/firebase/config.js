@@ -3,23 +3,23 @@ import "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyADm8WkBXG0258zXOfM3lVFdtL__JM97po",
-  authDomain: "publicly-app.firebaseapp.com",
-  projectId: "publicly-app",
-  storageBucket: "publicly-app.appspot.com",
-  messagingSenderId: "139920072271",
-  appId: "1:139920072271:web:dc29de077e2c7e9c7a543a",
-  measurementId: "G-8Z4LDT58XT",
+  apiKey: process.env.FIREBASE_API_KEY,
+  authDomain: process.env.FIREBASE_AUTH_DOMAIN,
+  projectId: process.env.FIREBASE_PROJECT_ID,
+  storageBucket: process.env.FIREBASE_STORAGE_BUCKET,
+  messagingSenderId: process.env.FIREBASE_MESSAGING_SENDER_ID,
+  appId: process.env.FIREBASE_APP_ID,
+  measurementId: process.env.FIREBASE_MEASUREMENT_ID,
 };
 
 // Your web app's Firebase configuration
 const firebaseLeadsConfig = {
-  apiKey: "AIzaSyBnL75mGrXv_FR1MZVFkdmOeP5isTn1tE0",
-  authDomain: "publicly-leads.firebaseapp.com",
-  projectId: "publicly-leads",
-  storageBucket: "publicly-leads.appspot.com",
-  messagingSenderId: "678315838423",
-  appId: "1:678315838423:web:3a8b1098db789d20ca9992",
+  apiKey: process.env.FIREBASE_LEADS_API_KEY,
+  authDomain: process.env.FIREBASE_LEADS_AUTH_DOMAIN,
+  projectId: process.env.FIREBASE_LEADS_PROJECT_ID,
+  storageBucket: process.env.FIREBASE_LEADS_STORAGE_BUCKET,
+  messagingSenderId: process.env.FIREBASE_LEADS_MESSAGING_SENDER_ID,
+  appId: process.env.FIREBASE_LEADS_APP_ID,
 };
 
 let app;

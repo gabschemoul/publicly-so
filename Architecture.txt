@@ -1,6 +1,0 @@
-publicly.so -> homepage
-publicly.so/products -> liste des produits publiques
-publicly.so/products/nom_product -> page d'un produit 
-publicly.so/products/nom_product/feedback -> formulaire pour rapporter un bug
-publicly.so/products/nom_product/bugs -> formulaire pour rapporter un bug
-publicly.so/products/nom_product/about -> Infos du produit

@@ -5,8 +5,8 @@ import Link from "next/link";
 
 import styles from "@/styles/Home.module.css";
 
-import MainNav from "./Components/MainNav/MainNav";
-import MainFooter from "./Components/MainFooter/MainFooter";
+import MainNav from "../Components/MainNav/MainNav";
+import MainFooter from "../Components/MainFooter/MainFooter";
 
 import heroScreenshot from "../../public/Screenshots/homeHeroScreenshot.png";
 import bugIcon from "../../public/Icons/bugIcon.svg";

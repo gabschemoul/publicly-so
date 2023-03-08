@@ -12,8 +12,8 @@ import {
 } from "firebase/firestore";
 import { useRouter } from "next/router";
 
-import ProductNav from "@/pages/Components/ProductNav/ProductNav";
-import MadeWithPublicly from "@/pages/Components/MadeWithPublicly/MadeWithPublicly";
+import ProductNav from "@/Components/ProductNav/ProductNav";
+import MadeWithPublicly from "@/Components/MadeWithPublicly/MadeWithPublicly";
 import { db } from "@/firebase/config";
 
 import styles from "../../../styles/feedback.module.css";
@@ -65,10 +65,10 @@ export default function feedback({ product }) {
   };
 
   return (
-    <>
+    <div className={styles.mainWrapper}>
       <ProductNav product={product} />
       <div className={styles.container}>
-        <h1 className="productH1">Give {product.name} a feedback</h1>
+        <h1 className={styles.productH1}>Give {product.name} a feedback</h1>
         <form className={styles.form} onSubmit={handleSubmit}>
           <input
             id="email"
@@ -91,7 +91,7 @@ export default function feedback({ product }) {
         </form>
       </div>
       <MadeWithPublicly />
-    </>
+    </div>
   );
 }
 

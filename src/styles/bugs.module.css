@@ -1,10 +1,15 @@
+.mainWrapper {
+  background-color: #f9f9f9;
+}
+
 .container {
   width: 100%;
-  height: 100vh;
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  padding: 120px 60px;
 }
 
 .form {
@@ -13,6 +18,11 @@
   align-items: stretch;
   row-gap: 12px;
   width: 500px;
+}
+
+.productH1 {
+  color: black;
+  margin-bottom: 30px;
 }
 
 .description,
@@ -24,9 +34,8 @@
   padding-left: 20px;
   background-color: white;
   color: black;
-  font-weight: 900;
+  font-weight: 700;
   font-size: 14px;
-  font-family: var(--font-mono);
 }
 
 .description {
@@ -38,11 +47,19 @@
   height: 50px;
 }
 
+.label {
+  color: rgba(0, 0, 0, 0.633);
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 14px;
+}
+
 .attachmentsWrapper {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   row-gap: 10px;
+  margin: 10px 0;
 }
 
 .attachmentsList {
@@ -87,19 +104,18 @@
 }
 
 .addAttachment {
-  background-color: rgba(255, 255, 255, 0.08);
+  background-color: rgba(0, 0, 0, 0.08);
   border-radius: 6px;
   padding: 6px 10px;
   transition: all 100ms ease-in-out;
   border: none;
-  color: white;
+  color: rgba(0, 0, 0, 0.616);
   cursor: pointer;
   font-weight: 900;
-  font-family: Menlo;
   font-size: 13px;
 }
 .addAttachment:hover {
-  background-color: rgba(255, 255, 255, 0.15);
+  background-color: rgba(0, 0, 0, 0.15);
 }
 
 .submitButton {
@@ -110,8 +126,7 @@
   background-color: #a657f6;
   transition: all 150ms ease-in-out;
   cursor: pointer;
-  font-family: var(--font-mono);
-  font-weight: 900;
+  font-weight: 700;
 }
 
 .submitButton:hover {

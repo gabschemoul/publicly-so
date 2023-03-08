@@ -20,8 +20,8 @@ import {
   getDownloadURL,
 } from "firebase/storage";
 
-import ProductNav from "@/pages/Components/ProductNav/ProductNav";
-import MadeWithPublicly from "@/pages/Components/MadeWithPublicly/MadeWithPublicly";
+import ProductNav from "@/Components/ProductNav/ProductNav";
+import MadeWithPublicly from "@/Components/MadeWithPublicly/MadeWithPublicly";
 import { db } from "@/firebase/config";
 
 import closeButton from "../../../../public/Icons/close-white.svg";
@@ -134,10 +134,10 @@ export default function bugs({ product }) {
   };
 
   return (
-    <>
+    <div className={styles.mainWrapper}>
       <ProductNav product={product} />
       <div className={styles.container}>
-        <h1 className="productH1">Report a bug</h1>
+        <h1 className={styles.productH1}>Report a bug</h1>
         <form className={styles.form} onSubmit={handleSubmit}>
           <input
             id="author"
@@ -203,7 +203,7 @@ export default function bugs({ product }) {
               className={styles.addAttachment}
               onClick={() => handleClickAttachment()}
             >
-              <p>Add attachments</p>
+              <p>Add attachment</p>
             </div>
           </div>
 
@@ -213,7 +213,7 @@ export default function bugs({ product }) {
         </form>
       </div>
       <MadeWithPublicly />
-    </>
+    </div>
   );
 }
 

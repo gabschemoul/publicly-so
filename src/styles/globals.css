@@ -107,6 +107,20 @@ a {
   }
 }
 
+input,
+textarea {
+  font-family: var(--font-classic);
+  outline-color: transparent !important;
+  transition: all 200ms ease-out;
+}
+
+input:focus-visible,
+textarea:focus-visible {
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.2);
+  border: none;
+  outline: none;
+}
+
 .productH1 {
   margin-bottom: 30px;
 }

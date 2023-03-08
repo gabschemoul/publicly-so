@@ -4,7 +4,7 @@ import Link from "next/link";
 
 import styles from "./MainFooter.module.css";
 
-import publiclyLogo from "../../../../public/logos/publiclyLogo.svg";
+import publiclyLogo from "../../../public/logos/publiclyLogo.svg";
 
 export default function MainFooter() {
   return (
