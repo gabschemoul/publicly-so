@@ -155,3 +155,9 @@ a {
   border-radius: 10px;
   background-size: cover;
 }
+
+@media screen and (max-width: 768px) {
+  h2 {
+    font-size: 46px;
+  }
+}

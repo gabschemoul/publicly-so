@@ -69,6 +69,7 @@
 
 .features {
   margin-top: 100px;
+  margin-bottom: 100px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -93,6 +94,8 @@
   justify-content: center;
   align-items: stretch;
   row-gap: 50px;
+  margin-top: 20px;
+  margin-bottom: 50px;
 }
 
 .singleFeatureWrapper {
@@ -111,4 +114,186 @@
 .singleFeatureWrapper p {
   font-size: 26px;
   text-align: center;
+}
+
+.joinPopupWrapper {
+  display: none;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.608);
+}
+
+.joinPopupBackground {
+  background-color: rgba(0, 0, 0, 0.608);
+}
+
+.joinPopup {
+  background-color: #0f0f0f;
+  border: 1px solid rgba(108, 108, 108, 0.3);
+  padding: 50px;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.joinPopup h2 {
+  margin-bottom: 40px;
+}
+
+.joinForm {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  row-gap: 12px;
+  width: 500px;
+}
+
+.joinForm input {
+  border: none;
+  border-radius: 6px;
+  padding: 20px;
+  padding-left: 20px;
+  background-color: white;
+  color: black;
+  font-weight: 900;
+  font-size: 14px;
+  font-family: var(--font-mono);
+}
+
+.submitButton {
+  height: 50px;
+  font-size: 16px;
+  border-radius: 6px;
+  border: none;
+  background-color: #a657f6 !important;
+  color: white !important;
+  transition: all 150ms ease-in-out;
+  cursor: pointer;
+  font-family: var(--font-mono);
+  font-weight: 900;
+  padding: 0 20px !important;
+}
+
+.submitButton:hover {
+  background-color: #a757f6c1 !important;
+}
+
+.closeButton {
+  position: absolute;
+  top: 30px;
+  right: 30px;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 768px) {
+  .container {
+    padding: 60px 30px 0;
+  }
+
+  .header {
+    font-size: 60px;
+    line-height: 1.1em;
+  }
+
+  .subHeader {
+    font-size: 22px;
+    line-height: 1.2em;
+  }
+
+  .features {
+    margin-top: 60px;
+    margin-bottom: 60px;
+  }
+
+  .main h2 {
+    font-size: 46px;
+    line-height: 1.1em;
+  }
+
+  .singleFeatureWrapper {
+    width: 50%;
+  }
+
+  .singleFeatureWrapper p {
+    font-size: 20px;
+  }
+
+  .singleFeatureWrapper img {
+    width: 30px;
+    height: 30px;
+  }
+
+  .joinPopup {
+    width: 80vw;
+  }
+
+  .joinPopup h2 {
+    font-size: 38px;
+  }
+
+  .joinForm {
+    width: 100%;
+    max-width: 360px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .container {
+    padding: 30px 20px 0;
+  }
+
+  .header {
+    font-size: 48px;
+  }
+
+  .subHeader {
+    font-size: 18px;
+  }
+
+  .main h2 {
+    font-size: 38px;
+  }
+
+  .subtitle {
+    font-size: 18px;
+  }
+
+  .singleFeatureWrapper {
+    padding: 0 10px;
+  }
+
+  .singleFeatureWrapper p {
+    font-size: 16px;
+  }
+
+  .singleFeatureWrapper img {
+    width: 20px;
+    height: 20px;
+  }
+
+  .joinPopup {
+    padding: 50px 30px;
+  }
+
+  .joinPopup h2 {
+    font-size: 30px;
+    text-align: left;
+  }
+
+  .joinForm input {
+    padding: 16px 20px;
+  }
+
+  .submitButton {
+    height: 40px;
+    padding: 0 20px !important;
+  }
 }

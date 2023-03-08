@@ -61,43 +61,4 @@ if (getApps().length === 0) {
 const db = getFirestore(app);
 const dbLeads = getFirestore(appLeads);
 
-console.log(db);
-console.log(dbLeads);
-
-/*
-const app =
-  getApps().length === 0
-    ? initializeApp({ ...firebaseConfig, projectId: firebaseConfig?.projectId })
-    : getApp();
-const db = getFirestore(app);
-
-
-const appLeads =
-  getApps().length === 0
-    ? initializeApp({
-        ...firebaseLeadsConfig,
-        projectId: firebaseLeadsConfig?.projectId,
-      })
-    : getApp();
-const dbLeads = getFirestore(appLeads);
-*/
-/*
-const app = initializeApp({
-  ...firebaseConfig,
-  projectId: firebaseConfig?.projectId,
-});
-const db = getFirestore(app);
-const appLeads = initializeApp({
-  ...firebaseLeadsConfig,
-  projectId: firebaseLeadsConfig?.projectId,
-});
-const dbLeads = getFirestore(appLeads);
-*/
-
-/*
-console.log(getApps.find((item) => item.name_ === firebaseConfig?.projectId));
-console.log(
-  getApps.find((item) => item.name_ === firebaseLeadsConfig?.projectId)
-);*/
-
 export { app, db, appLeads, dbLeads };

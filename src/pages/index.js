@@ -1,14 +1,21 @@
-import React, { useState } from "react";
+import React, { useRef, useState } from "react";
 import Head from "next/head";
 import Image from "next/image";
+import Link from "next/link";
+
 import styles from "@/styles/Home.module.css";
 
 import MainNav from "./Components/MainNav/MainNav";
+import MainFooter from "./Components/MainFooter/MainFooter";
 
 import heroScreenshot from "../../public/Screenshots/homeHeroScreenshot.png";
 import bugIcon from "../../public/Icons/bugIcon.svg";
 import messageIcon from "../../public/Icons/messageIcon.svg";
 import lightbulbIcon from "../../public/Icons/lightbulbIcon.svg";
+import likeIcon from "../../public/Icons/likeIcon.svg";
+import planeIcon from "../../public/Icons/planeIcon.svg";
+import calendarIcon from "../../public/Icons/calendarIcon.svg";
+import closeButton from "../../public/Icons/close-white.svg";
 
 import {
   collection,
@@ -30,6 +37,16 @@ export default function Home() {
     name: "",
     product: "",
   });
+  const [popupOpened, setPopupOpened] = useState(false);
+
+  const popupRef = useRef();
+
+  const togglePopup = () => {
+    popupOpened
+      ? (popupRef.current.style.display = "none")
+      : (popupRef.current.style.display = "flex");
+    setPopupOpened(!popupOpened);
+  };
 
   const handleChange = (e) => {
     setNewSignup((prev) => {
@@ -59,7 +76,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
-        <MainNav />
+        <MainNav openPopup={() => togglePopup()} />
 
         <div className={styles.container}>
           <section className={styles.hero}>
@@ -70,7 +87,9 @@ export default function Home() {
               Get valuable user feedback for your product, so you know which
               features to build next.
             </p>
-            <button className="purpleButton">Join the waitlist</button>
+            <button className="purpleButton" onClick={() => togglePopup()}>
+              Join the waitlist
+            </button>
             <div className={styles.heroScreenshotWrapper}>
               <div
                 className={
@@ -106,6 +125,7 @@ export default function Home() {
                 <p>Suggest new features they would love to have.</p>
               </div>
               <div className={styles.singleFeatureWrapper}>
+                <Image src={likeIcon} width={40} height={40} />
                 <p>Vote for features proposed by other users.</p>
               </div>
               <div className={styles.singleFeatureWrapper}>
@@ -113,16 +133,23 @@ export default function Home() {
                 <p>Notify you of any bug on your product.</p>
               </div>
               <div className={styles.singleFeatureWrapper}>
+                <Image src={planeIcon} width={40} height={40} />
                 <p>See what’s coming next with the product roadmap.</p>
               </div>
               <div className={styles.singleFeatureWrapper}>
+                <Image src={calendarIcon} width={40} height={40} />
                 <p>See your changelog.</p>
               </div>
             </div>
+            <button className="purpleButton" onClick={() => togglePopup()}>
+              Join the waitlist
+            </button>
           </section>
         </div>
 
-        <div className={styles.joinPopupWrapper}>
+        <MainFooter />
+
+        <div className={styles.joinPopupWrapper} ref={popupRef}>
           <div className={styles.joinPopup}>
             <h2>Join the waitlist of Publicly</h2>
             <form className={styles.joinForm} onSubmit={handleSubmit}>
@@ -147,8 +174,20 @@ export default function Home() {
                 onChange={handleChange}
                 required
               />
-              <input type="submit" value="Submit" />
+              <input
+                type="submit"
+                className={styles.submitButton}
+                value="Submit"
+              />
             </form>
+            <Image
+              src={closeButton}
+              width={16}
+              height={16}
+              alt=""
+              className={styles.closeButton}
+              onClick={() => togglePopup()}
+            />
           </div>
         </div>
       </main>
