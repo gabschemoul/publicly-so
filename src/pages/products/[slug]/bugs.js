@@ -89,10 +89,6 @@ export default function bugs({ product }) {
         },
         () => {
           getDownloadURL(uploadTask.snapshot.ref).then((downloadURL) => {
-            /*setNewBug((prev) => {
-              const newArray = [...prev.attachments, downloadURL];
-              return { ...prev, attachments: newArray };
-            });*/
             setNewAttachmentsList((prev) => [...prev, downloadURL]);
           });
         }
@@ -155,6 +151,7 @@ export default function bugs({ product }) {
             className={styles.author}
             placeholder="Enter your email"
             onChange={handleChange}
+            required
           />
           <input
             id="title"
@@ -163,6 +160,7 @@ export default function bugs({ product }) {
             className={styles.title}
             placeholder="Give a title to your bug report"
             onChange={handleChange}
+            required
           />
           <textarea
             id="description"
@@ -170,9 +168,10 @@ export default function bugs({ product }) {
             placeholder="Describe the bug..."
             className={styles.description}
             onChange={handleChange}
+            required
           />
           <div className={styles.attachmentsWrapper}>
-            <label for="icon" className={styles.label}>
+            <label htmlFor="icon" className={styles.label}>
               Screenshots
             </label>
             <div className={styles.attachmentsList} ref={attachmentsRef}>

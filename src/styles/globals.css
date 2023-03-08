@@ -111,13 +111,20 @@ input,
 textarea {
   font-family: var(--font-classic);
   outline-color: transparent !important;
+  border: 1px solid #a757f600;
   transition: all 200ms ease-out;
+}
+
+textarea {
+  resize: vertical;
 }
 
 input:focus-visible,
 textarea:focus-visible {
-  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.2);
-  border: none;
+  /*border: 1px solid #a657f6;*/
+  box-shadow: 0 0 0 1px #a657f6, 0px 0px 20px rgba(167, 87, 246, 0.4);
+  transform: scale(1.03);
+  /*border: none;*/
   outline: none;
 }
 

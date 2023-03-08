@@ -1,7 +1,6 @@
 import React, { useRef, useState } from "react";
 import Head from "next/head";
 import Image from "next/image";
-import Link from "next/link";
 
 import styles from "@/styles/Home.module.css";
 
@@ -18,17 +17,7 @@ import calendarIcon from "../../public/Icons/calendarIcon.svg";
 import closeButton from "../../public/Icons/close-white.svg";
 import doneIcon from "../../public/Icons/doneIcon.svg";
 
-import {
-  collection,
-  addDoc,
-  Timestamp,
-  doc,
-  setDoc,
-  getDoc,
-  getDocs,
-  query,
-  where,
-} from "firebase/firestore";
+import { collection, addDoc } from "firebase/firestore";
 
 import { dbLeads, db } from "@/firebase/config";
 
@@ -61,14 +50,10 @@ export default function Home() {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    console.log("coucou");
 
     const waitlistInstance = collection(dbLeads, "waitlist");
-    console.log(waitlistInstance);
 
     const signupRef = await addDoc(waitlistInstance, newSignup);
-    console.log("done");
-    console.log(signupRef);
 
     formRef.current.style.display = "none";
     formSubmittedRef.current.style.display = "flex";
@@ -111,6 +96,7 @@ export default function Home() {
                 width={1600}
                 height={900}
                 className={styles.heroScreenshot}
+                alt="Screenshot of the publicly.so app"
               />
               <div
                 className={
@@ -127,27 +113,27 @@ export default function Home() {
             <p className={styles.subtitle}>With Publicly, your users can...</p>
             <div className={styles.featuresList}>
               <div className={styles.singleFeatureWrapper}>
-                <Image src={messageIcon} width={40} height={40} />
+                <Image src={messageIcon} width={40} height={40} alt="" />
                 <p>Give you feedback on your existing features.</p>
               </div>
               <div className={styles.singleFeatureWrapper}>
-                <Image src={lightbulbIcon} width={40} height={40} />
+                <Image src={lightbulbIcon} width={40} height={40} alt="" />
                 <p>Suggest new features they would love to have.</p>
               </div>
               <div className={styles.singleFeatureWrapper}>
-                <Image src={likeIcon} width={40} height={40} />
+                <Image src={likeIcon} width={40} height={40} alt="" />
                 <p>Vote for features proposed by other users.</p>
               </div>
               <div className={styles.singleFeatureWrapper}>
-                <Image src={bugIcon} width={40} height={40} />
+                <Image src={bugIcon} width={40} height={40} alt="" />
                 <p>Notify you of any bug on your product.</p>
               </div>
               <div className={styles.singleFeatureWrapper}>
-                <Image src={planeIcon} width={40} height={40} />
+                <Image src={planeIcon} width={40} height={40} alt="" />
                 <p>See what’s coming next with the product roadmap.</p>
               </div>
               <div className={styles.singleFeatureWrapper}>
-                <Image src={calendarIcon} width={40} height={40} />
+                <Image src={calendarIcon} width={40} height={40} alt="" />
                 <p>See your changelog.</p>
               </div>
             </div>
@@ -193,7 +179,7 @@ export default function Home() {
               </form>
             </div>
             <div className={styles.formSubmittedWrapper} ref={formSubmittedRef}>
-              <Image src={doneIcon} width={80} height={80} />
+              <Image src={doneIcon} width={80} height={80} alt="" />
               <p className={styles.formSubmittedMessage}>
                 Thank you for signing up!
               </p>

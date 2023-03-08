@@ -10,7 +10,12 @@ export default function MadeWithPublicly() {
   return (
     <div className={styles.container}>
       <Link href="https://publicly.so" target="_blank" className={styles.link}>
-        <Image src={publiclyLogo} alt="Publicly icon" width={16} height={16} />
+        <Image
+          src={publiclyLogo}
+          alt="Publicly.so logo icon"
+          width={16}
+          height={16}
+        />
         <p>Made with Publicly</p>
       </Link>
     </div>

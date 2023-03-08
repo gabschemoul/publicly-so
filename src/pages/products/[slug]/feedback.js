@@ -87,6 +87,7 @@ export default function feedback({ product }) {
             className={styles.email}
             placeholder="Enter your email"
             onChange={handleChange}
+            required
           />
           <textarea
             id="description"
@@ -94,6 +95,7 @@ export default function feedback({ product }) {
             placeholder="Share your thought..."
             className={styles.message}
             onChange={handleChange}
+            required
           />
           <button
             type="submit"

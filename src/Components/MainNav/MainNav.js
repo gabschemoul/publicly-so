@@ -12,7 +12,11 @@ export default function MainNav({ openPopup }) {
       <div className={styles.container}>
         <div className={styles.left}>
           <Link href="/">
-            <Image src={publiclyLogo} className={styles.publiclyLogo} />
+            <Image
+              src={publiclyLogo}
+              className={styles.publiclyLogo}
+              alt="Publicly.so logo icon"
+            />
           </Link>
           <Link className={styles.navLink} href="/pricing">
             Features

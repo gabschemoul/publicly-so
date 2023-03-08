@@ -11,7 +11,11 @@ export default function MainFooter() {
     <footer className={styles.footer}>
       <div className={styles.container}>
         <Link href="/">
-          <Image src={publiclyLogo} className={styles.footerLogo} />
+          <Image
+            src={publiclyLogo}
+            className={styles.footerLogo}
+            alt="Publicly.so logo"
+          />
         </Link>
 
         <div className={styles.footerLinks}>Lien</div>
