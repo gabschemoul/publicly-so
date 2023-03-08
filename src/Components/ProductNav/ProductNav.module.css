@@ -55,3 +55,23 @@
 .menuLink:hover {
   opacity: 80%;
 }
+
+@media screen and (max-width: 480px) {
+  .container {
+    height: 60px;
+    padding: 5px 20px;
+  }
+
+  .brandWrapper {
+    column-gap: 10px;
+  }
+
+  .icon {
+    width: 30px;
+    height: 30px;
+  }
+
+  .menuWrapper {
+    column-gap: 20px;
+  }
+}
