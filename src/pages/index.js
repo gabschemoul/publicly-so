@@ -75,6 +75,10 @@ export default function Home() {
 
         <div className={styles.container}>
           <section className={styles.hero}>
+            <div className={styles.surHeader}>
+              <div className={styles.dot}></div>
+              <p>Beta 0.1</p>
+            </div>
             <h1 className={styles.header}>
               Stop building products nobody uses
             </h1>
