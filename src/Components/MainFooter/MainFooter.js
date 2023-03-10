@@ -18,7 +18,20 @@ export default function MainFooter() {
           />
         </Link>
 
-        <div className={styles.footerLinks}>Lien</div>
+        <div className={styles.footerLinks}>
+          <Link
+            href="https://gabschemoul.notion.site/Terms-and-Conditions-09b6dee1bab7489398ec51471dcaa561"
+            target="_blank"
+          >
+            Terms & Conditions
+          </Link>
+          <Link
+            href="https://www.privacyboard.co/company/publicly?tab=privacy-policy"
+            target="_blank"
+          >
+            Privacy Policy
+          </Link>
+        </div>
       </div>
     </footer>
   );

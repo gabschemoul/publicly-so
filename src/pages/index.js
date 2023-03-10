@@ -7,7 +7,7 @@ import styles from "@/styles/Home.module.css";
 import MainNav from "../Components/MainNav/MainNav";
 import MainFooter from "../Components/MainFooter/MainFooter";
 
-import heroScreenshot from "../../public/Screenshots/homeHeroScreenshot.png";
+import heroScreenshot from "../../public/Screenshots/publiclyScreenshot.png";
 import bugIcon from "../../public/Icons/bugIcon.svg";
 import messageIcon from "../../public/Icons/messageIcon.svg";
 import lightbulbIcon from "../../public/Icons/lightbulbIcon.svg";

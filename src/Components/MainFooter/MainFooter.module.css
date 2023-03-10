@@ -15,3 +15,27 @@
   height: 40px;
   width: 138px;
 }
+
+.footerLinks {
+  display: flex;
+  justify-content: flex-end;
+  column-gap: 20px;
+  color: rgba(255, 255, 255, 0.522);
+}
+
+@media screen and (max-width: 480px) {
+  .footer {
+    height: auto;
+  }
+
+  .container {
+    flex-direction: column-reverse;
+    row-gap: 10px;
+    padding: 20px 0;
+  }
+  .footerLinks {
+    flex-direction: column-reverse;
+    align-items: center;
+    row-gap: 10px;
+  }
+}
