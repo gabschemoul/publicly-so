@@ -1,53 +1,47 @@
 import React, { useState, useRef, useEffect } from "react";
 import Image from "next/image";
-import {
-  collection,
-  addDoc,
-  Timestamp,
-  doc,
-  setDoc,
-  getDoc,
-  getDocs,
-  query,
-  where,
-} from "firebase/firestore";
+import { collection, getDocs, query, where } from "firebase/firestore";
 import { useRouter } from "next/router";
 
-import {
-  getStorage,
-  ref,
-  uploadBytesResumable,
-  getDownloadURL,
-} from "firebase/storage";
+import { Client } from "@notionhq/client";
+
+import { addUser, addBug } from "@/utils/notion";
+
+import { ref, uploadBytesResumable, getDownloadURL } from "firebase/storage";
 
 import ProductNav from "@/Components/ProductNav/ProductNav";
 import MadeWithPublicly from "@/Components/MadeWithPublicly/MadeWithPublicly";
-import { db } from "@/firebase/config";
+
+import { db, storage } from "@/firebase/config";
 
 import closeButton from "../../../../public/Icons/close-white.svg";
 
 import styles from "../../../styles/bugs.module.css";
 
 export default function bugs({ product }) {
+  // STATES
+
   const [newBug, setNewBug] = useState({
     title: "",
     description: "",
-    attachments: [],
-    author: "",
-    status: "Reported",
-    active: true,
-    productId: product.id,
+    notify: false,
   });
+
+  const [newUser, setNewUser] = useState({
+    name: "",
+    email: "",
+  });
+
   const [newAttachment, setNewAttachment] = useState({});
   const [newAttachmentsList, setNewAttachmentsList] = useState([]);
 
   const closeRefs = useRef([]);
   const submitButtonRef = useRef();
   const bugSentRef = useRef();
+  const uploadRef = useRef();
+  const attachmentsRef = useRef();
 
-  const storage = getStorage();
-
-  const router = useRouter();
+  // HANDLERS
 
   const handleChange = (e) => {
     setNewBug((prev) => {
@@ -57,8 +51,21 @@ export default function bugs({ product }) {
     });
   };
 
-  const uploadRef = useRef();
-  const attachmentsRef = useRef();
+  const handleUserChange = (e) => {
+    setNewUser((prev) => {
+      const key = e.target.name;
+      const value = e.target.value;
+      return { ...prev, [key]: value };
+    });
+  };
+
+  const handleNotifyChange = (e) => {
+    setNewBug((prev) => {
+      return { ...prev, notify: e.target.checked };
+    });
+  };
+
+  // ATTACHMENTS FUNCTIONS
 
   const handleClickAttachment = (e) => {
     uploadRef.current.click();
@@ -89,7 +96,13 @@ export default function bugs({ product }) {
         },
         () => {
           getDownloadURL(uploadTask.snapshot.ref).then((downloadURL) => {
-            setNewAttachmentsList((prev) => [...prev, downloadURL]);
+            setNewAttachmentsList((prev) => [
+              ...prev,
+              {
+                url: downloadURL,
+                name: newAttachment.name,
+              },
+            ]);
           });
         }
       );
@@ -102,41 +115,101 @@ export default function bugs({ product }) {
     setNewAttachmentsList(newArray);
   };
 
+  // FORM SUBMISSION
+
   const handleSubmit = async (e) => {
     e.preventDefault();
 
     bugSentRef.current.style.display = "none";
     submitButtonRef.current.innerText = "Sending...";
 
-    const productInstance = doc(db, "products", product.id);
-    const bugsInstance = collection(db, "bugs");
-
-    const fullBug = {
-      ...newBug,
-      attachments: newAttachmentsList,
-      creationDate: Timestamp.fromDate(new Date()),
+    const userData = {
+      user: {
+        properties: {
+          Email: {
+            email: newUser.email.toLowerCase(),
+          },
+          Name: {
+            title: [
+              {
+                text: {
+                  content: newUser.name,
+                },
+              },
+            ],
+          },
+        },
+      },
+      token: product.notion.token,
+      database_id: product.notion.databaseId,
     };
 
-    const bugRef = await addDoc(bugsInstance, fullBug);
+    addUser(userData).then((result) => {
+      const userId = JSON.parse(result).id;
+      console.log("User id: " + userId);
 
-    const productSnap = await getDoc(productInstance);
-    const productData = productSnap.data();
-    const productBugs = productData.bugs;
-    const newProductBugs = [...productBugs, bugRef.id];
+      const bugData = {
+        properties: {
+          Description: {
+            rich_text: [
+              {
+                text: {
+                  content: newBug.description,
+                },
+              },
+            ],
+          },
+          Title: {
+            title: [
+              {
+                text: {
+                  content: newBug.title,
+                },
+              },
+            ],
+          },
+          Attachments: {
+            files: newAttachmentsList.map((a) => {
+              return {
+                name: a.name,
+                type: "external",
+                external: {
+                  url: a.url,
+                },
+              };
+            }),
+          },
+          Notify: {
+            checkbox: newBug.notify,
+          },
+          Status: {
+            select: {
+              name: "Reported",
+            },
+          },
+        },
+        user: {
+          id: userId,
+        },
+        token: product.notion.token,
+        database_id: product.notion.databaseId,
+      };
 
-    const newProduct = {
-      ...productData,
-      bugs: newProductBugs,
-    };
+      console.log("bugData");
+      console.log(bugData);
 
-    await setDoc(productInstance, newProduct);
+      addBug(bugData);
+    });
 
     e.target.reset();
+    setNewAttachmentsList([]);
     submitButtonRef.current.innerText = "Send bug";
     bugSentRef.current.style.display = "block";
 
     //router.push(`/products/${product.slug}/bugs`);
   };
+
+  // PAGE CONTENT
 
   return (
     <div className={styles.mainWrapper}>
@@ -145,13 +218,21 @@ export default function bugs({ product }) {
         <h1 className={styles.productH1}>Report a bug</h1>
         <form className={styles.form} onSubmit={handleSubmit}>
           <input
-            id="author"
-            name="author"
+            id="email"
+            name="email"
             type="email"
             className={styles.author}
             placeholder="Enter your email"
-            onChange={handleChange}
+            onChange={handleUserChange}
             required
+          />
+          <input
+            id="name"
+            name="name"
+            type="text"
+            className={styles.author}
+            placeholder="Enter your name"
+            onChange={handleUserChange}
           />
           <input
             id="title"
@@ -172,7 +253,7 @@ export default function bugs({ product }) {
           />
           <div className={styles.attachmentsWrapper}>
             <label htmlFor="icon" className={styles.label}>
-              Screenshots
+              Screenshots (images only for now)
             </label>
             <div className={styles.attachmentsList} ref={attachmentsRef}>
               {newAttachmentsList.map((a, i) => {
@@ -180,7 +261,7 @@ export default function bugs({ product }) {
                   <div className={styles.attachmentWrapper}>
                     <div
                       className={styles.attachment}
-                      style={{ backgroundImage: "url(" + a + ")" }}
+                      style={{ backgroundImage: "url(" + a.url + ")" }}
                     ></div>
                     <div className={styles.closeButtonWrapper}>
                       <Image
@@ -216,6 +297,20 @@ export default function bugs({ product }) {
             </div>
           </div>
 
+          <div className={styles.checkboxWrapper}>
+            <input
+              type="checkbox"
+              name="checkbox"
+              id="checkbox"
+              className={styles.checkbox}
+              defaultChecked={false}
+              onChange={handleNotifyChange}
+            />
+            <label htmlFor="checkbox" className={styles.checkboxLabel}>
+              Notify me when the bug has been resolved
+            </label>
+          </div>
+
           <button
             type="submit"
             className={styles.submitButton}
@@ -232,6 +327,8 @@ export default function bugs({ product }) {
     </div>
   );
 }
+
+// SERVER SIDE PROPS
 
 export async function getServerSideProps(context) {
   const slug = context.params.slug;

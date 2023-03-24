@@ -1,8 +1,9 @@
 import { initializeApp, getApp, getApps } from "firebase/app";
 import "firebase/auth";
 import { getFirestore } from "firebase/firestore";
+import { getStorage } from "firebase/storage";
 
-const firebaseConfig = {
+/*const firebaseConfig = {
   apiKey: process.env.FIREBASE_API_KEY,
   authDomain: process.env.FIREBASE_AUTH_DOMAIN,
   projectId: process.env.FIREBASE_PROJECT_ID,
@@ -20,9 +21,8 @@ const firebaseLeadsConfig = {
   storageBucket: process.env.FIREBASE_LEADS_STORAGE_BUCKET,
   messagingSenderId: process.env.FIREBASE_LEADS_MESSAGING_SENDER_ID,
   appId: process.env.FIREBASE_LEADS_APP_ID,
-};
+};*/
 
-/*
 const firebaseConfig = {
   apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY,
   authDomain: process.env.NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN,
@@ -42,9 +42,24 @@ const firebaseLeadsConfig = {
   messagingSenderId: process.env.NEXT_PUBLIC_FIREBASE_LEADS_MESSAGING_SENDER_ID,
   appId: process.env.NEXT_PUBLIC_FIREBASE_LEADS_APP_ID,
 };
-*/
-let app;
-let appLeads;
+
+//let app;
+//let appLeads;
+
+const app =
+  getApps().length === 0
+    ? initializeApp({ ...firebaseConfig, projectId: firebaseConfig?.projectId })
+    : /*: initializeApp(
+        { ...firebaseConfig, projectId: firebaseConfig?.projectId },
+        "publiclyApp" + getApps().length + 1
+      );*/
+      getApp();
+const db = getFirestore(app);
+const storage = getStorage();
+
+export { app, db, storage };
+
+/*console.log(getApps());
 
 if (getApps().length === 0) {
   app = initializeApp({
@@ -82,4 +97,4 @@ if (getApps().length === 0) {
 const db = getFirestore(app);
 const dbLeads = getFirestore(appLeads);
 
-export { app, db, appLeads, dbLeads };
+export { app, db, appLeads, dbLeads };*/
