@@ -2,7 +2,7 @@ import React, { useState, useRef, useEffect } from "react";
 import Image from "next/image";
 import { collection, getDocs, query, where } from "firebase/firestore";
 
-import { addUser, addBug } from "@/utils/notion";
+import { addUser, addImprovement } from "@/utils/notion";
 
 import { ref, uploadBytesResumable, getDownloadURL } from "firebase/storage";
 
@@ -13,15 +13,16 @@ import { db, storage } from "@/firebase/config";
 
 import closeButton from "../../../../public/Icons/close-white.svg";
 
-import styles from "../../../styles/bugs.module.css";
+import styles from "../../../styles/improvements.module.css";
 
-export default function bugs({ product }) {
+export default function improvements({ product }) {
   // STATES
 
-  const [newBug, setNewBug] = useState({
+  const [newImprovement, setNewImprovement] = useState({
     title: "",
     description: "",
     notify: false,
+    upvotes: 0,
   });
 
   const [newUser, setNewUser] = useState({
@@ -34,14 +35,14 @@ export default function bugs({ product }) {
 
   const closeRefs = useRef([]);
   const submitButtonRef = useRef();
-  const bugSentRef = useRef();
+  const improvementSentRef = useRef();
   const uploadRef = useRef();
   const attachmentsRef = useRef();
 
   // HANDLERS
 
   const handleChange = (e) => {
-    setNewBug((prev) => {
+    setNewImprovement((prev) => {
       const key = e.target.name;
       const value = e.target.value;
       return { ...prev, [key]: value };
@@ -57,7 +58,7 @@ export default function bugs({ product }) {
   };
 
   const handleNotifyChange = (e) => {
-    setNewBug((prev) => {
+    setNewImprovement((prev) => {
       return { ...prev, notify: e.target.checked };
     });
   };
@@ -117,7 +118,7 @@ export default function bugs({ product }) {
   const handleSubmit = async (e) => {
     e.preventDefault();
 
-    bugSentRef.current.style.display = "none";
+    improvementSentRef.current.style.display = "none";
     submitButtonRef.current.innerText = "Sending...";
 
     const userData = {
@@ -145,13 +146,13 @@ export default function bugs({ product }) {
       const userId = JSON.parse(result).id;
       console.log("User id: " + userId);
 
-      const bugData = {
+      const improvementData = {
         properties: {
           Description: {
             rich_text: [
               {
                 text: {
-                  content: newBug.description,
+                  content: newImprovement.description,
                 },
               },
             ],
@@ -160,7 +161,7 @@ export default function bugs({ product }) {
             title: [
               {
                 text: {
-                  content: newBug.title,
+                  content: newImprovement.title,
                 },
               },
             ],
@@ -177,12 +178,15 @@ export default function bugs({ product }) {
             }),
           },
           Notify: {
-            checkbox: newBug.notify,
+            checkbox: newImprovement.notify,
           },
           Status: {
             select: {
-              name: "Reported",
+              name: "Requested",
             },
+          },
+          Upvotes: {
+            number: newImprovement.upvotes,
           },
         },
         user: {
@@ -192,15 +196,15 @@ export default function bugs({ product }) {
         database_id: product.notion.databaseId,
       };
 
-      addBug(bugData);
+      addImprovement(improvementData);
     });
 
     e.target.reset();
     setNewAttachmentsList([]);
-    submitButtonRef.current.innerText = "Send bug";
-    bugSentRef.current.style.display = "block";
+    submitButtonRef.current.innerText = "Send improvement";
+    improvementSentRef.current.style.display = "block";
 
-    //router.push(`/products/${product.slug}/bugs`);
+    //router.push(`/products/${product.slug}/improvements`);
   };
 
   // PAGE CONTENT
@@ -209,21 +213,21 @@ export default function bugs({ product }) {
     <div className={styles.mainWrapper}>
       <ProductNav product={product} />
       <div className={styles.container}>
-        <h1 className={styles.productH1}>Report a bug</h1>
+        <h1 className={styles.productH1}>Suggest an improvement</h1>
         <form className={styles.form} onSubmit={handleSubmit}>
           <input
             id="title"
             name="title"
             type="text"
             className={styles.title}
-            placeholder="Give a title to your bug report"
+            placeholder="Which feature would you improve?"
             onChange={handleChange}
             required
           />
           <textarea
             id="description"
             name="description"
-            placeholder="Describe the bug..."
+            placeholder="Describe how it would work..."
             className={styles.description}
             onChange={handleChange}
             required
@@ -302,7 +306,7 @@ export default function bugs({ product }) {
               onChange={handleNotifyChange}
             />
             <label htmlFor="checkbox" className={styles.checkboxLabel}>
-              Notify me when the bug has been resolved
+              Notify me when the status of the improvement has changed
             </label>
           </div>
 
@@ -311,10 +315,10 @@ export default function bugs({ product }) {
             className={styles.submitButton}
             ref={submitButtonRef}
           >
-            Send bug
+            Send improvement
           </button>
-          <p className={styles.bugSent} ref={bugSentRef}>
-            Bug sent successfully!
+          <p className={styles.improvementSent} ref={improvementSentRef}>
+            Improvement sent successfully!
           </p>
         </form>
       </div>

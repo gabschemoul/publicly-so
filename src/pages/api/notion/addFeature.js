@@ -4,8 +4,8 @@ export default async function handler(req, res) {
   const body = JSON.parse(req.body);
   const notion = new Client({ auth: body.token });
 
-  let improvementsPageId;
-  let improvementsListId;
+  let featuresPageId;
+  let featuresListId;
 
   await notion.databases
     .query({
@@ -13,18 +13,20 @@ export default async function handler(req, res) {
     })
     .then((result) => {
       result.results.forEach((page) => {
-        if (page.properties.Name.title[0].text.content === "Improvements") {
-          improvementsPageId = page.id;
+        if (
+          page.properties.Name.title[0].text.content === "Requested Features"
+        ) {
+          featuresPageId = page.id;
         }
       });
-      if (improvementsPageId === undefined) {
+      if (featuresPageId === undefined) {
         res.status(500);
       }
     })
     .then(async () => {
       await notion.blocks.children
         .list({
-          block_id: improvementsPageId,
+          block_id: featuresPageId,
         })
         .then((result) => {
           return result.results;
@@ -33,12 +35,12 @@ export default async function handler(req, res) {
           result.forEach((page) => {
             if (
               page.type === "child_database" &&
-              page.child_database.title === "Improvements list"
+              page.child_database.title === "Requested Features list"
             ) {
-              improvementsListId = page.id;
+              featuresListId = page.id;
             }
           });
-          if (improvementsListId === undefined) {
+          if (featuresListId === undefined) {
             res.status(500);
           }
         })
@@ -46,11 +48,11 @@ export default async function handler(req, res) {
           const finalData = {
             parent: {
               type: "database_id",
-              database_id: improvementsListId,
+              database_id: featuresListId,
             },
             properties: {
               Description: body.properties.Description,
-              "Thing to improve": body.properties.Title,
+              Title: body.properties.Title,
               Attachments: body.properties.Attachments,
               "Notify user": body.properties.Notify,
               Status: body.properties.Status,

@@ -18,16 +18,22 @@ export default function ProductNav({ product }) {
           </div>
           <div className={styles.menuWrapper}>
             <Link
-              href={`/products/${product.slug}/feedback`}
-              className={styles.menuLink}
-            >
-              <span>Give a </span>Feedback
-            </Link>
-            <Link
               href={`/products/${product.slug}/bugs`}
               className={styles.menuLink}
             >
               <span>Report a </span>Bug
+            </Link>
+            <Link
+              href={`/products/${product.slug}/improvements`}
+              className={styles.menuLink}
+            >
+              <span>Suggest an </span>Improvement
+            </Link>
+            <Link
+              href={`/products/${product.slug}/features`}
+              className={styles.menuLink}
+            >
+              <span>Suggest a </span>new Feature
             </Link>
           </div>
         </div>
