@@ -60,10 +60,10 @@ export default function Home() {
       date: new Date(),
     };
 
-    console.log("finalSignup");
-    console.log(finalSignup);
+    console.log("waitlistInstance");
+    console.log(waitlistInstance);
 
-    const signupRef = await addDoc(waitlistInstance, finalSignup).then(() => {
+    await addDoc(waitlistInstance, finalSignup).then(() => {
       console.log("Doc added");
     });
 
