@@ -34,7 +34,7 @@ const handler = async (req, res) => {
 
   (async () => {
     try {
-      await mail.send(msg);
+      await mail.send(data);
     } catch (error) {
       console.error(error);
 
