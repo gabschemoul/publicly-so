@@ -63,7 +63,7 @@ export default function Home() {
     formRef.current.style.display = "none";
     formSubmittedRef.current.style.display = "flex";
 
-    await fetch("/api/email/newBetaUser", {
+    await fetch("https://publicly-so.vercel.app/api/email/newBetaUser", {
       method: "POST",
       body: JSON.stringify({
         name: newSignup.name,
