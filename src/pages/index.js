@@ -53,10 +53,28 @@ export default function Home() {
 
     const waitlistInstance = collection(dbLeads, "waitlist");
 
-    const signupRef = await addDoc(waitlistInstance, newSignup);
+    const finalSignup = {
+      ...newSignup,
+      date: new Date(),
+    };
+
+    const signupRef = await addDoc(waitlistInstance, finalSignup);
 
     formRef.current.style.display = "none";
     formSubmittedRef.current.style.display = "flex";
+
+    await fetch("/api/email/newBetaUser", {
+      method: "POST",
+      body: JSON.stringify({
+        name: newSignup.name,
+        email: newSignup.email,
+        product: newSignup.product,
+      }) /*
+      headers: {
+        "Content-Type": "application/json",
+        Accept: "application/json",
+      },*/,
+    });
   };
 
   return (
@@ -80,7 +98,9 @@ export default function Home() {
               <p>Beta 0.1</p>
             </div>
             <h1 className={styles.header}>
-              Stop building products nobody uses
+              Collect <span className="yellowText">user feedback</span>.
+              <br />
+              Right into Notion!
             </h1>
             <p className={styles.subHeader}>
               Get valuable user feedback for your product, so you know which
@@ -113,7 +133,9 @@ export default function Home() {
           </section>
 
           <section className={styles.features}>
-            <h2>Make better product decisions</h2>
+            <h2>
+              Make better <span className="yellowText">product decisions</span>
+            </h2>
             <p className={styles.subtitle}>With Publicly, your users can...</p>
             <div className={styles.featuresList}>
               <div className={styles.singleFeatureWrapper}>

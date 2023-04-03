@@ -33,7 +33,7 @@ export default function ProductNav({ product }) {
               href={`/products/${product.slug}/features`}
               className={styles.menuLink}
             >
-              <span>Suggest a </span>new Feature
+              <span>Suggest a new </span>Feature
             </Link>
           </div>
         </div>

@@ -56,6 +56,12 @@
   opacity: 80%;
 }
 
+@media screen and (max-width: 720px) {
+  .menuWrapper span {
+    display: none;
+  }
+}
+
 @media screen and (max-width: 480px) {
   .container {
     height: 60px;
@@ -71,11 +77,11 @@
     height: 30px;
   }
 
-  .menuWrapper {
-    column-gap: 20px;
+  .productName {
+    display: none;
   }
 
-  .menuWrapper span {
-    display: none;
+  .menuWrapper {
+    column-gap: 20px;
   }
 }

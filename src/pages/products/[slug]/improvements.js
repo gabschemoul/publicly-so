@@ -144,7 +144,6 @@ export default function improvements({ product }) {
 
     addUser(userData).then((result) => {
       const userId = JSON.parse(result).id;
-      console.log("User id: " + userId);
 
       const improvementData = {
         properties: {

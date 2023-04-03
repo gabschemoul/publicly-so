@@ -9,7 +9,7 @@ export async function getServerSideProps(context) {
 
   return {
     redirect: {
-      destination: `/products/${slug}/feedback`,
+      destination: `/products/${slug}/bugs`,
       permanent: false,
     },
   };

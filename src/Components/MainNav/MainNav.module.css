@@ -19,14 +19,17 @@
 }
 
 .publiclyLogo {
+  height: 40px;
+  width: 138px;
   transition: all 200ms ease-out;
 }
-
+/*
 .publiclyLogo:hover {
   transform: rotate(15deg) scale(1.1);
 }
-
+*/
 .navLink {
+  display: none;
   font-weight: 500;
 }
 

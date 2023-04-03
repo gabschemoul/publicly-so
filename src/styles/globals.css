@@ -187,6 +187,10 @@ textarea:focus-visible {
   background-size: cover;
 }
 
+.yellowText {
+  color: #f9fb41;
+}
+
 @media screen and (max-width: 768px) {
   h2 {
     font-size: 46px;

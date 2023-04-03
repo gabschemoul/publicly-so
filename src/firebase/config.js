@@ -43,23 +43,23 @@ const firebaseLeadsConfig = {
   appId: process.env.NEXT_PUBLIC_FIREBASE_LEADS_APP_ID,
 };
 
-//let app;
-//let appLeads;
+let app;
+let appLeads;
 
-const app =
+/*const app =
   getApps().length === 0
     ? initializeApp({ ...firebaseConfig, projectId: firebaseConfig?.projectId })
     : /*: initializeApp(
         { ...firebaseConfig, projectId: firebaseConfig?.projectId },
         "publiclyApp" + getApps().length + 1
-      );*/
+      );*
       getApp();
 const db = getFirestore(app);
 const storage = getStorage();
 
-export { app, db, storage };
+export { app, db, storage };*/
 
-/*console.log(getApps());
+/*console.log(getApps());*/
 
 if (getApps().length === 0) {
   app = initializeApp({
@@ -97,4 +97,6 @@ if (getApps().length === 0) {
 const db = getFirestore(app);
 const dbLeads = getFirestore(appLeads);
 
-export { app, db, appLeads, dbLeads };*/
+const storage = getStorage();
+
+export { app, db, appLeads, dbLeads, storage };

@@ -5,6 +5,7 @@ import Link from "next/link";
 import styles from "./MainNav.module.css";
 
 import publiclyLogo from "../../../public/logos/publicly-icon.svg";
+import publiclyLogoFull from "../../../public/logos/publiclyLogo.svg";
 
 export default function MainNav({ openPopup }) {
   return (
@@ -13,7 +14,7 @@ export default function MainNav({ openPopup }) {
         <div className={styles.left}>
           <Link href="/">
             <Image
-              src={publiclyLogo}
+              src={publiclyLogoFull}
               className={styles.publiclyLogo}
               alt="Publicly.so logo icon"
             />

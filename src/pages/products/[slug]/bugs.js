@@ -143,7 +143,6 @@ export default function bugs({ product }) {
 
     addUser(userData).then((result) => {
       const userId = JSON.parse(result).id;
-      console.log("User id: " + userId);
 
       const bugData = {
         properties: {
