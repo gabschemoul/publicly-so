@@ -63,9 +63,14 @@ export default function Home() {
     console.log("waitlistInstance");
     console.log(waitlistInstance);
 
-    await addDoc(waitlistInstance, finalSignup).then(() => {
-      console.log("Doc added");
-    });
+    await addDoc(waitlistInstance, finalSignup)
+      .then(() => {
+        console.log("Doc added");
+      })
+      .catch((error) => {
+        console.log("addDoc error:");
+        console.log(error);
+      });
 
     formRef.current.style.display = "none";
     formSubmittedRef.current.style.display = "flex";
