@@ -21,6 +21,8 @@ import { collection, addDoc } from "firebase/firestore";
 
 import { dbLeads, db } from "@/firebase/config";
 
+import { emailWhenNewBetaUser } from "@/utils/email";
+
 export default function Home() {
   const [newSignup, setNewSignup] = useState({
     email: "",
@@ -63,18 +65,7 @@ export default function Home() {
     formRef.current.style.display = "none";
     formSubmittedRef.current.style.display = "flex";
 
-    await fetch("https://www.publicly.so/api/email/newBetaUser", {
-      method: "POST",
-      body: JSON.stringify({
-        name: newSignup.name,
-        email: newSignup.email,
-        product: newSignup.product,
-      }) /*
-      headers: {
-        "Content-Type": "application/json",
-        Accept: "application/json",
-      },*/,
-    });
+    emailWhenNewBetaUser(newSignup);
   };
 
   return (
