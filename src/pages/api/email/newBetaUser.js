@@ -1,6 +1,8 @@
 import mail from "@sendgrid/mail";
+//import client from "@sendgrid/client";
 
 mail.setApiKey(process.env.SENDGRID_API_KEY);
+//client.setApiKey(process.env.SENDGRID_API_KEY);
 
 const handler = async (req, res) => {
   const body = JSON.parse(req.body);
@@ -27,7 +29,55 @@ const handler = async (req, res) => {
     },
     templateId: "d-432dee59adbe4559ba929f44519a5cd5",
   };
+  /*
+  const currentDate = new Date();
+  const formatedDate =
+    currentDate.getMonth() +
+    "/" +
+    currentDate.getDate() +
+    "/" +
+    currentDate.getFullYear();
 
+  const contactData = [
+    {
+      email: body.email,
+      full_name: body.name,
+      product: body.product,
+      sign_up_date: formatedDate,
+    },
+  ];
+
+  const headers = {
+    "on-behalf-of":
+      "The subuser's username. This header generates the API call as if the subuser account was making the call.",
+  };
+
+  const request = {
+    url: `/v3/contactdb/recipients`,
+    method: "POST",
+    headers: headers,
+    body: contactData,
+  };
+
+  client
+    .request(request)
+    .then(([response, body]) => {
+      console.log("response.statusCode");
+      console.log(response.statusCode);
+      console.log("response.body");
+      console.log(response.body);
+      console.log("body");
+      console.log(body);
+    })
+    .catch((error) => {
+      console.error("error");
+      console.error(error);
+      console.log("error.response");
+      console.log(error.response);
+      console.log("error.response.body");
+      console.log(error.response.body);
+    });
+*/
   mail.send(data);
   mail.send(userData);
 
