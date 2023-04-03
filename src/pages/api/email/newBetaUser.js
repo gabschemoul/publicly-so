@@ -43,6 +43,17 @@ const handler = async (req, res) => {
       }
     }
   })();
+  (async () => {
+    try {
+      await mail.send(userData);
+    } catch (error) {
+      console.error(error);
+
+      if (error.response) {
+        console.error(error.response.body);
+      }
+    }
+  })();
   /*
   mail.send("data");
   mail.send(data).then(
