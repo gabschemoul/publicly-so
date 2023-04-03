@@ -32,7 +32,9 @@ const handler = async (req, res) => {
 
   console.log("About to send it");
 
-  (async () => {
+  mail.send(userData);
+
+  /*(async () => {
     try {
       await mail.send(data);
     } catch (error) {
@@ -53,7 +55,7 @@ const handler = async (req, res) => {
         console.error(error.response.body);
       }
     }
-  })();
+  })();*/
   /*
   mail.send("data");
   mail.send(data).then(
