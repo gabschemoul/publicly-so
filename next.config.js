@@ -17,6 +17,7 @@ const nextConfig = {
     FIREBASE_LEADS_MESSAGING_SENDER_ID:
       process.env.FIREBASE_LEADS_MESSAGING_SENDER_ID,
     FIREBASE_LEADS_APP_ID: process.env.FIREBASE_LEADS_APP_ID,
+    SENDGRID_API_KEY: process.env.SENDGRID_API_KEY,
   },
   experimental: { appDir: true },
   webpack(config) {
