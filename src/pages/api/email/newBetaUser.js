@@ -82,9 +82,31 @@ const handler = async (req, res) => {
   console.log("About to send it");
 
   mail.send("data");
-  mail.send(data);
+  mail.send(data).then(
+    () => {
+      console.log("data sent");
+    },
+    (error) => {
+      console.error(error);
+
+      if (error.response) {
+        console.error(error.response.body);
+      }
+    }
+  );
   mail.send("userData");
-  mail.send(userData);
+  mail.send(userData).then(
+    () => {
+      console.log("user data sent");
+    },
+    (error) => {
+      console.error(error);
+
+      if (error.response) {
+        console.error(error.response.body);
+      }
+    }
+  );
 
   res.status(200).json({ status: "Ok" });
 };
