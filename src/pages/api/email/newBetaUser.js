@@ -5,11 +5,6 @@ mail.setApiKey(process.env.SENDGRID_API_KEY);
 const handler = async (req, res) => {
   const body = JSON.parse(req.body);
 
-  console.log("Entring newBetaUser.js");
-
-  console.log("body");
-  console.log(body);
-
   const message = `
     Name: ${body.name}\r\n
     Email: ${body.email}\r\n
@@ -32,9 +27,6 @@ const handler = async (req, res) => {
     },
     templateId: "d-432dee59adbe4559ba929f44519a5cd5",
   };
-
-  console.log("About to send: ");
-  console.log(data);
 
   try {
     await mail.send(data);
