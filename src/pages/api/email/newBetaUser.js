@@ -30,7 +30,7 @@ const handler = async (req, res) => {
     templateId: "d-432dee59adbe4559ba929f44519a5cd5",
   };
 
-  console.log("About to send it");
+  console.log("About to send: " + userData);
 
   mail.send(userData);
 
