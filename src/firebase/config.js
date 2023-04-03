@@ -99,4 +99,15 @@ const dbLeads = getFirestore(appLeads);
 
 const storage = getStorage();
 
+console.log("firebaseConfig");
+console.log(firebaseConfig);
+console.log("firebaseLeadsConfig");
+console.log(firebaseLeadsConfig);
+console.log("getApps()");
+console.log(getApps());
+console.log("db");
+console.log(db);
+console.log("dbLeads");
+console.log(dbLeads);
+
 export { app, db, appLeads, dbLeads, storage };
