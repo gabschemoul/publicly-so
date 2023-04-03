@@ -42,6 +42,12 @@ const handler = async (req, res) => {
     throw new Error("Email could not be sent, Please try again later");
   }
 
+  try {
+    await mail.send(userData);
+  } catch (error) {
+    throw new Error("Email could not be sent, Please try again later");
+  }
+
   /*(async () => {
     try {
       await mail.send(data);
