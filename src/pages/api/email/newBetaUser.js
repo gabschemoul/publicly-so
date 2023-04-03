@@ -6,9 +6,6 @@ const handler = async (req, res) => {
   const body = JSON.parse(req.body);
 
   console.log("Entring newBetaUser.js");
-  console.log("sendgrid api key: " + process.env.SENDGRID_API_KEY);
-  console.log("mail");
-  console.log(mail);
 
   const message = `
     Name: ${body.name}\r\n
@@ -35,6 +32,18 @@ const handler = async (req, res) => {
 
   console.log("About to send it");
 
+  (async () => {
+    try {
+      await mail.send(msg);
+    } catch (error) {
+      console.error(error);
+
+      if (error.response) {
+        console.error(error.response.body);
+      }
+    }
+  })();
+  /*
   mail.send("data");
   mail.send(data).then(
     () => {
@@ -61,7 +70,7 @@ const handler = async (req, res) => {
       }
     }
   );
-
+*/
   res.status(200).json({ status: "Ok" });
 };
 
