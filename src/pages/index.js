@@ -60,12 +60,14 @@ export default function Home() {
       date: new Date(),
     };
 
-    console.log("waitlistInstance");
-    console.log(waitlistInstance);
+    console.log("dbLeads");
+    console.log(dbLeads);
 
     await addDoc(waitlistInstance, finalSignup)
-      .then(() => {
+      .then((res) => {
         console.log("Doc added");
+        console.log("res");
+        console.log(res);
       })
       .catch((error) => {
         console.log("addDoc error:");
