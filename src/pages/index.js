@@ -51,6 +51,8 @@ export default function Home() {
   const handleSubmit = async (e) => {
     e.preventDefault();
 
+    console.log("Handle submission");
+
     const waitlistInstance = collection(dbLeads, "waitlist");
 
     const finalSignup = {
@@ -58,7 +60,12 @@ export default function Home() {
       date: new Date(),
     };
 
-    const signupRef = await addDoc(waitlistInstance, finalSignup);
+    console.log("finalSignup");
+    console.log(finalSignup);
+
+    const signupRef = await addDoc(waitlistInstance, finalSignup).then(() => {
+      console.log("Doc added");
+    });
 
     formRef.current.style.display = "none";
     formSubmittedRef.current.style.display = "flex";
@@ -74,6 +81,8 @@ export default function Home() {
         "Content-Type": "application/json",
         Accept: "application/json",
       },*/,
+    }).then(() => {
+      console.log("newBetaUser performed");
     });
   };
 

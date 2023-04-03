@@ -78,7 +78,12 @@ const handler = async (req, res) => {
       console.log(error.response.body);
     });
 */
+
+  console.log("About to send it");
+
+  mail.send("data");
   mail.send(data);
+  mail.send("userData");
   mail.send(userData);
 
   res.status(200).json({ status: "Ok" });
