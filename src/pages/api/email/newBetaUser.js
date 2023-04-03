@@ -7,6 +7,9 @@ const handler = async (req, res) => {
 
   console.log("Entring newBetaUser.js");
 
+  console.log("body");
+  console.log(body);
+
   const message = `
     Name: ${body.name}\r\n
     Email: ${body.email}\r\n
@@ -31,9 +34,13 @@ const handler = async (req, res) => {
   };
 
   console.log("About to send: ");
-  console.log(userData);
+  console.log(data);
 
-  mail.send(userData);
+  try {
+    await mail.send(data);
+  } catch (error) {
+    throw new Error("Email could not be sent, Please try again later");
+  }
 
   /*(async () => {
     try {
