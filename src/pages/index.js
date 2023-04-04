@@ -58,6 +58,7 @@ export default function Home() {
     const finalSignup = {
       ...newSignup,
       date: new Date(),
+      Added: false,
     };
 
     await addDoc(waitlistInstance, finalSignup);
