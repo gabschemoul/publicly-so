@@ -11,7 +11,7 @@ export const addUser = async (data) => {
 
 export const addBug = async (data, product, userEmail) => {
   console.log("utils notion addBug");
-  await fetch("/api/notion/addBug", {
+  await fetch("https://www.publicly.so/api/notion/addBug", {
     method: "POST",
     body: JSON.stringify(data),
   });
