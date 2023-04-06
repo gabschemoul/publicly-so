@@ -5,7 +5,7 @@ mail.setApiKey(process.env.SENDGRID_API_KEY);
 const handler = async (req, res) => {
   const body = JSON.parse(req.body);
 
-  const message = `
+  /*const message = `
     Name: ${body.name}\r\n
     Email: ${body.email}\r\n
     Product: ${body.product}\r\n
@@ -17,7 +17,21 @@ const handler = async (req, res) => {
     subject: "[Publicly] A new beta user has just signed up!",
     text: message,
     html: message.replace(/\r\n/g, "<br>"),
-  };
+  };*/
+
+  await fetch("https://publicly.so/api/logsnag", {
+    method: "POST",
+    body: JSON.stringify({
+      channel: "new-beta-user",
+      event: "New beta user",
+      description: "A beta user has just signed up!",
+      tags: {
+        email: body.email,
+        name: body.name,
+        product: body.product,
+      },
+    }),
+  });
 
   const userData = {
     to: body.email,
@@ -27,13 +41,13 @@ const handler = async (req, res) => {
     },
     templateId: "d-432dee59adbe4559ba929f44519a5cd5",
   };
-
+  /*
   try {
     await mail.send(data);
   } catch (error) {
     throw new Error("Email could not be sent, Please try again later");
   }
-
+*/
   try {
     await mail.send(userData);
   } catch (error) {
