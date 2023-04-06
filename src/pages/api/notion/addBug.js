@@ -68,6 +68,7 @@ export default async function handler(req, res) {
           };
           console.log("api notion addBug await notion.pages.create(finalData)");
           await notion.pages.create(finalData).then(() => {
+            console.log("api notion addBug res.status 200");
             res.status(200);
           });
         });
