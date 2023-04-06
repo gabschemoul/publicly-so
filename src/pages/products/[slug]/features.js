@@ -195,7 +195,7 @@ export default function features({ product }) {
         database_id: product.notion.databaseId,
       };
 
-      addFeature(featureData);
+      addFeature(featureData, product, newUser.email.toLowerCase());
     });
 
     e.target.reset();

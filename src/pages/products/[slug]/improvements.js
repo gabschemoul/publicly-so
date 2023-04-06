@@ -195,7 +195,7 @@ export default function improvements({ product }) {
         database_id: product.notion.databaseId,
       };
 
-      addImprovement(improvementData);
+      addImprovement(improvementData, product, newUser.email.toLowerCase());
     });
 
     e.target.reset();
