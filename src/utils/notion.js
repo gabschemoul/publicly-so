@@ -15,7 +15,7 @@ export const addBug = async (data, product, userEmail) => {
     body: JSON.stringify(data),
   });
 
-  await fetch("/api/logsnag", {
+  await fetch("https://www.publicly.so/api/logsnag", {
     method: "POST",
     body: JSON.stringify({
       channel: "new-bug",
