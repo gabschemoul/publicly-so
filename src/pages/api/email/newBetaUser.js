@@ -19,7 +19,7 @@ const handler = async (req, res) => {
     html: message.replace(/\r\n/g, "<br>"),
   };*/
 
-  await fetch("https://publicly.so/api/logsnag", {
+  await fetch("https://www.publicly.so/api/logsnag", {
     method: "POST",
     body: JSON.stringify({
       channel: "new-beta-user",
