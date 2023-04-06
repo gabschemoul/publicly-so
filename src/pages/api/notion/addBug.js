@@ -1,12 +1,14 @@
 import { Client } from "@notionhq/client";
 
 export default async function handler(req, res) {
+  console.log("api notion addBug");
   const body = JSON.parse(req.body);
   const notion = new Client({ auth: body.token });
 
   let bugsPageId;
   let bugsListId;
 
+  console.log("api notion addBug await notion.databases.query");
   await notion.databases
     .query({
       database_id: body.database_id,
@@ -22,6 +24,7 @@ export default async function handler(req, res) {
       }
     })
     .then(async () => {
+      console.log("api notion addBug await notion.blocks.children.list");
       await notion.blocks.children
         .list({
           block_id: bugsPageId,
@@ -63,6 +66,7 @@ export default async function handler(req, res) {
               },
             },
           };
+          console.log("api notion addBug await notion.pages.create(finalData)");
           await notion.pages.create(finalData).then(() => {
             res.status(200);
           });
