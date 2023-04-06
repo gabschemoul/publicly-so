@@ -15,6 +15,13 @@ export const addBug = async (data, product, userEmail) => {
     body: JSON.stringify(data),
   });
 
+  console.log("product");
+  console.log(product);
+  console.log("data");
+  console.log(data);
+  console.log("userEmail");
+  console.log(userEmail);
+
   await fetch("https://www.publicly.so/api/logsnag", {
     method: "POST",
     body: JSON.stringify({
