@@ -10,12 +10,11 @@ export const addUser = async (data) => {
 };
 
 export const addBug = async (data, product, userEmail) => {
-  console.log("utils notion addBug");
   await fetch("https://www.publicly.so/api/notion/addBug", {
     method: "POST",
     body: JSON.stringify(data),
   });
-  console.log("utils notion logsnag");
+
   await fetch("/api/logsnag", {
     method: "POST",
     body: JSON.stringify({
@@ -30,7 +29,6 @@ export const addBug = async (data, product, userEmail) => {
       },
     }),
   });
-  console.log("utils notion end");
 };
 
 export const addImprovement = async (data, product, userEmail) => {
