@@ -191,7 +191,7 @@ export default function bugs({ product }) {
         database_id: product.notion.databaseId,
       };
 
-      addBug(bugData);
+      addBug(bugData, product, newUser.email.toLowerCase());
     });
 
     e.target.reset();

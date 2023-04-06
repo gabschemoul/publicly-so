@@ -9,10 +9,25 @@ export const addUser = async (data) => {
   return JSON.stringify(finalResp);
 };
 
-export const addBug = async (data) => {
+export const addBug = async (data, product, userEmail) => {
   await fetch("/api/notion/addBug", {
     method: "POST",
     body: JSON.stringify(data),
+  });
+
+  await fetch("/api/logsnag", {
+    method: "POST",
+    body: JSON.stringify({
+      channel: "new-bug",
+      event: "New bug reported",
+      description: "A user has just reported a bug!",
+      tags: {
+        product: product.name,
+        title: data.properties.Title,
+        description: data.properties.Description,
+        email: userEmail,
+      },
+    }),
   });
 };
 
