@@ -15,13 +15,6 @@ export const addBug = async (data, product, userEmail) => {
     body: JSON.stringify(data),
   });
 
-  console.log("product");
-  console.log(product);
-  console.log("data");
-  console.log(data);
-  console.log("userEmail");
-  console.log(userEmail);
-
   await fetch("https://www.publicly.so/api/logsnag", {
     method: "POST",
     body: JSON.stringify({
@@ -30,8 +23,8 @@ export const addBug = async (data, product, userEmail) => {
       description: "A user has just reported a bug!",
       tags: {
         product: product.name,
-        title: data.properties.Title,
-        description: data.properties.Description,
+        title: data.properties.Title.title[0].text.content,
+        description: data.properties.Description.rich_text[0].text.content,
         email: userEmail,
       },
     }),
