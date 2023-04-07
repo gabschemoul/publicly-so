@@ -20,7 +20,7 @@ export default async function handler(req, res) {
         }
       });
       if (featuresPageId === undefined) {
-        res.status(500);
+        res.status(500).send("Requested Features page not found");
       }
     })
     .then(async () => {
@@ -41,7 +41,7 @@ export default async function handler(req, res) {
             }
           });
           if (featuresListId === undefined) {
-            res.status(500);
+            res.status(500).send("Requested Features list not found");
           }
         })
         .then(async () => {
@@ -67,7 +67,7 @@ export default async function handler(req, res) {
             },
           };
           await notion.pages.create(finalData).then(() => {
-            res.status(200);
+            res.status(200).send("Requested feature sent");
           });
         });
     });

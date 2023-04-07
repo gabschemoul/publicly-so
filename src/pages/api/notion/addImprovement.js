@@ -18,7 +18,7 @@ export default async function handler(req, res) {
         }
       });
       if (improvementsPageId === undefined) {
-        res.status(500);
+        res.status(500).send("Improvements page not found");
       }
     })
     .then(async () => {
@@ -39,7 +39,7 @@ export default async function handler(req, res) {
             }
           });
           if (improvementsListId === undefined) {
-            res.status(500);
+            res.status(500).send("Improvements list not found");
           }
         })
         .then(async () => {
@@ -65,7 +65,7 @@ export default async function handler(req, res) {
             },
           };
           await notion.pages.create(finalData).then(() => {
-            res.status(200);
+            res.status(200).send("Improvement sent");
           });
         });
     });
