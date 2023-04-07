@@ -1,4 +1,7 @@
 /** @type {import('next').NextConfig} */
+
+const { withPlausibleProxy } = require("next-plausible");
+
 const nextConfig = {
   reactStrictMode: true,
   env: {
@@ -40,4 +43,4 @@ const nextConfig = {
   },
 };
 
-module.exports = nextConfig;
+module.exports = withPlausibleProxy()(nextConfig);
