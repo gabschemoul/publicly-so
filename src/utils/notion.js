@@ -14,7 +14,7 @@ export const addBug = async (data, product, userEmail) => {
     method: "POST",
     body: JSON.stringify(data),
   });
-  /*
+
   await fetch("/api/logsnag", {
     method: "POST",
     body: JSON.stringify({
@@ -28,7 +28,7 @@ export const addBug = async (data, product, userEmail) => {
         email: userEmail,
       },
     }),
-  });*/
+  });
 };
 
 export const addImprovement = async (data, product, userEmail) => {
