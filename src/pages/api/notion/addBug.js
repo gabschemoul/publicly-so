@@ -76,7 +76,7 @@ export default async function handler(req, res) {
           console.log("m");
           await notion.pages.create(finalData).then(() => {
             console.log("n");
-            res.status(200);
+            res.status(200).send("Bug sent");
           });
           console.log("o");
         });
