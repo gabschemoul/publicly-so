@@ -87,7 +87,7 @@ export default function Home() {
           <section className={styles.hero}>
             <div className={styles.surHeader}>
               <div className={styles.dot}></div>
-              <p>Beta phase</p>
+              <p>Currently in beta</p>
             </div>
             <h1 className={styles.header}>
               Collect and organize{" "}
