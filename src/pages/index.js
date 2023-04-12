@@ -87,10 +87,11 @@ export default function Home() {
           <section className={styles.hero}>
             <div className={styles.surHeader}>
               <div className={styles.dot}></div>
-              <p>Beta 0.1</p>
+              <p>Beta phase</p>
             </div>
             <h1 className={styles.header}>
-              Collect <span className="yellowText">user feedback</span>.
+              Collect and organize{" "}
+              <span className="yellowText">user feedback</span>.
               <br />
               Right into Notion!
             </h1>
