@@ -3,40 +3,40 @@
     "Core : Prep Game": {
       "1": {
         "Doer": "- Ecouter le brief des \nhiring managers\n- Préparer le recrutement en suivant les guidelines et templates sans personnalisation",
-        "Leader": NaN,
-        "Builder": NaN
+        "Leader": null,
+        "Builder": null
       },
       "2": {
         "Doer": "- Coconstruire le brief des hiring managers\n- Préparer le recrutement en suivant les guidelines et templates et en rajoutant de la personnalisation par rapport à chaque poste",
         "Leader": "- Transcrire le brief en stratégie de recrutement",
-        "Builder": NaN
+        "Builder": null
       },
       "3": {
         "Doer": "- Coconstruire le brief des hiring managers & les challenger de temps en temps avec mon avis",
         "Leader": "- Me servir des guidelines et templates, y rajouter systématiquement de la personnalisation pour créer une stratégie de recrutement la plus efficace possible\n- Transcrire le brief en stratégie de recrutement de manière systématique",
-        "Builder": NaN
+        "Builder": null
       },
       "4": {
-        "Doer": "- Mettre en ordre de marche les parties prenantes pour un recrutement & éventuellement les laisser gérer seules selon le modèle du \"Self Service Hiring\"",
+        "Doer": "- Mettre en ordre de marche les parties prenulltes pour un recrutement & éventuellement les laisser gérer seules selon le modèle du \"Self Service Hiring\"",
         "Leader": "- Coconstruire le brief des hiring managers & les challenger systématiquement avec de la donnée sur les recrutements passés et sur les tendances actuelles du marché",
         "Builder": "- Créer guidelines et templates pour les recrutements futurs\n- Créer de manière systématique une stratégie de recrutement personnalisée basée sur la donnée sur les recrutements passés et sur les tendances actuelles du marché\n\n"
       },
       "5": {
         "Doer": "- Chercher en permanence à améliorer l'efficience de nos débuts de process pour gagner en vitesse et en efficacité",
-        "Leader": "- Mettre en ordre de marche les parties prenantes pour un recrutement & éventuellement les laisser gérer seules selon le modèle du \"Self Service Hiring\"",
+        "Leader": "- Mettre en ordre de marche les parties prenulltes pour un recrutement & éventuellement les laisser gérer seules selon le modèle du \"Self Service Hiring\"",
         "Builder": "'- Coconstruire le brief des hiring managers & les challenger systématiquement avec de la donnée sur les recrutements passés et sur les tendances actuelles du marché\n- Créer guidelines et templates pour les recrutements futurs\n- Créer de manière systématique une stratégie de recrutement personnalisée basée sur la donnée sur les recrutements passés et sur les tendances actuelles du marché\n- Mettre en place formation des Hiring Managers aux bonnes pratiques\n- Animer des ateliers \"WGLL\" (What Great Looks Like) pour adopter un vocabulaire commun dans l'évaluation des candidats\n- Auditer ses Hiring Managers sur leurs pratiques et collaboration (Passif-agressifs, leaders, champions...) \n- Maîtriser la méthode CRISP pour collaborer efficacement avec les passif-agressifs\n"
       }
     },
     "Core : Stakeholders Management": {
       "1": {
         "Doer": "- Comprendre mon propre rôle dans l'équipe\n- Arriver à travailler avec 1 ou 2 hiring managers\n- Etre curieux·se sur son métier de recruteur·euse",
-        "Leader": NaN,
-        "Builder": NaN
+        "Leader": null,
+        "Builder": null
       },
       "2": {
         "Doer": "- Comprendre mon propre rôle dans l'équipe & celui des autres\n- Travailler sans encombre avec la plupart des hiring managers\n- Essayer de parler le language business pour être légitime auprès des hiring managers\n- Etre curieux·se sur les métiers des équipes pour lesquelles on recrute\n",
         "Leader": "- Etre curieux·se sur son métier de recruteur·euse",
-        "Builder": NaN
+        "Builder": null
       },
       "3": {
         "Doer": "- Donner de la transparence sur son travail pour anticiper d'éventuelles incompréhensions\n- Etre curieux·se sur les métiers de son entreprise / de tous ses clients\n- Participer à la formation des Hiring Managers aux bonnes pratiques",
@@ -57,13 +57,13 @@
     "Core : Candidate Experience : Basics": {
       "1": {
         "Doer": "'- Comprendre l'impact d'une mauvaise expérience candidat en général\n- Respecter les bases de l'expérience candidat avant un process (Annonces / Transparence)\n- Respecter les bases de l'expérience candidat pendant un process (Attitude / Feedbacks / Transparence)\n- Respecter les bases de l'expérience candidat après un process (Réponses à tout le monde / Pre-boarding)",
-        "Leader": NaN,
-        "Builder": NaN
+        "Leader": null,
+        "Builder": null
       },
       "2": {
         "Doer": "- M'appliquer des principes à respecter à mon niveau pour créer la meilleure expérience candidat possible",
         "Leader": "'- Comprendre l'impact d'une mauvaise expérience candidat sur sa boite / celle d'un client\n- Respecter les bases de l'expérience candidat avant un process (Annonces / Transparence)\n- Respecter les bases de l'expérience candidat pendant un process (Attitude / Feedbacks / Transparence)\n- Respecter les bases de l'expérience candidat après un process (Réponses à tout le monde / Pre-boarding)",
-        "Builder": NaN
+        "Builder": null
       },
       "3": {
         "Doer": "- Faire en sorte que les Hiring Managers et/ou mes collègues s'appliquent des principes pour la meilleure expérience candidat possible",
@@ -84,13 +84,13 @@
     "Core : Inbound Recruitment : Basics": {
       "1": {
         "Doer": "'- Savoir utiliser les différents éléments de marque employeur statique (Site carrière par exemple) dans mon recrutement\n- Savoir utiliser les différents éléments de marque employeur dynamique (Communications sur les réseaux sociaux par exemple) dans mon recrutement\n- Savoir suivre la recette mise en place par l'entreprise pour faire des annonces / offres d'emplois efficaces et qui donnent envie de postuler \n- Savoir rendre inclusives ses annonces",
-        "Leader": NaN,
-        "Builder": NaN
+        "Leader": null,
+        "Builder": null
       },
       "2": {
         "Doer": "'- Utiliser la CVP (Candidate Value Proposition) de mon entreprise au quotidien\n- Utiliser le système de cooptation de mon entreprise au quotidien",
         "Leader": "'- Contribuer aux différents éléments de marque employeur statique (Site carrière par exemple) \n- Contribuer aux différents éléments de marque employeur dynamique (Communications sur les réseaux sociaux par exemple)\n- Savoir suivre la recette mise en place par l'entreprise pour faire des annonces / offres d'emplois efficaces et qui donnent envie de postuler + Savoir les personnaliser systématiquement à chaque ouverture de poste\n- Mes annonces sont inclusives & rassurantes pour tout type de candidat·e",
-        "Builder": NaN
+        "Builder": null
       },
       "3": {
         "Doer": "- Créer une landing page dédiée pour un évènement / un profil en particulier",
@@ -98,12 +98,12 @@
         "Builder": "'- Définir et améliorer en permanence différents éléments de marque employeur statique (Site carrière par exemple) \n- Définir et améliorer en permanence différents éléments de marque employeur dynamique (Communications sur les réseaux sociaux par exemple)\n- Définir le cadre à suivre pour créer les meilleurs annonces possibles et s'assurer du bon respect de ce cadre part tous les acteurs du recrutement \n- Mise en place des règles à suivre pour faire des annonces systématiquement inclusives & rassurantes pour les candidates et candidats"
       },
       "4": {
-        "Doer": NaN,
+        "Doer": null,
         "Leader": "- Créer une landing page dédiée pour un évènement / un profil en particulier",
         "Builder": "'- Déterminer la CVP (Candidate Value Proposition) de mon entreprise au quotidien & savoir la faire resplendir à travers tous les éléments d'Inbound de l'entreprise\n- Définir et améliorer en permanence différents éléments de marque employeur statique (Site carrière par exemple) \n- Définir et améliorer en permanence différents éléments de marque employeur dynamique (Communications sur les réseaux sociaux par exemple)\n- Mettre en place, améliorer, utiliser le système de cooptation de mon entreprise au quotidien & le pousser auprès des hiring managers\n- Définir le cadre à suivre pour créer les meilleurs annonces possibles et s'assurer du bon respect de ce cadre part tous les acteurs du recrutement \n- Mise en place des règles à suivre pour faire des annonces systématiquement inclusives & rassurantes pour les candidates et candidats"
       },
       "5": {
-        "Doer": NaN,
+        "Doer": null,
         "Leader": "- Rendre les annonces augmentées \n- Définir mon personal branding et l'utiliser comme lead magnet vis à vis des candidats",
         "Builder": "'- Déterminer la CVP (Candidate Value Proposition) de mon entreprise au quotidien & savoir la faire resplendir à travers tous les éléments d'Inbound de l'entreprise\n- Définir et améliorer en permanence différents éléments de marque employeur statique (Site carrière par exemple) \n- Définir et améliorer en permanence différents éléments de marque employeur dynamique (Communications sur les réseaux sociaux par exemple)\n- Créer une landing page dédiée pour un évènement / un profil en particulier\n- Mettre en place, améliorer, utiliser le système de cooptation de mon entreprise au quotidien & le pousser auprès des hiring managers\n- Définir le cadre à suivre pour créer les meilleurs annonces possibles et s'assurer du bon respect de ce cadre part tous les acteurs du recrutement \n- Mise en place des règles à suivre pour faire des annonces systématiquement inclusives & rassurantes pour les candidates et candidats\n"
       }
@@ -111,13 +111,13 @@
     "Core : Outbound Recruitment : Basics": {
       "1": {
         "Doer": "- Rechercher les éléments nécessaires à la préparation de mon sourcing\n- Maitriser les bases des opérateurs booléens pour sourcer\n- Sourcer efficacement sur LinkedIn Gratuit\n- Penser à faire des relances pendant mes sessions de sourcing\n",
-        "Leader": NaN,
-        "Builder": NaN
+        "Leader": null,
+        "Builder": null
       },
       "2": {
         "Doer": "'- Je sais déterminer mon ICP (Ideal Candidate Profile)\n- Je sais procéder par étapes pour sourcer avec d'abord les bases de données / le recrutement interne / mon réseau puis LinkedIn et enfin les sources plus exotiques\n- Je sais appliquer un template efficace de message d'approche et j'ai des taux de réponses >50% en non tech / >25% en tech",
         "Leader": "- Je sais rechercher les éléments nécessaires à la préparation de mon sourcing + Je fais systématiquement une phase d'investigation avant de sourcer\n- Je maitrise tous les opérateurs booléens sans problèmes et je sais faire des recherches complexes\n- Je sais sourcer efficacement sur LinkedIn Gratuit & Sur Google\n- Je fais systématiquement des relances dans mes sessions de sourcing",
-        "Builder": NaN
+        "Builder": null
       },
       "3": {
         "Doer": "- Je sais déceler les pièges de LinkedIn Sales Navigator / Recruiter",
@@ -125,94 +125,94 @@
         "Builder": "- Je sais rechercher les éléments nécessaires à la préparation de mon sourcing + Je fais systématiquement une phase d'investigation avant de sourcer + J'aide mes collègues à faire ça au quotidien\n- Je procède systématiquement par étapes pour sourcer avec d'abord les bases de données / le recrutement interne / mon réseau puis LinkedIn et enfin les sources plus exotiques\n- Je maitrise tous les opérateurs booléens sans problèmes et je sais faire des recherches complexes\n- Je fais systématiquement & de manière automatique des relances dans mes sessions de sourcing"
       },
       "4": {
-        "Doer": NaN,
+        "Doer": null,
         "Leader": "- Je sais déceler les pièges de LinkedIn Sales Navigator / Recruiter & utiliser tous les filtres et fonctionnalités",
         "Builder": "'- Je sais rechercher les éléments nécessaires à la préparation de mon sourcing + Je fais systématiquement une phase d'investigation avant de sourcer + J'aide mes collègues à faire ça au quotidien\n- Je sais déterminer mon ICP (Ideal Candidate Profile) de manière systématique\n- Je procède systématiquement par étapes pour sourcer avec d'abord les bases de données / le recrutement interne / mon réseau puis LinkedIn et enfin les sources plus exotiques\n- Je maitrise tousles opérateurs booléens sans problèmes et je sais faire des recherches complexes\n- Je sais sourcer efficacement sur LinkedIn Gratuit, Sur Google & sur LinkedIn Sales Navigator\n- Je sais créer des message d'approches efficace & personnalisés et j'ai des taux de réponses >80% en non tech / >40% en tech\n- Je fais systématiquement & de manière automatique des relances dans mes sessions de sourcing"
       },
       "5": {
-        "Doer": NaN,
-        "Leader": NaN,
+        "Doer": null,
+        "Leader": null,
         "Builder": "'- Je sais rechercher les éléments nécessaires à la préparation de mon sourcing + Je fais systématiquement une phase d'investigation avant de sourcer + J'aide mes collègues à faire ça au quotidien\n- Je sais déterminer mon ICP (Ideal Candidate Profile) de manière systématique\n- Je procède systématiquement par étapes pour sourcer avec d'abord les bases de données / le recrutement interne / mon réseau puis LinkedIn et enfin les sources plus exotiques\n- Je maitrise tousles opérateurs booléens sans problèmes et je sais faire des recherches complexes\n- Je sais sourcer efficacement sur LinkedIn Gratuit, Sur Google & sur LinkedIn Sales Navigator\n- Je sais déceler les pièges de LinkedIn Sales Navigator / Recruiter & utiliser tous les filtres et fonctionnalités\n- Je sais créer des message d'approches efficace & personnalisés et j'ai des taux de réponses >90% en non tech / >45% en tech\n- Je fais systématiquement & de manière automatique des relances dans mes sessions de sourcing"
       }
     },
     "Core : Candidate Evaluation : Basics": {
       "1": {
         "Doer": "'- Je connais les méthodes d'évaluation à éviter (Graphologie LOL, expérience, feeling etc.) \n- Je connais les méthodes d'évaluation recommandées (Entretien structuré, Cas pratique etc.) \n- Je sais pratiquer une préqualification efficace qui va à la fois évaluer le·la candidate & en même temps lui donner envie de poursuivre le process\n- Je sais mener un entretien efficacement avec le bon dosage entre mettre  l'aise le·la candidate, lui donner envie de continuer le process & l'évaluer efficacement\n- Je sais utiliser les fonctionnalités de bases d'un bon ATS (Comme Teamtailor <3) dans mon quotidien de recruteur·euse ",
-        "Leader": NaN,
-        "Builder": NaN
+        "Leader": null,
+        "Builder": null
       },
       "2": {
         "Doer": "- Je sais appliquer la méthode de l'entretien structuré et suivre le process mis en place",
         "Leader": "'- Je connais les méthodes d'évaluation à éviter (Graphologie LOL, expérience, feeling etc.) \n- Je connais et maitrise les méthodes d'évaliation recommandées (Entretien structuré, Cas pratique etc.) \n- Je sais pratiquer une préqualification efficace qui va à la fois évaluer le·la candidate & en même temps lui donner envie de poursuivre le process\n- Je sais mener un entretien efficacement avec le bon dosage entre mettre  l'aise le·la candidate, lui donner envie de continuer le process & l'évaluer efficacement\n- Je sais utiliser les fonctionnalités de bases & les fonctionnalités avancées d'un bon ATS (Comme Teamtailor <3) dans mon quotidien de recruteur·euse ",
-        "Builder": NaN
+        "Builder": null
       },
       "3": {
-        "Doer": NaN,
+        "Doer": null,
         "Leader": "- Je sais appliquer la méthode de l'entretien structuré et suivre le process mis en place & je sais adapter par rapport aux rôles que je gère",
         "Builder": "'- Je connais les méthodes d'évaluation à éviter (Graphologie LOL, expérience, feeling etc.) \n- Je connais, maitrise et diffuse les méthodes d'évaluation recommandées (Entretien structuré, Cas pratique etc.) *\n- Je sais pratiquer une préqualification efficace qui va à la fois évaluer le·la candidate & en même temps lui donner envie de poursuivre le process\n- Je sais mener un entretien efficacement avec le bon dosage entre mettre à l'aise le·la candidate, lui donner envie de continuer le process & l'évaluer efficacement\n- Je sais utiliser les fonctionnalités de bases & les fonctionnalités avancées d'un bon ATS (Comme Teamtailor <3) dans mon quotidien de recruteur·euse & je sais le mettre en place dans mon entreprise  chez un client"
       },
       "4": {
-        "Doer": NaN,
-        "Leader": NaN,
+        "Doer": null,
+        "Leader": null,
         "Builder": "'- Je connais les méthodes d'évaluation à éviter (Graphologie LOL, expérience, feeling etc.) \n- Je connais, maitrise et diffuse les méthodes d'évaliation recommandées (Entretien structuré, Cas pratique etc.) \n- Je sais pratiquer une préqualification efficace qui va à la fois évaluer le·la candidate & en même temps lui donner envie de poursuivre le process\n- Je sais mettre en place la méthode de l'entretien structuré au sein de mon entreprise et le faire respecter par toutes et tous\n- Je sais mener un entretien efficacement avec le bon dosage entre mettre  l'aise le·la candidate, lui donner envie de continuer le process & l'évaluer efficacement\n- Je sais utiliser les fonctionnalités de bases & les fonctionnalités avancées d'un bon ATS (Comme Teamtailor <3) dans mon quotidien de recruteur·euse & je sais le mettre en place dans mon entreprise  chez un client"
       },
       "5": {
-        "Doer": NaN,
-        "Leader": NaN,
+        "Doer": null,
+        "Leader": null,
         "Builder": "'- Je connais les méthodes d'évaluation à éviter (Graphologie LOL, expérience, feeling etc.) \n- Je connais, maitrise et diffuse les méthodes d'évaliation recommandées (Entretien structuré, Cas pratique etc.) \n- Je sais pratiquer une préqualification efficace qui va à la fois évaluer le·la candidate & en même temps lui donner envie de poursuivre le process\n- Je sais mettre en place la méthode de l'entretien structuré au sein de mon entreprise et le faire respecter par toutes et tous\n- Je sais mener un entretien efficacement avec le bon dosage entre mettre  l'aise le·la candidate, lui donner envie de continuer le process & l'évaluer efficacement\n- Je sais utiliser les fonctionnalités de bases & les fonctionnalités avancées d'un bon ATS (Comme Teamtailor <3) dans mon quotidien de recruteur·euse & je sais le mettre en place dans mon entreprise  chez un client"
       }
     },
     "Core : Other": {
       "1": {
-        "Doer": NaN,
-        "Leader": NaN,
-        "Builder": NaN
+        "Doer": null,
+        "Leader": null,
+        "Builder": null
       },
       "2": {
-        "Doer": NaN,
-        "Leader": NaN,
-        "Builder": NaN
+        "Doer": null,
+        "Leader": null,
+        "Builder": null
       },
       "3": {
-        "Doer": NaN,
-        "Leader": NaN,
-        "Builder": NaN
+        "Doer": null,
+        "Leader": null,
+        "Builder": null
       },
       "4": {
-        "Doer": NaN,
-        "Leader": NaN,
-        "Builder": NaN
+        "Doer": null,
+        "Leader": null,
+        "Builder": null
       },
       "5": {
-        "Doer": NaN,
-        "Leader": NaN,
-        "Builder": NaN
+        "Doer": null,
+        "Leader": null,
+        "Builder": null
       }
     },
     "Core : Non Discrimination et biais cognitifs": {
       "1": {
         "Doer": "'- J'ai conscience des biais cognitifs principaux en recrutement (Blind Spot, Effet de Halo, etc.)\n- Je connais le cadre légal de la discrimination ",
-        "Leader": NaN,
-        "Builder": NaN
+        "Leader": null,
+        "Builder": null
       },
       "2": {
         "Doer": "- Je connais les méthodes efficaces pour éviter que les biais cognitifs ne viennent altérer mon jugement",
         "Leader": "'- J'ai conscience et je sais éviter le plus possible d'être atteint par mes biais en recrutant (Blind Spot, Effet de Halo, etc.)\n- Je connais le cadre légal de la discrimination & je sais l'appliquer à toutes les étapes du recrutement",
-        "Builder": NaN
+        "Builder": null
       },
       "3": {
-        "Doer": NaN,
+        "Doer": null,
         "Leader": "- Je connais et sais utiliser les méthodes efficaces pour éviter que les biais cognitifs ne viennent altérer mon jugement",
         "Builder": "'- J'ai conscience, je sais éviter le plus possible d'être atteint par mes biais en recrutant (Blind Spot, Effet de Halo, etc.) & je forme mes collègues y compris les hiring managers à ce sujet\n- Je connais le cadre légal de la discrimination, je sais l'appliquer à toutes les étapes du recrutement & je sais mettre en place ce cadre au niveau de l'entreprise et le faire respecter !"
       },
       "4": {
-        "Doer": NaN,
-        "Leader": NaN,
+        "Doer": null,
+        "Leader": null,
         "Builder": "'- J'ai conscience, je sais éviter le plus possible d'être atteint par mes biais en recrutant (Blind Spot, Effet de Halo, etc.) & je forme mes collègues y compris les hiring managers à ce sujet\n- Je connais et sais utiliser & diffuser les méthodes efficaces pour éviter que les biais cognitifs ne viennent altérer mon jugement\n- Je connais le cadre légal de la discrimination, je sais l'appliquer à toutes les étapes du recrutement & je sais mettre en place ce cadre au niveau de l'entreprise et le faire respecter !"
       },
       "5": {
-        "Doer": NaN,
-        "Leader": NaN,
+        "Doer": null,
+        "Leader": null,
         "Builder": "'- J'ai conscience, je sais éviter le plus possible d'être atteint par mes biais en recrutant (Blind Spot, Effet de Halo, etc.) & je forme mes collègues y compris les hiring managers à ce sujet\n- Je connais et sais utiliser & diffuser les méthodes efficaces pour éviter que les biais cognitifs ne viennent altérer mon jugement\n- Je connais le cadre légal de la discrimination, je sais l'appliquer à toutes les étapes du recrutement & je sais mettre en place ce cadre au niveau de l'entreprise et le faire respecter !\n- Je fais de la veille, anime des formations internes sur la non discrimination en entretien et me forme continuellement sur le sujet "
       }
     }
@@ -221,13 +221,13 @@
     "Advanced : Candidate Experience : Advanced": {
       "1": {
         "Doer": "'- Savoir utiliser le kit candidat créé par l'entreprise (Guide envoyé aux candidats avant un process)\n- Savoir faire fonctionner les mécanismes de gamification mis en place par l'entreprise\n- Comprendre les KPIs de satisfaction candidat (NPS et autres)",
-        "Leader": NaN,
-        "Builder": NaN
+        "Leader": null,
+        "Builder": null
       },
       "2": {
         "Doer": "'- Savoir utiliser le kit candidat créé par l'entreprise (Guide envoyé aux candidats avant un process)\n- Savoir faire fonctionner les mécanismes de gamification mis en place par l'entreprise (Jeux vidéos, badges, mentorat, compétitions...)\n- Utiliser un nurturing efficace tout au long du process (Emails, sms, appels...)\n- En fin de process, préparer le \"pre-boarding\" (La période entre l'acceptation de l'offre et le jour d'arrivé d'un·e candidat·e)",
         "Leader": "'- Utiliser les KPIs de satisfaction candidat (NPS et autres) pour s'améliorer / dans les kick-off",
-        "Builder": NaN
+        "Builder": null
       },
       "3": {
         "Doer": "- Ajouter des candidats en fin de process à des viviers & utiliser les viviers au quotidien avant de commencer un recrutement",
@@ -242,19 +242,19 @@
       "5": {
         "Doer": "- Mapper l'intégralité de ses process régulièrement pour améliorer ce qui peut l'être",
         "Leader": "- Alimenter son vivier de candidats en envoyant du contenu de manière régulière",
-        "Builder": "'- Mettre en place un kit candidat (Guide envoyé aux candidats avant un process) et le faire évoluer \n- Mettre en place des mécanismes de gamification (Jeux vidéos, badges, mentorat, compétitions...)\n- Mettre en place des mécanismes de nurturing efficace tout au long du process (Emails, sms, appels...)\n- Mise en place des KPIs de satisfaction candidat (cNPS et autres) pour s'améliorer / dans les kick-off au niveau de l'entreprise\n- Mesurer mensuellement le cNPS, identifier les enjeux et mettre en place les actions correctives nécessaires\n- Mettre en place un process global et efficace de \"pre-boarding\" (La période entre l'acceptation de l'offre et le jour d'arrivé d'un·e candidat·e)\n- Mettre en place des viviers efficaces avec un système de taggage et utilisé par toutes les parties prenantes\n- Définition d'offres mémorables et créatives \"jamais vues ailleurs\"\n- Mettre en place un nurturing post process en envoyant une Newsletter aux anciens candidats \n"
+        "Builder": "'- Mettre en place un kit candidat (Guide envoyé aux candidats avant un process) et le faire évoluer \n- Mettre en place des mécanismes de gamification (Jeux vidéos, badges, mentorat, compétitions...)\n- Mettre en place des mécanismes de nurturing efficace tout au long du process (Emails, sms, appels...)\n- Mise en place des KPIs de satisfaction candidat (cNPS et autres) pour s'améliorer / dans les kick-off au niveau de l'entreprise\n- Mesurer mensuellement le cNPS, identifier les enjeux et mettre en place les actions correctives nécessaires\n- Mettre en place un process global et efficace de \"pre-boarding\" (La période entre l'acceptation de l'offre et le jour d'arrivé d'un·e candidat·e)\n- Mettre en place des viviers efficaces avec un système de taggage et utilisé par toutes les parties prenulltes\n- Définition d'offres mémorables et créatives \"jamais vues ailleurs\"\n- Mettre en place un nurturing post process en envoyant une Newsletter aux anciens candidats \n"
       }
     },
     "Advanced : Inbound Recruitment : Advanced": {
       "1": {
         "Doer": "- Vérifier la e-réputation de mon entreprise",
-        "Leader": NaN,
-        "Builder": NaN
+        "Leader": null,
+        "Builder": null
       },
       "2": {
         "Doer": "- Je sais appliquer les bases du Personal branding sur mon profil LinkedIn & dans mes quelques publications",
         "Leader": "- Vérifier la e-réputation de mon entreprise & Agir pour compenser et ne pas avoir une marque employeur impactée par d'éventuels \"bas buzz\"",
-        "Builder": NaN
+        "Builder": null
       },
       "3": {
         "Doer": "'- Mener un mini audit de chaque petite interaction qu'aura un·e candidat·e avec l'entreprise et voir l'impact sur la marque employeur\n- Accompagnement au quotidien d'une communauté d'ambassadeur·rices (Des salarié·es qui publient fréquent sur LinkedIn",
@@ -267,7 +267,7 @@
         "Builder": "- Vérifier la e-réputation de mon entreprise, Agir pour compenser et ne pas avoir une marque employeur impactée par d'éventuels \"bas buzz\" & \"Monitorer\" sa e-réputation\n- Je sais appliquer les bases du Personal branding sur mon profil LinkedIn & j'ai une vraie stratégie de publication orientée acquisition de candidat·es. Je suis considéré en interne comme un·e modèle pour mes publications sur LinkedIn"
       },
       "5": {
-        "Doer": NaN,
+        "Doer": null,
         "Leader": "'- Mise en place systématique d'annonces augmentées (Audio, Vidéo etc.)",
         "Builder": "'- Créer et mener un mini audit de chaque petite interaction qu'aura un·e candidat·e avec l'entreprise et voir l'impact sur la marque employeur\n- Vérifier la e-réputation de mon entreprise, Agir pour compenser et ne pas avoir une marque employeur impactée par d'éventuels \"bad buzz\" & \"Monitorer\" sa e-réputation\n- Création régulière de contenus améliorant la marque employeur\n- Je sais appliquer les bases du Personal branding sur mon profil LinkedIn & j'ai une vraie stratégie de publication orientée acquisition de candidat·es. Je suis considéré en interne comme un·e modèle pour mes publications sur LinkedIn\n- Création, animation & accompagnement au quotidien d'une communauté d'ambassadeur·rices (Des salarié·es qui publient fréquent sur LinkedIn\n- Création de job ad créatives pour rendre attractives les annonces d'emploi\n "
       }
@@ -275,13 +275,13 @@
     "Advanced : Outbound Recruitment : Advanced": {
       "1": {
         "Doer": "'- Je sais utiliser des techniques de sourcing avancées toutes prêtes (Formules complexes, sourcing par communauté, cross sourcing)\n- Je sais utiliser des séquences dans mon sourcing",
-        "Leader": NaN,
-        "Builder": NaN
+        "Leader": null,
+        "Builder": null
       },
       "2": {
         "Doer": "- Je maitrise les bases du scraping et je l'utilise occasionnellement \n- Je sais utiliser ChatGPT pour générer des formules booléennes prêtes à l'emploi",
         "Leader": "'- Je sais mettre en place et utiliser des techniques de sourcing avancées (Formules complexes, sourcing par communauté, cross sourcing)\n- Je sais mettre en place et utiliser des séquences dans mon sourcing",
-        "Builder": NaN
+        "Builder": null
       },
       "3": {
         "Doer": "- Je me débrouille au global dans les sourcing Games de \"Sourceur Non peut-être\" ou de Jan Tegze ",
@@ -294,7 +294,7 @@
         "Builder": "'- Je sais mettre en place et utiliser des techniques de sourcing avancées (Formules complexes, sourcing par communauté, cross sourcing)\n- Je maitrise le scraping sous plusieurs formes et j'en connais les subtilités et dangers\n- Je sais mettre en place, utiliser & scaler des séquences dans mon sourcing. Je sélectionne les bons outils pour mettre en place les séquences\n- Je maitrise l'utilisation de ChatGPT pour générer des formules booléennes prêtes à l'emploi"
       },
       "5": {
-        "Doer": NaN,
+        "Doer": null,
         "Leader": "- Je maitrise des techniques confirmées d'OSINT ",
         "Builder": "'- Je sais mettre en place et utiliser des techniques de sourcing avancées (Formules complexes, sourcing par communauté, cross sourcing)\n- Je maitrise le scraping sous plusieurs formes et j'en connais les subtilités et dangers\n- Je me débrouille sans difficultés dans les sourcing Games de \"Sourceur Non peut-être\" ou de Jan Tegze \n- Je sais mettre en place, utiliser & scaler des séquences dans mon sourcing. Je sélectionne les bons outils pour mettre en place les séquences\n- Je maitrise l'utilisation de ChatGPT pour générer des formules booléennes prêtes à l'emploi"
       }
@@ -302,55 +302,55 @@
     "Advanced : Candidate Evaluation : Advanced": {
       "1": {
         "Doer": "- Je sais faire passer un business case / cas pratique de manière efficace sans impact négatif sur l'expérience candidat\n- Je connais les bonnes et mauvaises méthodes d'évaluation des soft skills\n- Je sais faire des comptes rendus efficaces à la fin de chaque entretien",
-        "Leader": NaN,
-        "Builder": NaN
+        "Leader": null,
+        "Builder": null
       },
       "2": {
         "Doer": "'- Je connais les méthodes \"collectives\" de recrutement (Bar Raiser, Pipelining Interview, Hiring Committee etc.)",
         "Leader": "- Je sais créer et faire passer un business case / cas pratique de manière efficace sans impact négatif sur l'expérience candidat\n- Je connais les bonnes et mauvaises méthodes d'évaluation des soft skills & je sais les utiliser efficacement\n- Je sais faire des comptes rendus efficaces à la fin de chaque entretien & je sais adapter mon style de compte rendu à l'étape, au rôle et au manager",
-        "Builder": NaN
+        "Builder": null
       },
       "3": {
         "Doer": "- Je connais les traits principaux en lien avec le potentiel & je sais les évaluer ",
         "Leader": "'- Je sais utiliser les méthodes \"collectives\" de recrutement (Bar Raiser, Pipelining Interview, Hiring Committee etc.)",
-        "Builder": "- Je sais créer et harmoniser les pratiques concernant les business case / cas pratique au sein de l'entreprise \n- Je connais les bonnes et mauvaises méthodes d'évaluation des soft skills & je sais les utiliser efficacement\n- Je sais faire des comptes rendus efficaces à la fin de chaque entretien & je sais adapter mon style de compte rendu à l'étape, au rôle et au manager. Je m'assurer d'une harmonie de cette pratique au sein de l'entreprise"
+        "Builder": "- Je sais créer et harmoniser les pratiques concernullt les business case / cas pratique au sein de l'entreprise \n- Je connais les bonnes et mauvaises méthodes d'évaluation des soft skills & je sais les utiliser efficacement\n- Je sais faire des comptes rendus efficaces à la fin de chaque entretien & je sais adapter mon style de compte rendu à l'étape, au rôle et au manager. Je m'assurer d'une harmonie de cette pratique au sein de l'entreprise"
       },
       "4": {
-        "Doer": NaN,
+        "Doer": null,
         "Leader": "- Je connais les traits principaux en lien avec le potentiel & je sais les évaluer \n- J'utilise ChatGPT pour générer des scorecards et mon entretien structuré et je créé une banque de questions pour mes collègues et partage des templates de prompts\n",
-        "Builder": "'- Je sais mettre en place et faire respecter les méthodes \"collectives\" de recrutement (Bar Raiser, Pipelining Interview, Hiring Committee etc.)\n- Je sais créer et harmoniser les pratiques concernant les business case / cas pratique au sein de l'entreprise \n- Je connais les bonnes et mauvaises méthodes d'évaluation des soft skills & je sais les utiliser efficacement + Je sais harmoniser ces pratiques au sein de l'entreprise\n- Je sais faire des comptes rendus efficaces à la fin de chaque entretien & je sais adapter mon style de compte rendu à l'étape, au rôle et au manager. Je m'assurer d'une harmonie de cette pratique au sein de l'entreprise"
+        "Builder": "'- Je sais mettre en place et faire respecter les méthodes \"collectives\" de recrutement (Bar Raiser, Pipelining Interview, Hiring Committee etc.)\n- Je sais créer et harmoniser les pratiques concernullt les business case / cas pratique au sein de l'entreprise \n- Je connais les bonnes et mauvaises méthodes d'évaluation des soft skills & je sais les utiliser efficacement + Je sais harmoniser ces pratiques au sein de l'entreprise\n- Je sais faire des comptes rendus efficaces à la fin de chaque entretien & je sais adapter mon style de compte rendu à l'étape, au rôle et au manager. Je m'assurer d'une harmonie de cette pratique au sein de l'entreprise"
       },
       "5": {
-        "Doer": NaN,
-        "Leader": NaN,
-        "Builder": "'- Je sais utiliser les méthodes \"collectives\" de recrutement (Bar Raiser, Pipelining Interview, Hiring Committee etc.)\n- Je sais créer et harmoniser les pratiques concernant les business case / cas pratique au sein de l'entreprise \n- Je connais les bonnes et mauvaises méthodes d'évaluation des soft skills & je sais les utiliser efficacement + Je sais harmoniser ces pratiques au sein de l'entreprise\n- Je connais les traits principaux en lien avec le potentiel & je sais les évaluer\n- Je sais faire des comptes rendus efficaces à la fin de chaque entretien & je sais adapter mon style de compte rendu à l'étape, au rôle et au manager. Je m'assurer d'une harmonie de cette pratique au sein de l'entreprise \n- Je sais utiliser ChatGPT pour générer des scorecards et mon entretien structuré et je créé une banque de questions pour mes collègues et partage des templates de prompts\n"
+        "Doer": null,
+        "Leader": null,
+        "Builder": "'- Je sais utiliser les méthodes \"collectives\" de recrutement (Bar Raiser, Pipelining Interview, Hiring Committee etc.)\n- Je sais créer et harmoniser les pratiques concernullt les business case / cas pratique au sein de l'entreprise \n- Je connais les bonnes et mauvaises méthodes d'évaluation des soft skills & je sais les utiliser efficacement + Je sais harmoniser ces pratiques au sein de l'entreprise\n- Je connais les traits principaux en lien avec le potentiel & je sais les évaluer\n- Je sais faire des comptes rendus efficaces à la fin de chaque entretien & je sais adapter mon style de compte rendu à l'étape, au rôle et au manager. Je m'assurer d'une harmonie de cette pratique au sein de l'entreprise \n- Je sais utiliser ChatGPT pour générer des scorecards et mon entretien structuré et je créé une banque de questions pour mes collègues et partage des templates de prompts\n"
       }
     },
     "Advanced : Others (KPI, Audit...)": {
       "1": {
         "Doer": "- Je sais faire un reporting au quotidien selon les KPIs définis par mon entreprise / les KPIs de mes clients",
-        "Leader": NaN,
-        "Builder": NaN
+        "Leader": null,
+        "Builder": null
       },
       "2": {
-        "Doer": NaN,
+        "Doer": null,
         "Leader": "- Je sais faire un reporting au quotidien selon les KPIs définis par mon entreprise / les KPIs de mes clients & proposer des améliorations à ces KPIs.\n- Je me sers de temps en temps des KPIS pour prendre des décisions Data Driven",
-        "Builder": NaN
+        "Builder": null
       },
       "3": {
         "Doer": "- Mener un Audit recrutement pour en tirer des données qualitatives et quantitatives",
-        "Leader": NaN,
-        "Builder": "- Je sais identifier et mettre en place les bons KPIs pour mon entreprise / mes clients et m'assurer du bon reporting par chaque partie prenante du recrutement\n-Je me sers des KPIs systématiquement au quotidien pour prendre des décisions Data Driven !"
+        "Leader": null,
+        "Builder": "- Je sais identifier et mettre en place les bons KPIs pour mon entreprise / mes clients et m'assurer du bon reporting par chaque partie prenullte du recrutement\n-Je me sers des KPIs systématiquement au quotidien pour prendre des décisions Data Driven !"
       },
       "4": {
-        "Doer": NaN,
+        "Doer": null,
         "Leader": "- Mener un Audit recrutement approfondi pour en tirer des données qualitatives et quantitatives",
-        "Builder": "- Je sais identifier et mettre en place les bons KPIs pour mon entreprise / mes clients et m'assurer du bon reporting par chaque partie prenante du recrutement\n-Je me sers des KPIs systématiquement au quotidien pour prendre des décisions Data Driven !"
+        "Builder": "- Je sais identifier et mettre en place les bons KPIs pour mon entreprise / mes clients et m'assurer du bon reporting par chaque partie prenullte du recrutement\n-Je me sers des KPIs systématiquement au quotidien pour prendre des décisions Data Driven !"
       },
       "5": {
-        "Doer": NaN,
-        "Leader": NaN,
-        "Builder": "- Mener un Audit recrutement approfondi, mapper entièrement ses process & mise en place de workshops pour améliorer en permanence le recrutement\n- Je sais identifier et mettre en place les bons KPIs pour mon entreprise / mes clients et m'assurer du bon reporting par chaque partie prenante du recrutement\n-Je me sers des KPIs systématiquement au quotidien pour prendre des décisions Data Driven !\n- Je suis mes KPIs au quotidien et diffuse les actions correctives à mes collègues pour améliorer les pratiques de tout le monde "
+        "Doer": null,
+        "Leader": null,
+        "Builder": "- Mener un Audit recrutement approfondi, mapper entièrement ses process & mise en place de workshops pour améliorer en permanence le recrutement\n- Je sais identifier et mettre en place les bons KPIs pour mon entreprise / mes clients et m'assurer du bon reporting par chaque partie prenullte du recrutement\n-Je me sers des KPIs systématiquement au quotidien pour prendre des décisions Data Driven !\n- Je suis mes KPIs au quotidien et diffuse les actions correctives à mes collègues pour améliorer les pratiques de tout le monde "
       }
     }
   },
@@ -358,13 +358,13 @@
     "T-shaped : Culture, DE&I x Recruitment": {
       "1": {
         "Doer": "- Je sais évaluer l'adéquation entre la culture d'entreprise de ma boite / celle de mon client & les envies, motivations et mode de travail de mes candidats\n- Je sais comprendre la culture et les valeurs de mon entreprise / de celle de mes clients et la mettre en oeuvre dans mon recrutement\n- Je suis conscient des enjeux de DE&I et je sais pourquoi c'est important",
-        "Leader": NaN,
-        "Builder": NaN
+        "Leader": null,
+        "Builder": null
       },
       "2": {
         "Doer": "- Je sais appliquer des mécanismes de recrutement plus respectueux des enjeux de DE&I à chaque niveau : Sourcing, Annonces, Evaluation, etc.",
         "Leader": "- Je sais évaluer l'adéquation entre la culture d'entreprise de ma boite / celle de mon client & les envies, motivations et mode de travail de mes candidats\n- Je sais comprendre la culture et les valeurs de mon entreprise / de celle de mes clients et la mettre en oeuvre dans mon recrutement\n- Je suis conscient des enjeux de DE&I et je sais pourquoi c'est important",
-        "Builder": NaN
+        "Builder": null
       },
       "3": {
         "Doer": "- Je sais utiliser le process communication pour évaluer l'adéqution entre le ou la future manager de mon ou ma future candidate \n- Je suis conscient des enjeux liés au handicap et je sais m'adadapter face à une personne en situation de handicap",
@@ -372,26 +372,26 @@
         "Builder": "- Je sais évaluer l'adéquation entre la culture d'entreprise de ma boite / celle de mon client & les envies, motivations et mode de travail de mes candidats. Mais je vais aussi plus loin, je passe du culture fit au culture add en essayant de trouver des candidats qui vont élever l'équipe !\n- Je sais comprendre la culture et les valeurs de mon entreprise / de celle de mes clients et la mettre en oeuvre dans mon recrutement\n- Je suis conscient des enjeux de DE&I et je sais pourquoi c'est important"
       },
       "4": {
-        "Doer": NaN,
+        "Doer": null,
         "Leader": "- Je sais utiliser le process communication pour évaluer l'adéqution entre le ou la future manager de mon ou ma future candidate \n- Je suis conscient des enjeux liés au handicap et je sais m'adadapter face à une personne en situation de handicap",
         "Builder": "- Je sais évaluer l'adéquation entre la culture d'entreprise de ma boite / celle de mon client & les envies, motivations et mode de travail de mes candidats. Mais je vais aussi plus loin, je passe du culture fit au culture add en essayant de trouver des candidats qui vont élever l'équipe !\n- Je sais mettre en place la culture et les valeurs d'une entreprise / celles de mes clients et appliquer ça au recrutement\n- Je sais mettre en placec des mécanismes de recrutement plus respectueux des enjeux de DE&I à chaque niveau : Sourcing, Annonces, Evaluation, etc.\n- Je suis le moteur principal des enjeux de DE&I au niveau de mon entreprise / celle de mes clients et j'en fait une priorité !"
       },
       "5": {
-        "Doer": NaN,
-        "Leader": NaN,
+        "Doer": null,
+        "Leader": null,
         "Builder": "- Je sais évaluer l'adéquation entre la culture d'entreprise de ma boite / celle de mon client & les envies, motivations et mode de travail de mes candidats. Mais je vais aussi plus loin, je passe du culture fit au culture add en essayant de trouver des candidats qui vont élever l'équipe !\n- Je sais utiliser le process communication pour évaluer l'adéqution entre le ou la future manager de mon ou ma future candidate & je sais former mon équipe à son utilisation\n- Je sais mettre en place la culture et les valeurs d'une entreprise / celles de mes clients et appliquer ça au recrutement\n- Je sais mettre en placec des mécanismes de recrutement plus respectueux des enjeux de DE&I à chaque niveau : Sourcing, Annonces, Evaluation, etc.\n- Je suis le moteur principal des enjeux de DE&I au niveau de mon entreprise / celle de mes clients et j'en fait une priorité !\n- Je suis référent handicap et je sais mettre en place tout ce qui est nécessaire et même plus pour être perçue comme une entreprise moderne à ce sujet / aider mes clients à l'être"
       }
     },
     "T-shaped : Marketing x Recruitment": {
       "1": {
         "Doer": "- Je comprends l'importante du copywriting dans mon quotidien de recruteur·euse\n- Je sais utiliser des modèles et framework de copywriting",
-        "Leader": NaN,
-        "Builder": NaN
+        "Leader": null,
+        "Builder": null
       },
       "2": {
         "Doer": "'- Je sais utiliser les bases du neuromarketing dans mes messages d'approches et mes annonces au quotidien\n- Je sais appliquer les modèles et méthodologies du Growth Marketing au recrutement (Funel work, AB Testing, landing pages etc.)",
         "Leader": "- Je comprends l'importante du copywriting dans mon quotidien de recruteur·euse\n- Je sais utiliser des modèles et framework de copywriting & les adapter à mes postes et métiers",
-        "Builder": NaN
+        "Builder": null
       },
       "3": {
         "Doer": "- Je sais créer des annonces et pages carrières complètement différenciantes de la concurrence grâce à des techniques avancées de marketing",
@@ -399,39 +399,39 @@
         "Builder": "- Je comprends l'importante du copywriting dans mon quotidien de recruteur·euse\n- Je sais mettre en place des modèles et framework de copywriting & les adapter à mes postes et métiers"
       },
       "4": {
-        "Doer": NaN,
+        "Doer": null,
         "Leader": "- Je sais créer des annonces et pages carrières complètement différenciantes de la concurrence grâce à des techniques avancées de marketing",
         "Builder": "'- Je met en place des annonces et messages d'approches qui respectent les framework de neuromarketing\n- Je comprends l'importante du copywriting dans mon quotidien de recruteur·euse\n- Je sais mettre en place des modèles et framework de copywriting & les adapter à mes postes et métiers\n- Je sais mettre en place les modèles et méthodologies du Growth Marketing au recrutement (Funel work, AB Testing, landing pages etc.)"
       },
       "5": {
-        "Doer": NaN,
-        "Leader": NaN,
+        "Doer": null,
+        "Leader": null,
         "Builder": "'- Je met en place des annonces et messages d'approches qui respectent les framework de neuromarketing\n- Je comprends l'importante du copywriting dans mon quotidien de recruteur·euse\n- Je sais mettre en place des modèles et framework de copywriting & les adapter à mes postes et métiers\n- Je sais mettre en place les modèles et méthodologies du Growth Marketing au recrutement (Funel work, AB Testing, landing pages etc.)\n- Je sais créer des annonces et pages carrières complètement différenciantes de la concurrence grâce à des techniques avancées de marketing\n- Je sais déployer une stratégie de nurturing post process automatisée avec définition en amont des campagnes et des cohortes apportant de la valeur aux candidats \n- Je sais lancer des challenges ambassadeurs régulièrement pour créer de la traction candidats\n- Je sais créer des bots sur le site carrière pour accompagner le candidat à postuler "
       }
     },
     "T-shaped : Sales x Recruitment": {
       "1": {
         "Doer": "- Je sais appliquer un modèle d'elevator pitch tel quel, sans modifications",
-        "Leader": NaN,
-        "Builder": NaN
+        "Leader": null,
+        "Builder": null
       },
       "2": {
         "Doer": "- Je sais appliquer des techniques de vente comme ... au quotidien dans mon recrutement\n- Je sais exécuter une stratégie de négociation pour convaincre un·e candidat·e de nous rejoindre / rejoindre la boite du client",
         "Leader": "- Je sais appliquer un modèle d'elevator pitch et l'adapter aux jobs pour lesquels je recrute",
-        "Builder": NaN
+        "Builder": null
       },
       "3": {
-        "Doer": NaN,
+        "Doer": null,
         "Leader": "- Je sais appliquer des techniques de vente comme ... au quotidien dans mon recrutement & les adapter à mes besoins et enjeux\n- Je sais exécuter une stratégie de négociation pour convaincre un·e candidat·e de nous rejoindre / rejoindre la boite du client",
         "Builder": "- Je sais mettre en place un modèle d'elevator pitch et l'adapter aux jobs pour lesquels je recrute. Je sais faire respecter ce modèle au sein de mon entreprise / chez mes clients"
       },
       "4": {
         "Doer": "- Je sais utiliser quelques techniques de Neuromarketing pour convaincre les candidats\n- Je sais utiliser des techniques de négociateur professionnel en adaptant mon discours au profil PCM du candidat ",
-        "Leader": NaN,
+        "Leader": null,
         "Builder": "- Je sais mettre en place un modèle d'elevator pitch et l'adapter aux jobs pour lesquels je recrute. Je sais faire respecter ce modèle au sein de mon entreprise / chez mes clients\n- Je sais mettre en place des techniques de vente comme ... au quotidien dans mon recrutement & les adapter à mes besoins et enjeux & à ceux de mes équipes\n- Je sais mettre en place une stratégie de négociation pour convaincre un·e candidat·e de nous rejoindre / rejoindre la boite du client. La stratégie est adapté aux différents rôles / départements / clients"
       },
       "5": {
-        "Doer": NaN,
+        "Doer": null,
         "Leader": "- Je sais utiliser quelques techniques de Neuromarketing pour convaincre les candidats\n- Je sais utiliser des techniques de négociateur professionnel en adaptant mon discours au profil PCM du candidat ",
         "Builder": "- Je sais mettre en place un modèle d'elevator pitch et l'adapter aux jobs pour lesquels je recrute. Je sais faire respecter ce modèle au sein de mon entreprise / chez mes clients\n- Je sais mettre en place des techniques de vente comme ... au quotidien dans mon recrutement & les adapter à mes besoins et enjeux & à ceux de mes équipes\n- Je sais mettre en place une stratégie de négociation pour convaincre un·e candidat·e de nous rejoindre / rejoindre la boite du client. La stratégie est adapté aux différents rôles / départements / clients"
       }
@@ -439,40 +439,40 @@
     "T-shaped : Robotization x Recruitment": {
       "1": {
         "Doer": "'- Je sais utiliser des outils simple d'automatisation (Comme une fonctionnalité de mon ATS) pour me faire gagner du temps au quotidien\n- Je connais les bases pour être plus focus et organisé (time block, to do lists, pomodoro etc.) ",
-        "Leader": NaN,
-        "Builder": NaN
+        "Leader": null,
+        "Builder": null
       },
       "2": {
         "Doer": "'- Je sais utiliser des outils avancés d'automatisation (Comme Zapier ou Make) pour automatiser tout et n'importe quoi\n- Je sais être plus méthodique que la moyenne en mettant en place des modèles mentaux, le work breakdown structure ou encore en me préparant plus efficacement à chaque activité",
         "Leader": "'- Je sais utiliser des outils simple d'automatisation (Comme une fonctionnalité de mon ATS) pour me faire gagner du temps au quotidien\n- Je maitrise les bases pour être plus focus et organisé (time block, to do lists, pomodoro etc.) ",
-        "Builder": NaN
+        "Builder": null
       },
       "3": {
-        "Doer": "'- Je gagne du temps au quotidien avec des outils comme des raccourcis clavier ou des snippets (TextBlaze)\n- Je suis capable de comprendre quoi automatiser dans une structure ou rien existe pour le moment en cartographiant le process de recrutement par exemple\n- Je sais analyser le temps gagné en automatisant ou en gagnant en productivité via des KPIs que je suis (Pass through rate, argent dépensé, satisfaction des candidats etc.)",
+        "Doer": "'- Je gagne du temps au quotidien avec des outils comme des raccourcis clavier ou des snippets (TextBlaze)\n- Je suis capable de comprendre quoi automatiser dans une structure ou rien existe pour le moment en cartographiant le process de recrutement par exemple\n- Je sais analyser le temps gagné en automatisant ou en gagnullt en productivité via des KPIs que je suis (Pass through rate, argent dépensé, satisfaction des candidats etc.)",
         "Leader": "'- Je sais utiliser des outils avancés d'automatisation (Comme Zapier ou Make) pour automatiser tout et n'importe quoi\n- Je sais être plus méthodique que la moyenne en mettant en place des modèles mentaux, le work breakdown structure ou encore en me préparant plus efficacement à chaque activité",
         "Builder": "'- Je mets en place des outils simple d'automatisation (Comme une fonctionnalité de mon ATS) pour me faire gagner du temps à tout le monde\n- Je mets en place des systèmes et outils pour être plus focus et organisé (time block, to do lists, pomodoro etc.) "
       },
       "4": {
         "Doer": "- Je sais pratiquer un \"Time Audit\" pour voir la ou je perds beaucoup de temps au quotidien et m'améliorer en conséquent",
-        "Leader": "'- Je gagne du temps au quotidien avec des outils comme des raccourcis clavier ou des snippets (TextBlaze)\n- Je suis capable de comprendre quoi automatiser dans une structure ou rien existe pour le moment en cartographiant le process de recrutement par exemple\n- J'analyse systématiquement le temps gagné en automatisant ou en gagnant en productivité via des KPIs que je suis (Pass through rate, argent dépensé, satisfaction des candidats etc.)",
+        "Leader": "'- Je gagne du temps au quotidien avec des outils comme des raccourcis clavier ou des snippets (TextBlaze)\n- Je suis capable de comprendre quoi automatiser dans une structure ou rien existe pour le moment en cartographiant le process de recrutement par exemple\n- J'analyse systématiquement le temps gagné en automatisant ou en gagnullt en productivité via des KPIs que je suis (Pass through rate, argent dépensé, satisfaction des candidats etc.)",
         "Builder": "'- Je mets en place des outils simple d'automatisation (Comme une fonctionnalité de mon ATS) pour me faire gagner du temps à tout le monde\n- Je mets en place des outils avancés d'automatisation (Comme Zapier ou Make) pour automatiser tout et n'importe quoi\n- Je mets en place des systèmes et outils pour être plus focus et organisé (time block, to do lists, pomodoro etc.) \n- Je mets en place pour l'entreprise ou mes clients des manières plus méthodiques de travailler comme des modèles mentaux, le work breakdown structure ou encore en me préparant plus efficacement à chaque activité"
       },
       "5": {
-        "Doer": NaN,
+        "Doer": null,
         "Leader": "- Je pratique systématiquement un \"Time Audit\" pour voir la ou je perds beaucoup de temps au quotidien et m'améliorer en conséquent",
-        "Builder": "'- Je mets en place des outils simple d'automatisation (Comme une fonctionnalité de mon ATS) pour me faire gagner du temps à tout le monde\n- Je mets en place des outils avancés d'automatisation (Comme Zapier ou Make) pour automatiser tout et n'importe quoi\n- Je mets en place des systèmes et outils pour être plus focus et organisé (time block, to do lists, pomodoro etc.) \n- Je mets en place pour l'entreprise ou mes clients des manières plus méthodiques de travailler comme des modèles mentaux, le work breakdown structure ou encore en me préparant plus efficacement à chaque activité\n- Je gagne du temps au quotidien avec des outils comme des raccourcis clavier ou des snippets (TextBlaze)\n- Je suis capable de comprendre quoi automatiser dans une structure ou rien existe pour le moment en cartographiant le process de recrutement par exemple\n- J'analyse systématiquement le temps gagné en automatisant ou en gagnant en productivité via des KPIs que je suis (Pass through rate, argent dépensé, satisfaction des candidats etc.)"
+        "Builder": "'- Je mets en place des outils simple d'automatisation (Comme une fonctionnalité de mon ATS) pour me faire gagner du temps à tout le monde\n- Je mets en place des outils avancés d'automatisation (Comme Zapier ou Make) pour automatiser tout et n'importe quoi\n- Je mets en place des systèmes et outils pour être plus focus et organisé (time block, to do lists, pomodoro etc.) \n- Je mets en place pour l'entreprise ou mes clients des manières plus méthodiques de travailler comme des modèles mentaux, le work breakdown structure ou encore en me préparant plus efficacement à chaque activité\n- Je gagne du temps au quotidien avec des outils comme des raccourcis clavier ou des snippets (TextBlaze)\n- Je suis capable de comprendre quoi automatiser dans une structure ou rien existe pour le moment en cartographiant le process de recrutement par exemple\n- J'analyse systématiquement le temps gagné en automatisant ou en gagnullt en productivité via des KPIs que je suis (Pass through rate, argent dépensé, satisfaction des candidats etc.)"
       }
     },
     "T-shaped : Product x Recruitment": {
       "1": {
         "Doer": "- Mise à jour d'une base de donnée interne / knowledge base existante",
-        "Leader": NaN,
-        "Builder": NaN
+        "Leader": null,
+        "Builder": null
       },
       "2": {
         "Doer": "- Suivre le fonctionnement agile au quotidien d'une méthodologie de \"Self Service Hiring\"\n- Appliquer la méthodologie de \"User Research / Recherche utilisateur\" pour identifier les signaux faibles et améliorer, in fine, le recrutement\n- Je sais choisir les outils dont j'ai besoin dans mon quotidien en tant que recruteur·euse & savoir choisir entre outils payants et gratuits",
         "Leader": "- Mise à jour d'une base de donnée interne / knowledge base existante",
-        "Builder": NaN
+        "Builder": null
       },
       "3": {
         "Doer": "- Mettre en place des rituels similaires à ceux des équipes produit comme par exemple une rétro en fin de process de recrutement\n- Auditer son site carrière sous l'angle UX et optimiser le parcours pour éviter les zones de friction\n",
@@ -480,13 +480,13 @@
         "Builder": "- Création et mise à jour d'une base de donnée interne / knowledge base existante"
       },
       "4": {
-        "Doer": NaN,
+        "Doer": null,
         "Leader": "- Mettre en place systématiquement des rituels similaires à ceux des équipes produit comme par exemple une rétro en fin de process de recrutement\n- Auditer son site carrière sous l'angle UX et optimiser le parcours pour éviter les zones de friction\n",
         "Builder": "- Création et mise à jour d'une base de donnée interne / knowledge base existante\n- Mettre en place un système de Self Service Hiring & le faire vivre\n- Appliquer la méthodologie de \"User Research / Recherche utilisateur\" pour identifier les signaux faibles et améliorer, in fine, le recrutement\n- Je sais auditer puis choisir le système d'outils dont mon entreprise / mon client aura besoin au quotidien & faire évoluer cette stack d'outils en fonction des priorités, du budget, du volume etc. "
       },
       "5": {
-        "Doer": NaN,
-        "Leader": NaN,
+        "Doer": null,
+        "Leader": null,
         "Builder": "- Création et mise à jour d'une base de donnée interne / knowledge base existante\n- Mettre en place systématiquement et au niveau de l'entreprise des rituels similaires à ceux des équipes produit comme par exemple une rétro en fin de process de recrutement\n- Mettre en place un système de Self Service Hiring & le faire vivre\n- Appliquer la méthodologie de \"User Research / Recherche utilisateur\" pour identifier les signaux faibles et améliorer, in fine, le recrutement\n- Auditer puis choisir le système d'outils dont mon entreprise / mon client aura besoin au quotidien & faire évoluer cette stack d'outils en fonction des priorités, du budget, du volume etc. \n- Auditer son site carrière sous l'angle UX et optimiser le parcours pour éviter les zones de friction\n"
       }
     }
@@ -495,13 +495,13 @@
     "Internal Recruiters : HR & Legal Savviness": {
       "1": {
         "Doer": "- Je sais écrire une annonce & faire une offre légale\n- Je comprends le métier de mes collègues RH et je sais travailler avec eux et elles",
-        "Leader": NaN,
-        "Builder": NaN
+        "Leader": null,
+        "Builder": null
       },
       "2": {
         "Doer": "'- Je sais appliquer les bases légales nécessaires au respect du RGPD au quotidien (Dans mon sourcing, via mon ATS etc.)",
         "Leader": "- Je sais écrire une annonce & faire une offre légale\n- Je comprends le métier de mes collègues RH et je sais travailler avec eux et elles",
-        "Builder": NaN
+        "Builder": null
       },
       "3": {
         "Doer": "- Je connais les bases minimum sur le droit du travail / le salaire / les congés etc. pour les expliquer aux candidates et candidats ",
@@ -509,40 +509,40 @@
         "Builder": "- Je sais mettre en place le cadre légale entourant l'annonce ou encore l'offre d'embauche\n- Je comprends le métier de mes collègues RH et je sais travailler avec eux et elles. Je suis leur collègue préféré ! :D"
       },
       "4": {
-        "Doer": NaN,
+        "Doer": null,
         "Leader": "- Je connais plutôt bien les enjeux de droit du travail / le salaire / les congés etc. pour les expliquer aux candidates et candidats ",
         "Builder": "'- Je sais mettre en place les bases légales nécessaires au respect du RGPD au quotidien (Dans mon sourcing, via mon ATS etc.)\n- Je sais mettre en place le cadre légale entourant l'annonce ou encore l'offre d'embauche\n- Je comprends le métier de mes collègues RH et je sais travailler avec eux et elles. Je suis leur collègue préféré ! :D"
       },
       "5": {
-        "Doer": NaN,
-        "Leader": NaN,
+        "Doer": null,
+        "Leader": null,
         "Builder": "'- Je sais mettre en place les bases légales nécessaires au respect du RGPD au quotidien (Dans mon sourcing, via mon ATS etc.)\n- Je sais mettre en place le cadre légale entourant l'annonce ou encore l'offre d'embauche\n- Je comprends le métier de mes collègues RH et je sais travailler avec eux et elles. Je suis leur collègue préféré ! :D\n- Je connais plutôt bien les enjeux de droit du travail / le salaire / les congés etc. pour les expliquer aux candidates et candidats & Je peux même remplacer les RH de manière ponctuelle ou prolongée sur ces sujets"
       }
     },
     "Internal Recruiters : On Boarding": {
       "1": {
         "Doer": "'- Je sais appliquer les méthodes d'onboarding Social (Que les gens se rencontrent) pour chaque nouvel·le arrivant·e \n- Je sais appliquer les méthodes d'onboarding Métier (Que la personne soit formée) pour chaque nouvel·le arrivant·e \n- Je sais appliquer les méthodes d'onboarding Admin (Que tout soit prêt d'un point de vue RH) pour chaque nouvel·le arrivant·e \n- Je sais appliquer les méthodes d'onboarding culturel (Comprendre la culture, les valeurs et le way of working) pour chaque nouvel·le arrivant·e ",
-        "Leader": NaN,
-        "Builder": NaN
+        "Leader": null,
+        "Builder": null
       },
       "2": {
         "Doer": "- Je coordonne l'onboarding avec le/la Hiring Manager ",
         "Leader": "'- Je sais appliquer les méthodes d'onboarding Social (Que les gens se rencontrent) pour chaque nouvel·le arrivant·e & l'adapter si besoin\n- Je sais appliquer les méthodes d'onboarding Métier (Que la personne soit formée) pour chaque nouvel·le arrivant·e & l'adapter si besoin\n- Je sais appliquer les méthodes d'onboarding Admin (Que tout soit prêt d'un point de vue RH) pour chaque nouvel·le arrivant·e & l'adapter si besoin\n- Je sais appliquer les méthodes d'onboarding culturel (Comprendre la culture, les valeurs et le way of working) pour chaque nouvel·le arrivant·e & l'adapter si besoin",
-        "Builder": NaN
+        "Builder": null
       },
       "3": {
-        "Doer": NaN,
+        "Doer": null,
         "Leader": "- Je coordonne l'onboarding avec le/la Hiring Manager ",
         "Builder": "'- Je sais mettre en place les méthodes d'onboarding Social (Que les gens se rencontrent) pour chaque nouvel·le arrivant·e & l'adapter si besoin\n- Je sais mettre en place les méthodes d'onboarding Métier (Que la personne soit formée) pour chaque nouvel·le arrivant·e & l'adapter si besoin\n- Je sais mettre en place les méthodes d'onboarding Admin (Que tout soit prêt d'un point de vue RH) pour chaque nouvel·le arrivant·e & l'adapter si besoin\n- Je sais mettre en place les méthodes d'onboarding culturel (Comprendre la culture, les valeurs et le way of working) pour chaque nouvel·le arrivant·e & l'adapter si besoin"
       },
       "4": {
-        "Doer": NaN,
-        "Leader": NaN,
+        "Doer": null,
+        "Leader": null,
         "Builder": "'- Je sais mettre en place les méthodes d'onboarding Social (Que les gens se rencontrent) pour chaque nouvel·le arrivant·e & l'adapter si besoin\n- Je sais mettre en place les méthodes d'onboarding Métier (Que la personne soit formée) pour chaque nouvel·le arrivant·e & l'adapter si besoin\n- Je sais mettre en place les méthodes d'onboarding Admin (Que tout soit prêt d'un point de vue RH) pour chaque nouvel·le arrivant·e & l'adapter si besoin\n- Je sais mettre en place les méthodes d'onboarding culturel (Comprendre la culture, les valeurs et le way of working) pour chaque nouvel·le arrivant·e & l'adapter si besoin\n- Je coordonne l'onboarding avec le/la Hiring Manager "
       },
       "5": {
-        "Doer": NaN,
-        "Leader": NaN,
+        "Doer": null,
+        "Leader": null,
         "Builder": "'- Je sais mettre en place les méthodes d'onboarding Social (Que les gens se rencontrent) pour chaque nouvel·le arrivant·e & l'adapter si besoin\n- Je sais mettre en place les méthodes d'onboarding Métier (Que la personne soit formée) pour chaque nouvel·le arrivant·e & l'adapter si besoin\n- Je sais mettre en place les méthodes d'onboarding Admin (Que tout soit prêt d'un point de vue RH) pour chaque nouvel·le arrivant·e & l'adapter si besoin\n- Je sais mettre en place les méthodes d'onboarding culturel (Comprendre la culture, les valeurs et le way of working) pour chaque nouvel·le arrivant·e & l'adapter si besoin\n- Je met en place un système pour toujours avoir le/la Hiring Manager de méga dispo pour l'arrivée d'une nouvelle personne"
       }
     }
@@ -551,13 +551,13 @@
     "Managers : Recruitment Team Management": {
       "1": {
         "Doer": "'- Suivi d'OKR (Objectifs) déterminés par le management\n- Suivi de rituels recrutement collectifs",
-        "Leader": NaN,
-        "Builder": NaN
+        "Leader": null,
+        "Builder": null
       },
       "2": {
         "Doer": "- Recruteur des recruteuses·eurs pour son équipe",
         "Leader": "'- Définition d'OKR (Objectifs) pour l'équipe recrutement\n- Suivi de rituels recrutement collectifs",
-        "Builder": NaN
+        "Builder": null
       },
       "3": {
         "Doer": "'- Recruter différents rôles en plus que les rôles classiques de TAM (Sourceurs, Coordinateurs...)\n- Compréhension, Recrutement et mise en place d'un rôle de RecOps",
@@ -565,26 +565,26 @@
         "Builder": "'- Définition et suivi d'un mécanisme d'OKR (Objectifs) pour son équipe recrutement\n- Création de rituels recrutement collectif"
       },
       "4": {
-        "Doer": NaN,
+        "Doer": null,
         "Leader": "'- Elaborer une stratégie de construction et de recrutement d'une équipe composée de différents profils complémentaires (Recops, Campus, Marque employeur...)\n- Compréhension, Recrutement et mise en place d'un rôle de RecOps",
         "Builder": "'- Définition et suivi d'un mécanisme d'OKR (Objectifs) pour son équipe recrutement\n- Création de rituels recrutement collectif & adaptation aux priorités actuelles\n- Recruteur des recruteuses·eurs 100% performantes pour son équipe"
       },
       "5": {
-        "Doer": NaN,
-        "Leader": NaN,
+        "Doer": null,
+        "Leader": null,
         "Builder": "'- Définition et suivi d'un mécanisme d'OKR (Objectifs) pour son équipe recrutement\n- Création de rituels recrutement collectif & adaptation aux priorités actuelles\n- Recruteur des recruteuses·eurs 100% performantes pour son équipe\n- Elaborer une stratégie de construction et de recrutement d'une équipe composée de différents profils complémentaires (Recops, Campus, Marque employeur...) & adapter les compétences et le fonctionnement de cette équipe en fonction des priorités\n- Compréhension, Recrutement et mise en place d'un rôle de RecOps"
       }
     },
     "Managers : Strategy (Priorisation & Roadmap)": {
       "1": {
         "Doer": "- Comprendre les compétences manquantes dans mon entreprise et faire le lien avec le recrutement\n",
-        "Leader": NaN,
-        "Builder": NaN
+        "Leader": null,
+        "Builder": null
       },
       "2": {
         "Doer": "'- Je sais exécuter les priorités recrutement par rapport à la matrix de roadmap staffing déterminée par mon équipe (Qui recrute pour quel rôle / Quelles sont les priorités / Qui est sous l'eau qui ne l'est pas etc.)",
         "Leader": "- Déterminer les compétences manquantes dans mon entreprise et implémenter à la stratégie recrutement",
-        "Builder": NaN
+        "Builder": null
       },
       "3": {
         "Doer": "'- Mise en place de stratégies de RecOps (avec ou sans la présence d'un·e RecOps dans l'entreprise)",
@@ -592,13 +592,13 @@
         "Builder": "- Mettre en place une démarche de Skills Mapping / GPEC pour Déterminer les compétences manquantes dans mon entreprise et implémenter la ou les stratégies recrutement afférentes"
       },
       "4": {
-        "Doer": NaN,
+        "Doer": null,
         "Leader": "'- Définition & Mise en place de stratégies de RecOps (avec ou sans la présence d'un·e RecOps dans l'entreprise)",
         "Builder": "'- Mettre en place une démarche de Skills Mapping / GPEC pour Déterminer les compétences manquantes dans mon entreprise et implémenter la ou les stratégies recrutement afférentes\n- Mettre en place la matrice de roadmap staffing pour mon équipe (Qui recrute pour quel rôle / Quelles sont les priorités / Qui est sous l'eau qui ne l'est pas etc.)"
       },
       "5": {
-        "Doer": NaN,
-        "Leader": NaN,
+        "Doer": null,
+        "Leader": null,
         "Builder": "'- Mettre en place une démarche de Skills Mapping / GPEC pour Déterminer les compétences manquantes dans mon entreprise et implémenter la ou les stratégies recrutement afférentes\n- Mettre en place la matrice de roadmap staffing pour mon équipe (Qui recrute pour quel rôle / Quelles sont les priorités / Qui est sous l'eau qui ne l'est pas etc.)\n- Définition & Mise en place & amélioration continue de stratégies de RecOps (avec ou sans la présence d'un·e RecOps dans l'entreprise)"
       }
     }
@@ -606,56 +606,56 @@
   "Tech Recruiters": {
     "Tech Recruiters : Tech Sourcing": {
       "1": {
-        "Doer": NaN,
-        "Leader": NaN,
-        "Builder": NaN
+        "Doer": null,
+        "Leader": null,
+        "Builder": null
       },
       "2": {
-        "Doer": NaN,
-        "Leader": NaN,
-        "Builder": NaN
+        "Doer": null,
+        "Leader": null,
+        "Builder": null
       },
       "3": {
-        "Doer": NaN,
-        "Leader": NaN,
-        "Builder": NaN
+        "Doer": null,
+        "Leader": null,
+        "Builder": null
       },
       "4": {
-        "Doer": NaN,
-        "Leader": NaN,
-        "Builder": NaN
+        "Doer": null,
+        "Leader": null,
+        "Builder": null
       },
       "5": {
-        "Doer": NaN,
-        "Leader": NaN,
-        "Builder": NaN
+        "Doer": null,
+        "Leader": null,
+        "Builder": null
       }
     },
     "Tech Recruiters : Tech Savviness": {
       "1": {
-        "Doer": NaN,
-        "Leader": NaN,
-        "Builder": NaN
+        "Doer": null,
+        "Leader": null,
+        "Builder": null
       },
       "2": {
-        "Doer": NaN,
-        "Leader": NaN,
-        "Builder": NaN
+        "Doer": null,
+        "Leader": null,
+        "Builder": null
       },
       "3": {
-        "Doer": NaN,
-        "Leader": NaN,
-        "Builder": NaN
+        "Doer": null,
+        "Leader": null,
+        "Builder": null
       },
       "4": {
-        "Doer": NaN,
-        "Leader": NaN,
-        "Builder": NaN
+        "Doer": null,
+        "Leader": null,
+        "Builder": null
       },
       "5": {
-        "Doer": NaN,
-        "Leader": NaN,
-        "Builder": NaN
+        "Doer": null,
+        "Leader": null,
+        "Builder": null
       }
     }
   },
@@ -663,26 +663,26 @@
     "External Recruiters : Business Skills": {
       "1": {
         "Doer": "'- Connaître son WHY \n- Auditer le marché et benchmarker les concurrents\n- Identifier sa niche (secteur, métier, techno, séniorité...)\n- Définir son ICP (Ideal client profile)\n",
-        "Leader": NaN,
-        "Builder": NaN
+        "Leader": null,
+        "Builder": null
       },
       "2": {
         "Doer": "- Créer un talent pool activable en segmentant sa BDD\n- Mettre en place une stratégie de prospection omnicanal",
         "Leader": "'- Connaître son WHY \n- Auditer le marché et benchmarker les concurrents\n- Identifier sa niche (secteur, métier, techno, séniorité...)\n- Définir son ICP (Ideal client profile)\n",
-        "Builder": NaN
+        "Builder": null
       },
       "3": {
-        "Doer": NaN,
+        "Doer": null,
         "Leader": "'- Créer un talent pool activable en segmentant sa BDD en utilisant un ATS maison (Notion, Excel, Trello...) \n- Mettre en place une stratégie de prospection omnicanal \n- Définition d'un elevator pitch convaincant",
         "Builder": "'- Diffusion du WHY dans tous les points de contact avec le client \n- Faire une veille concurrentielle mensuelle pour identifier notre USP (unique selling proposition)\n- Renforcer sa niche en créant du contenu sur les RS\n- Monitoring de son ICP (Ideal client profile) qui peut évoluer au fil des missions"
       },
       "4": {
         "Doer": "- Définition du personal branding",
-        "Leader": NaN,
+        "Leader": null,
         "Builder": "'- Diffusion du WHY dans tous les points de contact avec le client \n- Faire une veille concurrentielle mensuelle pour identifier notre USP (unique selling proposition)\n- Renforcer sa niche en créant du contenu sur les RS\n- Monitoring de son ICP (Ideal client profile) qui peut évoluer au fil des missions\n- Créer un talent pool activable en segmentant sa BDD en utilisant un ATS maison (Notion, Excel, Trello...) \n- Mettre en place une stratégie de prospection omnicanal \n- Définition d'un elevator pitch convaincant"
       },
       "5": {
-        "Doer": NaN,
+        "Doer": null,
         "Leader": "- Avoir un fort Personal branding\n- Participer à des podcasts, webinars, livres blancs pour se positionner en expert sur son secteur\n- Être identifier comme Top of Mind sur sa niche sur LinkedIn\n- Avoir une stratégie long terme sur LinkedIn avec un calendrier éditorial axé sur l'acquisition de talents et de clients\n- Automatiser toute sa prospection via des outils comme Phantombuster, Lemlist ou Waalaxy.",
         "Builder": "'- Diffusion du WHY dans tous les points de contact avec le client \n- Faire une veille concurrentielle mensuelle pour identifier notre USP (unique selling proposition)\n- Renforcer sa niche en créant du contenu sur les RS\n- Monitoring de son ICP (Ideal client profile) qui peut évoluer au fil des missions\n- Créer un talent pool activable en segmentant sa BDD en utilisant un ATS maison (Notion, Excel, Trello...) \n- Mettre en place une stratégie de prospection omnicanal \n- Définition d'un elevator pitch convaincant\n- Organiser des events sur son expertise vis à vis de ses clients ou juste entre recruteurs pour se faire connaître et favoriser la recommandation"
       }
@@ -690,17 +690,17 @@
     "External Recruiters : Client Management": {
       "1": {
         "Doer": "- Prendre le brief du client et l'exécuter \n- Faire des dossiers candidats\n- Demander du feedback ",
-        "Leader": NaN,
-        "Builder": NaN
+        "Leader": null,
+        "Builder": null
       },
       "2": {
         "Doer": "- Prendre le brief du client et le challenger\n",
         "Leader": "- Demander du feedback rapidement et l'obtenir \n- Faire des dossiers candidats exhaustifs ",
-        "Builder": NaN
+        "Builder": null
       },
       "3": {
         "Doer": "- Ne pas accepter de brief et faire un rdv de 45min à 1h avec le client pour définir le besoin",
-        "Leader": NaN,
+        "Leader": null,
         "Builder": "- Demander du feedback rapidement via une approche omnicanal et l'obtenir en moins de 2 jours \n- Rédiger des CR candidats exhaustifs et activables avec des infos sur les hard skills, soft skills, le potentiel et la personnalité\n\n"
       },
       "4": {
@@ -709,8 +709,8 @@
         "Builder": "- Demander du feedback rapidement via une approche omnicanal et l'obtenir en moins de 2 jours \n- Rédiger des CR candidats exhaustifs et activables avec des infos sur les hard skills, soft skills, le potentiel, la personnalité et les triggers de stress et triggers de motivation du candidat \n"
       },
       "5": {
-        "Doer": NaN,
-        "Leader": NaN,
+        "Doer": null,
+        "Leader": null,
         "Builder": "'\n- Challenger le client via un kick-off de 46 questions\n- Définir le process conjointement et mettre en place un ATS partagé pour assurer transparence et communication efficace avec le client (Notion, Trello, Crew...) \n- A/B Testing et mise à jour régulière de son elevator pitch \n- Utilisation de techniques de vente, négociation et closing \n- Utilisation de templates de dossiers candidats optimisés avec les retours clients pour s'adapter à la préférence de chacun\n- Utiliser des techniques de copywriting pour vendre ses candidats\n- Contrecarrer les biais de conformité et d'ancrage de son client\n- Manager son client pour avoir un feedback en 24h \n- Ritualiser son temps via des plages d'activités dédiées\n- Utiliser une checklist décisionnelle pour accepter ou refuser des missions"
       }
     }
