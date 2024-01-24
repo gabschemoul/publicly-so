@@ -1,5 +1,6 @@
-
+console.log("1")
   document.addEventListener('DOMContentLoaded', () => {
+    console.log("2")
     window.dataLayer = window.dataLayer || [];
     document.querySelectorAll('.ga4-event').forEach(item => {
         item.addEventListener('click', () => {
