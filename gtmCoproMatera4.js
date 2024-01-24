@@ -9,9 +9,15 @@ document.addEventListener('DOMContentLoaded', () => {
       let stepChoice;
 
       if (stepName === 'lead_form_copro_4') {
-        // Pour les radio buttons, on récupère le 'name' du radio button sélectionné
-        const selectedRadio = currentSlide.querySelector('input[type="radio"]:checked');
-        stepChoice = selectedRadio ? selectedRadio.name : '';
+        // Pour les checkboxes, on récupère le texte du span associé si la checkbox est cochée
+        let choices = [];
+        currentSlide.querySelectorAll('.w-checkbox-input').forEach(checkboxDiv => {
+          if (checkboxDiv.classList.contains('w--redirected-checked')) {
+            const labelSpan = checkboxDiv.nextElementSibling;
+            choices.push(labelSpan.innerText.trim());
+          }
+        });
+        stepChoice = choices.join(',');
       } else if (stepName === 'lead_form_copro_5') {
         // Pour les multiples champs, on construit un objet avec les pairs "key: value"
         let formValues = {};
@@ -20,7 +26,7 @@ document.addEventListener('DOMContentLoaded', () => {
             formValues[field.name] = field.value;
           }
         });
-        stepChoice = formValues;
+        stepChoice = JSON.stringify(formValues); // Convertir l'objet en chaîne de caractères JSON
       } else {
         // Pour les autres cas, on continue comme avant
         let choices = [];
