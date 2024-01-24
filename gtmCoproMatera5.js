@@ -9,26 +9,22 @@ document.addEventListener('DOMContentLoaded', () => {
       let stepChoice;
 
       if (stepName === 'lead_form_copro_4') {
-        // Pour les checkboxes, on récupère le texte du span associé si la checkbox est cochée
         let choices = [];
-        currentSlide.querySelectorAll('.w-checkbox-input').forEach(checkboxDiv => {
-          if (checkboxDiv.classList.contains('w--redirected-checked')) {
-            const labelSpan = checkboxDiv.nextElementSibling;
-            choices.push(labelSpan.innerText.trim());
-          }
+        currentSlide.querySelectorAll('.w-checkbox-input.w--redirected-checked + input').forEach(input => {
+          const labelText = input.nextElementSibling.innerText.trim();
+          console.log(input.nextElementSibling.innerText)
+          choices.push(labelText);
         });
         stepChoice = choices.join(',');
       } else if (stepName === 'lead_form_copro_5') {
-        // Pour les multiples champs, on construit un objet avec les pairs "key: value"
         let formValues = {};
         currentSlide.querySelectorAll('input, textarea, select').forEach(field => {
           if (field.value) {
             formValues[field.name] = field.value;
           }
         });
-        stepChoice = JSON.stringify(formValues); // Convertir l'objet en chaîne de caractères JSON
+        stepChoice = JSON.stringify(formValues);
       } else {
-        // Pour les autres cas, on continue comme avant
         let choices = [];
         currentSlide.querySelectorAll('input[type="checkbox"]:checked, input[type="radio"]:checked, input[type="text"], input[type="number"], textarea, select').forEach(field => {
           if (field.value) {
