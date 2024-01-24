@@ -1,4 +1,4 @@
-<script>
+
   document.addEventListener('DOMContentLoaded', () => {
     window.dataLayer = window.dataLayer || [];
     document.querySelectorAll('.ga4-event').forEach(item => {
@@ -11,4 +11,3 @@
         });
     });
   });
-</script>
