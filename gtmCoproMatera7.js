@@ -1,4 +1,13 @@
 document.addEventListener('DOMContentLoaded', () => {
+  let counter = 1
+  const nextButton = document.getElementById("next-button-change-form")
+  const previousButton = document.getElementById("previous-button-change-form")
+  const submitButton = document.getElementById("btn-submit-change-syndic")
+  const radioWrappers = document.querySelectorAll('.multi-step-radio-button');
+  const zipcodeInput = document.getElementById("zipcode-input");
+  const selectFields = document.querySelectorAll('.multi-step-form-select');
+  const radioButtonsLeadType = document.querySelectorAll('input[name="lead_type"]');
+  const checkboxes = document.querySelectorAll('.checkbox');
   window.dataLayer = window.dataLayer || [];
 
   document.querySelectorAll('.ga4-event').forEach(item => {
