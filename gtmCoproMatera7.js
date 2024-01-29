@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', () => {
       }
 
       window.dataLayer.push({
-        
+        'event': 'Next_lead_form_step_clicked',
         'step_name': stepName,
         'step_choice': stepChoice,
         'page_type': 'lead_form_copro'
