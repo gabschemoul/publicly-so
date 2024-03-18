@@ -252,7 +252,8 @@ var shareButton = document.getElementById('shareLinkedIn');
         "Le but : faire avancer ce métier vers + d’efficience et de reconnaissance !\n\n" +
         "Et t’indiquer comment progresser 💙\n\n" +
         "#BlendyTest";
-      var linkedInUrl = "https://www.linkedin.com/shareArticle?mini=true&url=VOTRE_URL&title=VOTRE_TITRE&summary=" + encodeURIComponent(textToShare);
+      var imageToShare = "https://uploads-ssl.webflow.com/6405d1806a19aa8f47771c03/65f8447869ff65194eee0bff_result.svg";
+      var linkedInUrl = "https://www.linkedin.com/shareArticle?mini=true&url=VOTRE_URL&title=VOTRE_TITRE&summary=" + encodeURIComponent(textToShare) + "&source=" + encodeURIComponent(imageToShare);
       
       window.open(linkedInUrl, '_blank');
     });
