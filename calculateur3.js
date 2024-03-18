@@ -237,7 +237,7 @@ updateProgressBar();
 updateFinalResult();
 
 var shareButton = document.getElementById('shareLinkedIn');
-  
+
   if (shareButton) {
     shareButton.addEventListener('click', function() {
       var textToShare = "Blendy m’a noté et j’étais pas prêt 😜\n\n" +
@@ -253,8 +253,10 @@ var shareButton = document.getElementById('shareLinkedIn');
         "Et t’indiquer comment progresser 💙\n\n" +
         "#BlendyTest";
       var imageToShare = "https://uploads-ssl.webflow.com/6405d1806a19aa8f47771c03/65f8447869ff65194eee0bff_result.svg";
-      var linkedInUrl = "https://www.linkedin.com/shareArticle?mini=true&url=VOTRE_URL&title=VOTRE_TITRE&summary=" + encodeURIComponent(textToShare) + "&source=" + encodeURIComponent(imageToShare);
       
+      var linkedInUrl = "https://www.linkedin.com/sharing/share-offsite/?url=" + encodeURIComponent(imageToShare) +
+                        "&summary=" + encodeURIComponent(textToShare);
+
       window.open(linkedInUrl, '_blank');
     });
   }
