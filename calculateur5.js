@@ -10,6 +10,9 @@ var totalCompetences = 20;
 var progressBar = document.getElementById('progressBar');
 var progressHeading = document.getElementById('progressHeading');
 var selectProfile = document.getElementById('selectProfile');
+var downloadButton = document.getElementById('imageLinkedIn');
+var imageUrl;
+var imageName = 'result.svg';
 
 function updateCategoryTextScores() {
 Object.keys(splittedScores).forEach(categoryKey => {
@@ -65,6 +68,18 @@ function getCategoryKey(categoryName) {
       return categoryMap[categoryName] || null;
 }
 
+if (downloadButton) {
+    downloadButton.addEventListener('click', function() {
+      // Créez un élément a et déclenchez le téléchargement
+      var link = document.createElement('a');
+      link.href = imageUrl;
+      link.download = imageName;
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+    });
+  }
+
 function updateFinalResult() {
       var totalScore = Object.values(scores).reduce((sum, {score}) => sum + score, 0);
       var scoreElement = document.getElementById('resultScore');
@@ -81,22 +96,27 @@ function updateFinalResult() {
           resultImage.src = 'https://uploads-ssl.webflow.com/6405d1806a19aa8f47771c03/6405e06b9cc6e0b1019cf5c1_Group%20516.svg';
           resultNameElement.textContent = 'Padawan';
           resultNextElement.textContent = 'Initié.e';
+          imageUrl = 'https://uploads-ssl.webflow.com/6405d1806a19aa8f47771c03/65f8447869ff65194eee0bff_result.svg';
         } else if (finalScore <= 49) {
           resultImage.src = 'https://uploads-ssl.webflow.com/6405d1806a19aa8f47771c03/6405e06fe7edab6b4dd61572_Group%20418.svg';
           resultNameElement.textContent = 'Initié.e';
           resultNextElement.textContent = 'Futur Tshaped';
+          imageUrl = 'https://uploads-ssl.webflow.com/6405d1806a19aa8f47771c03/65f8454c8fde2a7b74dd7eeb_result2.svg';
         } else if (finalScore <= 69) {
           resultImage.src = 'https://uploads-ssl.webflow.com/6405d1806a19aa8f47771c03/6405e06d133ebf1eb55a2d37_Group%20438.svg';
           resultNameElement.textContent = 'Futur Tshaped';
           resultNextElement.textContent = 'Tshaped recruteur';
+          imageUrl = 'https://uploads-ssl.webflow.com/6405d1806a19aa8f47771c03/65f8454cf5b9b2295757b7dd_result3.svg';
         } else if (finalScore <= 89) {
           resultImage.src = 'https://uploads-ssl.webflow.com/6405d1806a19aa8f47771c03/6405e0756389f9885c9decb1_Group%20494.svg';
           resultNameElement.textContent = 'Tshaped recruteur';
           resultNextElement.textContent = 'Super Tshaped recruteur';
+          imageUrl = 'https://uploads-ssl.webflow.com/6405d1806a19aa8f47771c03/65f8454c366741303fa12666_result4.svg';
         } else {
           resultImage.src = 'https://uploads-ssl.webflow.com/6405d1806a19aa8f47771c03/6405e071d2fd13841464ece1_Group%20502.svg';
           resultNameElement.textContent = 'Super Tshaped recruteur';
           resultNextElement.textContent = 'Vous êtes au top !';
+          imageUrl = 'https://uploads-ssl.webflow.com/6405d1806a19aa8f47771c03/65f84567c72005c3ac0335b5_result5.svg';
         }
 
         calculatorResultWrapper.style.display = 'grid';
