@@ -14,6 +14,27 @@ var downloadButton = document.getElementById('imageLinkedIn');
 var imageUrl;
 var imageName = 'result.svg';
 
+var fillButton = document.getElementById('fill');
+
+  if (fillButton) {
+    fillButton.addEventListener('click', function() {
+      // Sélectionnez tous les boutons de choix de compétences
+      var choiceWrappers = document.querySelectorAll('.skill-card_choice-wrapper');
+
+      choiceWrappers.forEach(function(choiceWrapper) {
+        // Choisissez une note aléatoire entre 0 et 5
+        var randomScore = Math.floor(Math.random() * 6);
+        // Trouvez le bouton qui correspond au score aléatoire
+        var buttonToClick = choiceWrapper.querySelector(`.skill-card_choice[data-score='${randomScore}']`);
+
+        if (buttonToClick) {
+          // "Cliquez" sur le bouton pour attribuer la note
+          buttonToClick.click();
+        }
+      });
+    });
+  }
+
 function updateCategoryTextScores() {
 Object.keys(splittedScores).forEach(categoryKey => {
 const { score, maxScore } = splittedScores[categoryKey];
@@ -69,11 +90,13 @@ function getCategoryKey(categoryName) {
 }
 
 if (downloadButton) {
-    downloadButton.addEventListener('click', function() {
+    downloadButton.addEventListener('click', function(e) {
+      e.preventDefault();
+
       // Créez un élément a et déclenchez le téléchargement
       var link = document.createElement('a');
       link.href = imageUrl;
-      link.download = imageName;
+      link.setAttribute('download', imageName); // Assurez-vous de définir l'attribut 'download'
       document.body.appendChild(link);
       link.click();
       document.body.removeChild(link);
