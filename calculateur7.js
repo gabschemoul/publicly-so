@@ -18,8 +18,10 @@ var fillButton = document.getElementById('fill');
 
   if (fillButton) {
     fillButton.addEventListener('click', function() {
+      console.log("click fill")
       // Sélectionnez tous les boutons de choix de compétences
       var choiceWrappers = document.querySelectorAll('.skill-card_choice-wrapper');
+      console.log("choiceWrappers: " + choiceWrappers.length)
 
       choiceWrappers.forEach(function(choiceWrapper) {
         // Choisissez une note aléatoire entre 0 et 5
