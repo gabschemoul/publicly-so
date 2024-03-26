@@ -300,12 +300,12 @@ const leadTypeChoice = prospect['lead_type'];
 let redirectUrl = `/fr/v2-demo-extra-details?demo_request_key=${demo_request_key}&awin_id=${awin_id}&owner_type=${owner_type || ""}&former_management=${former_management || ""}&lead_type=${leadTypeChoice || ""}&zipcode=${zipcodeChoice || ""}&number_lots=${numberLotsChoice || ""}`;
 
 if (formerManagementChoice === 'volunteer') {
-    redirectUrl = `/fr/v2-demo-extra-details-benevole?demo_request_key=${demo_request_key}&awin_id=${awin_id}&owner_type=${owner_type || ""}&former_management=${former_management || ""}&lead_type=${lead_type || ""}&zipcode=${zipcode || ""}&number_lots=${number_lots || ""}`;
+    redirectUrl = `/fr/v2-demo-extra-details-benevole?demo_request_key=${demo_request_key}&awin_id=${awin_id}&owner_type=${owner_type || ""}&former_management=${former_management || ""}&lead_type=${leadTypeChoice || ""}&zipcode=${zipcodeChoice || ""}&number_lots=${numberLotsChoice || ""}`;
   } else if (formerManagementChoice === 'professional') {
     if (numberLotsChoice === '2') {
-      redirectUrl = `/fr/v2-demo-extra-details-pro-moins-15?demo_request_key=${demo_request_key}&awin_id=${awin_id}&owner_type=${owner_type || ""}&former_management=${former_management || ""}&lead_type=${lead_type || ""}&zipcode=${zipcode || ""}&number_lots=${number_lots || ""}`;
+      redirectUrl = `/fr/v2-demo-extra-details-pro-moins-15?demo_request_key=${demo_request_key}&awin_id=${awin_id}&owner_type=${owner_type || ""}&former_management=${former_management || ""}&lead_type=${leadTypeChoice || ""}&zipcode=${zipcodeChoice || ""}&number_lots=${numberLotsChoice || ""}`;
     } else if (['16', '51'].includes(numberLotsChoice)) {
-redirectUrl = `/fr/v2-demo-extra-details-pro-plus-15?demo_request_key=${demo_request_key}&awin_id=${awin_id}&owner_type=${owner_type || ""}&former_management=${former_management || ""}&lead_type=${lead_type || ""}&zipcode=${zipcode || ""}&number_lots=${number_lots || ""}`;
+redirectUrl = `/fr/v2-demo-extra-details-pro-plus-15?demo_request_key=${demo_request_key}&awin_id=${awin_id}&owner_type=${owner_type || ""}&former_management=${former_management || ""}&lead_type=${leadTypeChoice || ""}&zipcode=${zipcodeChoice || ""}&number_lots=${numberLotsChoice || ""}`;
     }
   }
 window.location.replace(redirectUrl)} else {document.getElementsByClassName("w-form-fail")[0].style.display = "block"
