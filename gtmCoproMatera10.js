@@ -294,8 +294,10 @@ const {demo_request_key, awin_id, owner_type, former_management, lead_type, zipc
 
 const formerManagementChoice = prospect['former_management'];
 const numberLotsChoice = prospect['number_lots'];
+const zipcodeChoice = prospect['zipcode'];
+const leadTypeChoice = prospect['lead_type'];
 
-let redirectUrl = `/fr/v2-demo-extra-details?demo_request_key=${demo_request_key}&awin_id=${awin_id}&owner_type=${owner_type || ""}&former_management=${former_management || ""}&lead_type=${lead_type || ""}&zipcode=${zipcode || ""}&number_lots=${number_lots || ""}`;
+let redirectUrl = `/fr/v2-demo-extra-details?demo_request_key=${demo_request_key}&awin_id=${awin_id}&owner_type=${owner_type || ""}&former_management=${former_management || ""}&lead_type=${leadTypeChoice || ""}&zipcode=${zipcodeChoice || ""}&number_lots=${numberLotsChoice || ""}`;
 
 if (formerManagementChoice === 'volunteer') {
     redirectUrl = `/fr/v2-demo-extra-details-benevole?demo_request_key=${demo_request_key}&awin_id=${awin_id}&owner_type=${owner_type || ""}&former_management=${former_management || ""}&lead_type=${lead_type || ""}&zipcode=${zipcode || ""}&number_lots=${number_lots || ""}`;
