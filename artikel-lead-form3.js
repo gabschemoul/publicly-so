@@ -176,13 +176,13 @@ nextButton.classList.remove("disable")
     }
 
 const setHeigthActionsButtonsMobile = () => {
-   if (submitButton && counter === LAST_STEP ) {
+   /*if (submitButton && counter === LAST_STEP ) {
      submitButton.style.top = `${STEPS_NAVIGATION_BUTTON_TOP_NEXT_MOBILE[`step_${counter}`]}em`
      submitButton.style.display = "block"
    }
    if (submitButton && counter !== LAST_STEP) submitButton.style.display = "none"
    if (nextButton) nextButton.style.top = `${STEPS_NAVIGATION_BUTTON_TOP_NEXT_MOBILE[`step_${counter}`]}em`
-   if (previousButton) previousButton.style.top = `${STEPS_NAVIGATION_BUTTON_TOP_PREV_MOBILE[`step_${counter}`]}em`
+   if (previousButton) previousButton.style.top = `${STEPS_NAVIGATION_BUTTON_TOP_PREV_MOBILE[`step_${counter}`]}em`*/
 }
 
 const updateProgressBar = (counter) => {
