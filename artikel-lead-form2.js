@@ -66,7 +66,7 @@
     });
 
 
-const bar = new ProgressBar.Line(document.getElementById("progress-bar"), {
+/*const bar = new ProgressBar.Line(document.getElementById("progress-bar"), {
 strokeWidth: 20,
 easing: 'easeInOut',
 duration: 1400,
@@ -76,7 +76,7 @@ trailWidth: 20,
 svgStyle: {width: '100%', height: '100%'}
 });
 
-bar.animate(0.16)
+bar.animate(0.16)*/
     
 
 const former_management_inputs = Array.from(document.getElementsByName("former_management"))
@@ -186,7 +186,7 @@ const setHeigthActionsButtonsMobile = () => {
 }
 
 const updateProgressBar = (counter) => {
-bar.animate(STEPS_PROGRESS_BAR[`step_${counter}`]);
+//bar.animate(STEPS_PROGRESS_BAR[`step_${counter}`]);
 }
 
 const setNextButtonClass = () => {
