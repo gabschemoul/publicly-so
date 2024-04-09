@@ -108,7 +108,7 @@ phoneValid = false;
 for (let v of submitVerifications) {
 if ($(v).val().length == 0) inputsEmpty = true;
 }
-phoneValid = validatePhone($("#unbounce_phone_number").val());
+phoneValid = validatePhone($("#phone_number").val());
 if (phoneValid && !inputsEmpty) {
 submitButton.classList.remove("disable");
 } else {
@@ -138,7 +138,7 @@ submitButton.classList.remove("disable")
 const zipCodeValidation = (counter) => {
 if (counter === 4){
 nextButton.classList.add("disable")
-document.getElementById('unbounce_zipcode').onkeyup = function(e) {
+document.getElementById('zipcode').onkeyup = function(e) {
 if (e.currentTarget.value.length == 5){
 nextButton.classList.remove("disable")
 } else {
@@ -152,18 +152,15 @@ nextButton.classList.remove("disable")
 
 
     const setHeigthActionsButtons = () => {
-      console.log("setHeigthActionsButtons")
       if (submitButton && counter === LAST_STEP ) {
         submitButton.style.top = `${STEPS_NAVIGATION_BUTTON_TOP_NEXT[`step_${counter}`]}em`
         submitButton.style.display = "block"
       }
       if (submitButton && counter !== LAST_STEP) submitButton.style.display = "none"
       if (nextButton) {
-        console.log("nextButton: " + `${STEPS_NAVIGATION_BUTTON_TOP_NEXT[`step_${counter}`]}em`)
         nextButton.style.top = `${STEPS_NAVIGATION_BUTTON_TOP_NEXT[`step_${counter}`]}em`
       }
       if (previousButton) {
-        console.log("previousButton: " + `${STEPS_NAVIGATION_BUTTON_TOP_PREV[`step_${counter}`]}em`)
         previousButton.style.top = `${STEPS_NAVIGATION_BUTTON_TOP_PREV[`step_${counter}`]}em`
       }
     }
