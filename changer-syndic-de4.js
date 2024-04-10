@@ -245,7 +245,7 @@ if (previousButton) previousButton.addEventListener("click", decrementCounter)
           const numberLotsChoice = prospect['number_lots'];
           const leadTypeChoice = prospect['lead_type'];
           
-          let redirectUrl = `/de/danke?former_management=${former_management || ""}&lead_type=${leadTypeChoice || ""}&number_lots=${numberLotsChoice || ""}`;
+          let redirectUrl = `/de/danke?demo_request_key=${demo_request_key}&awin_id=${awin_id}&owner_type=${owner_type || ""}&former_management=${former_management || ""}&lead_type=${leadTypeChoice || ""}&number_lots=${numberLotsChoice || ""}`;
           window.location.replace(redirectUrl)
         } else {
           document.getElementsByClassName("w-form-fail")[0].style.display = "block"
