@@ -241,7 +241,12 @@ if (previousButton) previousButton.addEventListener("click", decrementCounter)
           const res = xhttp.responseText
           const {result} = JSON.parse(res)
           const {demo_request_key, awin_id, owner_type, former_management} = result
-          window.location.replace("/de/danke")
+          const formerManagementChoice = prospect['former_management'];
+          const numberLotsChoice = prospect['number_lots'];
+          const leadTypeChoice = prospect['lead_type'];
+          
+          let redirectUrl = `/de/danke?former_management=${former_management || ""}&lead_type=${leadTypeChoice || ""}&number_lots=${numberLotsChoice || ""}`;
+          window.location.replace(redirectUrl)
         } else {
           document.getElementsByClassName("w-form-fail")[0].style.display = "block"
         }
