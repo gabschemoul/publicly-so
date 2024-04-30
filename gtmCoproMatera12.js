@@ -197,6 +197,12 @@ nextButton.classList.remove("disable")}else{nextButton.classList.add("disable")}
 nextButton.classList.remove("disable")
 }}
 
+function validateEmail(email) {
+  const emailRegex = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,6}$/;
+
+  return emailRegex.test(email);
+}
+
 function validateForm(submitVerifications) {
 inputsEmpty = false;
 phoneValid = false;
@@ -204,7 +210,8 @@ for (let v of submitVerifications) {
 if ($(v).val().length == 0) inputsEmpty = true;
 }
 phoneValid = validatePhone($("#phone_number").val());
-if (phoneValid && !inputsEmpty) {submitButton.classList.remove("disable");
+emailValid = validateEmail($("#email").val());
+if (emailValid && phoneValid && !inputsEmpty) {submitButton.classList.remove("disable");
 }else{
 submitButton.classList.add("disable");}}
 
