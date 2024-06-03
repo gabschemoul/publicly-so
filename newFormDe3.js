@@ -170,7 +170,7 @@ nextButton.classList.add("disable")
   
 function validatePhone(num){
 if(num.indexOf('+49')!=-1) num = num.replace('+49', '0');
-var re = /^[0-9]{7,12}$/;
+var re = /^[0-9]{7,13}$/;
 return re.test(num);
 }
 
@@ -305,7 +305,7 @@ const numberLotsChoice = prospect['number_lots'];
 const zipcodeChoice = prospect['zipcode'];
 const leadTypeChoice = prospect['lead_type'];
 
-let redirectUrl = `/de/v2-demo-extra-details-de?demo_request_key=${demo_request_key}&awin_id=${awin_id}&owner_type=${owner_type || ""}&former_management=${former_management || ""}&lead_type=${leadTypeChoice || ""}&zipcode=${zipcodeChoice || ""}&number_lots=${numberLotsChoice || ""}`;
+let redirectUrl = `/de/kostenvoranschlag-2?demo_request_key=${demo_request_key}&awin_id=${awin_id}&owner_type=${owner_type || ""}&former_management=${former_management || ""}&lead_type=${leadTypeChoice || ""}&zipcode=${zipcodeChoice || ""}&number_lots=${numberLotsChoice || ""}`;
 
 window.location.replace(redirectUrl)} else {document.getElementsByClassName("w-form-fail")[0].style.display = "block"
 }}}
