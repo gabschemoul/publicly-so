@@ -167,9 +167,10 @@ this.style.color = "white";
 });
 });
 nextButton.classList.add("disable")
+  
 function validatePhone(num){
-if(num.indexOf('+33')!=-1) num = num.replace('+33', '0');
-var re = /^0[6-7]\d{8}$/;
+if(num.indexOf('+49')!=-1) num = num.replace('+49', '0');
+var re = /^[0-9]{7,12}$/;
 return re.test(num);
 }
 
