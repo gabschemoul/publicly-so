@@ -1,0 +1,2722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Won deals list.xlsx</name>
+    <Style id="icon-1603-01579B-normal">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-01579B-highlight">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1603-01579B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-01579B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-01579B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>(S)(2) Jozipovic - Georg-Schwarz-Str 167 - 04179 Leipzig - 9 units (Copy)</name>
+      <address>(S)(2) Jozipovic - Georg-Schwarz-Str 167 - 04179 Leipzig - 9 units (Copy) Georg-Schwarz-Str. 167 04179 Leipzig</address>
+      <description>Georg-Schwarz-Str. 167 04179 Leipzig</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Uhlig - Am Kortländer 20 - 44787 - Bochum - 4 units</name>
+      <address>(S) Uhlig - Am Kortländer 20 - 44787 - Bochum - 4 units Am Kortländer 20 44787 Bochum</address>
+      <description>Am Kortländer 20 44787 Bochum</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Muck - Kleinschmidtstraße 13 - 60431 - Frankfurt am Main - 3 units</name>
+      <address>(S) Muck - Kleinschmidtstraße 13 - 60431 - Frankfurt am Main - 3 units Kleinschmidtstraße 13 60431 Frankfurt am Main</address>
+      <description>Kleinschmidtstraße 13 60431 Frankfurt am Main</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Palm - Hauptstr. 73 und Schulstr. 62 a und 62 b - 79364 - Malterdingen - 18 units (Copy)</name>
+      <address>(S) Palm - Hauptstr. 73 und Schulstr. 62 a und 62 b - 79364 - Malterdingen - 18 units (Copy) Hauptstr. 73 79364 Malterdingen</address>
+      <description>Hauptstr. 73 79364 Malterdingen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S)(2) Bürle - Sonnenrainweg 11 - 71297 - Mönsheim - 2 units</name>
+      <address>(S)(2) Bürle - Sonnenrainweg 11 - 71297 - Mönsheim - 2 units Sonnenrainweg 11  71297 Mönsheim</address>
+      <description>Sonnenrainweg 11  71297 Mönsheim</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Heine - Mannertstraße 26 80997 - München  - 6 units</name>
+      <address>(S) Heine - Mannertstraße 26 80997 - München  - 6 units Mannertstraße 26  80997 München</address>
+      <description>Mannertstraße 26  80997 München</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Antunovic - Katharinenstraße 58 - 73728 - Esslingen - 4 units (Copy)</name>
+      <address>(S) Antunovic - Katharinenstraße 58 - 73728 - Esslingen - 4 units (Copy) Katharinenstraße 58 73728 Esslingen</address>
+      <description>Katharinenstraße 58 73728 Esslingen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Sacher - Füssener Straße 35 - 82383 - Hohenpeißenberg  - 3 units</name>
+      <address>(S) Sacher - Füssener Straße 35 - 82383 - Hohenpeißenberg  - 3 units Füssener Straße 35 82383 Hohenpeißenberg</address>
+      <description>Füssener Straße 35 82383 Hohenpeißenberg</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S)(2) Bormann - Mainzer Straße 183 - 53179 - Bonn - 4 units</name>
+      <address>(S)(2) Bormann - Mainzer Straße 183 - 53179 - Bonn - 4 units Mainzer Straße 183 53179 Bonn</address>
+      <description>Mainzer Straße 183 53179 Bonn</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Lindemann - Seeblickstr. 9 - 78253 - Eigeltingen - 4 units (Copy)</name>
+      <address>(S) Lindemann - Seeblickstr. 9 - 78253 - Eigeltingen - 4 units (Copy) Seeblickstr. 9 78253 Eigeltingen</address>
+      <description>Seeblickstr. 9 78253 Eigeltingen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Platiel - Hanweiler Straße 36 - 71404 - Korb - 5 units</name>
+      <address>(S) Platiel - Hanweiler Straße 36 - 71404 - Korb - 5 units Hanweiler Straße 36 71404 Korb</address>
+      <description>Hanweiler Straße 36 71404 Korb</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Weingarten - Finkenweg 22-34 - 93059 - Regensburg - 7 units</name>
+      <address>(S) Weingarten - Finkenweg 22-34 - 93059 - Regensburg - 7 units Finkenweg 22-34 93059 Regensburg</address>
+      <description>Finkenweg 22-34 93059 Regensburg</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Aytan  - Doktor-Rosa-Goldschmidt Straße 41-59 - 63075 - Offenbach - 10 units</name>
+      <address>(S) Aytan  - Doktor-Rosa-Goldschmidt Straße 41-59 - 63075 - Offenbach - 10 units Doktor-Rosa-Goldschmidt Straße 41-59 63075 Offenbach</address>
+      <description>Doktor-Rosa-Goldschmidt Straße 41-59 63075 Offenbach</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Wolbers - Koppelweg 8a - 30826 - Garbsen - 6 units</name>
+      <address>(S) Wolbers - Koppelweg 8a - 30826 - Garbsen - 6 units Koppelweg 8 30826 Garbsen</address>
+      <description>Koppelweg 8 30826 Garbsen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Subiyakto - Mainzer Straße 1 - 65719 - Hofheim am Taunus - 4 units</name>
+      <address>(S) Subiyakto - Mainzer Straße 1 - 65719 - Hofheim am Taunus - 4 units Mainzer Straße 1 65719 Hofheim am Taunus</address>
+      <description>Mainzer Straße 1 65719 Hofheim am Taunus</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Weindl - Heimenhofenstraße 1 - 87545 - Burgberg im Allgäu - 6 units</name>
+      <address>(S) Weindl - Heimenhofenstraße 1 - 87545 - Burgberg im Allgäu - 6 units Heimenhofenstraße 1 87545 Burgberg im Allgäu</address>
+      <description>Heimenhofenstraße 1 87545 Burgberg im Allgäu</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Genthner - Zum Steinberg 59 - 69121 - Heidelberg - 4 units (Copy)</name>
+      <address>(S) Genthner - Zum Steinberg 59 - 69121 - Heidelberg - 4 units (Copy) Zum Steinberg 59 69121 Heidelberg</address>
+      <description>Zum Steinberg 59 69121 Heidelberg</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Forster - Ludwigstraße 13 - 64342 - Seeheim - Jugenheim - 6 units</name>
+      <address>(S) Forster - Ludwigstraße 13 - 64342 - Seeheim - Jugenheim - 6 units Ludwigstraße 13 64342 Seeheim - Jugenheim</address>
+      <description>Ludwigstraße 13 64342 Seeheim - Jugenheim</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S)(2) Braun - Graf-Adolf-Str. 13 - 58239 - Schwerte - 5 units</name>
+      <address>(S)(2) Braun - Graf-Adolf-Str. 13 - 58239 - Schwerte - 5 units Graf-Adolf-Str. 13 58239 Schwerte</address>
+      <description>Graf-Adolf-Str. 13 58239 Schwerte</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Hikade - Am Gemeindegarten 5 - 65933 - Frankfurt am Main - 3 units</name>
+      <address>(S) Hikade - Am Gemeindegarten 5 - 65933 - Frankfurt am Main - 3 units Am Gemeindegarten 5  65933 Frankfurt am Main</address>
+      <description>Am Gemeindegarten 5  65933 Frankfurt am Main</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Hoffmann - Zschopaustraße 44/46 - 74172 - Neckarsulm - 5 units</name>
+      <address>(S) Hoffmann - Zschopaustraße 44/46 - 74172 - Neckarsulm - 5 units Zschopaustraße 44/46  74172 Neckarsulm</address>
+      <description>Zschopaustraße 44/46  74172 Neckarsulm</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Klocke - Karlstraße 14 + 14a - 45661 - Recklinghausen - 7 units</name>
+      <address>(S) Klocke - Karlstraße 14 + 14a - 45661 - Recklinghausen - 7 units Karlstraße 14 + 14a 45661 Recklinghausen</address>
+      <description>Karlstraße 14 + 14a 45661 Recklinghausen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Fritz - Venusbergweg 37 - 53115 - Bonn - 5 units</name>
+      <address>(S) Fritz - Venusbergweg 37 - 53115 - Bonn - 5 units Venusbergweg 37  53115 Bonn</address>
+      <description>Venusbergweg 37  53115 Bonn</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Kluth - Neubruchweg 29 - 82205 - Gilching - 6 units (Copy)</name>
+      <address>(S) Kluth - Neubruchweg 29 - 82205 - Gilching - 6 units (Copy) Neubruchweg 29  82205 Gilching</address>
+      <description>Neubruchweg 29  82205 Gilching</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Burkhardt - Im Lerchenholz 23 - 71636 - Ludwigsburg - 3 units</name>
+      <address>(S) Burkhardt - Im Lerchenholz 23 - 71636 - Ludwigsburg - 3 units Im Lerchenholz 23  71636 Ludwigsburg</address>
+      <description>Im Lerchenholz 23  71636 Ludwigsburg</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Spiegel  - Heiderhöfen 111 - 46049 - Oberhausen</name>
+      <address>(S) Spiegel  - Heiderhöfen 111 - 46049 - Oberhausen Heiderhöfen 111 46049 Oberhausen</address>
+      <description>Heiderhöfen 111 46049 Oberhausen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[(S) Jeruschkat - Heiderhöfen 113&115 - 46049 Oberhausen - 14 units (Copy)]]></name>
+      <address><![CDATA[(S) Jeruschkat - Heiderhöfen 113&115 - 46049 Oberhausen - 14 units (Copy) Heiderhöfen 113&115 46049 Oberhausen]]></address>
+      <description><![CDATA[Heiderhöfen 113&115 46049 Oberhausen]]></description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Löw - Albert-Einstein-Straße 30 - 60437 - Frankfurt am Main - 5 units</name>
+      <address>(S) Löw - Albert-Einstein-Straße 30 - 60437 - Frankfurt am Main - 5 units Albert-Einstein-Straße 30 60437 Frankfurt am Main</address>
+      <description>Albert-Einstein-Straße 30 60437 Frankfurt am Main</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Leschik - Auf der Steinrausch 8 - 56295 - Lonnig - 3 units</name>
+      <address>(S) Leschik - Auf der Steinrausch 8 - 56295 - Lonnig - 3 units Auf der Steinrausch 8 56295 Lonnig</address>
+      <description>Auf der Steinrausch 8 56295 Lonnig</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Wolber - Elsässer Straße 20 - 77694 - Kehl am Rhein - 8 units</name>
+      <address>(S) Wolber - Elsässer Straße 20 - 77694 - Kehl am Rhein - 8 units Elsässer Straße 20 77694 Kehl am Rhein</address>
+      <description>Elsässer Straße 20 77694 Kehl am Rhein</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Schacht - Römerweg 11 - 61449 - Steinbach (Taunus) - 6 units</name>
+      <address>(S) Schacht - Römerweg 11 - 61449 - Steinbach (Taunus) - 6 units Römerweg 11 61449 Steinbach (Taunus)</address>
+      <description>Römerweg 11 61449 Steinbach (Taunus)</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Güngör - Kirchstraße 26/1 - 89233 Neu-Ulm - 3 units</name>
+      <address>(S) Güngör - Kirchstraße 26/1 - 89233 Neu-Ulm - 3 units Kirchstraße 26/1 89233 Neu-Ulm</address>
+      <description>Kirchstraße 26/1 89233 Neu-Ulm</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Wirth - Trabener Straße 68a - 14193 - Berlin - 5 units</name>
+      <address>(S) Wirth - Trabener Straße 68a - 14193 - Berlin - 5 units Trabener Straße 68 14193 Berlin</address>
+      <description>Trabener Straße 68 14193 Berlin</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Kaiser - Rudersbergerstraße 34 - 73614 - Schorndorf - 5 units</name>
+      <address>(S) Kaiser - Rudersbergerstraße 34 - 73614 - Schorndorf - 5 units Rudersbergerstraße 34 73614 Schorndorf</address>
+      <description>Rudersbergerstraße 34 73614 Schorndorf</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S)(2) Wiese -  Carl Severing Str. 78 - 33649 - Bielefeld - 4 units</name>
+      <address>(S)(2) Wiese -  Carl Severing Str. 78 - 33649 - Bielefeld - 4 units Carl Severin Str. 78 33649 Bielefeld</address>
+      <description>Carl Severin Str. 78 33649 Bielefeld</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Nowak - Salmbacherstraße 81 - 12349 - Berlin - 3 units</name>
+      <address>(S) Nowak - Salmbacherstraße 81 - 12349 - Berlin - 3 units Salmbacher Str. 81 12349 Berlin</address>
+      <description>Salmbacher Str. 81 12349 Berlin</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Kirchner - Sudetenlandstraße 76 - 85221 - Dachau - 3 units</name>
+      <address>(S) Kirchner - Sudetenlandstraße 76 - 85221 - Dachau - 3 units Sudetenlandstraße 76 85221  Dachau</address>
+      <description>Sudetenlandstraße 76 85221  Dachau</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Salomon - Heßler Straße 349 - 45329 - Essen - 4 units</name>
+      <address>(S) Salomon - Heßler Straße 349 - 45329 - Essen - 4 units Heßler Straße 349  45329 Essen</address>
+      <description>Heßler Straße 349  45329 Essen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Kecker - Münchinger Straße 34 - 71254 - Ditzingen - 5 units</name>
+      <address>(S) Kecker - Münchinger Straße 34 - 71254 - Ditzingen - 5 units Münchinger Str. 34 71254 Ditzingen</address>
+      <description>Münchinger Str. 34 71254 Ditzingen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Danielsen - Große Rainstraße 15 - 22765 - Hamburg - 4 units</name>
+      <address>(S) Danielsen - Große Rainstraße 15 - 22765 - Hamburg - 4 units Große Rainstraße 15 22765 Hamburg</address>
+      <description>Große Rainstraße 15 22765 Hamburg</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Soltau - Blankeneser Landstraße 5 - 22587 -Hamburg - 3 units</name>
+      <address>(S) Soltau - Blankeneser Landstraße 5 - 22587 -Hamburg - 3 units Blankeneser Landstraße 5 22587 Hamburg</address>
+      <description>Blankeneser Landstraße 5 22587 Hamburg</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Gumberger - Von-Kahr-Straße 23 - 80997 München - 4 units</name>
+      <address>(S) Gumberger - Von-Kahr-Straße 23 - 80997 München - 4 units Von-Kahr-Straße 23 - 80997 München</address>
+      <description>Von-Kahr-Straße 23 - 80997 München</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Borgardt - Wöhlerstraße 63 - 79618 - Rheinfelden - 6 units</name>
+      <address>(S) Borgardt - Wöhlerstraße 63 - 79618 - Rheinfelden - 6 units Wöhlerstraße 63 79618 Rheinfelden</address>
+      <description>Wöhlerstraße 63 79618 Rheinfelden</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Igewski - Halfinger Straße 28 - 81825 - München - 8 units</name>
+      <address>(S) Igewski - Halfinger Straße 28 - 81825 - München - 8 units Halfinger Straße 28  81825 München</address>
+      <description>Halfinger Straße 28  81825 München</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Akst - Lindenstraße 17 - 74395 - Mundelsheim - 6 units</name>
+      <address>(S) Akst - Lindenstraße 17 - 74395 - Mundelsheim - 6 units Lindenstraße 17 - 74395 Mundelsheim</address>
+      <description>Lindenstraße 17 - 74395 Mundelsheim</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Russlies - Sterngasse 123 - 64347 - Griesheim - 4 units (Copy)</name>
+      <address>(S) Russlies - Sterngasse 123 - 64347 - Griesheim - 4 units (Copy) Sterngasse 123  64347  Griesheim</address>
+      <description>Sterngasse 123  64347  Griesheim</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Büchner - Skylineblick 17 - 60438 - Frankfurt am Main - 3 units</name>
+      <address>(S) Büchner - Skylineblick 17 - 60438 - Frankfurt am Main - 3 units Skylineblick 17  60438  Frankfurt am Main</address>
+      <description>Skylineblick 17  60438  Frankfurt am Main</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) von Schmidsfeld - Christian-Grunert-Straße 1 - 04288 Leipzig - 4 units</name>
+      <address>(S) von Schmidsfeld - Christian-Grunert-Straße 1 - 04288 Leipzig - 4 units Christian-Grunert-Straße 1 - 04288 Leipzig</address>
+      <description>Christian-Grunert-Straße 1 - 04288 Leipzig</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Pfeffer - Graurheindorfer Straße 73 - 53111 - Bonn - 7 units</name>
+      <address>(S) Pfeffer - Graurheindorfer Straße 73 - 53111 - Bonn - 7 units Graurheindorfer Straße 73  53111 Bonn</address>
+      <description>Graurheindorfer Straße 73  53111 Bonn</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Habermann - Freseniusstraße 49 - 65193 - Wiesbaden - 6 units</name>
+      <address>(S) Habermann - Freseniusstraße 49 - 65193 - Wiesbaden - 6 units Freseniusstraße 49 65193 Wiesbaden</address>
+      <description>Freseniusstraße 49 65193 Wiesbaden</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Schenk - Hallgartenstraße 11 - 61250 - Usingen - 6 units</name>
+      <address>(S) Schenk - Hallgartenstraße 11 - 61250 - Usingen - 6 units Hallgartenstraße 11 61250 Usingen</address>
+      <description>Hallgartenstraße 11 61250 Usingen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Mehran - Kohlklinge 5-7 - 69469 - Weinheim - 5 units</name>
+      <address>(S) Mehran - Kohlklinge 5-7 - 69469 - Weinheim - 5 units Kohlklinge 5-7 69469  Weinheim</address>
+      <description>Kohlklinge 5-7 69469  Weinheim</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Ayasse - Auf der Haardt 7 - 75385 - Bad Teinach-Zavelstein - 5 units</name>
+      <address>(S) Ayasse - Auf der Haardt 7 - 75385 - Bad Teinach-Zavelstein - 5 units Auf der Haardt 7 75385 Bad Teinach-Zavelstein</address>
+      <description>Auf der Haardt 7 75385 Bad Teinach-Zavelstein</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Kempf - Kärntner Str. 35 - 71636 - Ludwigsburg - 3 units</name>
+      <address>(S) Kempf - Kärntner Str. 35 - 71636 - Ludwigsburg - 3 units Kärntner Str. 35 71636 Ludwigsburg</address>
+      <description>Kärntner Str. 35 71636 Ludwigsburg</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Dillenseger - Neißestraße 6 - 66740 - Saarlouis - 4 units</name>
+      <address>(S) Dillenseger - Neißestraße 6 - 66740 - Saarlouis - 4 units Neißestraße 6 66740 Saarlouis</address>
+      <description>Neißestraße 6 66740 Saarlouis</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Neugebauer - Lucian-Reich-Straße 13 - 76473 - Iffezheim - 5 units</name>
+      <address>(S) Neugebauer - Lucian-Reich-Straße 13 - 76473 - Iffezheim - 5 units Lucian-Reich-Straße 13 76473 Iffezheim</address>
+      <description>Lucian-Reich-Straße 13 76473 Iffezheim</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Witting - Überkinger Str. 16- 70372 - Stuttgart - 8 units</name>
+      <address>(S) Witting - Überkinger Str. 16- 70372 - Stuttgart - 8 units Überkinger Str. 16 70372 Stuttgart</address>
+      <description>Überkinger Str. 16 70372 Stuttgart</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Özkan - Burgstaller Str. 10 - 71397 - Leutenbach (BW) - 2units </name>
+      <address>(S) Özkan - Burgstaller Str. 10 - 71397 - Leutenbach (BW) - 2units  Burgstaller Str. 10 71397 Leutenbach</address>
+      <description>Burgstaller Str. 10 71397 Leutenbach</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S)(2) Tropitzsch - Herman-Löns-Weg 8 - 70619 - Stuttgart - 5 units (Copy)</name>
+      <address>(S)(2) Tropitzsch - Herman-Löns-Weg 8 - 70619 - Stuttgart - 5 units (Copy) Herman-Löns-Weg 8 - 70619 Stuttgart</address>
+      <description>Herman-Löns-Weg 8 - 70619 Stuttgart</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Kleinekort - Konviktstraße 21-23 - 79098 - Freiburg - 10 units</name>
+      <address>(S) Kleinekort - Konviktstraße 21-23 - 79098 - Freiburg - 10 units Konviktstraße 21-23  79098 Freiburg</address>
+      <description>Konviktstraße 21-23  79098 Freiburg</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Seja - Ludwig-Lesser-Str. 3-14 - 16761 - Hennigsdorf - 12 units</name>
+      <address>(S) Seja - Ludwig-Lesser-Str. 3-14 - 16761 - Hennigsdorf - 12 units Ludwig-Lesser-Straße 3- 14 16761 Hennigsdorf</address>
+      <description>Ludwig-Lesser-Straße 3- 14 16761 Hennigsdorf</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Rigo - Schellenbergstraße 15 - 82110 - Germering - 6 units</name>
+      <address>(S) Rigo - Schellenbergstraße 15 - 82110 - Germering - 6 units Schellenbergstraße 15  82110 Germering</address>
+      <description>Schellenbergstraße 15  82110 Germering</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Bucher - Austraße 34 - 86492 - Egling - 6 units</name>
+      <address>(S) Bucher - Austraße 34 - 86492 - Egling - 6 units Austraße 34 86492 Egling</address>
+      <description>Austraße 34 86492 Egling</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Völkl - Gerhart-Hauptmann-Str. 12 - 76703 - Kraichtal - 3 units</name>
+      <address>(S) Völkl - Gerhart-Hauptmann-Str. 12 - 76703 - Kraichtal - 3 units Gerhart-Hauptmann-Str. 12 76703 Kraichtal</address>
+      <description>Gerhart-Hauptmann-Str. 12 76703 Kraichtal</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Lippert - Marktstr. 39 - 73033 - Göppingen - 3 units</name>
+      <address>(S) Lippert - Marktstr. 39 - 73033 - Göppingen - 3 units Marktstr. 39 73033 Göppingen</address>
+      <description>Marktstr. 39 73033 Göppingen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Schütze - Helene-Engelbrecht Straße 116 - 38124 - Braunschweig- 4 units</name>
+      <address>(S) Schütze - Helene-Engelbrecht Straße 116 - 38124 - Braunschweig- 4 units Helene-Engelbrecht Straße 116 38124 Braunschweig</address>
+      <description>Helene-Engelbrecht Straße 116 38124 Braunschweig</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Paetschke - Bahnhofstraße 10 - 99192 - Nesse- Apfelstädt - 3 units</name>
+      <address>(S) Paetschke - Bahnhofstraße 10 - 99192 - Nesse- Apfelstädt - 3 units Bahnhofstraße 10 99192 Nesse- Apfelstädt</address>
+      <description>Bahnhofstraße 10 99192 Nesse- Apfelstädt</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Hegendörfer - Peter-Kreuder-Straße 15 - 81245 - München - 4 units</name>
+      <address>(S) Hegendörfer - Peter-Kreuder-Straße 15 - 81245 - München - 4 units Peter-Kreuder-Straße 15  81245 München</address>
+      <description>Peter-Kreuder-Straße 15  81245 München</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Schlegel - Flottbeker Drift 42 - 22607 - Hamburg - 4 units</name>
+      <address>(S) Schlegel - Flottbeker Drift 42 - 22607 - Hamburg - 4 units Flottbeker Drift 42  22607 Hamburg</address>
+      <description>Flottbeker Drift 42  22607 Hamburg</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Winkler - Neufeldstraße 24 - 82256 - Fürstenfeldbruck - 5 units</name>
+      <address>(S) Winkler - Neufeldstraße 24 - 82256 - Fürstenfeldbruck - 5 units Neufeldstraße 24 82256  Fürstenfeldbruck</address>
+      <description>Neufeldstraße 24 82256  Fürstenfeldbruck</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) (2) Franke - Humboldtstr. 30 - 14193 Berlin - 5 units</name>
+      <address>(S) (2) Franke - Humboldtstr. 30 - 14193 Berlin - 5 units Humboldt Str. 30 14193 Berlin</address>
+      <description>Humboldt Str. 30 14193 Berlin</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Amon - Blumenstr. 15 - 72658 - Bempflingen - 3 units</name>
+      <address>(S) Amon - Blumenstr. 15 - 72658 - Bempflingen - 3 units Blumenstr. 15 72658 Bempflingen</address>
+      <description>Blumenstr. 15 72658 Bempflingen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Meyer - Pinkowitz 1-5 - 01665 - Kilpphausen - 10 units</name>
+      <address>(S) Meyer - Pinkowitz 1-5 - 01665 - Kilpphausen - 10 units Pinkowitz 1-5 01665 Kilpphausen</address>
+      <description>Pinkowitz 1-5 01665 Kilpphausen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Wehrberger - Wünsdorfer Straße 113 - 12307 - Berlin - 6 units</name>
+      <address>(S) Wehrberger - Wünsdorfer Straße 113 - 12307 - Berlin - 6 units Wünsdorfer Straße 113  12307 Berlin</address>
+      <description>Wünsdorfer Straße 113  12307 Berlin</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Sichert - Hüpfelinstraße 6 - 80939 - München - 3 units</name>
+      <address>(S) Sichert - Hüpfelinstraße 6 - 80939 - München - 3 units Hüpfelinstraße 6  80939 München</address>
+      <description>Hüpfelinstraße 6  80939 München</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Gillmeister - Wannackerweg 3 - 76534 - Baden Baden - 6 units</name>
+      <address>(S) Gillmeister - Wannackerweg 3 - 76534 - Baden Baden - 6 units Wannackerweg 3  76534 Baden Baden</address>
+      <description>Wannackerweg 3  76534 Baden Baden</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Kratzke - Ingeborg- Kreßmann Straße 1a - 38518 - Gifhorn - 5 units</name>
+      <address>(S) Kratzke - Ingeborg- Kreßmann Straße 1a - 38518 - Gifhorn - 5 units Ingeborg- Kreßmann Straße 1 - 38518 Gifhorn</address>
+      <description>Ingeborg- Kreßmann Straße 1 - 38518 Gifhorn</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Steinberg - Franzosenkoppel 73, 73a -  22547 -  Hamburg - 4 units</name>
+      <address>(S) Steinberg - Franzosenkoppel 73, 73a -  22547 -  Hamburg - 4 units Franzosenkoppel 73 22547 Hamburg</address>
+      <description>Franzosenkoppel 73 22547 Hamburg</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Cebulla - Quantzstraße 20, 20a, 20b - 14129 - Berlin - 3 units</name>
+      <address>(S) Cebulla - Quantzstraße 20, 20a, 20b - 14129 - Berlin - 3 units Quantzstraße 20 14129 Berlin</address>
+      <description>Quantzstraße 20 14129 Berlin</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Grubek - Stergweg 41 - 89079 - Ulm - 3 units</name>
+      <address>(S) Grubek - Stergweg 41 - 89079 - Ulm - 3 units Stergweg 41  89079 Ulm</address>
+      <description>Stergweg 41  89079 Ulm</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S)(2) Bouceka - Münchinger Straße - 70439 - Stuttgart - 4 units</name>
+      <address>(S)(2) Bouceka - Münchinger Straße - 70439 - Stuttgart - 4 units Münchinger Straße  70439 Stuttgart</address>
+      <description>Münchinger Straße  70439 Stuttgart</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Kober - Rolandstraße 83 - 50677 - Köln - 10 units</name>
+      <address>(S) Kober - Rolandstraße 83 - 50677 - Köln - 10 units Rolandstraße 83 50677 Köln</address>
+      <description>Rolandstraße 83 50677 Köln</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Heymann-Mönnikes - Sperberstr. 33 - 13505 - Berlin - 4 units</name>
+      <address>(S) Heymann-Mönnikes - Sperberstr. 33 - 13505 - Berlin - 4 units Sperberstr. 33 13505 Berlin</address>
+      <description>Sperberstr. 33 13505 Berlin</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Bremsteller - Heidestraße 89 - 60385 - Frankfurt - 6 units </name>
+      <address>(S) Bremsteller - Heidestraße 89 - 60385 - Frankfurt - 6 units  Heidestraße 89  60385 Frankfurt</address>
+      <description>Heidestraße 89  60385 Frankfurt</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Brendel - Merheimer Straße 502 - 50735 - Köln - 3 units</name>
+      <address>(S) Brendel - Merheimer Straße 502 - 50735 - Köln - 3 units Merheimer Straße 502 50735 Köln</address>
+      <description>Merheimer Straße 502 50735 Köln</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Kobiella - Mörikeweg 8  - 68794 - Oberhausen-Rheinhausen - 3 units</name>
+      <address>(S) Kobiella - Mörikeweg 8  - 68794 - Oberhausen-Rheinhausen - 3 units Mörikeweg 8  68794 Oberhausen-Rheinhausen</address>
+      <description>Mörikeweg 8  68794 Oberhausen-Rheinhausen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Scharmann - Franz-Lenders-Straße 20 - 50226 - Frechen  - 3 units</name>
+      <address>(S) Scharmann - Franz-Lenders-Straße 20 - 50226 - Frechen  - 3 units Franz-Lenders-Straße 20  50226 Frechen</address>
+      <description>Franz-Lenders-Straße 20  50226 Frechen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Haidinger - Spießstr. 31 - 90441 - Nürnberg - 4 units</name>
+      <address>(S) Haidinger - Spießstr. 31 - 90441 - Nürnberg - 4 units Spießstr. 31 90441 Nürnberg</address>
+      <description>Spießstr. 31 90441 Nürnberg</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Bonhoeffer - Brüsseler Platz 24 - 50674 - Köln - 4 units</name>
+      <address>(S) Bonhoeffer - Brüsseler Platz 24 - 50674 - Köln - 4 units Brüsseler Platz 24  50674 Köln</address>
+      <description>Brüsseler Platz 24  50674 Köln</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Albrecht - Möhlstraße 25 -  51069 - Köln - 3 units  </name>
+      <address>(S) Albrecht - Möhlstraße 25 -  51069 - Köln - 3 units   Möhlstraße 25  51069 Köln</address>
+      <description>Möhlstraße 25  51069 Köln</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Göpfert - Deglergasse 3a-3b - 82362 - Weilheim in Oberbayern - 6 units</name>
+      <address>(S) Göpfert - Deglergasse 3a-3b - 82362 - Weilheim in Oberbayern - 6 units Deglergasse 3a 82362 Weilheim in Oberbayern</address>
+      <description>Deglergasse 3a 82362 Weilheim in Oberbayern</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Dr Karalus - Bergstraße 42 - 14532 - Stahnsdorf - 6 units</name>
+      <address>(S) Dr Karalus - Bergstraße 42 - 14532 - Stahnsdorf - 6 units Bergstraße 42 14532 Stahnsdorf</address>
+      <description>Bergstraße 42 14532 Stahnsdorf</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Schwarz - Skladanowskystraße 3 - 13156 - Berlin - 3 units</name>
+      <address>(S) Schwarz - Skladanowskystraße 3 - 13156 - Berlin - 3 units Skladanowsky Straße 3 13156 Berlin</address>
+      <description>Skladanowsky Straße 3 13156 Berlin</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) van Dinther - Krankenhausstraße 10-12-12a - 42555 - Velbert - 25 units</name>
+      <address>(S) van Dinther - Krankenhausstraße 10-12-12a - 42555 - Velbert - 25 units Krankenhausstraße 10-12-12a 42555 Velbert</address>
+      <description>Krankenhausstraße 10-12-12a 42555 Velbert</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Scheibe - Bahnhofstraße 41 - 67149 - Meckenheim - 3 units</name>
+      <address>(S) Scheibe - Bahnhofstraße 41 - 67149 - Meckenheim - 3 units Bahnhofstraße 41 67149 Meckenheim</address>
+      <description>Bahnhofstraße 41 67149 Meckenheim</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Bülow - Friedrichstraße 5 - 90522 - Oberasbach - 3 units </name>
+      <address>(S) Bülow - Friedrichstraße 5 - 90522 - Oberasbach - 3 units  Friedrichstraße 5 90522 Oberasbach</address>
+      <description>Friedrichstraße 5 90522 Oberasbach</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Möller - Dahlener Heide 30 -  41179 - Mönchengladbach - 2 units</name>
+      <address>(S) Möller - Dahlener Heide 30 -  41179 - Mönchengladbach - 2 units Dahlener Heide 30  41179  Mönchengladbach</address>
+      <description>Dahlener Heide 30  41179  Mönchengladbach</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Klein - In der Dumpwies 28 - 66839  - Schmelz - 2 units (Copy)</name>
+      <address>(S) Klein - In der Dumpwies 28 - 66839  - Schmelz - 2 units (Copy) In der Dumpwies 28 66839  Schmelz</address>
+      <description>In der Dumpwies 28 66839  Schmelz</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Illes-Kuhn - Hauptstraße 61 - 69488 - Birkenau - 5 units</name>
+      <address>(S) Illes-Kuhn - Hauptstraße 61 - 69488 - Birkenau - 5 units Hauptstraße 61 69488 Birkenau</address>
+      <description>Hauptstraße 61 69488 Birkenau</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Heuser - Wilhelm-Liebhaber-Straße 27 - 83607 - Holzkirchen - 5 units</name>
+      <address>(S) Heuser - Wilhelm-Liebhaber-Straße 27 - 83607 - Holzkirchen - 5 units Wilhelm-Liebhaber-Straße 27 83607 Holzkirchen</address>
+      <description>Wilhelm-Liebhaber-Straße 27 83607 Holzkirchen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Längle - Oberdorfstraße 15a - 70567 - Stuttgart - 6 units</name>
+      <address>(S) Längle - Oberdorfstraße 15a - 70567 - Stuttgart - 6 units Oberdorfstraße 15 70567 Stuttgart</address>
+      <description>Oberdorfstraße 15 70567 Stuttgart</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Reinicke - Achalm Straße 18 - 70771 - Leinfelden - 4 units </name>
+      <address>(S) Reinicke - Achalm Straße 18 - 70771 - Leinfelden - 4 units  Achalmstr. 18 70771 Leinfelden</address>
+      <description>Achalmstr. 18 70771 Leinfelden</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Malluche - Wittelsbacher Weg 16 - 86551 - Aichach - 6 units</name>
+      <address>(S) Malluche - Wittelsbacher Weg 16 - 86551 - Aichach - 6 units Wittelsbacher Weg 16 86551 Aichach</address>
+      <description>Wittelsbacher Weg 16 86551 Aichach</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Nothnagel - Weißenburger Str. 49 - 28211 - Bremen - 6 units</name>
+      <address>(S) Nothnagel - Weißenburger Str. 49 - 28211 - Bremen - 6 units Weißenburger Str. 49 28211 Bremen</address>
+      <description>Weißenburger Str. 49 28211 Bremen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Wagner - Wielandstraße 25A - 12159 - Berlin - 5 units</name>
+      <address>(S) Wagner - Wielandstraße 25A - 12159 - Berlin - 5 units Wielandstraße 25 12159 Berlin</address>
+      <description>Wielandstraße 25 12159 Berlin</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Hassmann - Moosstraße 8 - 83128 - Halfing - 5 units </name>
+      <address>(S) Hassmann - Moosstraße 8 - 83128 - Halfing - 5 units  Moosstraße 8  83128 Halfing</address>
+      <description>Moosstraße 8  83128 Halfing</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Heid - Hauptstraße 3 - 74423 - Obersontheim - 3 units </name>
+      <address>(S) Heid - Hauptstraße 3 - 74423 - Obersontheim - 3 units  Hauptstraße 3 - 73430 Obersontheim</address>
+      <description>Hauptstraße 3 - 73430 Obersontheim</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Richert - 79194- Thormattenweg 10 - 79194 - Gundelfingen – 5 units</name>
+      <address>(S) Richert - 79194- Thormattenweg 10 - 79194 - Gundelfingen – 5 units Thormattenweg 10 - 79194 Gundelfingen</address>
+      <description>Thormattenweg 10 - 79194 Gundelfingen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Gabrisch - Zähringerstraße 2 - 79211 - Denzlingen - 4 units</name>
+      <address>(S) Gabrisch - Zähringerstraße 2 - 79211 - Denzlingen - 4 units Zähringerstraße 2  79211 Denzlingen</address>
+      <description>Zähringerstraße 2  79211 Denzlingen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Bleif - Missenharter Weg 34 - 70839 - Gerlingen - 6 units </name>
+      <address>(S) Bleif - Missenharter Weg 34 - 70839 - Gerlingen - 6 units  Missenharter Weg 34  70839 Gerlingen</address>
+      <description>Missenharter Weg 34  70839 Gerlingen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Deuschle - Egerlandweg 15 - 70736 - Fellbach - 3 units</name>
+      <address>(S) Deuschle - Egerlandweg 15 - 70736 - Fellbach - 3 units Egerlandweg 15 70736 Fellbach</address>
+      <description>Egerlandweg 15 70736 Fellbach</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Pfundstein - St.-Erentrudis-Straße 16 - 79112 - Freiburg im Breisgau - 3 units</name>
+      <address>(S) Pfundstein - St.-Erentrudis-Straße 16 - 79112 - Freiburg im Breisgau - 3 units St.-Erentrudis-Straße 16  79112 Freiburg im Breisgau</address>
+      <description>St.-Erentrudis-Straße 16  79112 Freiburg im Breisgau</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Glas - Eichendorffstraße 10 - 95158 - Kirchenlamitz - 6 units</name>
+      <address>(S) Glas - Eichendorffstraße 10 - 95158 - Kirchenlamitz - 6 units Eichendorffstraße 10 95158 Kirchenlamitz</address>
+      <description>Eichendorffstraße 10 95158 Kirchenlamitz</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Kosecki - Seilerweg 20 - 45527 - Hattingen - 4 units</name>
+      <address>(S) Kosecki - Seilerweg 20 - 45527 - Hattingen - 4 units Seilerweg 20  45527 Hattingen</address>
+      <description>Seilerweg 20  45527 Hattingen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Propp - 22089 - Papenstraße 135 - 22089 - Hamburg - 4 units </name>
+      <address>(S) Propp - 22089 - Papenstraße 135 - 22089 - Hamburg - 4 units  Papenstraße 135  22089 Hamburg</address>
+      <description>Papenstraße 135  22089 Hamburg</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Schwarz - Rohrerstraße 105-107 - 70711 - Leinfelden - 7 units</name>
+      <address>(S) Schwarz - Rohrerstraße 105-107 - 70711 - Leinfelden - 7 units Rohrerstraße 105-107 70771 Leinfelden</address>
+      <description>Rohrerstraße 105-107 70771 Leinfelden</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Maith - Reichenberger Str. 36 - 65510 - Idstein - 6 lots (Copy)</name>
+      <address>(S) Maith - Reichenberger Str. 36 - 65510 - Idstein - 6 lots (Copy) Reichenberger Str. 36 65510 Idstein</address>
+      <description>Reichenberger Str. 36 65510 Idstein</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) WEG Rebholz  - Effnerstr. 13 - 81925 - München - 4 units – Neuer Deal</name>
+      <address>(S) WEG Rebholz  - Effnerstr. 13 - 81925 - München - 4 units – Neuer Deal Effnerstr. 13 81925 München</address>
+      <description>Effnerstr. 13 81925 München</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) WEG Müller - Effnerstr. 11 - 81925 - München - 4 units </name>
+      <address>(S) WEG Müller - Effnerstr. 11 - 81925 - München - 4 units  Effnerstr. 11  81925 München</address>
+      <description>Effnerstr. 11  81925 München</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Raddies - Robinsbalje 13 - 28259 - Bremen -  8 units </name>
+      <address>(S) Raddies - Robinsbalje 13 - 28259 - Bremen -  8 units  Robinsbaljle 13 28259 Bremen</address>
+      <description>Robinsbaljle 13 28259 Bremen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Cleven - Keldenichstraße 71 - 40625 - Düsseldorf - 4 units</name>
+      <address>(S) Cleven - Keldenichstraße 71 - 40625 - Düsseldorf - 4 units Keldenichstraße 71 40625 Düsseldorf</address>
+      <description>Keldenichstraße 71 40625 Düsseldorf</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Reindke - Alter Hof 9 - 38112 - Braunschweig - 2 units</name>
+      <address>(S) Reindke - Alter Hof 9 - 38112 - Braunschweig - 2 units Alter Hof 9  38112 Braunschweig</address>
+      <description>Alter Hof 9  38112 Braunschweig</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S)(3) Kurth - Sperling Straße 8 und 8a- 53881 - Euskirchen - 14 units </name>
+      <address>(S)(3) Kurth - Sperling Straße 8 und 8a- 53881 - Euskirchen - 14 units  Sperlingstr. 8 und 8a 53881 Euskirchen</address>
+      <description>Sperlingstr. 8 und 8a 53881 Euskirchen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Reinhard - König- Heinrich- Weg 68 - 22459 - Hamburg - 3 units  </name>
+      <address>(S) Reinhard - König- Heinrich- Weg 68 - 22459 - Hamburg - 3 units   König- Heinrich- Weg 68  22459 Hamburg</address>
+      <description>König- Heinrich- Weg 68  22459 Hamburg</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Hein  - Barbarossa Straße 20 - 88046 - Friedrichshafen - 4 units</name>
+      <address>(S) Hein  - Barbarossa Straße 20 - 88046 - Friedrichshafen - 4 units Barbarossa Straße 20  88046 Friedrichshafen</address>
+      <description>Barbarossa Straße 20  88046 Friedrichshafen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Holsten - Unter den Linden  7 - 28876 - Oyten - 6 units  </name>
+      <address>(S) Holsten - Unter den Linden  7 - 28876 - Oyten - 6 units   Unter den Linden 7  28876 Oyten</address>
+      <description>Unter den Linden 7  28876 Oyten</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Estenfeld - Mülheimer Straße 15 - 40239 - Düsseldorf - 6 units </name>
+      <address>(S) Estenfeld - Mülheimer Straße 15 - 40239 - Düsseldorf - 6 units  Mühlheimer Straße 15 40239 Düsseldorf</address>
+      <description>Mühlheimer Straße 15 40239 Düsseldorf</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Meiner - Rubensstraße 3 - 71229 - Leonberg - 4 units </name>
+      <address>(S) Meiner - Rubensstraße 3 - 71229 - Leonberg - 4 units  Rubensstraße 3 71229 Leonberg</address>
+      <description>Rubensstraße 3 71229 Leonberg</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Jozwiak - Marie Alexandra Straße 64 A+B - 76135 - Karlsruhe  - 6 units</name>
+      <address>(S) Jozwiak - Marie Alexandra Straße 64 A+B - 76135 - Karlsruhe  - 6 units Marie Alexandra Straße 64b 76135 Karlsruhe</address>
+      <description>Marie Alexandra Straße 64b 76135 Karlsruhe</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Mikisch - Begasstraße 2 - 12157 - Berlin - 5 units </name>
+      <address>(S) Mikisch - Begasstraße 2 - 12157 - Berlin - 5 units  Begasstraße 2  12157 Berlin</address>
+      <description>Begasstraße 2  12157 Berlin</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Nigmann - Schneiderstraße 33a - 33613 - Bielefeld - 3 units</name>
+      <address>(S) Nigmann - Schneiderstraße 33a - 33613 - Bielefeld - 3 units Schneiderstraße 33a 33613 Bielefeld</address>
+      <description>Schneiderstraße 33a 33613 Bielefeld</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Wormsbächer - Spanische Allee 111 - 14129 - Berlin - 4 units</name>
+      <address>(S) Wormsbächer - Spanische Allee 111 - 14129 - Berlin - 4 units Spanische Allee 111 14129 Berlin</address>
+      <description>Spanische Allee 111 14129 Berlin</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Kteniadakis - Prechtlstraße 14 - 84048 - Mainburg - 4 units</name>
+      <address>(S) Kteniadakis - Prechtlstraße 14 - 84048 - Mainburg - 4 units Prechtlstraße 14 84048 Mainburg</address>
+      <description>Prechtlstraße 14 84048 Mainburg</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Madinaveitia - Dahlener Straße 421 - 41239 Mönchengladbach - 4 units</name>
+      <address>(S) Madinaveitia - Dahlener Straße 421 - 41239 Mönchengladbach - 4 units Dahlener Straße 421  41239 Mönchengladbach</address>
+      <description>Dahlener Straße 421  41239 Mönchengladbach</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Fu - Zum Gesselbusch 10 - 37431 - Bad Lauterberg - 8 units</name>
+      <address>(S) Fu - Zum Gesselbusch 10 - 37431 - Bad Lauterberg - 8 units Zum Gesselbusch 10 37431 Bad Lauterberg</address>
+      <description>Zum Gesselbusch 10 37431 Bad Lauterberg</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Ostermann - Jägerstraße 35 - 23774 - Heiligenhafen - 5 units</name>
+      <address>(S) Ostermann - Jägerstraße 35 - 23774 - Heiligenhafen - 5 units Jägerstraße 35  23774 Heiligenhafen</address>
+      <description>Jägerstraße 35  23774 Heiligenhafen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Hellerman-Carmel - Altfelix Straße 14 - 77933 - Lahr - 3 units</name>
+      <address>(S) Hellerman-Carmel - Altfelix Straße 14 - 77933 - Lahr - 3 units Altfelix Straße 14  77933 Lahr</address>
+      <description>Altfelix Straße 14  77933 Lahr</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Müller - Hauffstraße 6 - 75391 - Gechingen - 7 units </name>
+      <address>(S) Müller - Hauffstraße 6 - 75391 - Gechingen - 7 units  Hauffstraße 6 75391 Gechingen</address>
+      <description>Hauffstraße 6 75391 Gechingen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Wack - Weihenlindener Str. 20 - 83052 - Bruckmühl - 3 units</name>
+      <address>(S) Wack - Weihenlindener Str. 20 - 83052 - Bruckmühl - 3 units Weihenlindener Str. 20 83052 Bruckmühl</address>
+      <description>Weihenlindener Str. 20 83052 Bruckmühl</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Schmidt - Mühlbergweg 5 - 65344 - Eltville - 6 units</name>
+      <address>(S) Schmidt - Mühlbergweg 5 - 65344 - Eltville - 6 units Mühlbergweg 5 65344 Eltville</address>
+      <description>Mühlbergweg 5 65344 Eltville</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Creyels - Hans Sachs Straße 1+3 - 85521 - Ottobrunn - 8 units</name>
+      <address>(S) Creyels - Hans Sachs Straße 1+3 - 85521 - Ottobrunn - 8 units Hans Sachs Straße 1 85521 Ottobrunn</address>
+      <description>Hans Sachs Straße 1 85521 Ottobrunn</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Dieckmann - König-Wilhelm Straße 33 - 88471 - Laupheim  - 3 units</name>
+      <address>(S) Dieckmann - König-Wilhelm Straße 33 - 88471 - Laupheim  - 3 units König-Wilhelm Straße 33  88471 Laupheim</address>
+      <description>König-Wilhelm Straße 33  88471 Laupheim</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Homer - Doevelweg, 12 - 12353 - Berlin - 3 units</name>
+      <address>(S) Homer - Doevelweg, 12 - 12353 - Berlin - 3 units Doevelweg, 12 12353 Berlin</address>
+      <description>Doevelweg, 12 12353 Berlin</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Bohnet - Kirschbergstraße 63 - 04155 - Leipzig - 13 units</name>
+      <address>(S) Bohnet - Kirschbergstraße 63 - 04155 - Leipzig - 13 units Kirschbergstraße 63  04155 Leipzig</address>
+      <description>Kirschbergstraße 63  04155 Leipzig</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Bispinck - Werneuchener Straße 4a -f - 13055 - Berlin - 6 units</name>
+      <address>(S) Bispinck - Werneuchener Straße 4a -f - 13055 - Berlin - 6 units Werneuchener Straße 4a -f 13055 Berlin</address>
+      <description>Werneuchener Straße 4a -f 13055 Berlin</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Eberhardt - Bahnstraße 22  - 64546 - Mörfelden-Walldorf - 3 units</name>
+      <address>(S) Eberhardt - Bahnstraße 22  - 64546 - Mörfelden-Walldorf - 3 units Bahnstraße 22  64546 Mörfelden-Walldorf</address>
+      <description>Bahnstraße 22  64546 Mörfelden-Walldorf</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) McKenzie - Hämmerlingstr. 34 - 12555 - Berlin - 4 units</name>
+      <address>(S) McKenzie - Hämmerlingstr. 34 - 12555 - Berlin - 4 units Hämmerlingstr. 34 12555 Berlin</address>
+      <description>Hämmerlingstr. 34 12555 Berlin</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Buckow-Wallén - Hainbuchenstr. 32 - 13465 - Berlin - 5 units</name>
+      <address>(S) Buckow-Wallén - Hainbuchenstr. 32 - 13465 - Berlin - 5 units Hainbuchenstr. 32 - 13465 Berlin</address>
+      <description>Hainbuchenstr. 32 - 13465 Berlin</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S)(2) Graf - Alsbergstraße 31 - 57518 - Betzdorf - 4 units</name>
+      <address>(S)(2) Graf - Alsbergstraße 31 - 57518 - Betzdorf - 4 units Alsbergstraße 31, Eichendorfstraße 1 57518 Betzdorf</address>
+      <description>Alsbergstraße 31, Eichendorfstraße 1 57518 Betzdorf</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Vetter - Max-Beckmann-Str. 75 - 51375 Leverkusen - 4 units</name>
+      <address>(S) Vetter - Max-Beckmann-Str. 75 - 51375 Leverkusen - 4 units Max-Beckmann-Str. 75 51375 Leverkusen</address>
+      <description>Max-Beckmann-Str. 75 51375 Leverkusen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Reents - Hammstraße 20 - 80935 - München - 5 units</name>
+      <address>(S) Reents - Hammstraße 20 - 80935 - München - 5 units Hammstraße 20  80935 München</address>
+      <description>Hammstraße 20  80935 München</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Bandisch  - Großer Sand 107 - 25436 - Uetersen - 4 units</name>
+      <address>(S) Bandisch  - Großer Sand 107 - 25436 - Uetersen - 4 units Großer Sand 19 Uetersen  25436 Uetersen</address>
+      <description>Großer Sand 19 Uetersen  25436 Uetersen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Daub - Thomasstraße 9 - 57234 - Wilnsdorf  - 2 units</name>
+      <address>(S) Daub - Thomasstraße 9 - 57234 - Wilnsdorf  - 2 units Thomasstarße 9 57234 Wilnsdorf</address>
+      <description>Thomasstarße 9 57234 Wilnsdorf</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Pfannschmidt  -  Gewerbestraße 46 - 82211 - Herrsching - 5 units</name>
+      <address>(S) Pfannschmidt  -  Gewerbestraße 46 - 82211 - Herrsching - 5 units Gewerbestraße 46 82211 Herrsching</address>
+      <description>Gewerbestraße 46 82211 Herrsching</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Grotelüschen - Niendorfer Straße 68 - 22529 - Hamburg - 8 units</name>
+      <address>(S) Grotelüschen - Niendorfer Straße 68 - 22529 - Hamburg - 8 units Niendorfer Straße 68 22529 Hamburg</address>
+      <description>Niendorfer Straße 68 22529 Hamburg</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Lorenz - Am Stiegelschlag 14 - 60385 - Frankfurt - 5 units</name>
+      <address>(S) Lorenz - Am Stiegelschlag 14 - 60385 - Frankfurt - 5 units Am Stiegelschlag 14  60385 Frankfurt</address>
+      <description>Am Stiegelschlag 14  60385 Frankfurt</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Nebel - Brettheimer Weg 9 - 70435 - Stuttgart - 10 units </name>
+      <address>(S) Nebel - Brettheimer Weg 9 - 70435 - Stuttgart - 10 units  Brettheimer Weg 9 70435 Stuttgart</address>
+      <description>Brettheimer Weg 9 70435 Stuttgart</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) von Forster - Buchenstr. 40 - 85716 - Unterschleißheim - 4 units</name>
+      <address>(S) von Forster - Buchenstr. 40 - 85716 - Unterschleißheim - 4 units Buchenstr. 40 85716 Unterschleißheim</address>
+      <description>Buchenstr. 40 85716 Unterschleißheim</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Yüksel - Maximilian-Kolbe-Straße 13 - 44793 - Bochum - 7 units</name>
+      <address>(S) Yüksel - Maximilian-Kolbe-Straße 13 - 44793 - Bochum - 7 units Maximilian-Kolbe-Straße 13 44793 Bochum</address>
+      <description>Maximilian-Kolbe-Straße 13 44793 Bochum</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Mosel - Kleestraße 1 - 49492 - Westerkappeln - 7 units</name>
+      <address>(S) Mosel - Kleestraße 1 - 49492 - Westerkappeln - 7 units Kleestraße 1  49492 Westerkappeln</address>
+      <description>Kleestraße 1  49492 Westerkappeln</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Neugebauer - Stauferstr. 1 - 86842 - Türkheim - 5 units</name>
+      <address>(S) Neugebauer - Stauferstr. 1 - 86842 - Türkheim - 5 units Stauferstr. 1 86842 Türkheim</address>
+      <description>Stauferstr. 1 86842 Türkheim</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Hundorf - Wiener Straße 35A - 61381 - Friedrichsdorf - 3 units</name>
+      <address>(S) Hundorf - Wiener Straße 35A - 61381 - Friedrichsdorf - 3 units Wiener Straße 35 - 61381 Friedrichsdorf</address>
+      <description>Wiener Straße 35 - 61381 Friedrichsdorf</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Fleischmann - Max-Anderl-Straße 12 - 85375 - Neufahrn - 4 units</name>
+      <address>(S) Fleischmann - Max-Anderl-Straße 12 - 85375 - Neufahrn - 4 units Max-Ander-Straße 12 85375 Neufahrn</address>
+      <description>Max-Ander-Straße 12 85375 Neufahrn</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Zeeb - Herderstraße 16 - 06114 - Halle - 4 units</name>
+      <address>(S) Zeeb - Herderstraße 16 - 06114 - Halle - 4 units Herderstraße 16 06114 Halle</address>
+      <description>Herderstraße 16 06114 Halle</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Päßler - Friedrichstraße 8 - 74211 - Leingarten - 8 units</name>
+      <address>(S) Päßler - Friedrichstraße 8 - 74211 - Leingarten - 8 units Friedrichstraße 8 74211 Leingarten</address>
+      <description>Friedrichstraße 8 74211 Leingarten</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Gehring - Dorfstraße 5b 79206 Breisach am Rhein - 4 units</name>
+      <address>(S) Gehring - Dorfstraße 5b 79206 Breisach am Rhein - 4 units Dorfstraße 5b 79206 Breisach am Rhein</address>
+      <description>Dorfstraße 5b 79206 Breisach am Rhein</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Ollesch - 79194 - 14 units - Glotter Pfad 5 79194 Gundelfingen</name>
+      <address>(S) Ollesch - 79194 - 14 units - Glotter Pfad 5 79194 Gundelfingen Glotter Pfad 5 79194 Gundelfingen</address>
+      <description>Glotter Pfad 5 79194 Gundelfingen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Müller - Hauptstraße 13 A-C - 64346 - Eltville - 3 units</name>
+      <address>(S) Müller - Hauptstraße 13 A-C - 64346 - Eltville - 3 units Hauptstraße 13 A-C 65346 Eltville</address>
+      <description>Hauptstraße 13 A-C 65346 Eltville</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Dröse - Garagen Erlenweg, 25469 Halstenbek - 26 units</name>
+      <address>(S) Dröse - Garagen Erlenweg, 25469 Halstenbek - 26 units Garagen Erlenweg 25469 Halstenbek</address>
+      <description>Garagen Erlenweg 25469 Halstenbek</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Disselkamp - Beethovenstr. 2, 71726 Benningen - 5 units</name>
+      <address>(S) Disselkamp - Beethovenstr. 2, 71726 Benningen - 5 units Beethovenstr. 2 71726 Benningen</address>
+      <description>Beethovenstr. 2 71726 Benningen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Telschow  - Gockelweg 17 a-l - 12355  Berlin - 11 units</name>
+      <address>(S) Telschow  - Gockelweg 17 a-l - 12355  Berlin - 11 units Gockelweg 17 a-l 12355 Berlin</address>
+      <description>Gockelweg 17 a-l 12355 Berlin</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Denzel - Kreuznacher Str. 24, 70372 Stuttgart - Bad-Cannstatt - 4 Units</name>
+      <address>(S) Denzel - Kreuznacher Str. 24, 70372 Stuttgart - Bad-Cannstatt - 4 Units Kreuznacher Str. 24 70372 Stuttgart</address>
+      <description>Kreuznacher Str. 24 70372 Stuttgart</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Bongartz - Degerstr. 22 - 40235 - Düsseldorf - 6 units</name>
+      <address>(S) Bongartz - Degerstr. 22 - 40235 - Düsseldorf - 6 units Degerstr. 22 40235 Düsseldorf</address>
+      <description>Degerstr. 22 40235 Düsseldorf</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Sawall - Badstr. 24 - 74072 Heilbronn - 5 units</name>
+      <address>(S) Sawall - Badstr. 24 - 74072 Heilbronn - 5 units Badstr. 24 74072 Heilbronn</address>
+      <description>Badstr. 24 74072 Heilbronn</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Laux - Hörstenweg 34 - 13125 - Berlin - 5 units</name>
+      <address>(S) Laux - Hörstenweg 34 - 13125 - Berlin - 5 units Hörstenweg 34 13125 Berlin</address>
+      <description>Hörstenweg 34 13125 Berlin</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Müller - Fohrenbühlstraße 8 - 71067 Sindelfingen - 3 units</name>
+      <address>(S) Müller - Fohrenbühlstraße 8 - 71067 Sindelfingen - 3 units Fohrenbühlstraße 8 71067 Sindelfingen</address>
+      <description>Fohrenbühlstraße 8 71067 Sindelfingen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Froh - Müllenhofweg 74 - 22607 - Hamburg - 5 units</name>
+      <address>(S) Froh - Müllenhofweg 74 - 22607 - Hamburg - 5 units Müllenhofweg 74 - 22607 Hamburg</address>
+      <description>Müllenhofweg 74 - 22607 Hamburg</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Rogalli - Wehrstaudenstr. 47 - 85757  - Karlsfeld - 5 units</name>
+      <address>(S) Rogalli - Wehrstaudenstr. 47 - 85757  - Karlsfeld - 5 units Wehrstaudenstr. 47 85757  Karlsfeld</address>
+      <description>Wehrstaudenstr. 47 85757  Karlsfeld</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Deinhammer - Lerchesbergring 1  - 60598 - Frankfurt am Main - 3 units</name>
+      <address>(S) Deinhammer - Lerchesbergring 1  - 60598 - Frankfurt am Main - 3 units Lerchesbergring 1  60598 Frankfurt am Main</address>
+      <description>Lerchesbergring 1  60598 Frankfurt am Main</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Thiels -  Klettenbergstraße 1 - 60322 - Frankfurt am Main - 4 units</name>
+      <address>(S) Thiels -  Klettenbergstraße 1 - 60322 - Frankfurt am Main - 4 units Klettenbergstraße 1 60322 Frankfurt am Main</address>
+      <description>Klettenbergstraße 1 60322 Frankfurt am Main</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Senger - Wilhelmstr. 1 - 76530  - Baden-Baden - 4 units</name>
+      <address>(S) Senger - Wilhelmstr. 1 - 76530  - Baden-Baden - 4 units Wilhelmstr. 1 76530  Baden-Baden</address>
+      <description>Wilhelmstr. 1 76530  Baden-Baden</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Bierlein - Körnerstraße 12 - 68804 - Altlussheim - 3 units</name>
+      <address>(S) Bierlein - Körnerstraße 12 - 68804 - Altlussheim - 3 units Körnerstraße 12 68804 Altlussheim</address>
+      <description>Körnerstraße 12 68804 Altlussheim</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Müller-Spohr - Deutz-Mülheimer-Str. 254 - 51063  - Köln - 10 units</name>
+      <address>(S) Müller-Spohr - Deutz-Mülheimer-Str. 254 - 51063  - Köln - 10 units Deutz-Mülheimer-Str. 254 51063  Köln</address>
+      <description>Deutz-Mülheimer-Str. 254 51063  Köln</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Schmidt - Leonberger Str. 19 - 71272 - Renningen - 6 units</name>
+      <address>(S) Schmidt - Leonberger Str. 19 - 71272 - Renningen - 6 units Leonberger Str. 19 71272 Renningen</address>
+      <description>Leonberger Str. 19 71272 Renningen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Degen - Maronenring 1b - 14822 - Borkheide - 3 units</name>
+      <address>(S) Degen - Maronenring 1b - 14822 - Borkheide - 3 units Maronenring 1 - 14822 Borkheide</address>
+      <description>Maronenring 1 - 14822 Borkheide</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Sonntag - Im Kirchental 11 - 78315 - Radolfzell - 4 units</name>
+      <address>(S) Sonntag - Im Kirchental 11 - 78315 - Radolfzell - 4 units Im Kirchental 11 78315 Radolfzell</address>
+      <description>Im Kirchental 11 78315 Radolfzell</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Dragmanli - Moltkestraße 15 - 76133 Karlsruhe - 4 units</name>
+      <address>(S) Dragmanli - Moltkestraße 15 - 76133 Karlsruhe - 4 units Moltkestraße 15 76133 Karslruhe</address>
+      <description>Moltkestraße 15 76133 Karslruhe</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Cammarata - Boschstraße 71 - 40589 - Düsseldorf - 6 units</name>
+      <address>(S) Cammarata - Boschstraße 71 - 40589 - Düsseldorf - 6 units Boschstraße 71 40589 Düsseldorf</address>
+      <description>Boschstraße 71 40589 Düsseldorf</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Adelmann - Walldorfer Straße 28 - 68219 - Mannheim - 3 units</name>
+      <address>(S) Adelmann - Walldorfer Straße 28 - 68219 - Mannheim - 3 units Walldorfer Straße 28 68219 Mannheim</address>
+      <description>Walldorfer Straße 28 68219 Mannheim</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Ottendörfer - Zoppoter Strasse 11 - 81927 - München - 5 units</name>
+      <address>(S) Ottendörfer - Zoppoter Strasse 11 - 81927 - München - 5 units Zoppoter Straße 11 81927 München</address>
+      <description>Zoppoter Straße 11 81927 München</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Watterott - Karlstrasse 17 - 73266 - Bissingen an der Teck - 3 units</name>
+      <address>(S) Watterott - Karlstrasse 17 - 73266 - Bissingen an der Teck - 3 units Karlstrasse 17 73266 Bissingen an der Teck</address>
+      <description>Karlstrasse 17 73266 Bissingen an der Teck</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) May - Rönskenstraße 71A - 46562 - Voerde - 4 units</name>
+      <address>(S) May - Rönskenstraße 71A - 46562 - Voerde - 4 units Rönskenstraße 71 - 46562 Voerde</address>
+      <description>Rönskenstraße 71 - 46562 Voerde</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Meilinger - Tültorstr. 26 - 85276 Pfaffenhofen an der Ilm - 4 units</name>
+      <address>(S) Meilinger - Tültorstr. 26 - 85276 Pfaffenhofen an der Ilm - 4 units Tültorstr. 26 85276 Pfaffenhofen an der Ilm</address>
+      <description>Tültorstr. 26 85276 Pfaffenhofen an der Ilm</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Kemmler - Hofstraße 31 a-h - 18317 Saal - 7 units</name>
+      <address>(S) Kemmler - Hofstraße 31 a-h - 18317 Saal - 7 units Hofstraße 31 a-h 18317 Saal</address>
+      <description>Hofstraße 31 a-h 18317 Saal</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Nikolaidis/Holan - Brabeckstraße 172 - 30539 - Hannover - 3 units</name>
+      <address>(S) Nikolaidis/Holan - Brabeckstraße 172 - 30539 - Hannover - 3 units Brabeckstraße 172 - 30539 Hannover</address>
+      <description>Brabeckstraße 172 - 30539 Hannover</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Kehler-Poljak - Helgolandweg 8 - 33334 - Gütersloh - 3 units</name>
+      <address>(S) Kehler-Poljak - Helgolandweg 8 - 33334 - Gütersloh - 3 units Helgolandweg 8 33334 Gütersloh</address>
+      <description>Helgolandweg 8 33334 Gütersloh</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Schwarz - Obermatten 4 - 79194 - Gundelfingen - 6 units</name>
+      <address>(S) Schwarz - Obermatten 4 - 79194 - Gundelfingen - 6 units Obermatten 4 79194 Gundelfingen</address>
+      <description>Obermatten 4 79194 Gundelfingen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Knaup - Benzweg 14 -16 - 64293 Darmstadt - 14 units</name>
+      <address>(S) Knaup - Benzweg 14 -16 - 64293 Darmstadt - 14 units Benzweg 14 - 64293 Darmstadt</address>
+      <description>Benzweg 14 - 64293 Darmstadt</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Dräger -Fichtenweg 2-8 - 74366 Kirchheim am Neckar - 4 units</name>
+      <address>(S) Dräger -Fichtenweg 2-8 - 74366 Kirchheim am Neckar - 4 units Fichtenweg 2-8 74366 Kirchheim am Neckar</address>
+      <description>Fichtenweg 2-8 74366 Kirchheim am Neckar</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Otto - Heinrich von Stephan Strasse 105 - 63150 - Heusenstamm - 5 units</name>
+      <address>(S) Otto - Heinrich von Stephan Strasse 105 - 63150 - Heusenstamm - 5 units Heinrich von Stephan Strasse 105 63150 Heusenstamm</address>
+      <description>Heinrich von Stephan Strasse 105 63150 Heusenstamm</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Bilz - Liegnitzer Str. 5/7 - 71229 Leonberg - 18 units</name>
+      <address>(S) Bilz - Liegnitzer Str. 5/7 - 71229 Leonberg - 18 units Liegnitzerstraße 5 / 7 71229 Leonberg</address>
+      <description>Liegnitzerstraße 5 / 7 71229 Leonberg</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Christianus - Lothar-Bucher-Straße 19 - 12157 Berlin - 17 units</name>
+      <address>(S) Christianus - Lothar-Bucher-Straße 19 - 12157 Berlin - 17 units Lothar-Bucher-Straße 19 12157 Berlin</address>
+      <description>Lothar-Bucher-Straße 19 12157 Berlin</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Keller - Goldregenweg 6 - 70794 - Filderstadt - 4 units</name>
+      <address>(S) Keller - Goldregenweg 6 - 70794 - Filderstadt - 4 units Goldregenweg 6 70794 Filderstadt</address>
+      <description>Goldregenweg 6 70794 Filderstadt</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Fritz - Behringstr. 7 - 12437 -Berlin  - 16 units</name>
+      <address>(S) Fritz - Behringstr. 7 - 12437 -Berlin  - 16 units Behringstraße 7 12437 Berlin</address>
+      <description>Behringstraße 7 12437 Berlin</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Engelmann - Alter Postweg 275+279 - 28207  - Bremen - 12 units</name>
+      <address>(S) Engelmann - Alter Postweg 275+279 - 28207  - Bremen - 12 units Alter Postweg 275+279 28207  Bremen</address>
+      <description>Alter Postweg 275+279 28207  Bremen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Kilgus - Plettenbergstr. 30 - 70186 Stuttgart - 7 units</name>
+      <address>(S) Kilgus - Plettenbergstr. 30 - 70186 Stuttgart - 7 units Plettenbergstr. 30 70186 Stuttgart</address>
+      <description>Plettenbergstr. 30 70186 Stuttgart</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Rieth / Nikolic - Am Reichenbächle 1 - 79350 Sexau - 6 units</name>
+      <address>(S) Rieth / Nikolic - Am Reichenbächle 1 - 79350 Sexau - 6 units Am Reichenbächle 1 79350 Sexau</address>
+      <description>Am Reichenbächle 1 79350 Sexau</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Steinberger - Alte Poststr. 56 - 63801 Kleinostheim - 4 units</name>
+      <address>(S) Steinberger - Alte Poststr. 56 - 63801 Kleinostheim - 4 units Alte Poststr. 56 63801 Kleinostheim</address>
+      <description>Alte Poststr. 56 63801 Kleinostheim</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Pütz - Vogelsangerstraße 417 - 50829 Köln - 5 units</name>
+      <address>(S) Pütz - Vogelsangerstraße 417 - 50829 Köln - 5 units Vogelsanger Straße 417 50829 Köln</address>
+      <description>Vogelsanger Straße 417 50829 Köln</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Rechtien - Dinkelweg 13/15 - 74523 - Schwäbisch Hall - 4 units</name>
+      <address>(S) Rechtien - Dinkelweg 13/15 - 74523 - Schwäbisch Hall - 4 units Dinkelweg 13/15 74523 Schwäbisch Hall</address>
+      <description>Dinkelweg 13/15 74523 Schwäbisch Hall</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Emig - Johannes-Sefrit-Str. 18 - 67112 Mutterstadt - 3 units</name>
+      <address>(S) Emig - Johannes-Sefrit-Str. 18 - 67112 Mutterstadt - 3 units Johannes-Sefrit-Str. 18 67112 Mutterstadt</address>
+      <description>Johannes-Sefrit-Str. 18 67112 Mutterstadt</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[(S) Plitt - Oberamteistrasse 5 & 9 - 74348 Lauffen - 6 units]]></name>
+      <address><![CDATA[(S) Plitt - Oberamteistrasse 5 & 9 - 74348 Lauffen - 6 units Oberamteistrasse 5-9 74348 Lauffen]]></address>
+      <description>Oberamteistrasse 5-9 74348 Lauffen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Waiz - Ernst-Moritz-Arndt-Straße 5 - 74722 - Buchen - 2 units</name>
+      <address>(S) Waiz - Ernst-Moritz-Arndt-Straße 5 - 74722 - Buchen - 2 units Ernst-Moritz-Arndt-Straße 5 74722 Buchen</address>
+      <description>Ernst-Moritz-Arndt-Straße 5 74722 Buchen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Fausel - Nelkenweg 8 - 74369 Löchgau - 6 units</name>
+      <address>(S) Fausel - Nelkenweg 8 - 74369 Löchgau - 6 units Nelkenweg 8 74369 Löchgau</address>
+      <description>Nelkenweg 8 74369 Löchgau</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Müller - Kalkofen 2 - 79224 Umkirch - 4 units</name>
+      <address>(S) Müller - Kalkofen 2 - 79224 Umkirch - 4 units Kalkofen 2 78224 Umkirch</address>
+      <description>Kalkofen 2 78224 Umkirch</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Stroh - Otterberger Str. 75 - 67659 - Kaiserslautern - 3 units</name>
+      <address>(S) Stroh - Otterberger Str. 75 - 67659 - Kaiserslautern - 3 units Otterberger Str. 75 67659 Kaiserslautern</address>
+      <description>Otterberger Str. 75 67659 Kaiserslautern</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Riedel - Emil-Higelin-Str. 13 - 88048 - Friedrichshafen - 5units</name>
+      <address>(S) Riedel - Emil-Higelin-Str. 13 - 88048 - Friedrichshafen - 5units Emil-Higelin-Str. 13 - 88048 Friedrichshafen</address>
+      <description>Emil-Higelin-Str. 13 - 88048 Friedrichshafen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Bopp - Kupferbergstr. 54 - 67292 - Kirchheimbolanden - 3 units</name>
+      <address>(S) Bopp - Kupferbergstr. 54 - 67292 - Kirchheimbolanden - 3 units Kupferbergstr. 54 67292 Kirchheimbolanden</address>
+      <description>Kupferbergstr. 54 67292 Kirchheimbolanden</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Hörner - Hintere Str. 13 - 71263 Weil der Stadt - 3 units</name>
+      <address>(S) Hörner - Hintere Str. 13 - 71263 Weil der Stadt - 3 units Hintere Str. 13 71263 Weil der Stadt</address>
+      <description>Hintere Str. 13 71263 Weil der Stadt</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Obermaier - Wendelsteinstraße 8a - 83052 Bruckmühl - 3 units</name>
+      <address>(S) Obermaier - Wendelsteinstraße 8a - 83052 Bruckmühl - 3 units Wendelsteinstraße 8 - 83052 Bruckmühl</address>
+      <description>Wendelsteinstraße 8 - 83052 Bruckmühl</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Flock - Am Hang 9, 91315 Höchstadt - 3 units</name>
+      <address>(S) Flock - Am Hang 9, 91315 Höchstadt - 3 units Am Hang 9 91315 Höchstadt</address>
+      <description>Am Hang 9 91315 Höchstadt</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Dinis - Berliner Straße 159 - 65300 Seligenstadt - 3 units</name>
+      <address>(S) Dinis - Berliner Straße 159 - 65300 Seligenstadt - 3 units Berliner Straße 159 63500 Seligenstadt</address>
+      <description>Berliner Straße 159 63500 Seligenstadt</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Golletz - Buchenweg 4 - 82194 - Gröbenzell - 3 units</name>
+      <address>(S) Golletz - Buchenweg 4 - 82194 - Gröbenzell - 3 units Buchenweg 4 82194 Gröbenzell</address>
+      <description>Buchenweg 4 82194 Gröbenzell</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Ludwig - Hohlstraße 5 - 76275 Ettlingen - 7 units</name>
+      <address>(S) Ludwig - Hohlstraße 5 - 76275 Ettlingen - 7 units Hohlstraße 5 76275 Ettlingen</address>
+      <description>Hohlstraße 5 76275 Ettlingen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Yagoda - Kölner Str. 191 - 51149 - Köln - 3 units</name>
+      <address>(S) Yagoda - Kölner Str. 191 - 51149 - Köln - 3 units Kölner Str. 191 51149 Köln</address>
+      <description>Kölner Str. 191 51149 Köln</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Borges - Asternstraße 12 - 30167 - Hannover - 8 units</name>
+      <address>(S) Borges - Asternstraße 12 - 30167 - Hannover - 8 units Asternstraße 12 30167 Hannover</address>
+      <description>Asternstraße 12 30167 Hannover</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Hanke - Hauptstrasse 15 - 40699 Erkrath - 6 units</name>
+      <address>(S) Hanke - Hauptstrasse 15 - 40699 Erkrath - 6 units Hauptstrasse 15 40699 Erkrath</address>
+      <description>Hauptstrasse 15 40699 Erkrath</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Reinhardt - Lottumstrasse 2 - 10119 - Berlin - 8 units</name>
+      <address>(S) Reinhardt - Lottumstrasse 2 - 10119 - Berlin - 8 units Lottumstrasse 2 10119 Berlin</address>
+      <description>Lottumstrasse 2 10119 Berlin</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[(S) Golombek - Schwarzenberg 32 & 34 - 21629 - Neu Wulmstorf - 8 units]]></name>
+      <address><![CDATA[(S) Golombek - Schwarzenberg 32 & 34 - 21629 - Neu Wulmstorf - 8 units Schwarzenberg 32 & 34 21629 Neu Wulmstorf]]></address>
+      <description><![CDATA[Schwarzenberg 32 & 34 21629 Neu Wulmstorf]]></description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Thomaschewski - Frühlingstrasse 10, 82166 Gräfelfing - 3 units</name>
+      <address>(S) Thomaschewski - Frühlingstrasse 10, 82166 Gräfelfing - 3 units Frühlingstrasse 10 82166 Gräfelfing</address>
+      <description>Frühlingstrasse 10 82166 Gräfelfing</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Lerch - Wolfertshofen 10 - 88178 Heimenkirch - 3 units</name>
+      <address>(S) Lerch - Wolfertshofen 10 - 88178 Heimenkirch - 3 units Wolfershofen 10 - 88178 Heimenkirch</address>
+      <description>Wolfershofen 10 - 88178 Heimenkirch</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Burger - Hartfeldstrasse 66 - 75417 - Mühläcker - 4 units</name>
+      <address>(S) Burger - Hartfeldstrasse 66 - 75417 - Mühläcker - 4 units Hartfeldstrasse 66 - 75417 Mühläcker</address>
+      <description>Hartfeldstrasse 66 - 75417 Mühläcker</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Neubert - Ludwigstraße 70a - 90763 - Fürth -10 units</name>
+      <address>(S) Neubert - Ludwigstraße 70a - 90763 - Fürth -10 units Ludwigstraße 70 - 90763 Fürth</address>
+      <description>Ludwigstraße 70 - 90763 Fürth</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Neff - Kühtrieb 11 - 63853 Mömlingen - 4 units</name>
+      <address>(S) Neff - Kühtrieb 11 - 63853 Mömlingen - 4 units Kühtrieb 11 63853 Mömlingen</address>
+      <description>Kühtrieb 11 63853 Mömlingen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Hinrichs -  Hermann-Lange-Straße 2-52 - Bremen- 28279- 20 units</name>
+      <address>(S) Hinrichs -  Hermann-Lange-Straße 2-52 - Bremen- 28279- 20 units Hermann-Lange-Straße 2-52  28279 Bremen</address>
+      <description>Hermann-Lange-Straße 2-52  28279 Bremen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Reißinger - Sudetenstraße 6 - 71686 Remseck - 3 units</name>
+      <address>(S) Reißinger - Sudetenstraße 6 - 71686 Remseck - 3 units Sudetenstraße 6 71686 Remseck</address>
+      <description>Sudetenstraße 6 71686 Remseck</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Klapschus - Im Rusch 24 - 27726 Worpswede - 6 units</name>
+      <address>(S) Klapschus - Im Rusch 24 - 27726 Worpswede - 6 units Im Rusch 24 27726 Worpswede</address>
+      <description>Im Rusch 24 27726 Worpswede</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Enzenhofer - Tannehof 134, a, b, c, d, e - 22397 - Hamburg - 6 units</name>
+      <address>(S) Enzenhofer - Tannehof 134, a, b, c, d, e - 22397 - Hamburg - 6 units Tannehof 134 - 22397 Hamburg</address>
+      <description>Tannehof 134 - 22397 Hamburg</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Hesse - Wachtelweg 2 - 65719 - Hofheim - 3 units</name>
+      <address>(S) Hesse - Wachtelweg 2 - 65719 - Hofheim - 3 units Wachtelweg 2 65719 Hofheim</address>
+      <description>Wachtelweg 2 65719 Hofheim</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Antipa - Friedenstrass 5 - 30175 Hannover - 4 units</name>
+      <address>(S) Antipa - Friedenstrass 5 - 30175 Hannover - 4 units Friedenstrasse 5 - 30175 Hannover</address>
+      <description>Friedenstrasse 5 - 30175 Hannover</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Lohrie - Unnastraße 19 - 20253 Hamburg - 4 units</name>
+      <address>(S) Lohrie - Unnastraße 19 - 20253 Hamburg - 4 units Unnastraße 19 20253 Hamburg</address>
+      <description>Unnastraße 19 20253 Hamburg</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Staufenbiel - Indrastraße 11 - 13089 Berlin 5 units</name>
+      <address>(S) Staufenbiel - Indrastraße 11 - 13089 Berlin 5 units Indrastraße 11 13089 Berlin</address>
+      <description>Indrastraße 11 13089 Berlin</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Sander - Riemekestr. 124a - 33102 - Paderborn - 8 units</name>
+      <address>(S) Sander - Riemekestr. 124a - 33102 - Paderborn - 8 units Riemekestr. 124a 33102 Paderborn</address>
+      <description>Riemekestr. 124a 33102 Paderborn</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Weißmüller - Lechlweg 2 - 83209 - Prien am Chiemsee - 3 units</name>
+      <address>(S) Weißmüller - Lechlweg 2 - 83209 - Prien am Chiemsee - 3 units Lechlweg 2 -  83209 Prien am Chiemsee</address>
+      <description>Lechlweg 2 -  83209 Prien am Chiemsee</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Bodner - Dachshofstraße 2a - 81249 - München - 3 units</name>
+      <address>(S) Bodner - Dachshofstraße 2a - 81249 - München - 3 units Dachshofstraße 2 - 81249 München</address>
+      <description>Dachshofstraße 2 - 81249 München</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Himmelsbach - Sarweystraße 40-76 - 70191 Stuttgart - 19 units</name>
+      <address>(S) Himmelsbach - Sarweystraße 40-76 - 70191 Stuttgart - 19 units Sarweystraße 40-76 70191 Stuttgart</address>
+      <description>Sarweystraße 40-76 70191 Stuttgart</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Grujic - Nahestr. 2 - 64560 - Riedstadt - 3 units</name>
+      <address>(S) Grujic - Nahestr. 2 - 64560 - Riedstadt - 3 units Nahestr. 2 64560 Riedstadt</address>
+      <description>Nahestr. 2 64560 Riedstadt</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[(S) Grad - 72661 - Friedhofstraße 6 & 6/1 - Grafenberg - 5 units]]></name>
+      <address><![CDATA[(S) Grad - 72661 - Friedhofstraße 6 & 6/1 - Grafenberg - 5 units Friedhofstrasse 6 & 6/1 72661 Grafenberg]]></address>
+      <description><![CDATA[Friedhofstrasse 6 & 6/1 72661 Grafenberg]]></description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Gronau - Karoxbosteler Chaussee 65 - 21218 - Seevetal - 4 units</name>
+      <address>(S) Gronau - Karoxbosteler Chaussee 65 - 21218 - Seevetal - 4 units Karoxbosteler Chaussee 65 - 21218 Seevetal</address>
+      <description>Karoxbosteler Chaussee 65 - 21218 Seevetal</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Junghans - Reutherstraße 4 - 91301 Forchheim - 3 units</name>
+      <address>(S) Junghans - Reutherstraße 4 - 91301 Forchheim - 3 units Reutherstraße 4 - 91301 Forchheim</address>
+      <description>Reutherstraße 4 - 91301 Forchheim</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) (2) Silajdzic - Am Eiberg 36 - 75339  - Höfen a.d. Enz - 3 units</name>
+      <address>(S) (2) Silajdzic - Am Eiberg 36 - 75339  - Höfen a.d. Enz - 3 units Am Eiberg 36 75339  Höfen a.d. Enz</address>
+      <description>Am Eiberg 36 75339  Höfen a.d. Enz</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Thieme - Königsberger Str. 5 - 50170 Kerpen-Sindorf - 2 units</name>
+      <address>(S) Thieme - Königsberger Str. 5 - 50170 Kerpen-Sindorf - 2 units Königsberger Str. 5 50170 Kerpen-Sindorf</address>
+      <description>Königsberger Str. 5 50170 Kerpen-Sindorf</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Heinzelmann - Geschwister-Scholl-Str. 21 - 73207 - Plochingen - 3 units</name>
+      <address>(S) Heinzelmann - Geschwister-Scholl-Str. 21 - 73207 - Plochingen - 3 units Geschwister-Scholl-Str. 21 73207 Plochingen</address>
+      <description>Geschwister-Scholl-Str. 21 73207 Plochingen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Stussig - Bergstraße 14a - 82152 - Krailling - 8 units</name>
+      <address>(S) Stussig - Bergstraße 14a - 82152 - Krailling - 8 units Bergstraße 14 - 82152 Krailling</address>
+      <description>Bergstraße 14 - 82152 Krailling</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Hilscher - Bramfelder Weg 99 - 22159 - Hamburg - 3 units</name>
+      <address>(S) Hilscher - Bramfelder Weg 99 - 22159 - Hamburg - 3 units Bramfelder Weg 99 22159 Hamburg</address>
+      <description>Bramfelder Weg 99 22159 Hamburg</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Breddin - Ole Wisch 23-29 - 21244 - Buchholz in der Nordheide - 31 units </name>
+      <address>(S) Breddin - Ole Wisch 23-29 - 21244 - Buchholz in der Nordheide - 31 units  Ole Wisch 23-29 - 21244 Buchholz in der Nordheide</address>
+      <description>Ole Wisch 23-29 - 21244 Buchholz in der Nordheide</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Trunzer - Hasenbergsteige 90 - 70197 Stuttgart - 7 units</name>
+      <address>(S) Trunzer - Hasenbergsteige 90 - 70197 Stuttgart - 7 units Hasenbergsteige 90 70197 Stuttgart</address>
+      <description>Hasenbergsteige 90 70197 Stuttgart</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Kattenbusch - Westerwikstraße 1, 44379 Dortmund  - 6 units </name>
+      <address>(S) Kattenbusch - Westerwikstraße 1, 44379 Dortmund  - 6 units  Westerwikstraße 1 44379 Dortmund</address>
+      <description>Westerwikstraße 1 44379 Dortmund</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Fischlin -  Hagendeel 69 - 22529 Hamburg - 4 units</name>
+      <address>(S) Fischlin -  Hagendeel 69 - 22529 Hamburg - 4 units Hagendeel 69 22529 Hamburg</address>
+      <description>Hagendeel 69 22529 Hamburg</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Rannetshauser - Huchenstraße 54 - 81825 München - 3 units</name>
+      <address>(S) Rannetshauser - Huchenstraße 54 - 81825 München - 3 units Huchenstraße 54 81825 München</address>
+      <description>Huchenstraße 54 81825 München</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Peck/Kurz - Wilhelm-Enssle-Strasse 68 - 73630 Remshalden - 4 units</name>
+      <address>(S) Peck/Kurz - Wilhelm-Enssle-Strasse 68 - 73630 Remshalden - 4 units Wilhelm-Enssle-Strasse 68 73630 Remshalden</address>
+      <description>Wilhelm-Enssle-Strasse 68 73630 Remshalden</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Thomas - Lindenweg 9 - 89197 - Weidenstädten - 6 units</name>
+      <address>(S) Thomas - Lindenweg 9 - 89197 - Weidenstädten - 6 units Lindenweg 9 - 89197 Weidenstädten</address>
+      <description>Lindenweg 9 - 89197 Weidenstädten</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Elter - Korschenbroicher Str. 47 - 41065 - Mönchengladbach-Pesch - 10 units</name>
+      <address>(S) Elter - Korschenbroicher Str. 47 - 41065 - Mönchengladbach-Pesch - 10 units Korschenbroicher Str. 47 - 41065 Mönchengladbach</address>
+      <description>Korschenbroicher Str. 47 - 41065 Mönchengladbach</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Strauß - In den Grundwiesen 13  - 73266 Bissingen an der Teck - 5 units</name>
+      <address>(S) Strauß - In den Grundwiesen 13  - 73266 Bissingen an der Teck - 5 units In den Grundwiesen 13  73266 Bissingen an der Teck</address>
+      <description>In den Grundwiesen 13  73266 Bissingen an der Teck</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Mertens - Schönauer Straße 12B, 70569 Stuttgart - 8 Units</name>
+      <address>(S) Mertens - Schönauer Straße 12B, 70569 Stuttgart - 8 Units Schönauer Straße 12 - 70569 Stuttgart</address>
+      <description>Schönauer Straße 12 - 70569 Stuttgart</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Riebetz - Bachstraße 37 - 58300 - Wetter - 7 units</name>
+      <address>(S) Riebetz - Bachstraße 37 - 58300 - Wetter - 7 units Bachstraße 37 58300 Wetter</address>
+      <description>Bachstraße 37 58300 Wetter</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Reinhard - Natalie-von-Harder-Straße 11, 55218 Ingelheim am Rhein - 5 units</name>
+      <address>(S) Reinhard - Natalie-von-Harder-Straße 11, 55218 Ingelheim am Rhein - 5 units Natalie-von-Harder-Straße 11 - 55218 Ingelheim am Rhein</address>
+      <description>Natalie-von-Harder-Straße 11 - 55218 Ingelheim am Rhein</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Kaufhold - Spadener Straße 46 - 27578 - Bremerhaven - 4 units</name>
+      <address>(S) Kaufhold - Spadener Straße 46 - 27578 - Bremerhaven - 4 units Spadener Straße 46 27578 Bremerhaven</address>
+      <description>Spadener Straße 46 27578 Bremerhaven</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Kleintges  - Waldstraße 30 - 10551 Berlin - 15 units</name>
+      <address>(S) Kleintges  - Waldstraße 30 - 10551 Berlin - 15 units Waldstraße 30 10551 Berlin</address>
+      <description>Waldstraße 30 10551 Berlin</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Schlüter - Messeweg 10d - 38104 - Braunschweig - 3 units</name>
+      <address>(S) Schlüter - Messeweg 10d - 38104 - Braunschweig - 3 units Messeweg 10 -38104 Braunschweig</address>
+      <description>Messeweg 10 -38104 Braunschweig</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Balsmeier - Herrendienstweg 106 - Hiddenhausen - 32120 - 5 units</name>
+      <address>(S) Balsmeier - Herrendienstweg 106 - Hiddenhausen - 32120 - 5 units Herrendienstweg 106 32120 Hiddenhausen</address>
+      <description>Herrendienstweg 106 32120 Hiddenhausen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Gelbach - St.-Jakob-Straße 19 - 89233 - Neu-Ulm - 3 units</name>
+      <address>(S) Gelbach - St.-Jakob-Straße 19 - 89233 - Neu-Ulm - 3 units St.-Jakob-Straße 19 89233 Neu-Ulm</address>
+      <description>St.-Jakob-Straße 19 89233 Neu-Ulm</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Jung - Gotenstraße 78 - 65929 Frankfurt am Main - 4 units</name>
+      <address>(S) Jung - Gotenstraße 78 - 65929 Frankfurt am Main - 4 units Gotenstraße 78 65929 Frankfurt am Main</address>
+      <description>Gotenstraße 78 65929 Frankfurt am Main</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Schmiedeskamp - Lanzstraße 13 - 65193 Wiesbaden - 4 units</name>
+      <address>(S) Schmiedeskamp - Lanzstraße 13 - 65193 Wiesbaden - 4 units Lanzstraße 13 65193 Wiesbaden</address>
+      <description>Lanzstraße 13 65193 Wiesbaden</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S)(2) Engels - Wacholderweg 2-10c - 53721 Siegburg - 18 units</name>
+      <address>(S)(2) Engels - Wacholderweg 2-10c - 53721 Siegburg - 18 units Wacholderweg 2 - 53721 Siegburg</address>
+      <description>Wacholderweg 2 - 53721 Siegburg</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Bühler - Winzerstraße 25 - 79588 Efringen-Kirchen - 5 units</name>
+      <address>(S) Bühler - Winzerstraße 25 - 79588 Efringen-Kirchen - 5 units Winzerstraße 25  79588 Efringen-Kirchen</address>
+      <description>Winzerstraße 25  79588 Efringen-Kirchen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Kleemann - An der Bismarckschule 8c - 30173 Hannover - 6 units</name>
+      <address>(S) Kleemann - An der Bismarckschule 8c - 30173 Hannover - 6 units An der Bismarckschule 8 - 30173 Hannover</address>
+      <description>An der Bismarckschule 8 - 30173 Hannover</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Lutz - Hauptstraße 65/2 - 70771 Leinfelden-Echterdingen - 6 units</name>
+      <address>(S) Lutz - Hauptstraße 65/2 - 70771 Leinfelden-Echterdingen - 6 units Hauptstraße 65 - 70771 Leinfelden-Echterdingen</address>
+      <description>Hauptstraße 65 - 70771 Leinfelden-Echterdingen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Doß - Am Berg 5 - 18059 Papendorf - 6 units</name>
+      <address>(S) Doß - Am Berg 5 - 18059 Papendorf - 6 units Am Berg 5 18059 Papendorf</address>
+      <description>Am Berg 5 18059 Papendorf</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Eichler - Alt Harheim 8 / 8a - 60437 Frankfurt - 6 units</name>
+      <address>(S) Eichler - Alt Harheim 8 / 8a - 60437 Frankfurt - 6 units Alt Harhein 8 - 60437 Frankfurt</address>
+      <description>Alt Harhein 8 - 60437 Frankfurt</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Kolsch - Trögelweg 10 - 04289 Leipzig - 23 units</name>
+      <address>(S) Kolsch - Trögelweg 10 - 04289 Leipzig - 23 units Trögelweg 10 04289 Leipzig</address>
+      <description>Trögelweg 10 04289 Leipzig</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Pahre - Weißenburgstraße 9 - 93055 Regensburg - 3 units</name>
+      <address>(S) Pahre - Weißenburgstraße 9 - 93055 Regensburg - 3 units Weißenburgstraße 9 93055 Regensburg</address>
+      <description>Weißenburgstraße 9 93055 Regensburg</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Piscitelli - Im Winterfeld 9 - Denkte - 38321 - 6 units</name>
+      <address>(S) Piscitelli - Im Winterfeld 9 - Denkte - 38321 - 6 units Im Winterfeld 9 38321 Denkte</address>
+      <description>Im Winterfeld 9 38321 Denkte</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Rietdorf - Mühlau 2 - 83714 - Miesbach - 8 units</name>
+      <address>(S) Rietdorf - Mühlau 2 - 83714 - Miesbach - 8 units Mühlau 2 83714 Miesbach</address>
+      <description>Mühlau 2 83714 Miesbach</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Schneider - Stüdlstraße 23 - 80995 München - 3 units</name>
+      <address>(S) Schneider - Stüdlstraße 23 - 80995 München - 3 units Stüdlstraße 23 - 80995 München</address>
+      <description>Stüdlstraße 23 - 80995 München</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Dirksen - Fliederweg 10 - 78647 - Trossingen - 3 units</name>
+      <address>(S) Dirksen - Fliederweg 10 - 78647 - Trossingen - 3 units Fliederweg 10 78647 Trossingen</address>
+      <description>Fliederweg 10 78647 Trossingen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Schill-Wirth - Conradstraße 27- 69198 - Schriesheim - 5 units</name>
+      <address>(S) Schill-Wirth - Conradstraße 27- 69198 - Schriesheim - 5 units Conradstraße 27 69198 Schriesheim</address>
+      <description>Conradstraße 27 69198 Schriesheim</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Heidt - Düsseldorfer Straße 88 - 47051 Duisburg - 5 units</name>
+      <address>(S) Heidt - Düsseldorfer Straße 88 - 47051 Duisburg - 5 units Düsseldorfer Straße 88 47051 Duisburg</address>
+      <description>Düsseldorfer Straße 88 47051 Duisburg</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Freitag - Herbststraße 20 - 13409 - Berlin - 12 units</name>
+      <address>(S) Freitag - Herbststraße 20 - 13409 - Berlin - 12 units Herbststraße 20 13409 Berlin</address>
+      <description>Herbststraße 20 13409 Berlin</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Kauf - Ludwigshöherstr. 39a - 81479 - München - 3 units</name>
+      <address>(S) Kauf - Ludwigshöherstr. 39a - 81479 - München - 3 units Ludwigshöherstr. 39a - 81479 München</address>
+      <description>Ludwigshöherstr. 39a - 81479 München</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Nackas - Zum Ritzhagen 10b - 34508 - Willingen - 3 units</name>
+      <address>(S) Nackas - Zum Ritzhagen 10b - 34508 - Willingen - 3 units Zum Ritzhagen 10 - 34508 Willingen</address>
+      <description>Zum Ritzhagen 10 - 34508 Willingen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Baier - Näherstiller Straße 33, 98574 Schmalkalden- 5 units (Copy)</name>
+      <address>(S) Baier - Näherstiller Straße 33, 98574 Schmalkalden- 5 units (Copy) Näherstiller Straße 33 - 98574 Schmalkalden</address>
+      <description>Näherstiller Straße 33 - 98574 Schmalkalden</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Winkler/Krolo - Fritz-von-Graevenitz-Str. 8 - 70839 - Gerlingen - 8 units</name>
+      <address>(S) Winkler/Krolo - Fritz-von-Graevenitz-Str. 8 - 70839 - Gerlingen - 8 units Fritz-von-Graevenitz-Str. 8 70839 Gerlingen</address>
+      <description>Fritz-von-Graevenitz-Str. 8 70839 Gerlingen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Pastofski - Lohkampstraße 275+277 - 22523 - Hamburg - 6 units</name>
+      <address>(S) Pastofski - Lohkampstraße 275+277 - 22523 - Hamburg - 6 units Lohkampstraße 275+277 22523 Hamburg</address>
+      <description>Lohkampstraße 275+277 22523 Hamburg</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Körtge - Brinkstr. 9b, 30890 - Barsinghausen - 2 units</name>
+      <address>(S) Körtge - Brinkstr. 9b, 30890 - Barsinghausen - 2 units Brinkstraße 9 - 30890 Barsinghausen</address>
+      <description>Brinkstraße 9 - 30890 Barsinghausen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Dichtl - Hofgasse 26 - 89312 Günzburg - 3 units</name>
+      <address>(S) Dichtl - Hofgasse 26 - 89312 Günzburg - 3 units Hofgasse 26 89312 Günzburg</address>
+      <description>Hofgasse 26 89312 Günzburg</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Herbst  - Gemingstraße 24 -  81929 - München - 6 units</name>
+      <address>(S) Herbst  - Gemingstraße 24 -  81929 - München - 6 units Gemingstraße 24 81929 München</address>
+      <description>Gemingstraße 24 81929 München</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Weiss - Otto-Weddigen-Str. 30 - 46145 - Oberhausen - 3 units</name>
+      <address>(S) Weiss - Otto-Weddigen-Str. 30 - 46145 - Oberhausen - 3 units Otto-Weddigen-Str. 30  46145 Oberhausen</address>
+      <description>Otto-Weddigen-Str. 30  46145 Oberhausen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) von Briskorn - Segeberger Landstraße 144 - 24145 - Kiel - Units 4</name>
+      <address>(S) von Briskorn - Segeberger Landstraße 144 - 24145 - Kiel - Units 4 Segeberger Landstraße 144 24145 Kiel</address>
+      <description>Segeberger Landstraße 144 24145 Kiel</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Grube - J2 8 - 68159 - Mannheim - 7 units</name>
+      <address>(S) Grube - J2 8 - 68159 - Mannheim - 7 units J2 8 - 68159 Mannheim</address>
+      <description>J2 8 - 68159 Mannheim</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Smala - Ehrlichstraße 36 - 10318 - Berlin - 4 units</name>
+      <address>(S) Smala - Ehrlichstraße 36 - 10318 - Berlin - 4 units Ehrlichstraße 36  10318 Berlin</address>
+      <description>Ehrlichstraße 36  10318 Berlin</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Hubert - Lerchenweg 20 - 71032 - Böblingen - 4 units</name>
+      <address>(S) Hubert - Lerchenweg 20 - 71032 - Böblingen - 4 units Lerchenweg 20 71032 Böblingen</address>
+      <description>Lerchenweg 20 71032 Böblingen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Kehl - Banngartenstraße 19a - 69207 Sandhausen - 7 units</name>
+      <address>(S) Kehl - Banngartenstraße 19a - 69207 Sandhausen - 7 units Banngartenstraße 19a 69207 Sandhausen</address>
+      <description>Banngartenstraße 19a 69207 Sandhausen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Hochrath - Brahms Straße 47a - 53359 - Rheinbach - 4 units</name>
+      <address>(S) Hochrath - Brahms Straße 47a - 53359 - Rheinbach - 4 units Brahms Straße 47a 53359 Rheinbach</address>
+      <description>Brahms Straße 47a 53359 Rheinbach</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Schulz - Naheweg 9 - 53347 - Alfter - 3 units</name>
+      <address>(S) Schulz - Naheweg 9 - 53347 - Alfter - 3 units Naheweg 9 53347 Alfter</address>
+      <description>Naheweg 9 53347 Alfter</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Kohl - Sophie-Scholl-Straße 57 - 68623 - Lampertsheim - 7 units</name>
+      <address>(S) Kohl - Sophie-Scholl-Straße 57 - 68623 - Lampertsheim - 7 units Sophie-Scholl-Straße 57 68623 Lampertsheim</address>
+      <description>Sophie-Scholl-Straße 57 68623 Lampertsheim</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Dierkes - Ludwig-Erhard Straße 26 - 41564 - Kaarst - 6 units</name>
+      <address>(S) Dierkes - Ludwig-Erhard Straße 26 - 41564 - Kaarst - 6 units Ludwig-Erhard Straße 26 41564 Kaarst</address>
+      <description>Ludwig-Erhard Straße 26 41564 Kaarst</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S)  Ries - Osterholzallee 14 - 71636 - Ludwigsburg - 5 units</name>
+      <address>(S)  Ries - Osterholzallee 14 - 71636 - Ludwigsburg - 5 units Osterholzallee 14 71636 Ludwigsburg</address>
+      <description>Osterholzallee 14 71636 Ludwigsburg</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Popp - Friedrich-Ebert-Straße 35 - 30459 Hannover - 10 units</name>
+      <address>(S) Popp - Friedrich-Ebert-Straße 35 - 30459 Hannover - 10 units Friedrich-Ebert-Straße 35 30459 Hannover</address>
+      <description>Friedrich-Ebert-Straße 35 30459 Hannover</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Gesen - Am Nesseufer 36 - 26789 - Leer - 3 units</name>
+      <address>(S) Gesen - Am Nesseufer 36 - 26789 - Leer - 3 units Am Nesseufer 36 26789 Leer</address>
+      <description>Am Nesseufer 36 26789 Leer</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Lindner - Adlerstraße 50 - 70199 - Stuttgart - 4 units</name>
+      <address>(S) Lindner - Adlerstraße 50 - 70199 - Stuttgart - 4 units Adlerstraße 50 70199 Stuttgart</address>
+      <description>Adlerstraße 50 70199 Stuttgart</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Mitterhofer - Stäblistr. 17-17b - 81477 München - 4 units</name>
+      <address>(S) Mitterhofer - Stäblistr. 17-17b - 81477 München - 4 units Stäblistr. 17-17b - 81477 München</address>
+      <description>Stäblistr. 17-17b - 81477 München</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Dressel - Dr.-Walther-von-Miller-Straße 39 - 81739 - München - 5 units</name>
+      <address>(S) Dressel - Dr.-Walther-von-Miller-Straße 39 - 81739 - München - 5 units Dr.-Walther-von-Miller-Straße 39 81739 München</address>
+      <description>Dr.-Walther-von-Miller-Straße 39 81739 München</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Unruh - Portastraße 6A, 32457 Porta Westfalica - 3 units</name>
+      <address>(S) Unruh - Portastraße 6A, 32457 Porta Westfalica - 3 units Portastraße 6A 32457 Porta Westfalica</address>
+      <description>Portastraße 6A 32457 Porta Westfalica</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Lenzen - Adlerweg 6, 50189 Elsdorf - 3 units</name>
+      <address>(S) Lenzen - Adlerweg 6, 50189 Elsdorf - 3 units 50189</address>
+      <description>50189</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Huber - Rotkäppchenstraße 61A, 81739 München - 3 units</name>
+      <address>(S) Huber - Rotkäppchenstraße 61A, 81739 München - 3 units Rotkäppchenstraße 61 - 81739 München</address>
+      <description>Rotkäppchenstraße 61 - 81739 München</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Hofmann - Schallershoferstraße 82 - 91056 - Erlangen - 7 units</name>
+      <address>(S) Hofmann - Schallershoferstraße 82 - 91056 - Erlangen - 7 units Schallershoferstraße 82 91056 Erlangen</address>
+      <description>Schallershoferstraße 82 91056 Erlangen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Schmidt - 85368 - München - Schillerstraße 20- 6 units</name>
+      <address>(S) Schmidt - 85368 - München - Schillerstraße 20- 6 units Schillerstraße 20 85368 München</address>
+      <description>Schillerstraße 20 85368 München</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Dr. Münter - Sandleithe 18 - 90768 - Fürth - 6 units</name>
+      <address>(S) Dr. Münter - Sandleithe 18 - 90768 - Fürth - 6 units Sandleithe 18 90768 Fürth</address>
+      <description>Sandleithe 18 90768 Fürth</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Boettcher - Klöckner Str. 8 - 30926 - Seelze - 5 units</name>
+      <address>(S) Boettcher - Klöckner Str. 8 - 30926 - Seelze - 5 units Klöckner Str. 8 - 30926 Seelze</address>
+      <description>Klöckner Str. 8 - 30926 Seelze</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Kohlstock - Corneliusstr. 110 - 40215 - Düsseldorf - 9 units</name>
+      <address>(S) Kohlstock - Corneliusstr. 110 - 40215 - Düsseldorf - 9 units Corneliusstr. 110 40215 Düsseldorf</address>
+      <description>Corneliusstr. 110 40215 Düsseldorf</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Maurer - Preußenstr. 111 - 41464 - Neuss - 5 units</name>
+      <address>(S) Maurer - Preußenstr. 111 - 41464 - Neuss - 5 units Preußenstr. 111 41464 Neuss</address>
+      <description>Preußenstr. 111 41464 Neuss</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Schmitz - Kirchweg 11 - 53919 Weilerswist  - 3 units </name>
+      <address>(S) Schmitz - Kirchweg 11 - 53919 Weilerswist  - 3 units  Kirchweg 11   53919 Weilerswist</address>
+      <description>Kirchweg 11   53919 Weilerswist</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Hauch - Niedernbergstr. 32 - 55270 Zornheim - 4 units</name>
+      <address>(S) Hauch - Niedernbergstr. 32 - 55270 Zornheim - 4 units Niedernbergstr. 32 55270 Zornheim</address>
+      <description>Niedernbergstr. 32 55270 Zornheim</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Davide Pesce  - Dinkelsbühler Straße 6, 51103 Köln  - 11 units</name>
+      <address>(S) Davide Pesce  - Dinkelsbühler Straße 6, 51103 Köln  - 11 units Dinkelsbühler Straße 6 51103 Köln</address>
+      <description>Dinkelsbühler Straße 6 51103 Köln</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Szczupak - Kiebitzgrund 18 - 25421 - Pinneberg - 5 units</name>
+      <address>(S) Szczupak - Kiebitzgrund 18 - 25421 - Pinneberg - 5 units Kiebitzgrund 18 25421 Pinneberg</address>
+      <description>Kiebitzgrund 18 25421 Pinneberg</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Schäfer - Am Bilstein 40 - 45219 Essen  - 3 units</name>
+      <address>(S) Schäfer - Am Bilstein 40 - 45219 Essen  - 3 units Am Bilstein 40 45219 Essen</address>
+      <description>Am Bilstein 40 45219 Essen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Zenger - Regensburger Str. 6 - 93197 - Zeitlarn - 6 units</name>
+      <address>(S) Zenger - Regensburger Str. 6 - 93197 - Zeitlarn - 6 units Regensburger Str. 6 93197 Zeitlarn</address>
+      <description>Regensburger Str. 6 93197 Zeitlarn</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Grohe - Mozartstraße 31 - 40882 Ratingen - 5 units</name>
+      <address>(S) Grohe - Mozartstraße 31 - 40882 Ratingen - 5 units Mozartstraße 31 40882 Ratingen</address>
+      <description>Mozartstraße 31 40882 Ratingen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Diller - Numbachstr. 80 - 57072 - Siegen - 8 units</name>
+      <address>(S) Diller - Numbachstr. 80 - 57072 - Siegen - 8 units Numbachstraße 80 57072 Siegen</address>
+      <description>Numbachstraße 80 57072 Siegen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Dyck - Martin-Luther-Straße 8 - 18209  - Bad Doberan - 3 units</name>
+      <address>(S) Dyck - Martin-Luther-Straße 8 - 18209  - Bad Doberan - 3 units Martin-Luther-Straße 8 18209  Bad Doberan</address>
+      <description>Martin-Luther-Straße 8 18209  Bad Doberan</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Schumacher - Bergstraße 40 - 71686 Remseck am Neckar - 7 units</name>
+      <address>(S) Schumacher - Bergstraße 40 - 71686 Remseck am Neckar - 7 units Bergstraße 40 71686 Remseck am Neckar</address>
+      <description>Bergstraße 40 71686 Remseck am Neckar</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Obermann - Scheuerlenstraße 22a - 79822 Titisee Neustadt - 3 units</name>
+      <address>(S) Obermann - Scheuerlenstraße 22a - 79822 Titisee Neustadt - 3 units Scheuerlenstraße 22 - 79822 Titisee Neustadt</address>
+      <description>Scheuerlenstraße 22 - 79822 Titisee Neustadt</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Hill - Koburger Straße 2 - 10825 Berlin - 12 units</name>
+      <address>(S) Hill - Koburger Straße 2 - 10825 Berlin - 12 units Koburger Straße 2 10825 Berlin</address>
+      <description>Koburger Straße 2 10825 Berlin</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Hees - Sonnenau 5 - 56132 - Dausenau - 3 units</name>
+      <address>(S) Hees - Sonnenau 5 - 56132 - Dausenau - 3 units Sonnenau 5 56132 Dausenau</address>
+      <description>Sonnenau 5 56132 Dausenau</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Nörthemann  - Uhlandstr.9 - 58840 Plettenberg - 3 units</name>
+      <address>(S) Nörthemann  - Uhlandstr.9 - 58840 Plettenberg - 3 units Uhlandstr.9 58840 Plettenberg</address>
+      <description>Uhlandstr.9 58840 Plettenberg</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Pasternack - Schönbergstraße 33 - 65199 - Wiesbaden - 12 units</name>
+      <address>(S) Pasternack - Schönbergstraße 33 - 65199 - Wiesbaden - 12 units Schöbergstraße 33 65199 Wiesbaden</address>
+      <description>Schöbergstraße 33 65199 Wiesbaden</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Auburger - Frühlingstr. 8 - 93128 Regenstauf - 3 units</name>
+      <address>(S) Auburger - Frühlingstr. 8 - 93128 Regenstauf - 3 units Frühlingstr. 8 - 93128 Regenstauf</address>
+      <description>Frühlingstr. 8 - 93128 Regenstauf</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Kunzmann - Rennbachweg 3 - 75181 - Pforzheim - 8 units</name>
+      <address>(S) Kunzmann - Rennbachweg 3 - 75181 - Pforzheim - 8 units Rennbachweg 3 75181 Pforzheim</address>
+      <description>Rennbachweg 3 75181 Pforzheim</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Bakker  -  Oldesloer Str. 51 - 22457 Hamburg - 3 units</name>
+      <address>(S) Bakker  -  Oldesloer Str. 51 - 22457 Hamburg - 3 units Oldesloer Str. 51 22457 Hamburg</address>
+      <description>Oldesloer Str. 51 22457 Hamburg</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Engbrecht - Waldstraße 3 - 53773 - Hennef - 9 units</name>
+      <address>(S) Engbrecht - Waldstraße 3 - 53773 - Hennef - 9 units Waldstraße 3 53773 Hennef</address>
+      <description>Waldstraße 3 53773 Hennef</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Robb - Trautenauer Weg 6- 84478 Waldkraiburg - 3 units</name>
+      <address>(S) Robb - Trautenauer Weg 6- 84478 Waldkraiburg - 3 units Trautenauer Weg 6 84478 Waldkraiburg</address>
+      <description>Trautenauer Weg 6 84478 Waldkraiburg</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Borchardt  - Danzigstr. 18 - 38268 Lengede - 3 units</name>
+      <address>(S) Borchardt  - Danzigstr. 18 - 38268 Lengede - 3 units Danzigstr. 18 38268 Lengede</address>
+      <description>Danzigstr. 18 38268 Lengede</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Lukic - Hofener-Straße 90 - 70372 Stuttgart - 9 units</name>
+      <address>(S) Lukic - Hofener-Straße 90 - 70372 Stuttgart - 9 units Hofener-Straße 90 70372 Stuttgart</address>
+      <description>Hofener-Straße 90 70372 Stuttgart</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Braner - Dietersdorferstr. 40 - 91126 Rednitzhembach - 3 units</name>
+      <address>(S) Braner - Dietersdorferstr. 40 - 91126 Rednitzhembach - 3 units Dietersdorferstr. 40 - 91126 Rednitzhembach</address>
+      <description>Dietersdorferstr. 40 - 91126 Rednitzhembach</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Reitz - Parkstr.30 - 66538 Neunkirchen - 3 units</name>
+      <address>(S) Reitz - Parkstr.30 - 66538 Neunkirchen - 3 units Parkstr.30  66538 Neunkirchen</address>
+      <description>Parkstr.30  66538 Neunkirchen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Barrui  - Atzelbergstraße 92 - 60389 Frankfurt am Main - 8 units</name>
+      <address>(S) Barrui  - Atzelbergstraße 92 - 60389 Frankfurt am Main - 8 units Atzelbergstraße 92  60389 Frankfurt am Main</address>
+      <description>Atzelbergstraße 92  60389 Frankfurt am Main</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Spangenberg - Am Gehölz 16 - 14480 - Potsdam - 3 Units</name>
+      <address>(S) Spangenberg - Am Gehölz 16 - 14480 - Potsdam - 3 Units Am Gehölz 16 - 14480 Potsdam</address>
+      <description>Am Gehölz 16 - 14480 Potsdam</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Dr. Jager  - Große Straße 30 - 38116 Braunschweig - 6 units</name>
+      <address>(S) Dr. Jager  - Große Straße 30 - 38116 Braunschweig - 6 units Große Straße 30 38116 Braunschweig</address>
+      <description>Große Straße 30 38116 Braunschweig</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Mosandl  - Riedhäuserhofstraße 17 bis 17 c - 64560 Riedstadt - 4 units</name>
+      <address>(S) Mosandl  - Riedhäuserhofstraße 17 bis 17 c - 64560 Riedstadt - 4 units Riedhäuserhofstraße 17 bis 17 c 64560 Riedstadt</address>
+      <description>Riedhäuserhofstraße 17 bis 17 c 64560 Riedstadt</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Seider - 63071 Offenbach, Bieberer Str. 211 - 8 units</name>
+      <address>(S) Seider - 63071 Offenbach, Bieberer Str. 211 - 8 units Bieberer Str. 311 63071 Offenbach</address>
+      <description>Bieberer Str. 311 63071 Offenbach</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Ortenburger - Johannes-Niemeyer-Weg 19-25a - 14109 Berlin - 10 units</name>
+      <address>(S) Ortenburger - Johannes-Niemeyer-Weg 19-25a - 14109 Berlin - 10 units Johannes-Niemeyer-Weg 19 - 14109 Berlin</address>
+      <description>Johannes-Niemeyer-Weg 19 - 14109 Berlin</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Widmann - Marktstraße 9 - 69168 - Wiesloch - 5 units</name>
+      <address>(S) Widmann - Marktstraße 9 - 69168 - Wiesloch - 5 units Marktstraße 9 69168 Wiesloch</address>
+      <description>Marktstraße 9 69168 Wiesloch</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Büser - Unterstr. 150 - 53859 - Niederkassel - 3 units</name>
+      <address>(S) Büser - Unterstr. 150 - 53859 - Niederkassel - 3 units Unterstr. 150 53859 Niederkassel</address>
+      <description>Unterstr. 150 53859 Niederkassel</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Dilba -Everslohstraße 77 -  46145 - Oberhausen  - 4 units</name>
+      <address>(S) Dilba -Everslohstraße 77 -  46145 - Oberhausen  - 4 units Everslohstr. 77 46145 Oberhausen</address>
+      <description>Everslohstr. 77 46145 Oberhausen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Lasslop  - Kastanienweg 5 - 69509 - Mörlenbach - 4 units</name>
+      <address>(S) Lasslop  - Kastanienweg 5 - 69509 - Mörlenbach - 4 units Kastanienweg 5 69509 Mörlenbach</address>
+      <description>Kastanienweg 5 69509 Mörlenbach</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Wickert - Fuhrmannsgasse 2-4d, 50374 Erftstadt - 6 units</name>
+      <address>(S) Wickert - Fuhrmannsgasse 2-4d, 50374 Erftstadt - 6 units Fuhrmannsgasse 2-4d 50374 Erftstadt</address>
+      <description>Fuhrmannsgasse 2-4d 50374 Erftstadt</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Öztürk - Roseggerweg 4 - 71696 Möglingen - 3 units</name>
+      <address>(S) Öztürk - Roseggerweg 4 - 71696 Möglingen - 3 units Roseggerweg 4 71696 Möglingen</address>
+      <description>Roseggerweg 4 71696 Möglingen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Schymczyk - Zum Roggenhof 9  - 22885 Barsbüttel - 4 units</name>
+      <address>(S) Schymczyk - Zum Roggenhof 9  - 22885 Barsbüttel - 4 units Zum Roggenhof 9  22885 Barsbüttel</address>
+      <description>Zum Roggenhof 9  22885 Barsbüttel</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Wederka - Tannenkoppelweg 7-7e - 22949 Ammersbek - 6 units</name>
+      <address>(S) Wederka - Tannenkoppelweg 7-7e - 22949 Ammersbek - 6 units Tannenkoppelweg 7-7e 22949 Ammersbek</address>
+      <description>Tannenkoppelweg 7-7e 22949 Ammersbek</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Dr. Herberhold - Jaguarstieg 26 - 22527 - Hamburg - 8 units</name>
+      <address>(S) Dr. Herberhold - Jaguarstieg 26 - 22527 - Hamburg - 8 units Jaguarstieg 26 22527 Hamburg</address>
+      <description>Jaguarstieg 26 22527 Hamburg</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Skiba - Buch 2a - 94166 Stubenberg - 6 units</name>
+      <address>(S) Skiba - Buch 2a - 94166 Stubenberg - 6 units Buch 2 - 94166 Stubenberg Deutschland</address>
+      <description>Buch 2 - 94166 Stubenberg Deutschland</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Kubina - Berlinerheerstr. 20 - 38104 Braunschweig - 3 units</name>
+      <address>(S) Kubina - Berlinerheerstr. 20 - 38104 Braunschweig - 3 units Berlinerheerstr. 20 38104 Braunschweig</address>
+      <description>Berlinerheerstr. 20 38104 Braunschweig</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Braun - Konrad-Adenauer-Straße 40 - 34132 - Kassel - 6 units</name>
+      <address>(S) Braun - Konrad-Adenauer-Straße 40 - 34132 - Kassel - 6 units Konrad-Adenauer-Straße 40 34132 Kassel</address>
+      <description>Konrad-Adenauer-Straße 40 34132 Kassel</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Büttner - Grüner Weg 79 - 58644 - Iserlohn - 5 units</name>
+      <address>(S) Büttner - Grüner Weg 79 - 58644 - Iserlohn - 5 units Grüner Weg 79 58644 Iserlohn</address>
+      <description>Grüner Weg 79 58644 Iserlohn</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Braun - Melanchthonstraße 17 - 70374 Stuttgart - 7 units</name>
+      <address>(S) Braun - Melanchthonstraße 17 - 70374 Stuttgart - 7 units Melanchthonstraße 17 70374 Stuttgart</address>
+      <description>Melanchthonstraße 17 70374 Stuttgart</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Gebauer - Teckstraße 4 - 71679 Asperg - 6 units</name>
+      <address>(S) Gebauer - Teckstraße 4 - 71679 Asperg - 6 units Teckstraße 4 71679  Asperg</address>
+      <description>Teckstraße 4 71679  Asperg</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Maletz - Niemeierstraße 15 - 30449 - Hannover - 4 units</name>
+      <address>(S) Maletz - Niemeierstraße 15 - 30449 - Hannover - 4 units Niemeierstraße 15 - 30449 Hannover</address>
+      <description>Niemeierstraße 15 - 30449 Hannover</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Feilcke - Bellermannstr. 95 - 13357 Berlin - 8 units</name>
+      <address>(S) Feilcke - Bellermannstr. 95 - 13357 Berlin - 8 units Bellermannstr. 95  13357 Berlin</address>
+      <description>Bellermannstr. 95  13357 Berlin</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Paillon - Heinrich-Heine-Strasse 6 - 53225 - Bonn - 5 units</name>
+      <address>(S) Paillon - Heinrich-Heine-Strasse 6 - 53225 - Bonn - 5 units Heinrich-Heine-Strasse 6 - 53229 Bonn</address>
+      <description>Heinrich-Heine-Strasse 6 - 53229 Bonn</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Hänsel - Theodor-Heuss-Str. 2 - 67346 Speyer  - 4 units</name>
+      <address>(S) Hänsel - Theodor-Heuss-Str. 2 - 67346 Speyer  - 4 units Theodor-Heuss-Str. 2  67346 Speyer</address>
+      <description>Theodor-Heuss-Str. 2  67346 Speyer</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Dreher - Meisenweg 1 - 70794 Filderstadt - 3 units</name>
+      <address>(S) Dreher - Meisenweg 1 - 70794 Filderstadt - 3 units Meisenweg 1 70794 Filderstadt</address>
+      <description>Meisenweg 1 70794 Filderstadt</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Tarara - Alpspitzstr. 1a-c - 85591 - Vaterstetten - 5 units</name>
+      <address>(S) Tarara - Alpspitzstr. 1a-c - 85591 - Vaterstetten - 5 units Alpspitzstr. 1 - 85591 Vaterstetten</address>
+      <description>Alpspitzstr. 1 - 85591 Vaterstetten</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Kleinhans - Neuenbergstr. 4b 91301 Forchheim - 3 units</name>
+      <address>(S) Kleinhans - Neuenbergstr. 4b 91301 Forchheim - 3 units Neuenbergstr. 4b - 91301 Forcheim</address>
+      <description>Neuenbergstr. 4b - 91301 Forcheim</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Davidis - Schumann Straße 2-42 - 33803 Steinhagen - 21 units</name>
+      <address>(S) Davidis - Schumann Straße 2-42 - 33803 Steinhagen - 21 units Schumann Straße 2-42 33803 Steinhagen</address>
+      <description>Schumann Straße 2-42 33803 Steinhagen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Wölfel - Rheinstraße 53A - 76479 Steinmauern - 4 units</name>
+      <address>(S) Wölfel - Rheinstraße 53A - 76479 Steinmauern - 4 units Rheinstraße 53A 76479 Steinmauern</address>
+      <description>Rheinstraße 53A 76479 Steinmauern</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Reddig - Am Lahbusch 2 - 29556 Suderburg-Holxen - 15 units</name>
+      <address>(S) Reddig - Am Lahbusch 2 - 29556 Suderburg-Holxen - 15 units Am Lahbusch 2  29556 Suderburg-Holxen</address>
+      <description>Am Lahbusch 2  29556 Suderburg-Holxen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Ehnle - Schwabstr. 59 - 71032 - Böblingen - 3 units</name>
+      <address>(S) Ehnle - Schwabstr. 59 - 71032 - Böblingen - 3 units Schwabstr. 59 71032 Böblingen</address>
+      <description>Schwabstr. 59 71032 Böblingen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Aurich - Zum Paradies 4 a-d - 34516 Vöhl - 4 units </name>
+      <address>(S) Aurich - Zum Paradies 4 a-d - 34516 Vöhl - 4 units  Zum Paradies 4 a-d 34516 Vöhl</address>
+      <description>Zum Paradies 4 a-d 34516 Vöhl</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Nahrmann - Münzstraße 6a - 33602 Bielefeld - 4 units</name>
+      <address>(S) Nahrmann - Münzstraße 6a - 33602 Bielefeld - 4 units Münzstraße 6a - 33602 Bielefeld</address>
+      <description>Münzstraße 6a - 33602 Bielefeld</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Ehmes - Jahnstraße 19 - 61130 - Nidderau - 4 units</name>
+      <address>(S) Ehmes - Jahnstraße 19 - 61130 - Nidderau - 4 units Jahnstraße 19  61130 Nidderau</address>
+      <description>Jahnstraße 19  61130 Nidderau</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[(S) Schäfer - Borbecker Straße 122/124 & 128/130 - 40629 Mülheim a. d. R. - 24 units]]></name>
+      <address><![CDATA[(S) Schäfer - Borbecker Straße 122/124 & 128/130 - 40629 Mülheim a. d. R. - 24 units Borbecker Straße 122/124 & 128/130  45475 Mülheim a. d. R.]]></address>
+      <description><![CDATA[Borbecker Straße 122/124 & 128/130  45475 Mülheim a. d. R.]]></description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Maxelon - Bedingrader Str. 201 - 45359 Essen- 3 units</name>
+      <address>(S) Maxelon - Bedingrader Str. 201 - 45359 Essen- 3 units Bedingrader Str. 201 45359 Essen</address>
+      <description>Bedingrader Str. 201 45359 Essen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Breuer - Friedrich-Blink-Straße 2 - 74925 Epfenbach - 3 units</name>
+      <address>(S) Breuer - Friedrich-Blink-Straße 2 - 74925 Epfenbach - 3 units Friedrich-Blink-Straße 2 74925 Epfenbach</address>
+      <description>Friedrich-Blink-Straße 2 74925 Epfenbach</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Wiechert - Ringstraße 9 und 9A - 63695 - Glauburg - 6 units</name>
+      <address>(S) Wiechert - Ringstraße 9 und 9A - 63695 - Glauburg - 6 units Ringstraße 9 -  63695 Glauburg</address>
+      <description>Ringstraße 9 -  63695 Glauburg</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Sijaric - Jahnstraße 10  - 64546 - Mörfelden-Walldorf - 4 units</name>
+      <address>(S) Sijaric - Jahnstraße 10  - 64546 - Mörfelden-Walldorf - 4 units Jahnstraße 10  64546 Mörfelden-Walldorf</address>
+      <description>Jahnstraße 10  64546 Mörfelden-Walldorf</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Böhm - Beilngrieser Straße 149 85055 Ingolstadt - 4 units</name>
+      <address>(S) Böhm - Beilngrieser Straße 149 85055 Ingolstadt - 4 units Beilngrieser Straße 149 85055 Ingolstadt</address>
+      <description>Beilngrieser Straße 149 85055 Ingolstadt</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Chellioui  - Dresdner Str. 18 - 63110 Rodgau - 12 units</name>
+      <address>(S) Chellioui  - Dresdner Str. 18 - 63110 Rodgau - 12 units Dresdner Str. 18 63110 Rodgau</address>
+      <description>Dresdner Str. 18 63110 Rodgau</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Schwärzer - Choriner Str. 13 - 16248 Niederfinow- 9 units</name>
+      <address>(S) Schwärzer - Choriner Str. 13 - 16248 Niederfinow- 9 units Choriner Str. 13 16248 Niederfinow</address>
+      <description>Choriner Str. 13 16248 Niederfinow</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Staak - Mahlower Straße 229 - 14513 - Teltow - 3 units</name>
+      <address>(S) Staak - Mahlower Straße 229 - 14513 - Teltow - 3 units Mahlower Straße 229 14513 Teltow</address>
+      <description>Mahlower Straße 229 14513 Teltow</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Achalski - Waldstraße 40 - 15370 Petershagen - 4 units</name>
+      <address>(S) Achalski - Waldstraße 40 - 15370 Petershagen - 4 units Waldstraße 40 - 15370 Petershagen</address>
+      <description>Waldstraße 40 - 15370 Petershagen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Mönch - Neckarstraße 28 - 68259 Mannheim - 10 Einheiten</name>
+      <address>(S) Mönch - Neckarstraße 28 - 68259 Mannheim - 10 Einheiten Neckarstraße 28 68259 Mannheim</address>
+      <description>Neckarstraße 28 68259 Mannheim</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Becker - Halener Str. 62 - 47198 Duisburg - 3 units</name>
+      <address>(S) Becker - Halener Str. 62 - 47198 Duisburg - 3 units Halener Straße 62 47198 Duisburg</address>
+      <description>Halener Straße 62 47198 Duisburg</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Berger - Hohensalzerstraße 24 - 81929 - München - 6 units</name>
+      <address>(S) Berger - Hohensalzerstraße 24 - 81929 - München - 6 units Hohensalzerstraße 24 81929 München</address>
+      <description>Hohensalzerstraße 24 81929 München</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Kay - Prof.-Dr.-Schemann-Weg 37 - 58091 - Hagen - 3 units</name>
+      <address>(S) Kay - Prof.-Dr.-Schemann-Weg 37 - 58091 - Hagen - 3 units Prof.-Dr.-Schemann-Weg 37 58091 Hagen</address>
+      <description>Prof.-Dr.-Schemann-Weg 37 58091 Hagen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Wirtz - Berchetstraße 14 - 82275 - Emmering - 3 units</name>
+      <address>(S) Wirtz - Berchetstraße 14 - 82275 - Emmering - 3 units Berchetstraße 14 82275 Emmering</address>
+      <description>Berchetstraße 14 82275 Emmering</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Purucker - Westendstr. 13 - 90427 - Nürnberg - 7 units</name>
+      <address>(S) Purucker - Westendstr. 13 - 90427 - Nürnberg - 7 units Westendstr. 13 90427 Nürnberg</address>
+      <description>Westendstr. 13 90427 Nürnberg</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Rech - Birkenstraße 29 - 66119 Saarbrücken - 7 units</name>
+      <address>(S) Rech - Birkenstraße 29 - 66119 Saarbrücken - 7 units Birkenstr. 29 - 66119 Saarbrücken</address>
+      <description>Birkenstr. 29 - 66119 Saarbrücken</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Rafflenbeul - Kuthsweg 31, 40231 Düsseldorf - 74 units</name>
+      <address>(S) Rafflenbeul - Kuthsweg 31, 40231 Düsseldorf - 74 units Kuthsweg 31 - 40231 Düsseldorf</address>
+      <description>Kuthsweg 31 - 40231 Düsseldorf</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Schmidt - Gagernring 110 - 65779 - Kelkheim - 2 units</name>
+      <address>(S) Schmidt - Gagernring 110 - 65779 - Kelkheim - 2 units Gagernring 110 65779 Kelkheim</address>
+      <description>Gagernring 110 65779 Kelkheim</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Cichon - Burgallee 7 - 63454 - Hanau - 6 units</name>
+      <address>(S) Cichon - Burgallee 7 - 63454 - Hanau - 6 units Burgallee 7 63454 Hanau</address>
+      <description>Burgallee 7 63454 Hanau</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Laitenberger - Schollenhaldenstr. 61 - 74080 - Heilbronn - 4 units</name>
+      <address>(S) Laitenberger - Schollenhaldenstr. 61 - 74080 - Heilbronn - 4 units Schollenhaldenstr. 61 74080 Heilbronn</address>
+      <description>Schollenhaldenstr. 61 74080 Heilbronn</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Martino (Tormento) - Römerstr. 91 - 74078 - Heilbronn - 2 units</name>
+      <address>(S) Martino (Tormento) - Römerstr. 91 - 74078 - Heilbronn - 2 units Römerstr. 91 - 74078 Heilbronn</address>
+      <description>Römerstr. 91 - 74078 Heilbronn</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Scheydt - Raidegrundweg 4 - 76327 - Pfinztal - 4 units</name>
+      <address>(S) Scheydt - Raidegrundweg 4 - 76327 - Pfinztal - 4 units Raidegrundweg 4 76327  Pfinztal</address>
+      <description>Raidegrundweg 4 76327  Pfinztal</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Scheitza - Vorgebirgsstraße 48 - 53913 - Swisttal - 11 units</name>
+      <address>(S) Scheitza - Vorgebirgsstraße 48 - 53913 - Swisttal - 11 units Vorgebirgsstraße 48 53913 Swisttal</address>
+      <description>Vorgebirgsstraße 48 53913 Swisttal</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Krüger - Hohe Eiche 49 - 44892 - Bochum - 3 units</name>
+      <address>(S) Krüger - Hohe Eiche 49 - 44892 - Bochum - 3 units Hohe Eiche 49 44892 Bochum</address>
+      <description>Hohe Eiche 49 44892 Bochum</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Hammer - Hauptstraße 346 - 30826 - Garbsen - 4 units</name>
+      <address>(S) Hammer - Hauptstraße 346 - 30826 - Garbsen - 4 units Hauptstraße 346 30826 Garbsen</address>
+      <description>Hauptstraße 346 30826 Garbsen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Kohl (früher Pahl) - Badenberg 38 - 87499 - Wildpoldsried - 5 units</name>
+      <address>(S) Kohl (früher Pahl) - Badenberg 38 - 87499 - Wildpoldsried - 5 units Badenberg 38 87499 Wildpoldsried</address>
+      <description>Badenberg 38 87499 Wildpoldsried</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Hoffmann - Stephanstraße 62a - 22047 - Hamburg - 5 units</name>
+      <address>(S) Hoffmann - Stephanstraße 62a - 22047 - Hamburg - 5 units Stephanstraße 62a - 22047 Hamburg</address>
+      <description>Stephanstraße 62a - 22047 Hamburg</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Weis - Avelsbacherstr 25 - 54295 - Trier - 5 units</name>
+      <address>(S) Weis - Avelsbacherstr 25 - 54295 - Trier - 5 units Avelsbacherstr 25 - 54295 Trier</address>
+      <description>Avelsbacherstr 25 - 54295 Trier</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Garripoli - Karlsruher Str. 16 - 76307 - Karlsbad - 3 units</name>
+      <address>(S) Garripoli - Karlsruher Str. 16 - 76307 - Karlsbad - 3 units Karlsruher Str. 16 76307 Karlsbad</address>
+      <description>Karlsruher Str. 16 76307 Karlsbad</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Müller - An den Sportplätzen 2 - 64546 Mörfelden  - 5 units</name>
+      <address>(S) Müller - An den Sportplätzen 2 - 64546 Mörfelden  - 5 units An den Sportplätzen 2  64546 Mörfelden</address>
+      <description>An den Sportplätzen 2  64546 Mörfelden</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Denneler - Senefelderstraße 4 - 91807 Solnhofen - 4 units</name>
+      <address>(S) Denneler - Senefelderstraße 4 - 91807 Solnhofen - 4 units Senefelderstraße 4 91807  Solnhofen</address>
+      <description>Senefelderstraße 4 91807  Solnhofen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Müller - Zur Lochmühle 10 - 88634 Herdwangen-Schönach - 7 units</name>
+      <address>(S) Müller - Zur Lochmühle 10 - 88634 Herdwangen-Schönach - 7 units Zur Lochmühle 10 88634 Herdwangen-Schönach</address>
+      <description>Zur Lochmühle 10 88634 Herdwangen-Schönach</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Timinger - Im Hupfuf 23 - 79224 - Umkirch - 4 units</name>
+      <address>(S) Timinger - Im Hupfuf 23 - 79224 - Umkirch - 4 units Im Hupfuf 23 79224 Umkirch</address>
+      <description>Im Hupfuf 23 79224 Umkirch</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Braun - Windthorst 9 - Hochheim 65239 - 2 units</name>
+      <address>(S) Braun - Windthorst 9 - Hochheim 65239 - 2 units Windthorst 9 - 65239 Hochheim</address>
+      <description>Windthorst 9 - 65239 Hochheim</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Göller - Böhmestr. 5 - 40474 - Düsseldorf - 6 units</name>
+      <address>(S) Göller - Böhmestr. 5 - 40474 - Düsseldorf - 6 units Böhmestr. 5 40474 Düsseldorf</address>
+      <description>Böhmestr. 5 40474 Düsseldorf</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Gabriel - Am Bellenbaum 10 - 64846 - Bad Füssing - 3 units</name>
+      <address>(S) Gabriel - Am Bellenbaum 10 - 64846 - Bad Füssing - 3 units Am Bellenbaum 1064846 Groß-Zimmern</address>
+      <description>Am Bellenbaum 1064846 Groß-Zimmern</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Schwyrz - Angerstraße 18 - 82194 Gröbenzell - 12 units</name>
+      <address>(S) Schwyrz - Angerstraße 18 - 82194 Gröbenzell - 12 units Angerstraße 18 82194 Gröbenzell</address>
+      <description>Angerstraße 18 82194 Gröbenzell</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Krämer (früher Große Frie) - Schmeddingstr. 34 - 48161 - Münster - 5 units</name>
+      <address>(S) Krämer (früher Große Frie) - Schmeddingstr. 34 - 48161 - Münster - 5 units Schmeddingstr. 34 48161 Münster</address>
+      <description>Schmeddingstr. 34 48161 Münster</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Schröder - Bosauer Str. 12 - 23823 - Seedorf - 6 units</name>
+      <address>(S) Schröder - Bosauer Str. 12 - 23823 - Seedorf - 6 units Bosauer Str. 12 23823 Seedorf</address>
+      <description>Bosauer Str. 12 23823 Seedorf</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Baulig -  Waidstraße 15 - 79241 Ihringen - 4 units</name>
+      <address>(S) Baulig -  Waidstraße 15 - 79241 Ihringen - 4 units Waidstraße 15 79241 Ihringen</address>
+      <description>Waidstraße 15 79241 Ihringen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Konrath - Würmtalstr. 182 - 81375 - München - 5 units</name>
+      <address>(S) Konrath - Würmtalstr. 182 - 81375 - München - 5 units Würmtalstr. 182 81375 München</address>
+      <description>Würmtalstr. 182 81375 München</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Höpfl - Muskauerstr. 20 - 10997 - Berlin - 23 units</name>
+      <address>(S) Höpfl - Muskauerstr. 20 - 10997 - Berlin - 23 units Muskauerstr. 20 10997 Berlin</address>
+      <description>Muskauerstr. 20 10997 Berlin</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) - Schaer - 88662 - Salem - 5 Einheiten</name>
+      <address>(S) - Schaer - 88662 - Salem - 5 Einheiten Im Oberen Weingarten 6 88662 Salem</address>
+      <description>Im Oberen Weingarten 6 88662 Salem</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Viriato - Gutenbergstr. 20 - 67227 - Frankenthal - 5 units</name>
+      <address>(S) Viriato - Gutenbergstr. 20 - 67227 - Frankenthal - 5 units Gutenbergstr. 20 67227 Frankenthal</address>
+      <description>Gutenbergstr. 20 67227 Frankenthal</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Tricarico - Brandstraße 22 - 71069 - Darmsheim - 6 lots</name>
+      <address>(S) Tricarico - Brandstraße 22 - 71069 - Darmsheim - 6 lots Brandstraße 22 71069 Darmsheim</address>
+      <description>Brandstraße 22 71069 Darmsheim</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Jerke - Lenglerner Straße 64 - 37079 - Göttingen - 6 lots</name>
+      <address>(S) Jerke - Lenglerner Straße 64 - 37079 - Göttingen - 6 lots Lenglerner Straße 64 37079 Göttingen</address>
+      <description>Lenglerner Straße 64 37079 Göttingen</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Fischer - Ludwigstr. 36A - 63667 - Nidda - 5 units</name>
+      <address>(S) Fischer - Ludwigstr. 36A - 63667 - Nidda - 5 units Ludwigstr. 36 63667 Nidda</address>
+      <description>Ludwigstr. 36 63667 Nidda</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Weinsheimer - Hagellochstr. 74a, 72b-e u. 20 TG-Stellplätze - 67063 - Ludwigshafen am Rhein - 15 units</name>
+      <address>(S) Weinsheimer - Hagellochstr. 74a, 72b-e u. 20 TG-Stellplätze - 67063 - Ludwigshafen am Rhein - 15 units Hagellochstr. 74a 67063 Ludwigshafen am Rhein</address>
+      <description>Hagellochstr. 74a 67063 Ludwigshafen am Rhein</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Tost - Paul-Essers-Straße 13 - 45468 - Mülheim - 4 lots</name>
+      <address>(S) Tost - Paul-Essers-Straße 13 - 45468 - Mülheim - 4 lots Paul-Essers-Straße 13 45468 Mülheim</address>
+      <description>Paul-Essers-Straße 13 45468 Mülheim</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) - Omlor - 69117 - Heidelberg - 4 Einheiten</name>
+      <address>(S) - Omlor - 69117 - Heidelberg - 4 Einheiten Schlossberg 37 69117 Heidelberg</address>
+      <description>Schlossberg 37 69117 Heidelberg</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Bomboi - Mülbergerstraße 168 - 73728 - Esslingen - 3 units</name>
+      <address>(S) Bomboi - Mülbergerstraße 168 - 73728 - Esslingen - 3 units Mülbergerstraße 168 73728 Esslingen am Neckar</address>
+      <description>Mülbergerstraße 168 73728 Esslingen am Neckar</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Riedel - Louis-Mannstaedt-Straße 37 - 53840 - Troisdorf - 6 lots</name>
+      <address>(S) Riedel - Louis-Mannstaedt-Straße 37 - 53840 - Troisdorf - 6 lots Louis-Mannstaedt-Straße 37 53840 Troisdorf</address>
+      <description>Louis-Mannstaedt-Straße 37 53840 Troisdorf</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Brown - Schloßstraße 58 - 77971 -  Kippenheim - 2 lots</name>
+      <address>(S) Brown - Schloßstraße 58 - 77971 -  Kippenheim - 2 lots Schloßstraße 58 77971  Kippenheim</address>
+      <description>Schloßstraße 58 77971  Kippenheim</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Schmitt - Bergstraße 30 - 65618 - Eisenbach - 3 lots</name>
+      <address>(S) Schmitt - Bergstraße 30 - 65618 - Eisenbach - 3 lots Bergstraße 30 65618 Eisenbach</address>
+      <description>Bergstraße 30 65618 Eisenbach</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Hedrich - An der Wildbahn 72 - 13503 - Berlin - 4 lots</name>
+      <address>(S) Hedrich - An der Wildbahn 72 - 13503 - Berlin - 4 lots An der Wildbahn 72 13503 Berlin</address>
+      <description>An der Wildbahn 72 13503 Berlin</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Wappler-Jürgens - Schubertweg 19 - 16727 - Velten - 4 lots</name>
+      <address>(S) Wappler-Jürgens - Schubertweg 19 - 16727 - Velten - 4 lots Schubertweg 19 16727 Velten</address>
+      <description>Schubertweg 19 16727 Velten</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Truchel - Ewaldstraße 123 - 45699 - Herten - 8 units</name>
+      <address>(S) Truchel - Ewaldstraße 123 - 45699 - Herten - 8 units Ewaldstraße 123 45699 Herten</address>
+      <description>Ewaldstraße 123 45699 Herten</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Stoppel - Stephanstr. 24 - 71638 - Ludwigsburg - 3 lots</name>
+      <address>(S) Stoppel - Stephanstr. 24 - 71638 - Ludwigsburg - 3 lots Stephanstr. 24 71638 Ludwigsburg</address>
+      <description>Stephanstr. 24 71638 Ludwigsburg</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) - Döbertin - 22559 - Hamburg - 8 Einheiten</name>
+      <address>(S) - Döbertin - 22559 - Hamburg - 8 Einheiten Gudrunstraße 106 (a-h) 22559 Hamburg</address>
+      <description>Gudrunstraße 106 (a-h) 22559 Hamburg</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Frieser - Rübenstraße 3 -  42289  - Wuppertal - 6 units</name>
+      <address>(S) Frieser - Rübenstraße 3 -  42289  - Wuppertal - 6 units Rübenstraße 3  42289  Wuppertal</address>
+      <description>Rübenstraße 3  42289  Wuppertal</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Hartmann - Mittermayerstraße 19  - 85221  - Dachau - 7 lots</name>
+      <address>(S) Hartmann - Mittermayerstraße 19  - 85221  - Dachau - 7 lots Mittermayerstraße 19  85221  Dachau</address>
+      <description>Mittermayerstraße 19  85221  Dachau</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Laas - Wasserstraße 9, - 73054 - Eislingen/Fils - 7 units</name>
+      <address>(S) Laas - Wasserstraße 9, - 73054 - Eislingen/Fils - 7 units Wasserstraße 9, 73054 Eislingen/Fils</address>
+      <description>Wasserstraße 9, 73054 Eislingen/Fils</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Schneider - Paul-Klee-Straße 42 - 99085 -  Erfurt - 5 lots</name>
+      <address>(S) Schneider - Paul-Klee-Straße 42 - 99085 -  Erfurt - 5 lots Paul-Klee-Straße 42 99085  Erfurt</address>
+      <description>Paul-Klee-Straße 42 99085  Erfurt</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Filsinger - Hauptstraße 61 - 68526 - Ladenburg - 4 lots</name>
+      <address>(S) Filsinger - Hauptstraße 61 - 68526 - Ladenburg - 4 lots Hauptstraße 61 68526 Ladenburg</address>
+      <description>Hauptstraße 61 68526 Ladenburg</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+    <Placemark>
+      <name>(S) Holzer - Pienzenauerstraße 70 - 81925 - München - 8 lots</name>
+      <address>(S) Holzer - Pienzenauerstraße 70 - 81925 - München - 8 lots Pienzenauerstraße 70 81925 München</address>
+      <description>Pienzenauerstraße 70 81925 München</description>
+      <styleUrl>#icon-1603-01579B</styleUrl>
+    </Placemark>
+  </Document>
+</kml>
