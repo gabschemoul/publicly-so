@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <name>Adresses</name>
+        <description>Liste des adresses pour conversion en coordonnées GPS</description>
+        <Placemark>
+            <name>Magdeburger Str.</name>
+            <address>Magdeburger Str., 30, 74196, Neuenstadt am Kocher</address>
+            <Point>
+                <coordinates>9.3344037,49.2301975,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Kurt-Georg-Kiesinger-Allee</name>
+            <address>Kurt-Georg-Kiesinger-Allee, 6-8, 28279, Bremen</address>
+            <Point>
+                <coordinates>8.8359465,53.032922,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Langstraße</name>
+            <address>Langstraße, 8, 63075, Offenbach am Main</address>
+            <Point>
+                <coordinates>8.78534,50.11877,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Burckhardtstraße</name>
+            <address>Burckhardtstraße, 40, 70374, Stuttgart</address>
+            <Point>
+                <coordinates>9.2300756,48.8114402,0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
