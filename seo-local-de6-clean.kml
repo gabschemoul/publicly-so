@@ -1,0 +1,3859 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+	<Document>
+		<name>Adresses</name>
+		<description>Liste des adresses pour conversion en coordonnées GPS</description>
+		<Placemark>
+			<name>Magdeburger Str.</name>
+			<address>Magdeburger Str., 30, 74206, Neuenstadt am Kocher</address>
+		</Placemark>
+		<Placemark>
+			<name>Kurt-Georg-Kiesinger-Allee</name>
+			<address>Kurt-Georg-Kiesinger-Allee, 6, 28279, Bremen</address>
+		</Placemark>
+		<Placemark>
+			<name>Langstraße</name>
+			<address>Langstraße, 8, 63075, Offenbach am Main</address>
+		</Placemark>
+		<Placemark>
+			<name>Burckhardtstraße</name>
+			<address>Burckhardtstraße, 40, 70374, Stuttgart</address>
+		</Placemark>
+		<Placemark>
+			<name>Georg-Schwarz-Straße</name>
+			<address>Georg-Schwarz-Straße, 200, 04179, Leipzig</address>
+		</Placemark>
+		<Placemark>
+			<name>Hintere G.</name>
+			<address>Hintere G., 24, 71065, Sindelfingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Bantschowstraße</name>
+			<address>Bantschowstraße, 35, 22391, Hamburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Austr.</name>
+			<address>Austr., 3, 70376, Stuttgart</address>
+		</Placemark>
+		<Placemark>
+			<name>Luckenstraße</name>
+			<address>Luckenstraße, 28, 70794, Filderstadt</address>
+		</Placemark>
+		<Placemark>
+			<name>Sebastianstraße</name>
+			<address>Sebastianstraße, 121, 50735, Köln</address>
+		</Placemark>
+		<Placemark>
+			<name>Essener Str.</name>
+			<address>Essener Str., 172, 45529, Hattingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Starnberger Str.</name>
+			<address>Starnberger Str., 62, 82069, Hohenschäftlarn</address>
+		</Placemark>
+		<Placemark>
+			<name>Hofstraße</name>
+			<address>Hofstraße, 24, 68782, Brühl</address>
+		</Placemark>
+		<Placemark>
+			<name>Mahirstraße</name>
+			<address>Mahirstraße, 11, 81925, München</address>
+		</Placemark>
+		<Placemark>
+			<name>Agricolastraße</name>
+			<address>Agricolastraße, 6, 85247, Schwabhausen</address>
+		</Placemark>
+		<Placemark>
+			<name>Steendammswisch</name>
+			<address>Steendammswisch,  57a, 22459, Hamburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Wormser Str.</name>
+			<address>Wormser Str., 49A, 67583, Guntersblum</address>
+		</Placemark>
+		<Placemark>
+			<name>Eppsteiner Str.</name>
+			<address>Eppsteiner Str., 2, 65439, Flörsheim am Main</address>
+		</Placemark>
+		<Placemark>
+			<name>Lindenstraße</name>
+			<address>Lindenstraße, 11, 81545, München</address>
+		</Placemark>
+		<Placemark>
+			<name>Saseler</name>
+			<address>Saseler, Chaussee, 22393, Wandsbek</address>
+		</Placemark>
+		<Placemark>
+			<name>Bahnhofstraße</name>
+			<address>Bahnhofstraße, 46, 53347, Alfter</address>
+		</Placemark>
+		<Placemark>
+			<name>Neumagenstraße</name>
+			<address>Neumagenstraße, 17, 79219, Staufen</address>
+		</Placemark>
+		<Placemark>
+			<name>Schumannstraße</name>
+			<address>Schumannstraße, 15, 40237, Düsseldorf</address>
+		</Placemark>
+		<Placemark>
+			<name>Caspersbroich</name>
+			<address>Caspersbroich, 2, 42697, Solingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Siebengebirgsallee</name>
+			<address>Siebengebirgsallee, 114, 50939, Köln</address>
+		</Placemark>
+		<Placemark>
+			<name>Sebaldstraße</name>
+			<address>Sebaldstraße, 13, 28309, Bremen</address>
+		</Placemark>
+		<Placemark>
+			<name>Tannenweg</name>
+			<address>Tannenweg, 1, 63694, Limeshain</address>
+		</Placemark>
+		<Placemark>
+			<name>Hirschbacher Str.</name>
+			<address>Hirschbacher Str., 1, 61184, Karben</address>
+		</Placemark>
+		<Placemark>
+			<name>Grevenbroicherstraße</name>
+			<address>Grevenbroicherstraße, 49, 50126, Bergheim</address>
+		</Placemark>
+		<Placemark>
+			<name>Oberhoferweg</name>
+			<address>Oberhoferweg, 26, 12209, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Wallgraben</name>
+			<address>Wallgraben, 4, 76684, Östringen</address>
+		</Placemark>
+		<Placemark>
+			<name>Berthold Brecht Ring</name>
+			<address>Berthold Brecht Ring, 7, 64625, Bensheim</address>
+		</Placemark>
+		<Placemark>
+			<name>Kurt-Weill-Weg</name>
+			<address>Kurt-Weill-Weg, 16, 50829, Köln</address>
+		</Placemark>
+		<Placemark>
+			<name>Brüsseler Ring</name>
+			<address>Brüsseler Ring, 59-65, 67069, Ludwigshafen</address>
+		</Placemark>
+		<Placemark>
+			<name>Benrather Rathausstr.</name>
+			<address>Benrather Rathausstr., 11, 40597, Düsseldorf</address>
+		</Placemark>
+		<Placemark>
+			<name>An den Knabenhäusern</name>
+			<address>An den Knabenhäusern, 6, 10317, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Hauptstraße</name>
+			<address>Hauptstraße, 61, 79713, Bad Säckingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Hauptstr.</name>
+			<address>Hauptstr., 67, 72074, Tamm</address>
+		</Placemark>
+		<Placemark>
+			<name>Floningweg</name>
+			<address>Floningweg, 16, 12107, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Im Belli</name>
+			<address>Im Belli, 13, 78086, Brigachtal</address>
+		</Placemark>
+		<Placemark>
+			<name>Stumpstraße</name>
+			<address>Stumpstraße, 12/14, 70378, Stuttgart</address>
+		</Placemark>
+		<Placemark>
+			<name>Lorscher Str.</name>
+			<address>Lorscher Str., 30/30A, 60489, Frankfurt am Main</address>
+		</Placemark>
+		<Placemark>
+			<name>Am Waldrand</name>
+			<address>Am Waldrand, 8, 81377, München</address>
+		</Placemark>
+		<Placemark>
+			<name>Drosselweg</name>
+			<address>Drosselweg, 9, 55218, Ingelheim</address>
+		</Placemark>
+		<Placemark>
+			<name>Neuhaldenstraße</name>
+			<address>Neuhaldenstraße, 30, 70825, Korntal</address>
+		</Placemark>
+		<Placemark>
+			<name>Zimmerstraße</name>
+			<address>Zimmerstraße, 14, 12207, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Numbergerstr.</name>
+			<address>Numbergerstr., 4, 81245, München</address>
+		</Placemark>
+		<Placemark>
+			<name>Jagdweg</name>
+			<address>Jagdweg, 14, 53639, Königswinter</address>
+		</Placemark>
+		<Placemark>
+			<name>Pirmaterstraße</name>
+			<address>Pirmaterstraße, 7, 81375, München</address>
+		</Placemark>
+		<Placemark>
+			<name>Hauptstraße</name>
+			<address>Hauptstraße, 42, 78086, Brigachtal</address>
+		</Placemark>
+		<Placemark>
+			<name>Lorenzstraße</name>
+			<address>Lorenzstraße, 53, 12209, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Rheinstraße</name>
+			<address>Rheinstraße, 12, 28199, Bremen</address>
+		</Placemark>
+		<Placemark>
+			<name>Lehenbuckl</name>
+			<address>Lehenbuckl, 10, 85101, Lenting</address>
+		</Placemark>
+		<Placemark>
+			<name>Queller Str.</name>
+			<address>Queller Str., 72, 33649, Bielefeld</address>
+		</Placemark>
+		<Placemark>
+			<name>Körnerstr.</name>
+			<address>Körnerstr., 18, 63452, Hanau</address>
+		</Placemark>
+		<Placemark>
+			<name>Carl-Herz-Ufer</name>
+			<address>Carl-Herz-Ufer, 15, 10961, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Haselmausweg</name>
+			<address>Haselmausweg, 5-5C, 23564, Lübeck</address>
+		</Placemark>
+		<Placemark>
+			<name>Murgtalstraße</name>
+			<address>Murgtalstraße, 9, 72250, Freudenstadt</address>
+		</Placemark>
+		<Placemark>
+			<name>Holzgarten str.</name>
+			<address>Holzgarten str., 1-43, 85354, Freising</address>
+		</Placemark>
+		<Placemark>
+			<name>Ringstraße</name>
+			<address>Ringstraße, 17, 90596, Schwanstetten</address>
+		</Placemark>
+		<Placemark>
+			<name>Lindpaintnerstraße</name>
+			<address>Lindpaintnerstraße, 23, 70195, Stuttgart</address>
+		</Placemark>
+		<Placemark>
+			<name>Tiergartenstraße</name>
+			<address>Tiergartenstraße, 26, 17235, Neustrelitz</address>
+		</Placemark>
+		<Placemark>
+			<name>Kybfelsenstraße</name>
+			<address>Kybfelsenstraße, 55b, 79100, Freiburg im Breisgau</address>
+		</Placemark>
+		<Placemark>
+			<name>Günter-Riesebrodt-Weg</name>
+			<address>Günter-Riesebrodt-Weg, 26-32, 10318, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Heresbachstraße</name>
+			<address>Heresbachstraße, 19, 40223, Düsseldorf</address>
+		</Placemark>
+		<Placemark>
+			<name>Blücherstraße</name>
+			<address>Blücherstraße, 55, 10961, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Schwalbenweg</name>
+			<address>Schwalbenweg, 26, 71032, Böblingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Hermann-Hesse-Straße</name>
+			<address>Hermann-Hesse-Straße, 7, 69190, Walldorf</address>
+		</Placemark>
+		<Placemark>
+			<name>Altvaterstrasse</name>
+			<address>Altvaterstrasse, 19, 14129, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Carl-Adam-Petri-Straße</name>
+			<address>Carl-Adam-Petri-Straße, 35, 14469, Potsdam</address>
+		</Placemark>
+		<Placemark>
+			<name>Fuchsbergstraße</name>
+			<address>Fuchsbergstraße, 7, 83104, Tuntenhausen</address>
+		</Placemark>
+		<Placemark>
+			<name>Heßdorfer Weg</name>
+			<address>Heßdorfer Weg, 13, 91056, Erlangen</address>
+		</Placemark>
+		<Placemark>
+			<name>Schwaketenstraße</name>
+			<address>Schwaketenstraße, 42, 78467, Konstanz</address>
+		</Placemark>
+		<Placemark>
+			<name>Schillerstraße</name>
+			<address>Schillerstraße, 5, 73728, Esslingen am Neckar</address>
+		</Placemark>
+		<Placemark>
+			<name>Virchowstraße</name>
+			<address>Virchowstraße, 3, 76689, Karlsdorf-Neuthard</address>
+		</Placemark>
+		<Placemark>
+			<name>Sömmeringstraße</name>
+			<address>Sömmeringstraße, 40, 10589, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Wensenbalken</name>
+			<address>Wensenbalken, 47, 22359, Hamburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Junker-Jörg Straße</name>
+			<address>Junker-Jörg Straße, 30,10318, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Klötzweg</name>
+			<address>Klötzweg, 11, 76332, Bad Herrenalb</address>
+		</Placemark>
+		<Placemark>
+			<name>Krumme Str.</name>
+			<address>Krumme Str., 3, 12203, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Gubesallee</name>
+			<address>Gubesallee, 19c, 22143, Hamburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Zur Rentrischer Straße</name>
+			<address>Zur Rentrischer Straße, 30, 66386, St. Ingbert</address>
+		</Placemark>
+		<Placemark>
+			<name>Sindelfinger Str.</name>
+			<address>Sindelfinger Str., 147, 71069, Sindelfingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Föhrenstraße</name>
+			<address>Föhrenstraße, 59, 28207, Bremen</address>
+		</Placemark>
+		<Placemark>
+			<name>Grabenstraße</name>
+			<address>Grabenstraße, 8, 28309, Bremen</address>
+		</Placemark>
+		<Placemark>
+			<name>Insel</name>
+			<address>Insel, 2, 76669, Bad Schönborn</address>
+		</Placemark>
+		<Placemark>
+			<name>Friederikastr.</name>
+			<address>Friederikastr., 149, 44789, Bochum</address>
+		</Placemark>
+		<Placemark>
+			<name>Mandarienweg</name>
+			<address>Mandarienweg, 15, 70619, Stuttgart</address>
+		</Placemark>
+		<Placemark>
+			<name>Cheruskerstraße</name>
+			<address>Cheruskerstraße, 30, 40545, Düsseldorf</address>
+		</Placemark>
+		<Placemark>
+			<name>Obere Birke</name>
+			<address>Obere Birke, 16, 72138, Kirchentellinsfurt</address>
+		</Placemark>
+		<Placemark>
+			<name>Fedelhören</name>
+			<address>Fedelhören, 35, 28203, Bremen</address>
+		</Placemark>
+		<Placemark>
+			<name>Lindenstraße</name>
+			<address>Lindenstraße, 4, 06193, Wettin-Löbejün</address>
+		</Placemark>
+		<Placemark>
+			<name>Grimmstraße</name>
+			<address>Grimmstraße, 11, 10967, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Im Sarkberg</name>
+			<address>Im Sarkberg, 11, 54296, Trier</address>
+		</Placemark>
+		<Placemark>
+			<name>Jankstraße</name>
+			<address>Jankstraße, 3, 81929, München</address>
+		</Placemark>
+		<Placemark>
+			<name>Paul-Lincke-Ufer</name>
+			<address>Paul-Lincke-Ufer, 3a, 10999, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Toppenstedter Kirchweg</name>
+			<address>Toppenstedter Kirchweg, 34, 21376, Salzhausen</address>
+		</Placemark>
+		<Placemark>
+			<name>Im bendersgarten</name>
+			<address>Im bendersgarten, 13, 63303, Dreieich</address>
+		</Placemark>
+		<Placemark>
+			<name>Sternbuschweg</name>
+			<address>Sternbuschweg, 13, 47057, Duisburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Höslstraße</name>
+			<address>Höslstraße, 9, 81927, München</address>
+		</Placemark>
+		<Placemark>
+			<name>Teebaumweg</name>
+			<address>Teebaumweg, 1-47, 51109, Köln</address>
+		</Placemark>
+		<Placemark>
+			<name>Rupertusstraße</name>
+			<address>Rupertusstraße, 26, 84508, Burgkirchen an der Alz</address>
+		</Placemark>
+		<Placemark>
+			<name>Eggensteiner Str.</name>
+			<address>Eggensteiner Str., 18A, 76187, Karlsruhe</address>
+		</Placemark>
+		<Placemark>
+			<name>Fackenburger Allee</name>
+			<address>Fackenburger Allee, 72, 23554, Lübeck</address>
+		</Placemark>
+		<Placemark>
+			<name>Tulpenweg</name>
+			<address>Tulpenweg, 1, 83080, Oberaudorf</address>
+		</Placemark>
+		<Placemark>
+			<name>Am Heidekrug</name>
+			<address>Am Heidekrug, 9, 40724, Hilden</address>
+		</Placemark>
+		<Placemark>
+			<name>Balanstraße</name>
+			<address>Balanstraße, 367, 81549, München</address>
+		</Placemark>
+		<Placemark>
+			<name>Hauptstraße</name>
+			<address>Hauptstraße, 51, 83352, Altenmarkt an der Alz</address>
+		</Placemark>
+		<Placemark>
+			<name>Bauweberstraße</name>
+			<address>Bauweberstraße, 48-86, 81476, Forstenried</address>
+		</Placemark>
+		<Placemark>
+			<name>St.-Peter-Straße</name>
+			<address>St.-Peter-Straße, 81, 97274, Leinach</address>
+		</Placemark>
+		<Placemark>
+			<name>Büsnauer Str.</name>
+			<address>Büsnauer Str., 27, 71229, Leonberg</address>
+		</Placemark>
+		<Placemark>
+			<name>Frida-Schuhmacher-Straße</name>
+			<address>Frida-Schuhmacher-Straße, 37, 74078, Heilbronn</address>
+		</Placemark>
+		<Placemark>
+			<name>Mönchhaldenstraße</name>
+			<address>Mönchhaldenstraße, 111, 70191, Stuttgart</address>
+		</Placemark>
+		<Placemark>
+			<name>Seestraße</name>
+			<address>Seestraße, 30, 73666, Baltmannsweiler</address>
+		</Placemark>
+		<Placemark>
+			<name>Dammstr.</name>
+			<address>Dammstr., 19, 76437, Rastatt</address>
+		</Placemark>
+		<Placemark>
+			<name>Friedhofstraße</name>
+			<address>Friedhofstraße, 7, 67127, Rödersheim-Gronau</address>
+		</Placemark>
+		<Placemark>
+			<name>Kirchweg</name>
+			<address>Kirchweg, 1, 25524, Itzehoe</address>
+		</Placemark>
+		<Placemark>
+			<name>Bergaggerstraße</name>
+			<address>Bergaggerstraße, 14, 53797, Lohmar</address>
+		</Placemark>
+		<Placemark>
+			<name>Dossenbergerstraße</name>
+			<address>Dossenbergerstraße, 9, 89358, Kammeltal</address>
+		</Placemark>
+		<Placemark>
+			<name>Burggrabenstraße</name>
+			<address>Burggrabenstraße, 12, 35415, Pohlheim</address>
+		</Placemark>
+		<Placemark>
+			<name>Malteserstraße</name>
+			<address>Malteserstraße, 52, 53639, Königswinter</address>
+		</Placemark>
+		<Placemark>
+			<name>Luisenstr.</name>
+			<address>Luisenstr., 2, 47799, Krefeld</address>
+		</Placemark>
+		<Placemark>
+			<name>Schiffbeker Schanze</name>
+			<address>Schiffbeker Schanze, 14, 22117, Hamburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Oderberger Str.</name>
+			<address>Oderberger Str., 13, 10435, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Albrecht-Dürer-Straße</name>
+			<address>Albrecht-Dürer-Straße, 9, 68809, Neulußheim</address>
+		</Placemark>
+		<Placemark>
+			<name>Kaufhausstraße</name>
+			<address>Kaufhausstraße, 22, 78333, Stockach</address>
+		</Placemark>
+		<Placemark>
+			<name>Peterskampweg</name>
+			<address>Peterskampweg, 17, 22089, Wandsbek</address>
+		</Placemark>
+		<Placemark>
+			<name>Metzer Straße</name>
+			<address>Metzer Straße, 13,10405, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Selchower Str.</name>
+			<address>Selchower Str., 32, 12049, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Wiesbadener Str.</name>
+			<address>Wiesbadener Str., 120, 61462, Königstein im Taunus</address>
+		</Placemark>
+		<Placemark>
+			<name>Bülowstraße</name>
+			<address>Bülowstraße, 122, 45479, Mühlheim</address>
+		</Placemark>
+		<Placemark>
+			<name>Alte Dielbacher</name>
+			<address>Alte Dielbacher, Str., 69412, Eberbach</address>
+		</Placemark>
+		<Placemark>
+			<name>Richard-Wagner-Straße</name>
+			<address>Richard-Wagner-Straße, 15, 67433, Neustadt an der Weinstraße</address>
+		</Placemark>
+		<Placemark>
+			<name>Zentrumstraße</name>
+			<address>Zentrumstraße, 14-22, 59192, Bergkamen</address>
+		</Placemark>
+		<Placemark>
+			<name>Kuno-Liesenberg-Kehre</name>
+			<address>Kuno-Liesenberg-Kehre, 10A-C, 22844, Norderstedt</address>
+		</Placemark>
+		<Placemark>
+			<name>Stärkestraße</name>
+			<address>Stärkestraße, 18b, 30451, Hannover</address>
+		</Placemark>
+		<Placemark>
+			<name>Am Alten Sportpl.</name>
+			<address>Am Alten Sportpl., 6, 35423, Lich</address>
+		</Placemark>
+		<Placemark>
+			<name>Beerenschlag</name>
+			<address>Beerenschlag, 3a, 90602, Pyrbaum</address>
+		</Placemark>
+		<Placemark>
+			<name>Wiesenstraße</name>
+			<address>Wiesenstraße, 60A, 64331, Weiterstadt</address>
+		</Placemark>
+		<Placemark>
+			<name>Gerokstraße</name>
+			<address>Gerokstraße, 15, 71665, Vaihingen an der Enz</address>
+		</Placemark>
+		<Placemark>
+			<name>Am Blütenhang</name>
+			<address>Am Blütenhang, 6, 78359, Orsingen-Nenzingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Prassbergstr.</name>
+			<address>Prassbergstr., 10, 88239, Wangen im Allgäu</address>
+		</Placemark>
+		<Placemark>
+			<name>Hembacher Straße</name>
+			<address>Hembacher Straße, 33,91126, Rednitzhembach</address>
+		</Placemark>
+		<Placemark>
+			<name>Str. vor Schönholz</name>
+			<address>Str. vor Schönholz, 15,13158, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Grevenbroicher Weg</name>
+			<address>Grevenbroicher Weg, 25a, 40547, Düsseldorf</address>
+		</Placemark>
+		<Placemark>
+			<name>Maenherstraße</name>
+			<address>Maenherstraße, 14, 81375, München</address>
+		</Placemark>
+		<Placemark>
+			<name>Hauptstraße</name>
+			<address>Hauptstraße, 39, 86866, Mickhausen</address>
+		</Placemark>
+		<Placemark>
+			<name>Eggerten</name>
+			<address>Eggerten, 49, 76646, Bruchsal</address>
+		</Placemark>
+		<Placemark>
+			<name>Elkenbachstraße</name>
+			<address>Elkenbachstraße, 2, 60316, Frankfurt</address>
+		</Placemark>
+		<Placemark>
+			<name>König-Heinrich-Weg</name>
+			<address>König-Heinrich-Weg, 80, 22459, Hamburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Am Klosterweiher</name>
+			<address>Am Klosterweiher, 14,83671, Benediktbeuern</address>
+		</Placemark>
+		<Placemark>
+			<name>Ketteler Straße</name>
+			<address>Ketteler Straße, 15,59329, Wadersloh</address>
+		</Placemark>
+		<Placemark>
+			<name>Schnepfenreuther Hauptstraße</name>
+			<address>Schnepfenreuther Hauptstraße, 4,90425, Nürnberg</address>
+		</Placemark>
+		<Placemark>
+			<name>Oberhöchstadter Straße</name>
+			<address>Oberhöchstadter Straße, 7,61449, Steinbach</address>
+		</Placemark>
+		<Placemark>
+			<name>Haydstraße</name>
+			<address>Haydstraße, 16, 85354, Freising</address>
+		</Placemark>
+		<Placemark>
+			<name>Sonntagstraße</name>
+			<address>Sonntagstraße, 32, 58099, Hagen</address>
+		</Placemark>
+		<Placemark>
+			<name>Augusta Straße</name>
+			<address>Augusta Straße, 9a,53721, Siegburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Lindenstraße</name>
+			<address>Lindenstraße, 52-54, 28755, Bremen</address>
+		</Placemark>
+		<Placemark>
+			<name>Bergstraße</name>
+			<address>Bergstraße, 42, 79194, Gundelfingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Oberer Wachtelberg</name>
+			<address>Oberer Wachtelberg, 4, 96369, Weißenbrunn</address>
+		</Placemark>
+		<Placemark>
+			<name>Zechenweg</name>
+			<address>Zechenweg, 6a, 79111, Freiburg im Breisgau</address>
+		</Placemark>
+		<Placemark>
+			<name>Färbergasse</name>
+			<address>Färbergasse, 11, 82362, Weilheim</address>
+		</Placemark>
+		<Placemark>
+			<name>Weidenweg</name>
+			<address>Weidenweg, 39, 55299, Nackenheim</address>
+		</Placemark>
+		<Placemark>
+			<name>Rathausstraße</name>
+			<address>Rathausstraße, 12A, 65510, Hünstetten</address>
+		</Placemark>
+		<Placemark>
+			<name>Winterstraße</name>
+			<address>Winterstraße, 37, 53177, Bonn</address>
+		</Placemark>
+		<Placemark>
+			<name>Friedrichstraße</name>
+			<address>Friedrichstraße, 31, 90408, Nürnberg</address>
+		</Placemark>
+		<Placemark>
+			<name>Kirchweg</name>
+			<address>Kirchweg, 14, 76534, Baden-Baden</address>
+		</Placemark>
+		<Placemark>
+			<name>Lessingstr.</name>
+			<address>Lessingstr., 28c, 25524, Itzehoe</address>
+		</Placemark>
+		<Placemark>
+			<name>Bölschestraße</name>
+			<address>Bölschestraße, 119, 12587, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Pidinger Str.</name>
+			<address>Pidinger Str., 81, 83454, Anger</address>
+		</Placemark>
+		<Placemark>
+			<name>Römersteinstraße</name>
+			<address>Römersteinstraße, 73-1, 72766, Reutlingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Stubaier Str.</name>
+			<address>Stubaier Str., 20, 70327, Stuttgart</address>
+		</Placemark>
+		<Placemark>
+			<name>Erlenweg</name>
+			<address>Erlenweg, 1, 38159, Vechelde</address>
+		</Placemark>
+		<Placemark>
+			<name>Bergmannstraße</name>
+			<address>Bergmannstraße, 4, 14163, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Werderstraße</name>
+			<address>Werderstraße, 9, 71032, Böblingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Gartenweg</name>
+			<address>Gartenweg, 46, 51143, Köln</address>
+		</Placemark>
+		<Placemark>
+			<name>Langweidenstraße</name>
+			<address>Langweidenstraße, 12a-h, 60488, Frankfurt am Main</address>
+		</Placemark>
+		<Placemark>
+			<name>Kantstraße</name>
+			<address>Kantstraße, 7, 69493, Hirschberg</address>
+		</Placemark>
+		<Placemark>
+			<name>Marienburger Straße</name>
+			<address>Marienburger Straße, 4, 87616, Marktoberdorf</address>
+		</Placemark>
+		<Placemark>
+			<name>Hintere Str.</name>
+			<address>Hintere Str., 2, 71642, Ludwigsburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Gleiwitzer Str.</name>
+			<address>Gleiwitzer Str., 3, 55131, Mainz</address>
+		</Placemark>
+		<Placemark>
+			<name>Kleiner Seeweg</name>
+			<address>Kleiner Seeweg, 1-14,15806, Zossen</address>
+		</Placemark>
+		<Placemark>
+			<name>Kochstraße</name>
+			<address>Kochstraße, 11, 70806, Kornwestheim</address>
+		</Placemark>
+		<Placemark>
+			<name>Kelkheimer Str.</name>
+			<address>Kelkheimer Str., 18, 65779, Kelkheim (Taunus)</address>
+		</Placemark>
+		<Placemark>
+			<name>Bussardstraße</name>
+			<address>Bussardstraße, 49, 39179, Barleben</address>
+		</Placemark>
+		<Placemark>
+			<name>Burgerstraße</name>
+			<address>Burgerstraße, 2, 61476, Kronberg im Taunus</address>
+		</Placemark>
+		<Placemark>
+			<name>Süggelberg</name>
+			<address>Süggelberg, 16, 44339, Dortmund</address>
+		</Placemark>
+		<Placemark>
+			<name>Andreasstraße</name>
+			<address>Andreasstraße, 72, 10243, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>An der Breite</name>
+			<address>An der Breite, 14, 82229, Seefeld</address>
+		</Placemark>
+		<Placemark>
+			<name>Schmidener Str.</name>
+			<address>Schmidener Str., 17, 70372, Stuttgart</address>
+		</Placemark>
+		<Placemark>
+			<name>Gartenstraße</name>
+			<address>Gartenstraße, 7, 04435, Schkeuditz</address>
+		</Placemark>
+		<Placemark>
+			<name>Gerdsmeyerweg</name>
+			<address>Gerdsmeyerweg, 1-7A, 12105, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Lamboystraße</name>
+			<address>Lamboystraße, 53, 60598, Frankfurt am Main</address>
+		</Placemark>
+		<Placemark>
+			<name>Marienstr.</name>
+			<address>Marienstr., 18, 41462, Neuss</address>
+		</Placemark>
+		<Placemark>
+			<name>Bahnhofstraße</name>
+			<address>Bahnhofstraße, 1, 68526, Ladenburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Siekreystr.</name>
+			<address>Siekreystr., 17a-d, 22459, Hamburg</address>
+		</Placemark>
+		<Placemark>
+			<name>B. d.</name>
+			<address>B. d., Kirche, 89150, Laichingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Vincentistraße</name>
+			<address>Vincentistraße, 1, 76530, Baden-Baden</address>
+		</Placemark>
+		<Placemark>
+			<name>Eggbergstraße</name>
+			<address>Eggbergstraße, 42, 79618, Rheinfelden (Baden)</address>
+		</Placemark>
+		<Placemark>
+			<name>Henny-Schütz-Allee</name>
+			<address>Henny-Schütz-Allee, 32-38, 22419, Hamburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Gerhart-Hauptmann-Weg</name>
+			<address>Gerhart-Hauptmann-Weg, 8, 51519, Odenthal</address>
+		</Placemark>
+		<Placemark>
+			<name>Zeiseweg</name>
+			<address>Zeiseweg, 56, 22765, Hamburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Feldweg</name>
+			<address>Feldweg, 35, 24340, Eckernförde</address>
+		</Placemark>
+		<Placemark>
+			<name>Forchenstraße</name>
+			<address>Forchenstraße, 17, 89537, Giengen an der Brenz</address>
+		</Placemark>
+		<Placemark>
+			<name>Röckrather</name>
+			<address>Röckrather, Hauptstraße, 41472, Neuss</address>
+		</Placemark>
+		<Placemark>
+			<name>Klutenscheuer</name>
+			<address>Klutenscheuer, 40, 40822, Mettmann</address>
+		</Placemark>
+		<Placemark>
+			<name>Straßburger Str.</name>
+			<address>Straßburger Str., 29, 46047, Oberhausen</address>
+		</Placemark>
+		<Placemark>
+			<name>Köhlerstraße</name>
+			<address>Köhlerstraße, 22, 12205, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Am Widey</name>
+			<address>Am Widey, 39, 59757, Arnsberg (Holzen)</address>
+		</Placemark>
+		<Placemark>
+			<name>Hülsenanger</name>
+			<address>Hülsenanger, 5, 51467, Bergisch Gladbach</address>
+		</Placemark>
+		<Placemark>
+			<name>Bergwiesenstraße</name>
+			<address>Bergwiesenstraße, 4, 71093, Weil im Schönbuch</address>
+		</Placemark>
+		<Placemark>
+			<name>In d. Bitz</name>
+			<address>In d. Bitz, 14, 56567, Neuwied</address>
+		</Placemark>
+		<Placemark>
+			<name>Hauptstraße</name>
+			<address>Hauptstraße, 16, 87757, Kirchheim</address>
+		</Placemark>
+		<Placemark>
+			<name>Darmstädterstraße</name>
+			<address>Darmstädterstraße, 51, 64572, Büttelborn</address>
+		</Placemark>
+		<Placemark>
+			<name>Grillparzerstraße</name>
+			<address>Grillparzerstraße, 34, 22085, Hamburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Am Walde</name>
+			<address>Am Walde, 2, 38302, Wolfenbüttel</address>
+		</Placemark>
+		<Placemark>
+			<name>Schwarzwaldstr.</name>
+			<address>Schwarzwaldstr., 125, 76532, Baden-Baden</address>
+		</Placemark>
+		<Placemark>
+			<name>Im Wisshole</name>
+			<address>Im Wisshole, 11, 38116, Braunschweig</address>
+		</Placemark>
+		<Placemark>
+			<name>Jahnstraße</name>
+			<address>Jahnstraße, 3, 79312, Emmendingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Rebhuhnweg</name>
+			<address>Rebhuhnweg, 2, 75365, Calw</address>
+		</Placemark>
+		<Placemark>
+			<name>Fridolin-Holzer-Straße</name>
+			<address>Fridolin-Holzer-Straße, 28, 88178, Weiler-Simmerberg</address>
+		</Placemark>
+		<Placemark>
+			<name>Jungholzweg</name>
+			<address>Jungholzweg, 16B, 53340, Meckenheim</address>
+		</Placemark>
+		<Placemark>
+			<name>Hunnenswarf</name>
+			<address>Hunnenswarf, 3, 25863, Langeneß</address>
+		</Placemark>
+		<Placemark>
+			<name>Markgrafenallee</name>
+			<address>Markgrafenallee, 99-101, 74541, Vellberg</address>
+		</Placemark>
+		<Placemark>
+			<name>Maisenweg</name>
+			<address>Maisenweg, 10, 53797, Lohmar</address>
+		</Placemark>
+		<Placemark>
+			<name>Planegger Straße</name>
+			<address>Planegger Straße, 55-57d,82110, Germering</address>
+		</Placemark>
+		<Placemark>
+			<name>Friedrichshafener Str.</name>
+			<address>Friedrichshafener Str., 41, 81243, München</address>
+		</Placemark>
+		<Placemark>
+			<name>Kaiserswerther Str.</name>
+			<address>Kaiserswerther Str., 12, 50739, Köln</address>
+		</Placemark>
+		<Placemark>
+			<name>Hermannstraße</name>
+			<address>Hermannstraße, 63, 28201, Bremen</address>
+		</Placemark>
+		<Placemark>
+			<name>Zum Hasenwinkel</name>
+			<address>Zum Hasenwinkel, 12, 38446, Wolfsburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Chausseestraße</name>
+			<address>Chausseestraße, 6, 10115, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Waldstraße</name>
+			<address>Waldstraße, 17a, 77833, Unzhurst Ottersweier</address>
+		</Placemark>
+		<Placemark>
+			<name>Philipp-Ulrich-Straße</name>
+			<address>Philipp-Ulrich-Straße, 143, 63073, Offenbach</address>
+		</Placemark>
+		<Placemark>
+			<name>Seegraben</name>
+			<address>Seegraben, 3, 63791, Karlstein</address>
+		</Placemark>
+		<Placemark>
+			<name>Adolf-Reichwein-Straße</name>
+			<address>Adolf-Reichwein-Straße, 9, 65553, Limburg an der Lahn</address>
+		</Placemark>
+		<Placemark>
+			<name>Lessingstraße</name>
+			<address>Lessingstraße, 23a, 12305, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Am Boden</name>
+			<address>Am Boden, 1, 35460, Staufenberg</address>
+		</Placemark>
+		<Placemark>
+			<name>Am Haldenholz</name>
+			<address>Am Haldenholz, 32, 71334, Waiblingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Borghagener Straße</name>
+			<address>Borghagener Straße, 21,44581, Castrop-Rauxel</address>
+		</Placemark>
+		<Placemark>
+			<name>In der Krümm</name>
+			<address>In der Krümm, 1,65934, Frankfurt</address>
+		</Placemark>
+		<Placemark>
+			<name>Hardtgrundweg</name>
+			<address>Hardtgrundweg, 26, 61462, Königstein</address>
+		</Placemark>
+		<Placemark>
+			<name>Allacherstraße</name>
+			<address>Allacherstraße, 256, 80999, München</address>
+		</Placemark>
+		<Placemark>
+			<name>Birkenweg</name>
+			<address>Birkenweg, 3, 79359, Riegel</address>
+		</Placemark>
+		<Placemark>
+			<name>Pfauenweg</name>
+			<address>Pfauenweg, 2, 69123, Heidelberg</address>
+		</Placemark>
+		<Placemark>
+			<name>Buschweg</name>
+			<address>Buschweg, 2, 38110, Braunschweig</address>
+		</Placemark>
+		<Placemark>
+			<name>Allmendstraße</name>
+			<address>Allmendstraße, 23a, 74889, Sinsheim</address>
+		</Placemark>
+		<Placemark>
+			<name>An der Schanze</name>
+			<address>An der Schanze, 32,55128, Mainz</address>
+		</Placemark>
+		<Placemark>
+			<name>Hoher Nickel</name>
+			<address>Hoher Nickel, 22,63110, Rodgau</address>
+		</Placemark>
+		<Placemark>
+			<name>Schöntaler Weg</name>
+			<address>Schöntaler Weg, 15, 12437, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Am Roten Kreuz</name>
+			<address>Am Roten Kreuz, 119, 40880, Ratingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Hohewartstraße</name>
+			<address>Hohewartstraße, 30, 70469, Stuttgart</address>
+		</Placemark>
+		<Placemark>
+			<name>Im Läninger</name>
+			<address>Im Läninger, 7,72072, Tübingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Weichser Straße</name>
+			<address>Weichser Straße, 2,85258, Weichs</address>
+		</Placemark>
+		<Placemark>
+			<name>Trills</name>
+			<address>Trills, 18, 40699, Erkrath</address>
+		</Placemark>
+		<Placemark>
+			<name>Hauptstr.</name>
+			<address>Hauptstr., 20, 86482, Aystetten</address>
+		</Placemark>
+		<Placemark>
+			<name>Jahnstraße</name>
+			<address>Jahnstraße, 25, 67434, Neustadt</address>
+		</Placemark>
+		<Placemark>
+			<name>Hagenstr.</name>
+			<address>Hagenstr., 4, 18375, Prerow</address>
+		</Placemark>
+		<Placemark>
+			<name>Bockhöh</name>
+			<address>Bockhöh, 5, 24857, Fahrdorf</address>
+		</Placemark>
+		<Placemark>
+			<name>Erikaweg</name>
+			<address>Erikaweg, 2A-F, 21149, Hamburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Waltfrieden</name>
+			<address>Waltfrieden, 11, 93128, Regenstauf</address>
+		</Placemark>
+		<Placemark>
+			<name>Unterer Hainberg</name>
+			<address>Unterer Hainberg, 3a,37120, Bovenden</address>
+		</Placemark>
+		<Placemark>
+			<name>Am Rosenberg</name>
+			<address>Am Rosenberg, 30,45525, Hattingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Karwendelstraße</name>
+			<address>Karwendelstraße, 21, 82467, Garmisch Partenkirchen</address>
+		</Placemark>
+		<Placemark>
+			<name>Bei der Lutherbuche</name>
+			<address>Bei der Lutherbuche, 3,22529, Hamburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Hermann-Pleuer-Straße</name>
+			<address>Hermann-Pleuer-Straße, 18, 70192, Stuttgart</address>
+		</Placemark>
+		<Placemark>
+			<name>Turmbergstraße</name>
+			<address>Turmbergstraße, 5, 76307, Karlsbad</address>
+		</Placemark>
+		<Placemark>
+			<name>Bachstraße</name>
+			<address>Bachstraße, 26, 86556, Kühbach</address>
+		</Placemark>
+		<Placemark>
+			<name>Talweg</name>
+			<address>Talweg, 103, 77654, Offenburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Am Hampfberg</name>
+			<address>Am Hampfberg, 9,21224, Rosengarten</address>
+		</Placemark>
+		<Placemark>
+			<name>Liebfrauenstraße</name>
+			<address>Liebfrauenstraße, 56, 53757, Sankt Augustin</address>
+		</Placemark>
+		<Placemark>
+			<name>Tauschlagstraße</name>
+			<address>Tauschlagstraße, 65/67, 45966, Gladbeck</address>
+		</Placemark>
+		<Placemark>
+			<name>Im Winkel</name>
+			<address>Im Winkel, 4, 79599, Wittlingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Herdweg</name>
+			<address>Herdweg, 4, 72119, Ammerbuch</address>
+		</Placemark>
+		<Placemark>
+			<name>Weißgerber Graben</name>
+			<address>Weißgerber Graben, 18, 93047, Regensburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Auf dem Hirschberg</name>
+			<address>Auf dem Hirschberg, 28, 53225, Bonn</address>
+		</Placemark>
+		<Placemark>
+			<name>Warburger Str.</name>
+			<address>Warburger Str., 14, 58135, Hagen</address>
+		</Placemark>
+		<Placemark>
+			<name>Kornblumenring</name>
+			<address>Kornblumenring, 65A, 12357, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Kettelerstraße</name>
+			<address>Kettelerstraße, 32a, 91088, Bubenreuth</address>
+		</Placemark>
+		<Placemark>
+			<name>William-Zipperer-Straße</name>
+			<address>William-Zipperer-Straße, 52, 04177, Leipzig</address>
+		</Placemark>
+		<Placemark>
+			<name>Billrothstraße</name>
+			<address>Billrothstraße, 57, 22767, Hamburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Birkenallee</name>
+			<address>Birkenallee, 12a, 82445, Schwaigen</address>
+		</Placemark>
+		<Placemark>
+			<name>Ruststraße</name>
+			<address>Ruststraße, 4, 04229, Leipzig</address>
+		</Placemark>
+		<Placemark>
+			<name>Libanonstraße</name>
+			<address>Libanonstraße, 60, 70184, Stuttgart</address>
+		</Placemark>
+		<Placemark>
+			<name>Madamenweg</name>
+			<address>Madamenweg, 10, 38118, Braunschweig</address>
+		</Placemark>
+		<Placemark>
+			<name>Dörnbergstraße</name>
+			<address>Dörnbergstraße, 57, 34292, Ahnatal</address>
+		</Placemark>
+		<Placemark>
+			<name>Bächbergweg</name>
+			<address>Bächbergweg, 5, 74676, Niedernhall</address>
+		</Placemark>
+		<Placemark>
+			<name>Bokermühlstr.</name>
+			<address>Bokermühlstr., 33, 45879, Geslenkirchen</address>
+		</Placemark>
+		<Placemark>
+			<name>Moltkegestraße</name>
+			<address>Moltkegestraße, 70, 47058, Duisburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Theodor-Storm-Straße</name>
+			<address>Theodor-Storm-Straße, 48B, 23843, Bad Oldesloe</address>
+		</Placemark>
+		<Placemark>
+			<name>Eichenstraße</name>
+			<address>Eichenstraße, 20, 85419, Mauern</address>
+		</Placemark>
+		<Placemark>
+			<name>Weidentrift</name>
+			<address>Weidentrift, 51-57, 21502, Geesthacht</address>
+		</Placemark>
+		<Placemark>
+			<name>Hauptstraße</name>
+			<address>Hauptstraße, 44, 63843, Niedernberg</address>
+		</Placemark>
+		<Placemark>
+			<name>Weinstraße</name>
+			<address>Weinstraße, 30, 79336, Herbolzheim</address>
+		</Placemark>
+		<Placemark>
+			<name>Brunnenweg</name>
+			<address>Brunnenweg, 29, 88239, Wangen im Allgäu</address>
+		</Placemark>
+		<Placemark>
+			<name>Römischer Ring</name>
+			<address>Römischer Ring, 33-43, 60486, Frankfurt am Main</address>
+		</Placemark>
+		<Placemark>
+			<name>Schaeferstraße</name>
+			<address>Schaeferstraße, 81, 44623, Herne</address>
+		</Placemark>
+		<Placemark>
+			<name>Hauptmannsreute</name>
+			<address>Hauptmannsreute, 4, 70192, Stuttgart-Feuerbach</address>
+		</Placemark>
+		<Placemark>
+			<name>Siemensstraße</name>
+			<address>Siemensstraße, 16-40A, 51145, Köln</address>
+		</Placemark>
+		<Placemark>
+			<name>Friedenstraße</name>
+			<address>Friedenstraße, 15, 15569, Woltersdorf</address>
+		</Placemark>
+		<Placemark>
+			<name>Vatan</name>
+			<address>Vatan, 1-19, 46537, Dinslaken</address>
+		</Placemark>
+		<Placemark>
+			<name>Lichtenplattenweg</name>
+			<address>Lichtenplattenweg, 29, 63071, Offenbach am Main</address>
+		</Placemark>
+		<Placemark>
+			<name>Flurstraße</name>
+			<address>Flurstraße, 5, 83135, Schechen</address>
+		</Placemark>
+		<Placemark>
+			<name>Rosenstraße</name>
+			<address>Rosenstraße, 18, 73033, Göppingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Am Ganter</name>
+			<address>Am Ganter, 12, 85635, Höhenkirchen-Siegertsbrunn</address>
+		</Placemark>
+		<Placemark>
+			<name>Mauthausstraße</name>
+			<address>Mauthausstraße, 22, 88145, Hergatz</address>
+		</Placemark>
+		<Placemark>
+			<name>Max-Scheiff-Straße</name>
+			<address>Max-Scheiff-Straße, 19, 40882, Ratingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Perlgrasweg</name>
+			<address>Perlgrasweg, 10, 70599, Stuttgart</address>
+		</Placemark>
+		<Placemark>
+			<name>Carl-Adam-Petri-Straße</name>
+			<address>Carl-Adam-Petri-Straße, 37, 14469, Potsdam</address>
+		</Placemark>
+		<Placemark>
+			<name>Nöpps</name>
+			<address>Nöpps, 12, 22043, Wandsbek</address>
+		</Placemark>
+		<Placemark>
+			<name>Neukelsterbacher Str.</name>
+			<address>Neukelsterbacher Str., 33, 65451, Kelsterbach</address>
+		</Placemark>
+		<Placemark>
+			<name>Mitteldeich</name>
+			<address>Mitteldeich, 13, 25845, Nordstrand</address>
+		</Placemark>
+		<Placemark>
+			<name>Wasserwerksweg</name>
+			<address>Wasserwerksweg, 11, 24222, Schwentinental</address>
+		</Placemark>
+		<Placemark>
+			<name>Am Webergarten</name>
+			<address>Am Webergarten, 13, 61118, Bad Vilbel</address>
+		</Placemark>
+		<Placemark>
+			<name>Unteren Kienle</name>
+			<address>Unteren Kienle, 19, 70184, Stuttgart</address>
+		</Placemark>
+		<Placemark>
+			<name>Overather Straße</name>
+			<address>Overather Straße, 62,51429, Bergisch Gladbach</address>
+		</Placemark>
+		<Placemark>
+			<name>Moosrainerstraße</name>
+			<address>Moosrainerstraße, 20c, 82418, Murnau am Staffelsee</address>
+		</Placemark>
+		<Placemark>
+			<name>Sautierstraße</name>
+			<address>Sautierstraße, 3, 79104, Freiburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Im Elbbahnhof</name>
+			<address>Im Elbbahnhof, 35, 39104, Magdeburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Alter Weinberg</name>
+			<address>Alter Weinberg, 32, 88048, Friedrichshafen</address>
+		</Placemark>
+		<Placemark>
+			<name>Schramberger Winkel</name>
+			<address>Schramberger Winkel, 8, 68239, Mannheim</address>
+		</Placemark>
+		<Placemark>
+			<name>Am Wasserturm</name>
+			<address>Am Wasserturm, 2, 42929, Wermelskirchen</address>
+		</Placemark>
+		<Placemark>
+			<name>Rubensstraße</name>
+			<address>Rubensstraße, 25, 60596, Frankfurt</address>
+		</Placemark>
+		<Placemark>
+			<name>Erfurter Str.</name>
+			<address>Erfurter Str., 4, 67165, Waldsee</address>
+		</Placemark>
+		<Placemark>
+			<name>Burgackerstraße</name>
+			<address>Burgackerstraße, 30, 50169, Kerpen</address>
+		</Placemark>
+		<Placemark>
+			<name>Vockenhauser Straße</name>
+			<address>Vockenhauser Straße, 7,78048, Villingen-Schwenningen</address>
+		</Placemark>
+		<Placemark>
+			<name>Aachstraße</name>
+			<address>Aachstraße, 22, 88682, Salem</address>
+		</Placemark>
+		<Placemark>
+			<name>Finowstr.</name>
+			<address>Finowstr., 18, 10247, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Im kleinen Felde</name>
+			<address>Im kleinen Felde, 46, 30982, Pattensen</address>
+		</Placemark>
+		<Placemark>
+			<name>Jungstraße</name>
+			<address>Jungstraße, 8, 10247, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Schlossbachstraße</name>
+			<address>Schlossbachstraße, 37, 77855, Oberachern</address>
+		</Placemark>
+		<Placemark>
+			<name>Alpenblickstraße</name>
+			<address>Alpenblickstraße, 24, 87659, Hopferau</address>
+		</Placemark>
+		<Placemark>
+			<name>Schweinfurthstr.</name>
+			<address>Schweinfurthstr., 27, 14195, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Kreillerstr.</name>
+			<address>Kreillerstr., 104, 81825, München</address>
+		</Placemark>
+		<Placemark>
+			<name>In d. Goldgrube</name>
+			<address>In d. Goldgrube, 9, 56073, Koblenz</address>
+		</Placemark>
+		<Placemark>
+			<name>Rottfeldstraße</name>
+			<address>Rottfeldstraße, 15, 68199, Mannheim</address>
+		</Placemark>
+		<Placemark>
+			<name>St.-Erhard-Straße</name>
+			<address>St.-Erhard-Straße, 4, 85356, Freising</address>
+		</Placemark>
+		<Placemark>
+			<name>Lindacher Str.</name>
+			<address>Lindacher Str., 9, 81249, München</address>
+		</Placemark>
+		<Placemark>
+			<name>Huchtinger Heerstr.</name>
+			<address>Huchtinger Heerstr., 178-188, 28259, Bremen</address>
+		</Placemark>
+		<Placemark>
+			<name>Derfflingerstraße</name>
+			<address>Derfflingerstraße, 24, 12249, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Goldrautenweg</name>
+			<address>Goldrautenweg, 3, 81547, München</address>
+		</Placemark>
+		<Placemark>
+			<name>Goethestr.</name>
+			<address>Goethestr., 21, 44623, Herne</address>
+		</Placemark>
+		<Placemark>
+			<name>Zur Wildzähnecke</name>
+			<address>Zur Wildzähnecke, 7, 38448, Wolfsburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Habichtweg</name>
+			<address>Habichtweg, 4, 71287, Weissach</address>
+		</Placemark>
+		<Placemark>
+			<name>Zum Wiesengrund</name>
+			<address>Zum Wiesengrund, 17, 64560, Riedelstadt</address>
+		</Placemark>
+		<Placemark>
+			<name>Klinkstraße</name>
+			<address>Klinkstraße, 32, 22117, Hamburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Föhrenwinkel</name>
+			<address>Föhrenwinkel, 14, 91227, Leinburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Bronnwasenstraße</name>
+			<address>Bronnwasenstraße, 3, 73614, Schorndorf</address>
+		</Placemark>
+		<Placemark>
+			<name>Fuhlsbütteler Damm</name>
+			<address>Fuhlsbütteler Damm, 91-93, 22335, Hamburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Kistnerstraße</name>
+			<address>Kistnerstraße, 39, 27576, Bremerhaven</address>
+		</Placemark>
+		<Placemark>
+			<name>Am Jungfernsee</name>
+			<address>Am Jungfernsee, 54, 14469, Potsdam</address>
+		</Placemark>
+		<Placemark>
+			<name>Auf dem Godesberg</name>
+			<address>Auf dem Godesberg, 1, 53177, Bonn</address>
+		</Placemark>
+		<Placemark>
+			<name>Kurze Reihe</name>
+			<address>Kurze Reihe, 14a, 44143, Dortmund</address>
+		</Placemark>
+		<Placemark>
+			<name>Hellsieksweg</name>
+			<address>Hellsieksweg, 20, 31863, Coppenbrügge</address>
+		</Placemark>
+		<Placemark>
+			<name>Kiefernschlag</name>
+			<address>Kiefernschlag, 13, 90542, Eckental</address>
+		</Placemark>
+		<Placemark>
+			<name>Am Falltor</name>
+			<address>Am Falltor, 22, 64390, Erzhausen</address>
+		</Placemark>
+		<Placemark>
+			<name>Oldendorpstraße</name>
+			<address>Oldendorpstraße, 15A, 18059, Rostock</address>
+		</Placemark>
+		<Placemark>
+			<name>Raaberg</name>
+			<address>Raaberg, 2d-h, 24576, Bad Bramstedt</address>
+		</Placemark>
+		<Placemark>
+			<name>Am Ziegelteich</name>
+			<address>Am Ziegelteich, 28, 22525, Hamburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Forststraße</name>
+			<address>Forststraße, 22, 70794, Filderstadt</address>
+		</Placemark>
+		<Placemark>
+			<name>Winkelstraße</name>
+			<address>Winkelstraße, 12, 46562, Voerde (Niederrhein)</address>
+		</Placemark>
+		<Placemark>
+			<name>Fischstraße</name>
+			<address>Fischstraße, 19, 23552, Lübeck</address>
+		</Placemark>
+		<Placemark>
+			<name>Schlesierstraße</name>
+			<address>Schlesierstraße, 43, 67112, Mutterstadt</address>
+		</Placemark>
+		<Placemark>
+			<name>Hermannstadtstr.</name>
+			<address>Hermannstadtstr., 16, 40591, Düsseldorf</address>
+		</Placemark>
+		<Placemark>
+			<name>Rochusstraße</name>
+			<address>Rochusstraße, 212, 53121, Bonn</address>
+		</Placemark>
+		<Placemark>
+			<name>Thalbacher Str.</name>
+			<address>Thalbacher Str., 22B, 85368, Moosburg an der Isar</address>
+		</Placemark>
+		<Placemark>
+			<name>Kalksee Straße</name>
+			<address>Kalksee Straße, 17,12587, Friedrichshagen</address>
+		</Placemark>
+		<Placemark>
+			<name>Kirchgasse</name>
+			<address>Kirchgasse, 10, 63796, Kahl am Main</address>
+		</Placemark>
+		<Placemark>
+			<name>Pankstraße</name>
+			<address>Pankstraße, 26, 13357, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Kalbacher Straße</name>
+			<address>Kalbacher Straße, 13,61352, Bad Homburg v.d.H.</address>
+		</Placemark>
+		<Placemark>
+			<name>Mühlenstraße</name>
+			<address>Mühlenstraße, 34, 14167, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Kaiserstraße</name>
+			<address>Kaiserstraße, 90, 72764, Reutlingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Lessingstraße</name>
+			<address>Lessingstraße, 56, 68723, Plankstadt</address>
+		</Placemark>
+		<Placemark>
+			<name>Reichenhallerstr.</name>
+			<address>Reichenhallerstr., 46, 81547, München</address>
+		</Placemark>
+		<Placemark>
+			<name>Breitewiesen</name>
+			<address>Breitewiesen, 52, 75210, Keltern</address>
+		</Placemark>
+		<Placemark>
+			<name>Breite Str.</name>
+			<address>Breite Str., 93, 76135, Karlsruhe</address>
+		</Placemark>
+		<Placemark>
+			<name>Philipp-Wolfrum-Weg</name>
+			<address>Philipp-Wolfrum-Weg, 2, 69121, Heidelberg</address>
+		</Placemark>
+		<Placemark>
+			<name>Delbrückstr.</name>
+			<address>Delbrückstr., 11a, 28209, Bremen</address>
+		</Placemark>
+		<Placemark>
+			<name>Grosse Heerstr.</name>
+			<address>Grosse Heerstr., 39, 72793, Pfullingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Tannwaldstr.</name>
+			<address>Tannwaldstr., 1, 76332, Bad Herrenalb</address>
+		</Placemark>
+		<Placemark>
+			<name>Leustetter Str.</name>
+			<address>Leustetter Str., 10, 88682, Salem</address>
+		</Placemark>
+		<Placemark>
+			<name>Lepsiusstr.</name>
+			<address>Lepsiusstr., 87, 12165, Steglitz</address>
+		</Placemark>
+		<Placemark>
+			<name>Erlengrund</name>
+			<address>Erlengrund, 6, 51429, Bergisch Gladbach</address>
+		</Placemark>
+		<Placemark>
+			<name>Talstr.</name>
+			<address>Talstr., 11, 57614, Borod</address>
+		</Placemark>
+		<Placemark>
+			<name>Alte Bahnhofstr.</name>
+			<address>Alte Bahnhofstr., 17, 38470, Parsau</address>
+		</Placemark>
+		<Placemark>
+			<name>Turmstraße</name>
+			<address>Turmstraße, 2, 66459, Kirkel</address>
+		</Placemark>
+		<Placemark>
+			<name>Schmiedgasse</name>
+			<address>Schmiedgasse, 10, 73614, Schorndorf</address>
+		</Placemark>
+		<Placemark>
+			<name>Ellingshohl</name>
+			<address>Ellingshohl, 1d, 56076, Koblenz</address>
+		</Placemark>
+		<Placemark>
+			<name>Auf den Steinen</name>
+			<address>Auf den Steinen, 52, 53340, Meckenheim</address>
+		</Placemark>
+		<Placemark>
+			<name>Stiftstraße</name>
+			<address>Stiftstraße, 6, 71384, Weinstadt</address>
+		</Placemark>
+		<Placemark>
+			<name>Fürbringerstraße</name>
+			<address>Fürbringerstraße, 21, 10961, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Goslarsche Str.</name>
+			<address>Goslarsche Str., 96, 38118, Braunschweig</address>
+		</Placemark>
+		<Placemark>
+			<name>Riedweg</name>
+			<address>Riedweg, 11, 86551, Aichach</address>
+		</Placemark>
+		<Placemark>
+			<name>Wendenring</name>
+			<address>Wendenring, 18, 38114, Braunschweig</address>
+		</Placemark>
+		<Placemark>
+			<name>Bergstr.</name>
+			<address>Bergstr., 19, 71263, Weil der Stadt</address>
+		</Placemark>
+		<Placemark>
+			<name>Reismühlenstr.</name>
+			<address>Reismühlenstr., 23, 81477, München</address>
+		</Placemark>
+		<Placemark>
+			<name>Im Wiesengrund</name>
+			<address>Im Wiesengrund, 18, 27726, Worpswede</address>
+		</Placemark>
+		<Placemark>
+			<name>Geranienstraße</name>
+			<address>Geranienstraße, 6, 79312, Emmendingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Sudetenstr.</name>
+			<address>Sudetenstr., 13, 64546, Mörfelden-Walldorf</address>
+		</Placemark>
+		<Placemark>
+			<name>Hauptstraße</name>
+			<address>Hauptstraße, 25, 24867, Dannewerk</address>
+		</Placemark>
+		<Placemark>
+			<name>Alte Hauptstraße</name>
+			<address>Alte Hauptstraße, 73b, 45289, Essen</address>
+		</Placemark>
+		<Placemark>
+			<name>Am Weißen Kreuz</name>
+			<address>Am Weißen Kreuz, 14, 59469, Ense</address>
+		</Placemark>
+		<Placemark>
+			<name>Takustraße</name>
+			<address>Takustraße, 15, 50825, Köln</address>
+		</Placemark>
+		<Placemark>
+			<name>Erzbergerstraße</name>
+			<address>Erzbergerstraße, 30, 68782, Brühl</address>
+		</Placemark>
+		<Placemark>
+			<name>Fiedlerstr.</name>
+			<address>Fiedlerstr., 4, 01468, Moritzburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Helmstedter Straße</name>
+			<address>Helmstedter Straße, 15/15a, 38446, Wolfsburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Hauptstrasse</name>
+			<address>Hauptstrasse, 150, 69117, Heidelberg</address>
+		</Placemark>
+		<Placemark>
+			<name>Mühlbergstraße</name>
+			<address>Mühlbergstraße, 14, 82319, Starnberg</address>
+		</Placemark>
+		<Placemark>
+			<name>Kieler Straße</name>
+			<address>Kieler Straße, 106, 25474, Bönningstedt</address>
+		</Placemark>
+		<Placemark>
+			<name>Brehmstraße</name>
+			<address>Brehmstraße, 52-56, 40239, Düsseldorf</address>
+		</Placemark>
+		<Placemark>
+			<name>Johann-Sebastian-Bach-Straße</name>
+			<address>Johann-Sebastian-Bach-Straße, 14, 66780, Rehlingen-Siersburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Lindenstr.</name>
+			<address>Lindenstr., 21, 14532, Stahnsdorf</address>
+		</Placemark>
+		<Placemark>
+			<name>Mühlenstraße</name>
+			<address>Mühlenstraße, 2, 23774, Heiligenhafen</address>
+		</Placemark>
+		<Placemark>
+			<name>Finkenweg</name>
+			<address>Finkenweg, 22, 71404, Korb</address>
+		</Placemark>
+		<Placemark>
+			<name>Maximilianstraße</name>
+			<address>Maximilianstraße, 78, 85399, Hallbergmoos</address>
+		</Placemark>
+		<Placemark>
+			<name>Arthur Scheunert Allee</name>
+			<address>Arthur Scheunert Allee, 154a, 14558, Nuthetal</address>
+		</Placemark>
+		<Placemark>
+			<name>Böttnerstraße</name>
+			<address>Böttnerstraße, 5, 42799, Leichlingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Falckstr.</name>
+			<address>Falckstr., 8, 24103, Kiel</address>
+		</Placemark>
+		<Placemark>
+			<name>Gaistalstr.</name>
+			<address>Gaistalstr., 117, 76332, Bad Herrenalb</address>
+		</Placemark>
+		<Placemark>
+			<name>Willöperstraße</name>
+			<address>Willöperstraße, 18, 22047, Hamburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Konkordienstraße</name>
+			<address>Konkordienstraße, 24, 01127, Dresden</address>
+		</Placemark>
+		<Placemark>
+			<name>Hauptstr.</name>
+			<address>Hauptstr., 15, 78086, Brigachtal</address>
+		</Placemark>
+		<Placemark>
+			<name>Zingel</name>
+			<address>Zingel, 5, 31134, Hildesheim</address>
+		</Placemark>
+		<Placemark>
+			<name>Badstr.</name>
+			<address>Badstr., 13, 72250, Freudenstadt</address>
+		</Placemark>
+		<Placemark>
+			<name>Landsbergstrasse</name>
+			<address>Landsbergstrasse, 29-31, 50678, Köln</address>
+		</Placemark>
+		<Placemark>
+			<name>Im Höhngesgarten</name>
+			<address>Im Höhngesgarten, 47, 51491, Overath</address>
+		</Placemark>
+		<Placemark>
+			<name>Im Wiesengrund</name>
+			<address>Im Wiesengrund, 6, 14532, Stahnsdorf</address>
+		</Placemark>
+		<Placemark>
+			<name>Hintergasse</name>
+			<address>Hintergasse, 9b-e, 60389, Frankfurt am Main</address>
+		</Placemark>
+		<Placemark>
+			<name>Hohe Egge Höhenweg</name>
+			<address>Hohe Egge Höhenweg, 18, 45549, Sprockhövel</address>
+		</Placemark>
+		<Placemark>
+			<name>Eisvogelweg</name>
+			<address>Eisvogelweg, 8, 71032, Böblingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Röntgenstraße</name>
+			<address>Röntgenstraße, 7, 69126, Heidelberg</address>
+		</Placemark>
+		<Placemark>
+			<name>Burghaldenweg</name>
+			<address>Burghaldenweg, 10, 70469, Stuttgart</address>
+		</Placemark>
+		<Placemark>
+			<name>Im Grabenfeld</name>
+			<address>Im Grabenfeld, 7A, 65468, Trebur</address>
+		</Placemark>
+		<Placemark>
+			<name>Kirkesweg</name>
+			<address>Kirkesweg, 14, 45481, Mülheim an der Ruhr</address>
+		</Placemark>
+		<Placemark>
+			<name>Ottilie-Hoffmann-Straße</name>
+			<address>Ottilie-Hoffmann-Straße, 91, 28213, Bremen</address>
+		</Placemark>
+		<Placemark>
+			<name>Am Tannenhang</name>
+			<address>Am Tannenhang, 13, 67316, Carlsberg</address>
+		</Placemark>
+		<Placemark>
+			<name>Oberdorffelderstr.</name>
+			<address>Oberdorffelderstr., 15, 61138, Niederdorfelden</address>
+		</Placemark>
+		<Placemark>
+			<name>Luis-Weber Str.</name>
+			<address>Luis-Weber Str., 19, 36364, Bad Salzschlirf</address>
+		</Placemark>
+		<Placemark>
+			<name>Rübezahlstr.</name>
+			<address>Rübezahlstr., 11, 82538, Geretsried</address>
+		</Placemark>
+		<Placemark>
+			<name>An d. Stüweneiche</name>
+			<address>An d. Stüweneiche, 17, 17039, Neuenkirchen</address>
+		</Placemark>
+		<Placemark>
+			<name>Schillerstraße</name>
+			<address>Schillerstraße, 19, 13156, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Alt Seulberg</name>
+			<address>Alt Seulberg, 7, 61381, Friedrichsdorf</address>
+		</Placemark>
+		<Placemark>
+			<name>St. Bernhardsberg</name>
+			<address>St. Bernhardsberg, 16, 94501, Aldersbach</address>
+		</Placemark>
+		<Placemark>
+			<name>Sander Str.</name>
+			<address>Sander Str., 211a, 51515, Bergisch Gladbach</address>
+		</Placemark>
+		<Placemark>
+			<name>Herrmann-Steinhäuser-Straße</name>
+			<address>Herrmann-Steinhäuser-Straße, 27a, 63065, Offenbach</address>
+		</Placemark>
+		<Placemark>
+			<name>Franzstraße</name>
+			<address>Franzstraße, 8, 50321, Brühl</address>
+		</Placemark>
+		<Placemark>
+			<name>Beethovenstr.</name>
+			<address>Beethovenstr., 12, 30449, Hannover</address>
+		</Placemark>
+		<Placemark>
+			<name>Lüssumer Str.</name>
+			<address>Lüssumer Str., 35, 28779, Bremen</address>
+		</Placemark>
+		<Placemark>
+			<name>Palmstraße</name>
+			<address>Palmstraße, 8, 65187, Wiesbaden</address>
+		</Placemark>
+		<Placemark>
+			<name>Am Großen Wannsee</name>
+			<address>Am Großen Wannsee, 48, 14109, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Eichbühlstraße</name>
+			<address>Eichbühlstraße, 1A, 79669, Zell im Wiesental</address>
+		</Placemark>
+		<Placemark>
+			<name>Am Schneisbroich</name>
+			<address>Am Schneisbroich, 19, 40468, Düsseldorf</address>
+		</Placemark>
+		<Placemark>
+			<name>Panoramastr.</name>
+			<address>Panoramastr., 2, 71679, Asperg</address>
+		</Placemark>
+		<Placemark>
+			<name>Jessnerstraße</name>
+			<address>Jessnerstraße, 23, 10247, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Glogauer Straße</name>
+			<address>Glogauer Straße, 3, 85053, Ingolstadt</address>
+		</Placemark>
+		<Placemark>
+			<name>Holtzendorffstraße</name>
+			<address>Holtzendorffstraße, 12, 81549, München</address>
+		</Placemark>
+		<Placemark>
+			<name>Mozartstr.</name>
+			<address>Mozartstr., 8, 40479, Düsseldorf</address>
+		</Placemark>
+		<Placemark>
+			<name>Hoheneichen</name>
+			<address>Hoheneichen, 9, 22391, Hamburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Fasanenweg</name>
+			<address>Fasanenweg, 19A, 63674, Altenstadt</address>
+		</Placemark>
+		<Placemark>
+			<name>Otto-Hahn-Straße</name>
+			<address>Otto-Hahn-Straße, 1F, 64589, Stockstadt am Rhein</address>
+		</Placemark>
+		<Placemark>
+			<name>Tulpenstr.</name>
+			<address>Tulpenstr., 10, 63263, Neu-Isenburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Eichenstraße</name>
+			<address>Eichenstraße, 16, 95490, Mistelgau</address>
+		</Placemark>
+		<Placemark>
+			<name>Cuxhavener Straße</name>
+			<address>Cuxhavener Straße, 10, 90766, Fürth</address>
+		</Placemark>
+		<Placemark>
+			<name>Ostpreußenstr.</name>
+			<address>Ostpreußenstr., 5, 95497, Goldkronach</address>
+		</Placemark>
+		<Placemark>
+			<name>Rädestrasse</name>
+			<address>Rädestrasse, 1, 01169, Dresden</address>
+		</Placemark>
+		<Placemark>
+			<name>Äußeres Pfaffengäßchen</name>
+			<address>Äußeres Pfaffengäßchen, 40, 86152, Augsburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Landsberger Str.</name>
+			<address>Landsberger Str., 22, 82110, Germering</address>
+		</Placemark>
+		<Placemark>
+			<name>Alte Reichsstraße</name>
+			<address>Alte Reichsstraße, 31, 86356, Neusäß</address>
+		</Placemark>
+		<Placemark>
+			<name>Nordring</name>
+			<address>Nordring, 82, 64807, Dieburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Glarenstr.</name>
+			<address>Glarenstr., 23, 88267, Vogt</address>
+		</Placemark>
+		<Placemark>
+			<name>Gaisgasse</name>
+			<address>Gaisgasse, 1, 70825, Korntal-Münchingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Menterstraße</name>
+			<address>Menterstraße, 59-59E, 81247, München</address>
+		</Placemark>
+		<Placemark>
+			<name>Birkenfeld</name>
+			<address>Birkenfeld, 11, 37133, Friedland</address>
+		</Placemark>
+		<Placemark>
+			<name>Taunusstraße</name>
+			<address>Taunusstraße, 53, 65760, Eschborn</address>
+		</Placemark>
+		<Placemark>
+			<name>Dürerweg</name>
+			<address>Dürerweg, 8, 87600, Kaufbeuren</address>
+		</Placemark>
+		<Placemark>
+			<name>Fontanestraße</name>
+			<address>Fontanestraße, 24, 69469, Weinheim</address>
+		</Placemark>
+		<Placemark>
+			<name>Marburger Straße</name>
+			<address>Marburger Straße, 2A, 35112, Fronhausen</address>
+		</Placemark>
+		<Placemark>
+			<name>Saseler Chaussee</name>
+			<address>Saseler Chaussee, 84, 22391, Hamburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Daimler-Benz-Straße</name>
+			<address>Daimler-Benz-Straße, 15, 76571, Gaggenau</address>
+		</Placemark>
+		<Placemark>
+			<name>Viktoriastraße</name>
+			<address>Viktoriastraße, 11, 12203, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Edith-Stein-Straße</name>
+			<address>Edith-Stein-Straße, 36a, 63225, Langen</address>
+		</Placemark>
+		<Placemark>
+			<name>Elsasser Straße</name>
+			<address>Elsasser Straße, 125, 28211, Bremen</address>
+		</Placemark>
+		<Placemark>
+			<name>Rüsselsheimer Str.</name>
+			<address>Rüsselsheimer Str., 79, 65451, Kelsterbach</address>
+		</Placemark>
+		<Placemark>
+			<name>Eiderweg</name>
+			<address>Eiderweg, 23, 30851, Langenhagen</address>
+		</Placemark>
+		<Placemark>
+			<name>Reichenbachstraße</name>
+			<address>Reichenbachstraße, 45, 70372, Stuttgart</address>
+		</Placemark>
+		<Placemark>
+			<name>Claustaler Straße</name>
+			<address>Claustaler Straße, 14, 45145, Essen</address>
+		</Placemark>
+		<Placemark>
+			<name>Lupinenstraße</name>
+			<address>Lupinenstraße, 8, 74417, Gschwend</address>
+		</Placemark>
+		<Placemark>
+			<name>Breslauer Weg</name>
+			<address>Breslauer Weg, 1, 66130, Saarbrücken</address>
+		</Placemark>
+		<Placemark>
+			<name>Steenwisch</name>
+			<address>Steenwisch, 29, 22527, Hamburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Ilse-Cartellieri-Straße</name>
+			<address>Ilse-Cartellieri-Straße, 24-30, 21337, Lüneburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Hauptstr.</name>
+			<address>Hauptstr., 123, 68799, Reilingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Regerstrasse</name>
+			<address>Regerstrasse, 2, 33604, Bielefeld</address>
+		</Placemark>
+		<Placemark>
+			<name>Jessnerstraße</name>
+			<address>Jessnerstraße, 35, 10247, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Kapitän-Dallmann-Straße</name>
+			<address>Kapitän-Dallmann-Straße, 1, 28779, Bremen</address>
+		</Placemark>
+		<Placemark>
+			<name>Gartenstraße</name>
+			<address>Gartenstraße, 16, 30880, Laatzen</address>
+		</Placemark>
+		<Placemark>
+			<name>Quellstraße</name>
+			<address>Quellstraße, 14, 83346, Bergen</address>
+		</Placemark>
+		<Placemark>
+			<name>Lilienstraße</name>
+			<address>Lilienstraße, 53, 53881, Euskirchen</address>
+		</Placemark>
+		<Placemark>
+			<name>Belfortstraße</name>
+			<address>Belfortstraße, 2, 76133, Karlsruhe</address>
+		</Placemark>
+		<Placemark>
+			<name>Rothenbaumchaussee</name>
+			<address>Rothenbaumchaussee, 223, 20149, Hamburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Rathausstraße</name>
+			<address>Rathausstraße, 7A, 24960, Glücksburg (Ostsee)</address>
+		</Placemark>
+		<Placemark>
+			<name>Lorenzstaffel</name>
+			<address>Lorenzstaffel, 7, 70182, Stuttgart</address>
+		</Placemark>
+		<Placemark>
+			<name>Clemensstraße</name>
+			<address>Clemensstraße, 67, 80796, München</address>
+		</Placemark>
+		<Placemark>
+			<name>Im Flecken</name>
+			<address>Im Flecken, 3, 65375, Oestrich-Winkel</address>
+		</Placemark>
+		<Placemark>
+			<name>Walsroder Straße</name>
+			<address>Walsroder Straße, 6, 28215, Bremen</address>
+		</Placemark>
+		<Placemark>
+			<name>Waldstr.</name>
+			<address>Waldstr., 36A-D, 14513, Teltow</address>
+		</Placemark>
+		<Placemark>
+			<name>Geitauer Str.</name>
+			<address>Geitauer Str., 14, 81379, München</address>
+		</Placemark>
+		<Placemark>
+			<name>Sulzweg</name>
+			<address>Sulzweg, 9, 81827, München</address>
+		</Placemark>
+		<Placemark>
+			<name>Köttinger Weg</name>
+			<address>Köttinger Weg, 41, 50997, Köln</address>
+		</Placemark>
+		<Placemark>
+			<name>Haspelstraße</name>
+			<address>Haspelstraße, 45B, 66538, Neunkirchen</address>
+		</Placemark>
+		<Placemark>
+			<name>Wasserstraße</name>
+			<address>Wasserstraße, 2, 44379, Dortmund</address>
+		</Placemark>
+		<Placemark>
+			<name>Friedensstraße</name>
+			<address>Friedensstraße, 53, 61476, Kronberg im Taunus</address>
+		</Placemark>
+		<Placemark>
+			<name>Krumme Straße</name>
+			<address>Krumme Straße, 2, 30559, Hannover</address>
+		</Placemark>
+		<Placemark>
+			<name>Allgäuer Straße</name>
+			<address>Allgäuer Straße, 109, 81475, München</address>
+		</Placemark>
+		<Placemark>
+			<name>Hermannstr</name>
+			<address>Hermannstr, 53, 45891, Gelsenkirchen</address>
+		</Placemark>
+		<Placemark>
+			<name>Uftseestrasse</name>
+			<address>Uftseestrasse, 8, 53937, Schleiden</address>
+		</Placemark>
+		<Placemark>
+			<name>Kunzweg</name>
+			<address>Kunzweg, 4, 81243, München</address>
+		</Placemark>
+		<Placemark>
+			<name>Situlistrasse</name>
+			<address>Situlistrasse, 8, 80939, München</address>
+		</Placemark>
+		<Placemark>
+			<name>Öscher Weg</name>
+			<address>Öscher Weg, 1, 87459, Pfronte</address>
+		</Placemark>
+		<Placemark>
+			<name>Falbenhennenstr.</name>
+			<address>Falbenhennenstr., 10, 70180, Stuttgart</address>
+		</Placemark>
+		<Placemark>
+			<name>Kuddenberg</name>
+			<address>Kuddenberg, 12, 51515, Kürten</address>
+		</Placemark>
+		<Placemark>
+			<name>Ölmühlweg</name>
+			<address>Ölmühlweg, 13, 61462, Königstein im Taunus</address>
+		</Placemark>
+		<Placemark>
+			<name>Weiherwiese</name>
+			<address>Weiherwiese, 28-30, 65510, Idstein</address>
+		</Placemark>
+		<Placemark>
+			<name>Am Spitzwald</name>
+			<address>Am Spitzwald, 9, 21509, Glinde</address>
+		</Placemark>
+		<Placemark>
+			<name>Am Kammerforst</name>
+			<address>Am Kammerforst, 11, 66663, Merzig</address>
+		</Placemark>
+		<Placemark>
+			<name>Nuthestraße</name>
+			<address>Nuthestraße, 19, 12307, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Haus</name>
+			<address>Haus, 56a, 25938, Oldsum</address>
+		</Placemark>
+		<Placemark>
+			<name>Mittlere Beutau</name>
+			<address>Mittlere Beutau, 44, 73728, Esslingen am Neckar</address>
+		</Placemark>
+		<Placemark>
+			<name>Halverstraße</name>
+			<address>Halverstraße, 6, 58515, Lüdenscheid</address>
+		</Placemark>
+		<Placemark>
+			<name>Wallstraße</name>
+			<address>Wallstraße, 26, 89231, Neu-Ulm</address>
+		</Placemark>
+		<Placemark>
+			<name>Sonnenrainweg</name>
+			<address>Sonnenrainweg, 41, 71088, Holzgerlingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Buchenweg</name>
+			<address>Buchenweg, 19, 74918, Angelbachtal</address>
+		</Placemark>
+		<Placemark>
+			<name>Würzburgerstraße</name>
+			<address>Würzburgerstraße, 91, 63517, Rodenbach</address>
+		</Placemark>
+		<Placemark>
+			<name>Blumhardtstraße</name>
+			<address>Blumhardtstraße, 4, 70794, Filderstadt</address>
+		</Placemark>
+		<Placemark>
+			<name>Friedrichstraße</name>
+			<address>Friedrichstraße, 7, 23562, Lübeck</address>
+		</Placemark>
+		<Placemark>
+			<name>Alleenstraße</name>
+			<address>Alleenstraße, 5, 70825, Korntal-Münchingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Zur Mittelau</name>
+			<address>Zur Mittelau, 33, 92360, Mühlhausen</address>
+		</Placemark>
+		<Placemark>
+			<name>Pfingstbrunnenstraße</name>
+			<address>Pfingstbrunnenstraße, 19, 65824, Schwalbach am Taunus</address>
+		</Placemark>
+		<Placemark>
+			<name>Albert-Einstein-Straße</name>
+			<address>Albert-Einstein-Straße, 89, 40789, Monheim am Rhein</address>
+		</Placemark>
+		<Placemark>
+			<name>Hinterriedstraße</name>
+			<address>Hinterriedstraße, 11, 71272, Renningen</address>
+		</Placemark>
+		<Placemark>
+			<name>Hinterbergstraße</name>
+			<address>Hinterbergstraße, 11, 65207, Wiesbaden</address>
+		</Placemark>
+		<Placemark>
+			<name>Neckarstraße</name>
+			<address>Neckarstraße, 49, 71686, Remseck am Neckar</address>
+		</Placemark>
+		<Placemark>
+			<name>Am Steinberg</name>
+			<address>Am Steinberg, 29, 65719, Hofheim am Taunus</address>
+		</Placemark>
+		<Placemark>
+			<name>Wieckstraße</name>
+			<address>Wieckstraße, 22, 22527, Hamburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Südendamm</name>
+			<address>Südendamm, 8a, 48324, Sendenhorst</address>
+		</Placemark>
+		<Placemark>
+			<name>Fichtestraße</name>
+			<address>Fichtestraße, 8A, 31275, Lehrte</address>
+		</Placemark>
+		<Placemark>
+			<name>Fuchskaulenstraße</name>
+			<address>Fuchskaulenstraße, 3, 50354, Hürth</address>
+		</Placemark>
+		<Placemark>
+			<name>Eugenstr</name>
+			<address>Eugenstr, 42, 72072, Tübingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Fasangartenstraße</name>
+			<address>Fasangartenstraße, 160, 81549, München</address>
+		</Placemark>
+		<Placemark>
+			<name>Hauptstraße</name>
+			<address>Hauptstraße, 107, 67735, Mehlbach</address>
+		</Placemark>
+		<Placemark>
+			<name>Bonner Talweg</name>
+			<address>Bonner Talweg, 47, 53113, Bonn</address>
+		</Placemark>
+		<Placemark>
+			<name>Auf d. Helle</name>
+			<address>Auf d. Helle, 5, 58313, Herdecke</address>
+		</Placemark>
+		<Placemark>
+			<name>Hirsekamp</name>
+			<address>Hirsekamp, 1c, 22175, Hamburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Brunnenallee</name>
+			<address>Brunnenallee, 8, 53173, Bonn</address>
+		</Placemark>
+		<Placemark>
+			<name>Waldgartenstraße</name>
+			<address>Waldgartenstraße, 59a, 81377, München</address>
+		</Placemark>
+		<Placemark>
+			<name>Tiergarten- Straße</name>
+			<address>Tiergarten- Straße, 257, 42117, Elberfeld</address>
+		</Placemark>
+		<Placemark>
+			<name>Albrecht-Dürer Straße</name>
+			<address>Albrecht-Dürer Straße, 25, 67240, Bobenheim-Roxheim</address>
+		</Placemark>
+		<Placemark>
+			<name>Kuenstraße</name>
+			<address>Kuenstraße, 35, 50733, Köln</address>
+		</Placemark>
+		<Placemark>
+			<name>Peiner Heerstraße</name>
+			<address>Peiner Heerstraße, 4, 31275, Lehrte</address>
+		</Placemark>
+		<Placemark>
+			<name>Bietigheimer Straße</name>
+			<address>Bietigheimer Straße, 17, 71691, Freiberg am Neckar</address>
+		</Placemark>
+		<Placemark>
+			<name>Kleinschmidtstraße</name>
+			<address>Kleinschmidtstraße, 13, 60431, Frankfurt am Main</address>
+		</Placemark>
+		<Placemark>
+			<name>Blankenburger Straße</name>
+			<address>Blankenburger Straße, 79, 13156, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Schubertstraße</name>
+			<address>Schubertstraße, 8, 82194, Gröbenzell</address>
+		</Placemark>
+		<Placemark>
+			<name>Hauptstr.</name>
+			<address>Hauptstr., 73, 79364, Malterdingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Jahnstraße</name>
+			<address>Jahnstraße, 30, 69221, Dossenheim</address>
+		</Placemark>
+		<Placemark>
+			<name>Löwenstraße</name>
+			<address>Löwenstraße, 94, 70597, Stuttgart</address>
+		</Placemark>
+		<Placemark>
+			<name>Trollingerweg</name>
+			<address>Trollingerweg, 14, 74348, Lauffen</address>
+		</Placemark>
+		<Placemark>
+			<name>Sonnenrainweg</name>
+			<address>Sonnenrainweg, 11, 71297, Mönsheim</address>
+		</Placemark>
+		<Placemark>
+			<name>Mannertstraße</name>
+			<address>Mannertstraße, 26, 80997, München</address>
+		</Placemark>
+		<Placemark>
+			<name>Tulpenhofstraße</name>
+			<address>Tulpenhofstraße, 18, 63067, Offenbach am Main</address>
+		</Placemark>
+		<Placemark>
+			<name>Insterburgerstraße</name>
+			<address>Insterburgerstraße, 2, 81929, München</address>
+		</Placemark>
+		<Placemark>
+			<name>Katharinenstraße</name>
+			<address>Katharinenstraße, 58, 73728, Esslingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Füssener Straße</name>
+			<address>Füssener Straße, 35, 82383, Hohenpeißenberg</address>
+		</Placemark>
+		<Placemark>
+			<name>Mainzer Straße</name>
+			<address>Mainzer Straße, 183, 53179, Bonn</address>
+		</Placemark>
+		<Placemark>
+			<name>Seeblickstr.</name>
+			<address>Seeblickstr., 9, 78253, Eigeltingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Hanweiler Straße</name>
+			<address>Hanweiler Straße, 36, 71404, Korb</address>
+		</Placemark>
+		<Placemark>
+			<name>Finkenweg</name>
+			<address>Finkenweg, 22-34, 93059, Regensburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Hintere Straße</name>
+			<address>Hintere Straße, 84a-86k, 90768, Fürth</address>
+		</Placemark>
+		<Placemark>
+			<name>Furtenbach Straße</name>
+			<address>Furtenbach Straße, 5A, 90453, Nürnberg</address>
+		</Placemark>
+		<Placemark>
+			<name>Doktor-Rosa-Goldschmidt Straße</name>
+			<address>Doktor-Rosa-Goldschmidt Straße, 41-59, 63075, Offenbach</address>
+		</Placemark>
+		<Placemark>
+			<name>Koppelweg</name>
+			<address>Koppelweg, 8a, 30826, Garbsen</address>
+		</Placemark>
+		<Placemark>
+			<name>Amsterdamer Straße</name>
+			<address>Amsterdamer Straße, 269, 50735, Köln</address>
+		</Placemark>
+		<Placemark>
+			<name>Rantzaustraße</name>
+			<address>Rantzaustraße, 100, 22041, Hamburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Mainzer Straße</name>
+			<address>Mainzer Straße, 1, 65719, Hofheim am Taunus</address>
+		</Placemark>
+		<Placemark>
+			<name>Osterholzallee</name>
+			<address>Osterholzallee, 6, 71636, Ludwigsburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Heimenhofenstraße</name>
+			<address>Heimenhofenstraße, 1, 87545, Burgberg im Allgäu</address>
+		</Placemark>
+		<Placemark>
+			<name>Zum Steinberg</name>
+			<address>Zum Steinberg, 59, 69121, Heidelberg</address>
+		</Placemark>
+		<Placemark>
+			<name>Allerheiligenstraße</name>
+			<address>Allerheiligenstraße, 19, 99084, Erfurt</address>
+		</Placemark>
+		<Placemark>
+			<name>Hauptstraße</name>
+			<address>Hauptstraße, 293a, 65760, Eschborn</address>
+		</Placemark>
+		<Placemark>
+			<name>Graf-Adolf-Str.</name>
+			<address>Graf-Adolf-Str., 13, 58239, Schwerte</address>
+		</Placemark>
+		<Placemark>
+			<name>Am Gemeindegarten</name>
+			<address>Am Gemeindegarten, 5, 65933, Frankfurt am Main</address>
+		</Placemark>
+		<Placemark>
+			<name>Mainstraße</name>
+			<address>Mainstraße, 41, 28199, Bremen</address>
+		</Placemark>
+		<Placemark>
+			<name>Zschopaustraße</name>
+			<address>Zschopaustraße, 44/46, 74172, Neckarsulm</address>
+		</Placemark>
+		<Placemark>
+			<name>Whitehorse-Straße</name>
+			<address>Whitehorse-Straße, 1-38, 14513, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Karlstraße</name>
+			<address>Karlstraße, 14, 45661, Recklinghausen</address>
+		</Placemark>
+		<Placemark>
+			<name>Venusbergweg</name>
+			<address>Venusbergweg, 37, 53115, Bonn</address>
+		</Placemark>
+		<Placemark>
+			<name>Neubruchweg</name>
+			<address>Neubruchweg, 29, 82205, Gilching</address>
+		</Placemark>
+		<Placemark>
+			<name>Im Lerchenholz</name>
+			<address>Im Lerchenholz, 23, 71636, Ludwigsburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Heiderhöfen</name>
+			<address>Heiderhöfen, 111, 46049, Oberhausen</address>
+		</Placemark>
+		<Placemark>
+			<name>Heiderhöfen</name>
+			<address>Heiderhöfen, 113&amp;115, 46049, Oberhausen</address>
+		</Placemark>
+		<Placemark>
+			<name>Albert-Einstein-Straße</name>
+			<address>Albert-Einstein-Straße, 30, 60437, Frankfurt am Main</address>
+		</Placemark>
+		<Placemark>
+			<name>Auf der Steinrausch</name>
+			<address>Auf der Steinrausch, 8, 56295, Lonnig</address>
+		</Placemark>
+		<Placemark>
+			<name>Kochendorferstraße</name>
+			<address>Kochendorferstraße, 1, 74229, Oedheim</address>
+		</Placemark>
+		<Placemark>
+			<name>Elsässer Straße</name>
+			<address>Elsässer Straße, 20, 77694, Kehl am Rhein</address>
+		</Placemark>
+		<Placemark>
+			<name>Römerweg</name>
+			<address>Römerweg, 11, 61449, Steinbach (Taunus)</address>
+		</Placemark>
+		<Placemark>
+			<name>Kirchstraße</name>
+			<address>Kirchstraße, 26, 89233, Neu-Ulm</address>
+		</Placemark>
+		<Placemark>
+			<name>Trabener Straße</name>
+			<address>Trabener Straße, 68a, 14193, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Rudersbergerstraße</name>
+			<address>Rudersbergerstraße, 34, 73614, Schorndorf</address>
+		</Placemark>
+		<Placemark>
+			<name>Carl Severing Str.</name>
+			<address>Carl Severing Str., 78, 33649, Bielefeld</address>
+		</Placemark>
+		<Placemark>
+			<name>Salmbacherstraße</name>
+			<address>Salmbacherstraße, 81, 12349, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Staatsrat-Schwamb-Straße</name>
+			<address>Staatsrat-Schwamb-Straße, 60, 55278, Undenheim</address>
+		</Placemark>
+		<Placemark>
+			<name>Sudetenlandstraße</name>
+			<address>Sudetenlandstraße, 76, 85221, Dachau</address>
+		</Placemark>
+		<Placemark>
+			<name>Heßler Straße</name>
+			<address>Heßler Straße, 349, 45329, Essen</address>
+		</Placemark>
+		<Placemark>
+			<name>Hohenzollernstraße</name>
+			<address>Hohenzollernstraße, 3, 14163, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Münchinger Straße</name>
+			<address>Münchinger Straße, 34, 71254, Ditzingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Römerstraße</name>
+			<address>Römerstraße, 29, 69115, Heidelberg</address>
+		</Placemark>
+		<Placemark>
+			<name>Bachstraße</name>
+			<address>Bachstraße, 28, 53115, Bonn</address>
+		</Placemark>
+		<Placemark>
+			<name>Große Rainstraße</name>
+			<address>Große Rainstraße, 15, 22765, Hamburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Rüppurer Straße</name>
+			<address>Rüppurer Straße, 18, 76137, Karlsruhe</address>
+		</Placemark>
+		<Placemark>
+			<name>Blankeneser Landstraße</name>
+			<address>Blankeneser Landstraße, 5, 22587, Hamburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Von-Kahr-Straße</name>
+			<address>Von-Kahr-Straße, 23, 80997, München</address>
+		</Placemark>
+		<Placemark>
+			<name>Halfinger Straße</name>
+			<address>Halfinger Straße, 28, 81825, München</address>
+		</Placemark>
+		<Placemark>
+			<name>Lindenstraße</name>
+			<address>Lindenstraße, 17, 74395, Mundelsheim</address>
+		</Placemark>
+		<Placemark>
+			<name>Sterngasse</name>
+			<address>Sterngasse, 123, 64347, Griesheim</address>
+		</Placemark>
+		<Placemark>
+			<name>Skylineblick</name>
+			<address>Skylineblick, 17, 60438, Frankfurt am Main</address>
+		</Placemark>
+		<Placemark>
+			<name>Christian-Grunert-Straße</name>
+			<address>Christian-Grunert-Straße, 1, 04288, Leipzig</address>
+		</Placemark>
+		<Placemark>
+			<name>Olgastraße</name>
+			<address>Olgastraße, 38, 73630, Remshalden</address>
+		</Placemark>
+		<Placemark>
+			<name>Graurheindorfer Straße</name>
+			<address>Graurheindorfer Straße, 73, 53111, Bonn</address>
+		</Placemark>
+		<Placemark>
+			<name>Freseniusstraße</name>
+			<address>Freseniusstraße, 49, 65193, Wiesbaden</address>
+		</Placemark>
+		<Placemark>
+			<name>Hallgartenstraße</name>
+			<address>Hallgartenstraße, 11, 61250, Usingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Kohlklinge</name>
+			<address>Kohlklinge, 5, 69469, Weinheim</address>
+		</Placemark>
+		<Placemark>
+			<name>Rheindorfer Straße</name>
+			<address>Rheindorfer Straße, 104, 53225, Bonn</address>
+		</Placemark>
+		<Placemark>
+			<name>Auf der Haardt</name>
+			<address>Auf der Haardt, 7, 75385, Bad Teinach-Zavelstein</address>
+		</Placemark>
+		<Placemark>
+			<name>Kärntner Str.</name>
+			<address>Kärntner Str., 35, 71636, Ludwigsburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Neißestraße</name>
+			<address>Neißestraße, 6, 66740, Saarlouis</address>
+		</Placemark>
+		<Placemark>
+			<name>Lucian-Reich-Straße</name>
+			<address>Lucian-Reich-Straße, 13, 76473, Iffezheim</address>
+		</Placemark>
+		<Placemark>
+			<name>Überkinger Str.</name>
+			<address>Überkinger Str., 16, 70372, Stuttgart</address>
+		</Placemark>
+		<Placemark>
+			<name>Herman-Löns-Weg</name>
+			<address>Herman-Löns-Weg, 8, 70619, Stuttgart</address>
+		</Placemark>
+		<Placemark>
+			<name>Konviktstraße</name>
+			<address>Konviktstraße, 21-23, 79098, Freiburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Ludwig-Lesser-Straße</name>
+			<address>Ludwig-Lesser-Straße, 3, 16761, Hennigsdorf</address>
+		</Placemark>
+		<Placemark>
+			<name>Schellenbergstraße</name>
+			<address>Schellenbergstraße, 15, 82110, Germering</address>
+		</Placemark>
+		<Placemark>
+			<name>Austraße</name>
+			<address>Austraße, 34, 86492, Egling</address>
+		</Placemark>
+		<Placemark>
+			<name>Gerhart-Hauptmann-Str.</name>
+			<address>Gerhart-Hauptmann-Str., 12, 76703, Kraichtal</address>
+		</Placemark>
+		<Placemark>
+			<name>St.-Joseph-Str.</name>
+			<address>St.-Joseph-Str., 20, 56068, Koblenz</address>
+		</Placemark>
+		<Placemark>
+			<name>Helene-Engelbrecht Straße</name>
+			<address>Helene-Engelbrecht Straße, 116, 38124, Braunschweig</address>
+		</Placemark>
+		<Placemark>
+			<name>Bahnhofstraße</name>
+			<address>Bahnhofstraße, 10, 99192, Nesse- Apfelstädt</address>
+		</Placemark>
+		<Placemark>
+			<name>Peter-Kreuder-Straße</name>
+			<address>Peter-Kreuder-Straße, 15, 81245, München</address>
+		</Placemark>
+		<Placemark>
+			<name>Flottbeker Drift</name>
+			<address>Flottbeker Drift, 42, 22607, Hamburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Neufeldstraße</name>
+			<address>Neufeldstraße, 24, 82256, Fürstenfeldbruck</address>
+		</Placemark>
+		<Placemark>
+			<name>Humboldt Str.</name>
+			<address>Humboldt Str., 30, 14193, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Amselweg</name>
+			<address>Amselweg, 1, 82110, Germering</address>
+		</Placemark>
+		<Placemark>
+			<name>Blumenstr.</name>
+			<address>Blumenstr., 15, 72658, Bempflingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Pinkowitz</name>
+			<address>Pinkowitz, 1, 01665, Kilpphausen</address>
+		</Placemark>
+		<Placemark>
+			<name>Wünsdorfer Straße</name>
+			<address>Wünsdorfer Straße, 113, 12307, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Hüpfelinstraße</name>
+			<address>Hüpfelinstraße, 6, 80939, München</address>
+		</Placemark>
+		<Placemark>
+			<name>Wannackerweg</name>
+			<address>Wannackerweg, 3, 76534, Baden Baden</address>
+		</Placemark>
+		<Placemark>
+			<name>Ingeborg-Kreßmann Straße</name>
+			<address>Ingeborg-Kreßmann Straße, 1a, 38518, Gifhorn</address>
+		</Placemark>
+		<Placemark>
+			<name>Franzosenkoppel</name>
+			<address>Franzosenkoppel, 73, 22547, Hamburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Münchinger Straße</name>
+			<address>Münchinger Straße, , 70439, Stuttgart</address>
+		</Placemark>
+		<Placemark>
+			<name>Rolandstraße</name>
+			<address>Rolandstraße, 83, 50677, Köln</address>
+		</Placemark>
+		<Placemark>
+			<name>Sperberstr.</name>
+			<address>Sperberstr., 33, 13505, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Schützenstraße</name>
+			<address>Schützenstraße, 5, 57392, Schmallenberg</address>
+		</Placemark>
+		<Placemark>
+			<name>Heidestraße</name>
+			<address>Heidestraße, 89, 60385, Frankfurt</address>
+		</Placemark>
+		<Placemark>
+			<name>Merheimer Straße</name>
+			<address>Merheimer Straße, 502, 50735, Köln</address>
+		</Placemark>
+		<Placemark>
+			<name>Franz-Lenders-Straße</name>
+			<address>Franz-Lenders-Straße, 20, 50226, Frechen</address>
+		</Placemark>
+		<Placemark>
+			<name>Spießstr.</name>
+			<address>Spießstr., 31, 90441, Nürnberg</address>
+		</Placemark>
+		<Placemark>
+			<name>Brüsseler Platz</name>
+			<address>Brüsseler Platz, 24, 50674, Köln</address>
+		</Placemark>
+		<Placemark>
+			<name>Möhlstraße</name>
+			<address>Möhlstraße, 25, 51069, Köln</address>
+		</Placemark>
+		<Placemark>
+			<name>Deglergasse</name>
+			<address>Deglergasse, 3a-3b, 82362, Weilheim in Oberbayern</address>
+		</Placemark>
+		<Placemark>
+			<name>Bergstraße</name>
+			<address>Bergstraße, 42, 14532, Stahnsdorf</address>
+		</Placemark>
+		<Placemark>
+			<name>Skladanowsky Straße</name>
+			<address>Skladanowsky Straße, 3, 13156, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Krankenhausstraße</name>
+			<address>Krankenhausstraße, 10-12-12a, 42555, Velbert</address>
+		</Placemark>
+		<Placemark>
+			<name>Bahnhofstraße</name>
+			<address>Bahnhofstraße, 41, 67149, Meckenheim</address>
+		</Placemark>
+		<Placemark>
+			<name>Friedrichstraße</name>
+			<address>Friedrichstraße, 5, 90522, Oberasbach</address>
+		</Placemark>
+		<Placemark>
+			<name>Dahlener Heide</name>
+			<address>Dahlener Heide, 30, 41179, Mönchengladbach</address>
+		</Placemark>
+		<Placemark>
+			<name>In der Dumpwies</name>
+			<address>In der Dumpwies, 28, 66839, Schmelz</address>
+		</Placemark>
+		<Placemark>
+			<name>Hauptstraße</name>
+			<address>Hauptstraße, 61, 69488, Birkenau</address>
+		</Placemark>
+		<Placemark>
+			<name>Wilhelm-Liebhaber-Straße</name>
+			<address>Wilhelm-Liebhaber-Straße, 27, 83607, Holzkirchen</address>
+		</Placemark>
+		<Placemark>
+			<name>Oberdorfstraße</name>
+			<address>Oberdorfstraße, 15a, 70567, Stuttgart</address>
+		</Placemark>
+		<Placemark>
+			<name>Achalmstr.</name>
+			<address>Achalmstr., 18, 70771, Leinfelden</address>
+		</Placemark>
+		<Placemark>
+			<name>Wittelsbacher Weg</name>
+			<address>Wittelsbacher Weg, 16, 86551, Aichach</address>
+		</Placemark>
+		<Placemark>
+			<name>Weißenburger Str.</name>
+			<address>Weißenburger Str., 49, 28211, Bremen</address>
+		</Placemark>
+		<Placemark>
+			<name>Wielandstraße</name>
+			<address>Wielandstraße, 25A, 12159, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Moosstraße</name>
+			<address>Moosstraße, 8, 83128, Halfing</address>
+		</Placemark>
+		<Placemark>
+			<name>Hauptstraße</name>
+			<address>Hauptstraße, 3, 73430, Obersontheim</address>
+		</Placemark>
+		<Placemark>
+			<name>Thormattenweg</name>
+			<address>Thormattenweg, 10, 79194, Gundelfingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Zähringerstraße</name>
+			<address>Zähringerstraße, 2, 79211, Denzlingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Missenharter Weg</name>
+			<address>Missenharter Weg, 34, 70839, Gerlingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Egerlandweg</name>
+			<address>Egerlandweg, 15, 70736, Fellbach</address>
+		</Placemark>
+		<Placemark>
+			<name>St.-Erentrudis-Straße</name>
+			<address>St.-Erentrudis-Straße, 16, 79112, Freiburg im Breisgau</address>
+		</Placemark>
+		<Placemark>
+			<name>Eichendorffstraße</name>
+			<address>Eichendorffstraße, 10, 95158, Kirchenlamitz</address>
+		</Placemark>
+		<Placemark>
+			<name>Seilerweg</name>
+			<address>Seilerweg, 20, 45527, Hattingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Papenstraße</name>
+			<address>Papenstraße, 135, 22089, Hamburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Stuttgarter Str.</name>
+			<address>Stuttgarter Str., 76, 74211, Leingarten</address>
+		</Placemark>
+		<Placemark>
+			<name>Rohrerstraße</name>
+			<address>Rohrerstraße, 105-107, 70771, Leinfelden</address>
+		</Placemark>
+		<Placemark>
+			<name>Effnerstr.</name>
+			<address>Effnerstr., 13, 81925, München</address>
+		</Placemark>
+		<Placemark>
+			<name>Effnerstr.</name>
+			<address>Effnerstr., 11, 81925, München</address>
+		</Placemark>
+		<Placemark>
+			<name>Keldenichstraße</name>
+			<address>Keldenichstraße, 71, 40625, Düsseldorf</address>
+		</Placemark>
+		<Placemark>
+			<name>Alter Hof</name>
+			<address>Alter Hof, 9, 38112, Braunschweig</address>
+		</Placemark>
+		<Placemark>
+			<name>Sperlingstr.</name>
+			<address>Sperlingstr., 8, 53881, Euskirchen</address>
+		</Placemark>
+		<Placemark>
+			<name>König-Heinrich-Weg</name>
+			<address>König-Heinrich-Weg, 68, 22459, Hamburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Unter den Linden</name>
+			<address>Unter den Linden, 7, 28876, Oyten</address>
+		</Placemark>
+		<Placemark>
+			<name>Mühlheimer Straße</name>
+			<address>Mühlheimer Straße, 15, 40239, Düsseldorf</address>
+		</Placemark>
+		<Placemark>
+			<name>Rubensstraße</name>
+			<address>Rubensstraße, 3, 71229, Leonberg</address>
+		</Placemark>
+		<Placemark>
+			<name>Marie Alexandra Straße</name>
+			<address>Marie Alexandra Straße, 64b, 76135, Karlsruhe</address>
+		</Placemark>
+		<Placemark>
+			<name>Begasstraße</name>
+			<address>Begasstraße, 2, 12157, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Schneiderstraße</name>
+			<address>Schneiderstraße, 33a, 33613, Bielefeld</address>
+		</Placemark>
+		<Placemark>
+			<name>Spanische Allee</name>
+			<address>Spanische Allee, 111, 14129, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Prechtlstraße</name>
+			<address>Prechtlstraße, 14, 84048, Mainburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Dahlener Straße</name>
+			<address>Dahlener Straße, 421, 41239, Mönchengladbach</address>
+		</Placemark>
+		<Placemark>
+			<name>Zum Gesselbusch</name>
+			<address>Zum Gesselbusch, 10, 37431, Bad Lauterberg</address>
+		</Placemark>
+		<Placemark>
+			<name>Jägerstraße</name>
+			<address>Jägerstraße, 35, 23774, Heiligenhafen</address>
+		</Placemark>
+		<Placemark>
+			<name>Altfelix Straße</name>
+			<address>Altfelix Straße, 14, 77933, Lahr</address>
+		</Placemark>
+		<Placemark>
+			<name>Hauffstraße</name>
+			<address>Hauffstraße, 6, 75391, Gechingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Mühlbergweg</name>
+			<address>Mühlbergweg, 5, 65344, Eltville</address>
+		</Placemark>
+		<Placemark>
+			<name>Hans Sachs Straße</name>
+			<address>Hans Sachs Straße, 1+3, 85521, Ottobrunn</address>
+		</Placemark>
+		<Placemark>
+			<name>König-Wilhelm Straße</name>
+			<address>König-Wilhelm Straße, 33, 88471, Laupheim</address>
+		</Placemark>
+		<Placemark>
+			<name>Kirschbergstraße</name>
+			<address>Kirschbergstraße, 63, 04155, Leipzig</address>
+		</Placemark>
+		<Placemark>
+			<name>Werneuchener Straße</name>
+			<address>Werneuchener Straße, 4a, 13055, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Hämmerlingstr.</name>
+			<address>Hämmerlingstr., 34, 12555, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Hainbuchenstr.</name>
+			<address>Hainbuchenstr., 32, 13465, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Alsbergstraße</name>
+			<address>Alsbergstraße, 31, 57518, Betzdorf</address>
+		</Placemark>
+		<Placemark>
+			<name>Hüetlin Straße</name>
+			<address>Hüetlin Straße, 13, 78462, Konstanz</address>
+		</Placemark>
+		<Placemark>
+			<name>Hammstraße</name>
+			<address>Hammstraße, 20, 80935, München</address>
+		</Placemark>
+		<Placemark>
+			<name>Gewerbestraße</name>
+			<address>Gewerbestraße, 46, 82211, Herrsching</address>
+		</Placemark>
+		<Placemark>
+			<name>Niendorfer Straße</name>
+			<address>Niendorfer Straße, 68, 22529, Hamburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Am Stiegelschlag</name>
+			<address>Am Stiegelschlag, 14, 60385, Frankfurt</address>
+		</Placemark>
+		<Placemark>
+			<name>Brettheimer Weg</name>
+			<address>Brettheimer Weg, 9, 70435, Stuttgart</address>
+		</Placemark>
+		<Placemark>
+			<name>Buchenstr.</name>
+			<address>Buchenstr., 40, 85716, Unterschleißheim</address>
+		</Placemark>
+		<Placemark>
+			<name>Maximilian-Kolbe-Straße</name>
+			<address>Maximilian-Kolbe-Straße, 13, 44793, Bochum</address>
+		</Placemark>
+		<Placemark>
+			<name>Kleestraße</name>
+			<address>Kleestraße, 1, 49492, Westerkappeln</address>
+		</Placemark>
+		<Placemark>
+			<name>Stauferstr.</name>
+			<address>Stauferstr., 1, 86842, Türkheim</address>
+		</Placemark>
+		<Placemark>
+			<name>Wiener Straße</name>
+			<address>Wiener Straße, 35A, 61381, Friedrichsdorf</address>
+		</Placemark>
+		<Placemark>
+			<name>Sybelstr.</name>
+			<address>Sybelstr., 59, 45145, Essen</address>
+		</Placemark>
+		<Placemark>
+			<name>Max-Ander-Straße</name>
+			<address>Max-Ander-Straße, 12, 85375, Neufahrn</address>
+		</Placemark>
+		<Placemark>
+			<name>Herderstraße</name>
+			<address>Herderstraße, 16, 06114, Halle</address>
+		</Placemark>
+		<Placemark>
+			<name>Dorfstraße</name>
+			<address>Dorfstraße, 5b, 79206, Breisach am Rhein</address>
+		</Placemark>
+		<Placemark>
+			<name>Glotter Pfad</name>
+			<address>Glotter Pfad, 5, 79194, Gundelfingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Hauptstraße</name>
+			<address>Hauptstraße, 13, 65346, Eltville</address>
+		</Placemark>
+		<Placemark>
+			<name>Garagen Erlenweg</name>
+			<address>Garagen Erlenweg, , 25469, Halstenbek</address>
+		</Placemark>
+		<Placemark>
+			<name>Beethovenstr.</name>
+			<address>Beethovenstr., 2, 71726, Benningen</address>
+		</Placemark>
+		<Placemark>
+			<name>Kreuznacher Str.</name>
+			<address>Kreuznacher Str., 24, 70372, Stuttgart - Bad Cannstatt</address>
+		</Placemark>
+		<Placemark>
+			<name>Degerstr.</name>
+			<address>Degerstr., 22, 40235, Düsseldorf</address>
+		</Placemark>
+		<Placemark>
+			<name>Badstr.</name>
+			<address>Badstr., 24, 74072, Heilbronn</address>
+		</Placemark>
+		<Placemark>
+			<name>Hörstenweg</name>
+			<address>Hörstenweg, 34, 13125, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Fohrenbühlstraße</name>
+			<address>Fohrenbühlstraße, 8, 71067, Sindelfingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Müllenhofweg</name>
+			<address>Müllenhofweg, 74, 22607, Hamburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Wehrstaudenstr.</name>
+			<address>Wehrstaudenstr., 47, 85757, Karlsfeld</address>
+		</Placemark>
+		<Placemark>
+			<name>Lerchesbergring</name>
+			<address>Lerchesbergring, 1, 60598, Frankfurt am Main</address>
+		</Placemark>
+		<Placemark>
+			<name>Klettenbergstraße</name>
+			<address>Klettenbergstraße, 1, 60322, Frankfurt am Main</address>
+		</Placemark>
+		<Placemark>
+			<name>Wilhelmstr.</name>
+			<address>Wilhelmstr., 1, 76530, Baden-Baden</address>
+		</Placemark>
+		<Placemark>
+			<name>Körnerstraße</name>
+			<address>Körnerstraße, 12, 68804, Altlussheim</address>
+		</Placemark>
+		<Placemark>
+			<name>Deutz-Mülheimer-Str.</name>
+			<address>Deutz-Mülheimer-Str., 254, 51063, Köln</address>
+		</Placemark>
+		<Placemark>
+			<name>Leonberger Str.</name>
+			<address>Leonberger Str., 19, 71272, Renningen</address>
+		</Placemark>
+		<Placemark>
+			<name>Maronenring</name>
+			<address>Maronenring, 1b, 14822, Borkheide</address>
+		</Placemark>
+		<Placemark>
+			<name>Im Kirchental</name>
+			<address>Im Kirchental, 11, 78315, Radolfzell</address>
+		</Placemark>
+		<Placemark>
+			<name>Moltkestraße</name>
+			<address>Moltkestraße, 15, 76133, Karlsruhe</address>
+		</Placemark>
+		<Placemark>
+			<name>Boschstraße</name>
+			<address>Boschstraße, 71, 40589, Düsseldorf</address>
+		</Placemark>
+		<Placemark>
+			<name>Zoppoter Straße</name>
+			<address>Zoppoter Straße, 11, 81927, München</address>
+		</Placemark>
+		<Placemark>
+			<name>Karlstrasse</name>
+			<address>Karlstrasse, 17, 73266, Bissingen an der Teck</address>
+		</Placemark>
+		<Placemark>
+			<name>Rönskenstraße</name>
+			<address>Rönskenstraße, 71A, 46562, Voerde</address>
+		</Placemark>
+		<Placemark>
+			<name>Tültorstr.</name>
+			<address>Tültorstr., 26, 85276, Pfaffenhofen an der Ilm</address>
+		</Placemark>
+		<Placemark>
+			<name>Helgolandweg</name>
+			<address>Helgolandweg, 8, 33334, Gütersloh</address>
+		</Placemark>
+		<Placemark>
+			<name>Obermatten</name>
+			<address>Obermatten, 4, 79194, Gundelfingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Benzweg</name>
+			<address>Benzweg, 14-16, 64293, Darmstadt</address>
+		</Placemark>
+		<Placemark>
+			<name>Heinrich von Stephan Strasse</name>
+			<address>Heinrich von Stephan Strasse, 105, 63150, Heusenstamm</address>
+		</Placemark>
+		<Placemark>
+			<name>Lothar-Bucher-Straße</name>
+			<address>Lothar-Bucher-Straße, 19, 12157, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Goldregenweg</name>
+			<address>Goldregenweg, 6, 70794, Filderstadt</address>
+		</Placemark>
+		<Placemark>
+			<name>Behringstraße</name>
+			<address>Behringstraße, 7, 12437, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Alter Postweg</name>
+			<address>Alter Postweg, 275+279, 28207, Bremen</address>
+		</Placemark>
+		<Placemark>
+			<name>Plettenbergstr.</name>
+			<address>Plettenbergstr., 30, 70186, Stuttgart</address>
+		</Placemark>
+		<Placemark>
+			<name>Am Reichenbächle</name>
+			<address>Am Reichenbächle, 1, 79350, Sexau</address>
+		</Placemark>
+		<Placemark>
+			<name>Alte Poststr.</name>
+			<address>Alte Poststr., 56, 63801, Kleinostheim</address>
+		</Placemark>
+		<Placemark>
+			<name>Vogelsanger Straße</name>
+			<address>Vogelsanger Straße, 417, 50829, Köln</address>
+		</Placemark>
+		<Placemark>
+			<name>Dinkelweg</name>
+			<address>Dinkelweg, 13/15, 74523, Schwäbisch Hall</address>
+		</Placemark>
+		<Placemark>
+			<name>Oberamteistrasse</name>
+			<address>Oberamteistrasse, 5, 74348, Lauffen</address>
+		</Placemark>
+		<Placemark>
+			<name>Ernst-Moritz-Arndt-Straße</name>
+			<address>Ernst-Moritz-Arndt-Straße, 5, 74722, Buchen</address>
+		</Placemark>
+		<Placemark>
+			<name>Nelkenweg</name>
+			<address>Nelkenweg, 8, 74369, Löchgau</address>
+		</Placemark>
+		<Placemark>
+			<name>Kalkofen</name>
+			<address>Kalkofen, 2, 78224, Umkirch</address>
+		</Placemark>
+		<Placemark>
+			<name>Kupferbergstr.</name>
+			<address>Kupferbergstr., 54, 67292, Kirchheimbolanden</address>
+		</Placemark>
+		<Placemark>
+			<name>Hintere Str.</name>
+			<address>Hintere Str., 13, 71263, Weil der Stadt</address>
+		</Placemark>
+		<Placemark>
+			<name>Wendelsteinstraße</name>
+			<address>Wendelsteinstraße, 8a, 83052, Bruckmühl</address>
+		</Placemark>
+		<Placemark>
+			<name>Scheidterstrasse</name>
+			<address>Scheidterstrasse, 59, 66123, Saarbrücken</address>
+		</Placemark>
+		<Placemark>
+			<name>Am Hang</name>
+			<address>Am Hang, 9, 91315, Höchstadt</address>
+		</Placemark>
+		<Placemark>
+			<name>Buchenweg</name>
+			<address>Buchenweg, 4, 82194, Gröbenzell</address>
+		</Placemark>
+		<Placemark>
+			<name>Hohlstraße</name>
+			<address>Hohlstraße, 5, 76275, Ettlingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Asternstraße</name>
+			<address>Asternstraße, 12, 30167, Hannover</address>
+		</Placemark>
+		<Placemark>
+			<name>Lottumstrasse</name>
+			<address>Lottumstrasse, 2, 10119, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Wolfershofen</name>
+			<address>Wolfershofen, 10, 88178, Heimenkirch</address>
+		</Placemark>
+		<Placemark>
+			<name>Hartfeldstrasse</name>
+			<address>Hartfeldstrasse, 66, 75417, Mühläcker</address>
+		</Placemark>
+		<Placemark>
+			<name>Ludwigstraße</name>
+			<address>Ludwigstraße, 70a, 90763, Fürth</address>
+		</Placemark>
+		<Placemark>
+			<name>Kühtrieb</name>
+			<address>Kühtrieb, 11, 63853, Mömlingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Hermann-Lange-Straße</name>
+			<address>Hermann-Lange-Straße, 2, 28279, Bremen</address>
+		</Placemark>
+		<Placemark>
+			<name>Sudetenstraße</name>
+			<address>Sudetenstraße, 6, 71686, Remseck</address>
+		</Placemark>
+		<Placemark>
+			<name>Im Rusch</name>
+			<address>Im Rusch, 24, 27726, Worpswede</address>
+		</Placemark>
+		<Placemark>
+			<name>Tannehof</name>
+			<address>Tannehof, 134, 22397, Hamburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Wachtelweg</name>
+			<address>Wachtelweg, 2, 65719, Hofheim</address>
+		</Placemark>
+		<Placemark>
+			<name>Friedenstrasse</name>
+			<address>Friedenstrasse, 5, 30175, Hannover</address>
+		</Placemark>
+		<Placemark>
+			<name>Unnastraße</name>
+			<address>Unnastraße, 19, 20253, Hamburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Indrastraße</name>
+			<address>Indrastraße, 11, 13089, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Filderhauptstraße</name>
+			<address>Filderhauptstraße, 27, 70599, Stuttgart</address>
+		</Placemark>
+		<Placemark>
+			<name>Lechlweg</name>
+			<address>Lechlweg, 2, 83209, Prien am Chiemsee</address>
+		</Placemark>
+		<Placemark>
+			<name>Dachshofstraße</name>
+			<address>Dachshofstraße, 2a, 81249, München</address>
+		</Placemark>
+		<Placemark>
+			<name>Sarweystraße</name>
+			<address>Sarweystraße, 40-76, 70191, Stuttgart</address>
+		</Placemark>
+		<Placemark>
+			<name>Nahestr.</name>
+			<address>Nahestr., 2, 64560, Riedstadt</address>
+		</Placemark>
+		<Placemark>
+			<name>Friedhofstrasse</name>
+			<address>Friedhofstrasse, 6, 72661, Grafenberg</address>
+		</Placemark>
+		<Placemark>
+			<name>Karoxbosteler Chaussee</name>
+			<address>Karoxbosteler Chaussee, 65, 21218, Seevetal</address>
+		</Placemark>
+		<Placemark>
+			<name>Reutherstraße</name>
+			<address>Reutherstraße, 4, 91301, Forchheim</address>
+		</Placemark>
+		<Placemark>
+			<name>Bergstraße</name>
+			<address>Bergstraße, 14a, 82152, Krailling</address>
+		</Placemark>
+		<Placemark>
+			<name>Bramfelder Weg</name>
+			<address>Bramfelder Weg, 99, 22159, Hamburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Ole Wisch</name>
+			<address>Ole Wisch, 23-29, 21244, Buchholz in der Nordheide</address>
+		</Placemark>
+		<Placemark>
+			<name>Hasenbergsteige</name>
+			<address>Hasenbergsteige, 90, 70197, Stuttgart</address>
+		</Placemark>
+		<Placemark>
+			<name>Westerwikstraße</name>
+			<address>Westerwikstraße, 1, 44379, Dortmund</address>
+		</Placemark>
+		<Placemark>
+			<name>Hagendeel</name>
+			<address>Hagendeel, 69, 22529, Hamburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Huchenstraße</name>
+			<address>Huchenstraße, 54, 81825, München</address>
+		</Placemark>
+		<Placemark>
+			<name>Wilhelm-Enssle-Strasse</name>
+			<address>Wilhelm-Enssle-Strasse, 68, 73630, Remshalden</address>
+		</Placemark>
+		<Placemark>
+			<name>Lindenweg</name>
+			<address>Lindenweg, 9, 89197, Weidenstädten</address>
+		</Placemark>
+		<Placemark>
+			<name>In den</name>
+			<address>In den, Grundwiesen, 73266, Bissingen an der Teck</address>
+		</Placemark>
+		<Placemark>
+			<name>Schönauer Straße</name>
+			<address>Schönauer Straße, 12B, 70569, Stuttgart</address>
+		</Placemark>
+		<Placemark>
+			<name>Natalie-von-Harder-Straße</name>
+			<address>Natalie-von-Harder-Straße, 11, 55218, Ingelheim am Rhein</address>
+		</Placemark>
+		<Placemark>
+			<name>Herrendienstweg</name>
+			<address>Herrendienstweg, 106, 32120, Hiddenhausen</address>
+		</Placemark>
+		<Placemark>
+			<name>St.-Jakob-Straße</name>
+			<address>St.-Jakob-Straße, 19, 89233, Neu-Ulm</address>
+		</Placemark>
+		<Placemark>
+			<name>Gotenstraße</name>
+			<address>Gotenstraße, 78, 65929, Frankfurt am Main</address>
+		</Placemark>
+		<Placemark>
+			<name>Lanzstraße</name>
+			<address>Lanzstraße, 13, 65193, Wiesbaden</address>
+		</Placemark>
+		<Placemark>
+			<name>Wacholderweg</name>
+			<address>Wacholderweg, 2,4,6,8,10, 53721, Siegburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Winzerstraße</name>
+			<address>Winzerstraße, 25, 79588, Efringen-Kirchen</address>
+		</Placemark>
+		<Placemark>
+			<name>An der Bismarckschule</name>
+			<address>An der Bismarckschule, 8c, 30173, Hannover</address>
+		</Placemark>
+		<Placemark>
+			<name>Hauptstraße</name>
+			<address>Hauptstraße, 65/2, 70771, Leinfelden-Echterdingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Am Berg</name>
+			<address>Am Berg, 5, 18059, Papendorf</address>
+		</Placemark>
+		<Placemark>
+			<name>Trögelweg</name>
+			<address>Trögelweg, 10, 04289, Leipzig</address>
+		</Placemark>
+		<Placemark>
+			<name>Weißenburgstraße</name>
+			<address>Weißenburgstraße, 9, 93055, Regensburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Im Winterfeld</name>
+			<address>Im Winterfeld, 9, 38321, Denkte</address>
+		</Placemark>
+		<Placemark>
+			<name>Mühlau</name>
+			<address>Mühlau, 2, 83714, Miesbach</address>
+		</Placemark>
+		<Placemark>
+			<name>Stüdlstraße</name>
+			<address>Stüdlstraße, 23, 80995, München</address>
+		</Placemark>
+		<Placemark>
+			<name>Fliederweg</name>
+			<address>Fliederweg, 10, 78647, Trossingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Conradstraße</name>
+			<address>Conradstraße, 27, 69198, Schriesheim</address>
+		</Placemark>
+		<Placemark>
+			<name>Düsseldorfer Straße</name>
+			<address>Düsseldorfer Straße, 88, 47051, Duisburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Herbststraße</name>
+			<address>Herbststraße, 20, 13409, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Ludwigshöherstr.</name>
+			<address>Ludwigshöherstr., 39a, 81479, München</address>
+		</Placemark>
+		<Placemark>
+			<name>Zum Ritzhagen</name>
+			<address>Zum Ritzhagen, 10b, 34508, Willingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Näherstiller Straße</name>
+			<address>Näherstiller Straße, 33, 98574, Schmalkalden</address>
+		</Placemark>
+		<Placemark>
+			<name>Fritz-von-Graevenitz-Str.</name>
+			<address>Fritz-von-Graevenitz-Str., 8, 70839, Gerlingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Lohkampstraße</name>
+			<address>Lohkampstraße, 275+277, 22523, Hamburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Hofgasse</name>
+			<address>Hofgasse, 26, 89312, Günzburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Gemingstraße</name>
+			<address>Gemingstraße, 24, 81929, München</address>
+		</Placemark>
+		<Placemark>
+			<name>Otto-Weddigen-Str.</name>
+			<address>Otto-Weddigen-Str., 30, 46145, Oberhausen</address>
+		</Placemark>
+		<Placemark>
+			<name>J2</name>
+			<address>J2, 8, 68159, Mannheim</address>
+		</Placemark>
+		<Placemark>
+			<name>Ehrlichstraße</name>
+			<address>Ehrlichstraße, 36, 10318, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Lerchenweg</name>
+			<address>Lerchenweg, 20, 71032, Böblingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Banngartenstraße</name>
+			<address>Banngartenstraße, 19a, 69207, Sandhausen</address>
+		</Placemark>
+		<Placemark>
+			<name>Naheweg</name>
+			<address>Naheweg, 9, 53347, Alfter</address>
+		</Placemark>
+		<Placemark>
+			<name>Sophie-Scholl-Straße</name>
+			<address>Sophie-Scholl-Straße, 57, 68623, Lampertsheim</address>
+		</Placemark>
+		<Placemark>
+			<name>Ludwig-Erhard Straße</name>
+			<address>Ludwig-Erhard Straße, 26, 41564, Kaarst</address>
+		</Placemark>
+		<Placemark>
+			<name>Friedrich-Ebert-Straße</name>
+			<address>Friedrich-Ebert-Straße, 35, 30459, Hannover</address>
+		</Placemark>
+		<Placemark>
+			<name>Am Nesseufer</name>
+			<address>Am Nesseufer, 36, 26789, Leer</address>
+		</Placemark>
+		<Placemark>
+			<name>Adlerstraße</name>
+			<address>Adlerstraße, 50, 70199, Stuttgart</address>
+		</Placemark>
+		<Placemark>
+			<name>Stäblistr.</name>
+			<address>Stäblistr., 17-17b, 81477, München</address>
+		</Placemark>
+		<Placemark>
+			<name>Portastraße</name>
+			<address>Portastraße, 6A, 32457, Porta Westfalica</address>
+		</Placemark>
+		<Placemark>
+			<name>Rotkäppchenstraße</name>
+			<address>Rotkäppchenstraße, 61A, 81739, München</address>
+		</Placemark>
+		<Placemark>
+			<name>Schillerstraße</name>
+			<address>Schillerstraße, 20, 85368, München</address>
+		</Placemark>
+		<Placemark>
+			<name>Sandleithe</name>
+			<address>Sandleithe, 18, 90768, Fürth</address>
+		</Placemark>
+		<Placemark>
+			<name>Klöckner Str.</name>
+			<address>Klöckner Str., 8, 30926, Seelze</address>
+		</Placemark>
+		<Placemark>
+			<name>Corneliusstr.</name>
+			<address>Corneliusstr., 110, 40215, Düsseldorf</address>
+		</Placemark>
+		<Placemark>
+			<name>Preußenstr.</name>
+			<address>Preußenstr., 111, 41464, Neuss</address>
+		</Placemark>
+		<Placemark>
+			<name>Kiebitzgrund</name>
+			<address>Kiebitzgrund, 18, 25421, Pinneberg</address>
+		</Placemark>
+		<Placemark>
+			<name>Martin-Luther-Straße</name>
+			<address>Martin-Luther-Straße, 8, 18209, Bad Doberan</address>
+		</Placemark>
+		<Placemark>
+			<name>Bergstraße</name>
+			<address>Bergstraße, 40, 71686, Remseck am Neckar</address>
+		</Placemark>
+		<Placemark>
+			<name>Scheuerlenstraße</name>
+			<address>Scheuerlenstraße, 22a, 79822, Titisee Neustadt</address>
+		</Placemark>
+		<Placemark>
+			<name>Koburger Straße</name>
+			<address>Koburger Straße, 2, 10825, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Sonnenau</name>
+			<address>Sonnenau, 5, 56132, Dausenau</address>
+		</Placemark>
+		<Placemark>
+			<name>Schöbergstraße</name>
+			<address>Schöbergstraße, 33, 65199, Wiesbaden</address>
+		</Placemark>
+		<Placemark>
+			<name>Frühlingstr.</name>
+			<address>Frühlingstr., 8, 93128, Regenstauf</address>
+		</Placemark>
+		<Placemark>
+			<name>Rennbachweg</name>
+			<address>Rennbachweg, 3, 75181, Pforzheim</address>
+		</Placemark>
+		<Placemark>
+			<name>Oldesloer Str.</name>
+			<address>Oldesloer Str., 51, 22457, Hamburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Waldstraße</name>
+			<address>Waldstraße, 3, 53773, Hennef</address>
+		</Placemark>
+		<Placemark>
+			<name>Trautenauer Weg</name>
+			<address>Trautenauer Weg, 6, 84478, Waldkraiburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Danzigstr.</name>
+			<address>Danzigstr., 18, 38268, Lengede</address>
+		</Placemark>
+		<Placemark>
+			<name>Hofener-Straße</name>
+			<address>Hofener-Straße, 90, 70372, Stuttgart</address>
+		</Placemark>
+		<Placemark>
+			<name>Dietersdorferstr.</name>
+			<address>Dietersdorferstr., 40, 91126, Rednitzhembach</address>
+		</Placemark>
+		<Placemark>
+			<name>Parkstr.</name>
+			<address>Parkstr., 30, 66538, Neunkirchen</address>
+		</Placemark>
+		<Placemark>
+			<name>Atzelbergstraße</name>
+			<address>Atzelbergstraße, 92, 60389, Frankfurt am Main</address>
+		</Placemark>
+		<Placemark>
+			<name>Am Gehölz</name>
+			<address>Am Gehölz, 16, 14480, Potsdam</address>
+		</Placemark>
+		<Placemark>
+			<name>Große Straße</name>
+			<address>Große Straße, 30, 38116, Braunschweig</address>
+		</Placemark>
+		<Placemark>
+			<name>Riedhäuserhofstraße</name>
+			<address>Riedhäuserhofstraße, 17, 64560, Riedstadt</address>
+		</Placemark>
+		<Placemark>
+			<name>Bieberer Str.</name>
+			<address>Bieberer Str., 311, 63071, Offenbach</address>
+		</Placemark>
+		<Placemark>
+			<name>Johannes-Niemeyer-Weg</name>
+			<address>Johannes-Niemeyer-Weg, 19, 14109, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Unterstr.</name>
+			<address>Unterstr., 150, 53859, Niederkassel</address>
+		</Placemark>
+		<Placemark>
+			<name>Everslohstr.</name>
+			<address>Everslohstr., 77, 46145, Oberhausen</address>
+		</Placemark>
+		<Placemark>
+			<name>Fuhrmannsgasse</name>
+			<address>Fuhrmannsgasse, 2, 50374, Erftstadt</address>
+		</Placemark>
+		<Placemark>
+			<name>Roseggerweg</name>
+			<address>Roseggerweg, 4, 71696, Möglingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Jaguarstieg</name>
+			<address>Jaguarstieg, 26, 22527, Hamburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Buch</name>
+			<address>Buch, 2, 94166, Stubenberg</address>
+		</Placemark>
+		<Placemark>
+			<name>Berlinerheerstr.</name>
+			<address>Berlinerheerstr., 20, 38104, Braunschweig</address>
+		</Placemark>
+		<Placemark>
+			<name>Konrad-Adenauer-Straße</name>
+			<address>Konrad-Adenauer-Straße, 40, 34132, Kassel</address>
+		</Placemark>
+		<Placemark>
+			<name>Grüner Weg</name>
+			<address>Grüner Weg, 79, 58644, Iserlohn</address>
+		</Placemark>
+		<Placemark>
+			<name>Melanchthonstraße</name>
+			<address>Melanchthonstraße, 17, 70374, Stuttgart</address>
+		</Placemark>
+		<Placemark>
+			<name>Teckstraße</name>
+			<address>Teckstraße, 4, 71679, Asperg</address>
+		</Placemark>
+		<Placemark>
+			<name>Niemeierstraße</name>
+			<address>Niemeierstraße, 15, 30449, Hannover</address>
+		</Placemark>
+		<Placemark>
+			<name>Bellermannstr.</name>
+			<address>Bellermannstr., 95, 13357, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Meisenweg</name>
+			<address>Meisenweg, 1, 70794, Filderstadt</address>
+		</Placemark>
+		<Placemark>
+			<name>Alpspitzstr.</name>
+			<address>Alpspitzstr., 1a-c, 85591, Vaterstetten</address>
+		</Placemark>
+		<Placemark>
+			<name>Neuenbergstr.</name>
+			<address>Neuenbergstr., 4b, 91301, Forcheim</address>
+		</Placemark>
+		<Placemark>
+			<name>Schumann Straße</name>
+			<address>Schumann Straße, 2-42, 33803, Steinhagen</address>
+		</Placemark>
+		<Placemark>
+			<name>Rheinstraße</name>
+			<address>Rheinstraße, 53A, 76479, Steinmauern</address>
+		</Placemark>
+		<Placemark>
+			<name>Am Lahbusch</name>
+			<address>Am Lahbusch, 2, 29556, Suderburg-Holxen</address>
+		</Placemark>
+		<Placemark>
+			<name>Schwabstr.</name>
+			<address>Schwabstr., 59, 71032, Böblingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Zum Paradies</name>
+			<address>Zum Paradies, 4, 34516, Vöhl</address>
+		</Placemark>
+		<Placemark>
+			<name>Münzstraße</name>
+			<address>Münzstraße, 6a, 33602, Bielefeld</address>
+		</Placemark>
+		<Placemark>
+			<name>Borbecker Straße</name>
+			<address>Borbecker Straße, 122, 45475, Mülheim a. d. R.</address>
+		</Placemark>
+		<Placemark>
+			<name>Friedrich-Blink-Straße</name>
+			<address>Friedrich-Blink-Straße, 2, 74925, Epfenbach</address>
+		</Placemark>
+		<Placemark>
+			<name>Ringstraße</name>
+			<address>Ringstraße, 9, 63695, Glauburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Jahnstraße</name>
+			<address>Jahnstraße, 10, 64546, Mörfelden-Walldorf</address>
+		</Placemark>
+		<Placemark>
+			<name>Beilngrieser Straße</name>
+			<address>Beilngrieser Straße, 149, 85055, Ingolstadt</address>
+		</Placemark>
+		<Placemark>
+			<name>Dresdner Str.</name>
+			<address>Dresdner Str., 18, 63110, Rodgau</address>
+		</Placemark>
+		<Placemark>
+			<name>Choriner Str.</name>
+			<address>Choriner Str., 13, 16248, Niederfinow</address>
+		</Placemark>
+		<Placemark>
+			<name>Mahlower Straße</name>
+			<address>Mahlower Straße, 229, 14513, Teltow</address>
+		</Placemark>
+		<Placemark>
+			<name>Waldstraße</name>
+			<address>Waldstraße, 40, 15370, Petershagen</address>
+		</Placemark>
+		<Placemark>
+			<name>Neckarstraße</name>
+			<address>Neckarstraße, 28, 68259, Mannheim</address>
+		</Placemark>
+		<Placemark>
+			<name>Hohensalzerstraße</name>
+			<address>Hohensalzerstraße, 24, 81929, München</address>
+		</Placemark>
+		<Placemark>
+			<name>Prof.-Dr.-Schemann-Weg</name>
+			<address>Prof.-Dr.-Schemann-Weg, 37, 58091, Hagen</address>
+		</Placemark>
+		<Placemark>
+			<name>Berchetstraße</name>
+			<address>Berchetstraße, 14, 82275, Emmering</address>
+		</Placemark>
+		<Placemark>
+			<name>Westendstr.</name>
+			<address>Westendstr., 13, 90427, Nürnberg</address>
+		</Placemark>
+		<Placemark>
+			<name>Birkenstr.</name>
+			<address>Birkenstr., 29, 66119, Saarbrücken</address>
+		</Placemark>
+		<Placemark>
+			<name>Kuthsweg</name>
+			<address>Kuthsweg, 31, 40231, Düsseldorf</address>
+		</Placemark>
+		<Placemark>
+			<name>Gagernring</name>
+			<address>Gagernring, 110, 65779, Kelkheim</address>
+		</Placemark>
+		<Placemark>
+			<name>Burgallee</name>
+			<address>Burgallee, 7, 63454, Hanau</address>
+		</Placemark>
+		<Placemark>
+			<name>Römerstr.</name>
+			<address>Römerstr., 91, 74078, Heilbronn</address>
+		</Placemark>
+		<Placemark>
+			<name>Vorgebirgsstraße</name>
+			<address>Vorgebirgsstraße, 48, 53913, Swisttal</address>
+		</Placemark>
+		<Placemark>
+			<name>Hohe Eiche</name>
+			<address>Hohe Eiche, 49, 44892, Bochum</address>
+		</Placemark>
+		<Placemark>
+			<name>Hauptstraße</name>
+			<address>Hauptstraße, 346, 30826, Garbsen</address>
+		</Placemark>
+		<Placemark>
+			<name>Badenberg</name>
+			<address>Badenberg, 38, 87499, Wildpoldsried</address>
+		</Placemark>
+		<Placemark>
+			<name>Stephanstraße</name>
+			<address>Stephanstraße, 62a, 22047, Hamburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Avelsbacherstr</name>
+			<address>Avelsbacherstr, 25, 54295, Trier</address>
+		</Placemark>
+		<Placemark>
+			<name>Karlsruher Str.</name>
+			<address>Karlsruher Str., 16, 76307, Karlsbad</address>
+		</Placemark>
+		<Placemark>
+			<name>Zur Lochmühle</name>
+			<address>Zur Lochmühle, 10, 88634, Herdwangen-Schönach</address>
+		</Placemark>
+		<Placemark>
+			<name>Im Hupfuf</name>
+			<address>Im Hupfuf, 23, 79224, Umkirch</address>
+		</Placemark>
+		<Placemark>
+			<name>Windthorst</name>
+			<address>Windthorst, 9, 65239, Hochheim</address>
+		</Placemark>
+		<Placemark>
+			<name>Böhmestr.</name>
+			<address>Böhmestr., 5, 40474, Düsseldorf</address>
+		</Placemark>
+		<Placemark>
+			<name>Am Bellenbaum</name>
+			<address>Am Bellenbaum, 10, 64846, Großzimmern</address>
+		</Placemark>
+		<Placemark>
+			<name>Angerstraße</name>
+			<address>Angerstraße, 18, 82194, Gröbenzell</address>
+		</Placemark>
+		<Placemark>
+			<name>Schmeddingstr.</name>
+			<address>Schmeddingstr., 34, 48161, Münster</address>
+		</Placemark>
+		<Placemark>
+			<name>Bosauer Str.</name>
+			<address>Bosauer Str., 12, 23823, Seedorf</address>
+		</Placemark>
+		<Placemark>
+			<name>Waidstraße</name>
+			<address>Waidstraße, 15, 79241, Ihringen</address>
+		</Placemark>
+		<Placemark>
+			<name>Würmtalstr.</name>
+			<address>Würmtalstr., 182, 81375, München</address>
+		</Placemark>
+		<Placemark>
+			<name>Gutenbergstr.</name>
+			<address>Gutenbergstr., 20, 67227, Frankenthal</address>
+		</Placemark>
+		<Placemark>
+			<name>Lenglerner Straße</name>
+			<address>Lenglerner Straße, 64, 37079, Göttingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Ludwigstr.</name>
+			<address>Ludwigstr., 36A, 63667, Nidda</address>
+		</Placemark>
+		<Placemark>
+			<name>Hagellochstr.</name>
+			<address>Hagellochstr., 74a, 67063, Ludwigshafen am Rhein</address>
+		</Placemark>
+		<Placemark>
+			<name>Paul-Essers-Straße</name>
+			<address>Paul-Essers-Straße, 13, 45468, Mülheim</address>
+		</Placemark>
+		<Placemark>
+			<name>Schlossberg</name>
+			<address>Schlossberg, 37, 69117, Heidelberg</address>
+		</Placemark>
+		<Placemark>
+			<name>Mülbergerstraße</name>
+			<address>Mülbergerstraße, 168, 73728, Esslingen</address>
+		</Placemark>
+		<Placemark>
+			<name>Louis-Mannstaedt-Straße</name>
+			<address>Louis-Mannstaedt-Straße, 37, 53840, Troisdorf</address>
+		</Placemark>
+		<Placemark>
+			<name>Schloßstraße</name>
+			<address>Schloßstraße, 58, 77971, Kippenheim</address>
+		</Placemark>
+		<Placemark>
+			<name>Bergstraße</name>
+			<address>Bergstraße, 30, 65618, Eisenbach</address>
+		</Placemark>
+		<Placemark>
+			<name>An der Wildbahn</name>
+			<address>An der Wildbahn, 72, 13503, Berlin</address>
+		</Placemark>
+		<Placemark>
+			<name>Schubertweg</name>
+			<address>Schubertweg, 19, 16727, Velten</address>
+		</Placemark>
+		<Placemark>
+			<name>Ewaldstraße</name>
+			<address>Ewaldstraße, 123, 45699, Herten</address>
+		</Placemark>
+		<Placemark>
+			<name>Stephanstr.</name>
+			<address>Stephanstr., 24, 71638, Ludwigsburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Gudrunstraße</name>
+			<address>Gudrunstraße, 106, 22559, Hamburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Rübenstraße</name>
+			<address>Rübenstraße, 3, 42289, Wuppertal</address>
+		</Placemark>
+		<Placemark>
+			<name>Wasserstraße</name>
+			<address>Wasserstraße, 9, 73054, Eislingen/Fils</address>
+		</Placemark>
+		<Placemark>
+			<name>Kurt-Georg-Kiesinger-Allee</name>
+			<address>Kurt-Georg-Kiesinger-Allee, 6, 28279, Bremen</address>
+		</Placemark>
+		<Placemark>
+			<name>Paul-Klee-Straße</name>
+			<address>Paul-Klee-Straße, 42, 99085, Erfurt</address>
+		</Placemark>
+		<Placemark>
+			<name>Hauptstraße</name>
+			<address>Hauptstraße, 61, 68526, Ladenburg</address>
+		</Placemark>
+		<Placemark>
+			<name>Pienzenauerstraße</name>
+			<address>Pienzenauerstraße, 70, 81925, München</address>
+		</Placemark>
+	</Document>
+</kml>
