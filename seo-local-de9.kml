@@ -1,0 +1,6748 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+	<Document>
+		<name>Adresses</name>
+		<description>Liste des adresses pour conversion en coordonnées GPS</description>
+		<Placemark>
+			<name>Magdeburger Str.</name>
+			<address>Magdeburger Str., 30, 74206, Neuenstadt am Kocher</address>
+			<Point>
+				<coordinates>9.3344037,49.2301975,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kurt-Georg-Kiesinger-Allee</name>
+			<address>Kurt-Georg-Kiesinger-Allee, 6, 28279, Bremen</address>
+			<Point>
+				<coordinates>8.835834,53.0328574,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Langstraße</name>
+			<address>Langstraße, 8, 63075, Offenbach am Main</address>
+			<Point>
+				<coordinates>8.78534,50.11877,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Burckhardtstraße</name>
+			<address>Burckhardtstraße, 40, 70374, Stuttgart</address>
+			<Point>
+				<coordinates>9.2300756,48.8114402,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Georg-Schwarz-Straße</name>
+			<address>Georg-Schwarz-Straße, 200, 04179, Leipzig</address>
+			<Point>
+				<coordinates>12.3067021,51.3513688,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hintere G.</name>
+			<address>Hintere G., 24, 71065, Sindelfingen</address>
+			<Point>
+				<coordinates>8.9992623,48.7097705,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bantschowstraße</name>
+			<address>Bantschowstraße, 35, 22391, Hamburg</address>
+			<Point>
+				<coordinates>10.0627375,53.6375301,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Austr.</name>
+			<address>Austr., 3, 70376, Stuttgart</address>
+			<Point>
+				<coordinates>9.2261524,48.8205254,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Luckenstraße</name>
+			<address>Luckenstraße, 28, 70794, Filderstadt</address>
+			<Point>
+				<coordinates>9.2180413,48.6536474,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sebastianstraße</name>
+			<address>Sebastianstraße, 121, 50735, Köln</address>
+			<Point>
+				<coordinates>6.9612466,50.9880881,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Essener Str.</name>
+			<address>Essener Str., 172, 45529, Hattingen</address>
+			<Point>
+				<coordinates>7.1172045,51.3964133,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Starnberger Str.</name>
+			<address>Starnberger Str., 62, 82069, Hohenschäftlarn</address>
+			<Point>
+				<coordinates>11.4489735,47.9916043,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hofstraße</name>
+			<address>Hofstraße, 24, 68782, Brühl</address>
+			<Point>
+				<coordinates>8.517632800000001,49.4094899,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mahirstraße</name>
+			<address>Mahirstraße, 11, 81925, München</address>
+			<Point>
+				<coordinates>11.616306,48.1552829,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Agricolastraße</name>
+			<address>Agricolastraße, 6, 85247, Schwabhausen</address>
+			<Point>
+				<coordinates>11.3609374,48.2999657,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Steendammswisch</name>
+			<address>Steendammswisch,  57a, 22459, Hamburg</address>
+			<Point>
+				<coordinates>9.9395127,53.6293474,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wormser Str.</name>
+			<address>Wormser Str., 49A, 67583, Guntersblum</address>
+			<Point>
+				<coordinates>8.3516019,49.7900579,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Eppsteiner Str.</name>
+			<address>Eppsteiner Str., 2, 65439, Flörsheim am Main</address>
+			<Point>
+				<coordinates>8.426836400000001,50.0178571,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lindenstraße</name>
+			<address>Lindenstraße, 11, 81545, München</address>
+			<Point>
+				<coordinates>11.556397,48.093731,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Saseler</name>
+			<address>Saseler, Chaussee, 22393, Wandsbek</address>
+			<Point>
+				<coordinates>10.1022534,53.6472652,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bahnhofstraße</name>
+			<address>Bahnhofstraße, 46, 53347, Alfter</address>
+			<Point>
+				<coordinates>7.0145636,50.7415793,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Neumagenstraße</name>
+			<address>Neumagenstraße, 17, 79219, Staufen</address>
+			<Point>
+				<coordinates>7.7262758,47.8847433,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Schumannstraße</name>
+			<address>Schumannstraße, 15, 40237, Düsseldorf</address>
+			<Point>
+				<coordinates>6.799749200000001,51.231854,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Caspersbroich</name>
+			<address>Caspersbroich, 2, 42697, Solingen</address>
+			<Point>
+				<coordinates>7.0030728,51.1780513,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Siebengebirgsallee</name>
+			<address>Siebengebirgsallee, 114, 50939, Köln</address>
+			<Point>
+				<coordinates>6.926520099999999,50.9086616,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sebaldstraße</name>
+			<address>Sebaldstraße, 13, 28309, Bremen</address>
+			<Point>
+				<coordinates>8.8949179,53.0610574,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tannenweg</name>
+			<address>Tannenweg, 1, 63694, Limeshain</address>
+			<Point>
+				<coordinates>8.9958817,50.2604582,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hirschbacher Str.</name>
+			<address>Hirschbacher Str., 1, 61184, Karben</address>
+			<Point>
+				<coordinates>8.792517799999999,50.2567262,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Grevenbroicherstraße</name>
+			<address>Grevenbroicherstraße, 49, 50126, Bergheim</address>
+			<Point>
+				<coordinates>6.59123,50.97296,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Oberhoferweg</name>
+			<address>Oberhoferweg, 26, 12209, Berlin</address>
+			<Point>
+				<coordinates>13.3287068,52.423552,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wallgraben</name>
+			<address>Wallgraben, 4, 76684, Östringen</address>
+			<Point>
+				<coordinates>8.710314,49.2171743,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Berthold Brecht Ring</name>
+			<address>Berthold Brecht Ring, 7, 64625, Bensheim</address>
+			<Point>
+				<coordinates>8.6128071,49.6905837,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kurt-Weill-Weg</name>
+			<address>Kurt-Weill-Weg, 16, 50829, Köln</address>
+			<Point>
+				<coordinates>6.8644573,50.9762476,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Brüsseler Ring</name>
+			<address>Brüsseler Ring, 59-65, 67069, Ludwigshafen</address>
+			<Point>
+				<coordinates>8.3883616,49.5405702,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Benrather Rathausstr.</name>
+			<address>Benrather Rathausstr., 11, 40597, Düsseldorf</address>
+			<Point>
+				<coordinates>6.8642884,51.1642439,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>An den Knabenhäusern</name>
+			<address>An den Knabenhäusern, 6, 10317, Berlin</address>
+			<Point>
+				<coordinates>13.4797795,52.496949,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hauptstraße</name>
+			<address>Hauptstraße, 61, 79713, Bad Säckingen</address>
+			<Point>
+				<coordinates>7.9138699,47.567289,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hauptstr.</name>
+			<address>Hauptstr., 67, 72074, Tamm</address>
+			<Point>
+				<coordinates>9.1184161,48.9203358,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Floningweg</name>
+			<address>Floningweg, 16, 12107, Berlin</address>
+			<Point>
+				<coordinates>13.3992824,52.4343546,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Im Belli</name>
+			<address>Im Belli, 13, 78086, Brigachtal</address>
+			<Point>
+				<coordinates>8.451122999999999,48.0144902,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stumpstraße</name>
+			<address>Stumpstraße, 12/14, 70378, Stuttgart</address>
+			<Point>
+				<coordinates>9.2340425,48.8444388,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lorscher Str.</name>
+			<address>Lorscher Str., 30/30A, 60489, Frankfurt am Main</address>
+			<Point>
+				<coordinates>8.6086546,50.127287,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Am Waldrand</name>
+			<address>Am Waldrand, 8, 81377, München</address>
+			<Point>
+				<coordinates>11.4867106,48.10599389999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Drosselweg</name>
+			<address>Drosselweg, 9, 55218, Ingelheim</address>
+			<Point>
+				<coordinates>8.0588547,49.9770441,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Neuhaldenstraße</name>
+			<address>Neuhaldenstraße, 30, 70825, Korntal</address>
+			<Point>
+				<coordinates>9.1173758,48.83350739999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Zimmerstraße</name>
+			<address>Zimmerstraße, 14, 12207, Berlin</address>
+			<Point>
+				<coordinates>13.3109149,52.4184964,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Numbergerstr.</name>
+			<address>Numbergerstr., 4, 81245, München</address>
+			<Point>
+				<coordinates>11.4491343,48.15899539999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jagdweg</name>
+			<address>Jagdweg, 14, 53639, Königswinter</address>
+			<Point>
+				<coordinates>7.2321932,50.7130807,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pirmaterstraße</name>
+			<address>Pirmaterstraße, 7, 81375, München</address>
+			<Point>
+				<coordinates>11.497812,48.1228318,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hauptstraße</name>
+			<address>Hauptstraße, 42, 78086, Brigachtal</address>
+			<Point>
+				<coordinates>8.4664549,48.0039486,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lorenzstraße</name>
+			<address>Lorenzstraße, 53, 12209, Berlin</address>
+			<Point>
+				<coordinates>13.3327458,52.4251893,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rheinstraße</name>
+			<address>Rheinstraße, 12, 28199, Bremen</address>
+			<Point>
+				<coordinates>8.7909533,53.0703994,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lehenbuckl</name>
+			<address>Lehenbuckl, 10, 85101, Lenting</address>
+			<Point>
+				<coordinates>11.4529568,48.8178846,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Queller Str.</name>
+			<address>Queller Str., 72, 33649, Bielefeld</address>
+			<Point>
+				<coordinates>8.4661858,51.990888,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Körnerstr.</name>
+			<address>Körnerstr., 18, 63452, Hanau</address>
+			<Point>
+				<coordinates>8.913709599999999,50.1425381,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Carl-Herz-Ufer</name>
+			<address>Carl-Herz-Ufer, 15, 10961, Berlin</address>
+			<Point>
+				<coordinates>13.4032405,52.49612370000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Haselmausweg</name>
+			<address>Haselmausweg, 5-5C, 23564, Lübeck</address>
+			<Point>
+				<coordinates>10.7296753,53.8579441,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Murgtalstraße</name>
+			<address>Murgtalstraße, 9, 72250, Freudenstadt</address>
+			<Point>
+				<coordinates>8.4078394,48.4639259,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Holzgarten str.</name>
+			<address>Holzgarten str., 1-43, 85354, Freising</address>
+			<Point>
+				<coordinates>11.7413988,48.4111158,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ringstraße</name>
+			<address>Ringstraße, 17, 90596, Schwanstetten</address>
+			<Point>
+				<coordinates>11.1283808,49.3202296,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lindpaintnerstraße</name>
+			<address>Lindpaintnerstraße, 23, 70195, Stuttgart</address>
+			<Point>
+				<coordinates>9.1297899,48.7729308,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tiergartenstraße</name>
+			<address>Tiergartenstraße, 26, 17235, Neustrelitz</address>
+			<Point>
+				<coordinates>13.0658472,53.35931859999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kybfelsenstraße</name>
+			<address>Kybfelsenstraße, 55b, 79100, Freiburg im Breisgau</address>
+			<Point>
+				<coordinates>7.8613868,47.96360319999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Günter-Riesebrodt-Weg</name>
+			<address>Günter-Riesebrodt-Weg, 26-32, 10318, Berlin</address>
+			<Point>
+				<coordinates>13.5347777,52.4753371,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Heresbachstraße</name>
+			<address>Heresbachstraße, 19, 40223, Düsseldorf</address>
+			<Point>
+				<coordinates>6.781325400000001,51.2076446,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Blücherstraße</name>
+			<address>Blücherstraße, 55, 10961, Berlin</address>
+			<Point>
+				<coordinates>13.4012627,52.4933269,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Schwalbenweg</name>
+			<address>Schwalbenweg, 26, 71032, Böblingen</address>
+			<Point>
+				<coordinates>9.034410099999999,48.679437,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hermann-Hesse-Straße</name>
+			<address>Hermann-Hesse-Straße, 7, 69190, Walldorf</address>
+			<Point>
+				<coordinates>8.650144899999999,49.29990189999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Altvaterstrasse</name>
+			<address>Altvaterstrasse, 19, 14129, Berlin</address>
+			<Point>
+				<coordinates>13.2042754,52.4365203,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Carl-Adam-Petri-Straße</name>
+			<address>Carl-Adam-Petri-Straße, 35, 14469, Potsdam</address>
+			<Point>
+				<coordinates>13.0558271,52.431703,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fuchsbergstraße</name>
+			<address>Fuchsbergstraße, 7, 83104, Tuntenhausen</address>
+			<Point>
+				<coordinates>12.0135003,47.9354293,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Heßdorfer Weg</name>
+			<address>Heßdorfer Weg, 13, 91056, Erlangen</address>
+			<Point>
+				<coordinates>10.9349786,49.62599609999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Schwaketenstraße</name>
+			<address>Schwaketenstraße, 42, 78467, Konstanz</address>
+			<Point>
+				<coordinates>9.1531816,47.6890181,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Schillerstraße</name>
+			<address>Schillerstraße, 5, 73728, Esslingen am Neckar</address>
+			<Point>
+				<coordinates>9.3155068,48.7343678,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Virchowstraße</name>
+			<address>Virchowstraße, 3, 76689, Karlsdorf-Neuthard</address>
+			<Point>
+				<coordinates>8.541574899999999,49.1385358,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sömmeringstraße</name>
+			<address>Sömmeringstraße, 40, 10589, Berlin</address>
+			<Point>
+				<coordinates>13.3064332,52.5251339,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wensenbalken</name>
+			<address>Wensenbalken, 47, 22359, Hamburg</address>
+			<Point>
+				<coordinates>10.148631,53.6731077,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Junker-Jörg Straße</name>
+			<address>Junker-Jörg Straße, 30,10318, Berlin</address>
+			<Point>
+				<coordinates>13.5220019,52.4865036,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Klötzweg</name>
+			<address>Klötzweg, 11, 76332, Bad Herrenalb</address>
+			<Point>
+				<coordinates>8.4418294,48.8104052,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Krumme Str.</name>
+			<address>Krumme Str., 3, 12203, Berlin</address>
+			<Point>
+				<coordinates>13.3115552,52.4390236,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gubesallee</name>
+			<address>Gubesallee, 19c, 22143, Hamburg</address>
+			<Point>
+				<coordinates>10.1512588,53.6060268,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Zur Rentrischer Straße</name>
+			<address>Zur Rentrischer Straße, 30, 66386, St. Ingbert</address>
+			<Point>
+				<coordinates>7.0553862,49.2714493,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sindelfinger Str.</name>
+			<address>Sindelfinger Str., 147, 71069, Sindelfingen</address>
+			<Point>
+				<coordinates>8.9721789,48.716258,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Föhrenstraße</name>
+			<address>Föhrenstraße, 59, 28207, Bremen</address>
+			<Point>
+				<coordinates>8.8765857,53.0631709,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Grabenstraße</name>
+			<address>Grabenstraße, 8, 28309, Bremen</address>
+			<Point>
+				<coordinates>8.8995269,53.0532616,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Insel</name>
+			<address>Insel, 2, 76669, Bad Schönborn</address>
+			<Point>
+				<coordinates>8.655729000000001,49.2218008,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Friederikastr.</name>
+			<address>Friederikastr., 149, 44789, Bochum</address>
+			<Point>
+				<coordinates>7.2089407,51.4654368,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mandarienweg</name>
+			<address>Mandarienweg, 15, 70619, Stuttgart</address>
+			<Point>
+				<coordinates>9.2150882,48.7430149,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cheruskerstraße</name>
+			<address>Cheruskerstraße, 30, 40545, Düsseldorf</address>
+			<Point>
+				<coordinates>6.7540346,51.22977940000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Obere Birke</name>
+			<address>Obere Birke, 16, 72138, Kirchentellinsfurt</address>
+			<Point>
+				<coordinates>9.158532,48.5260346,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fedelhören</name>
+			<address>Fedelhören, 35, 28203, Bremen</address>
+			<Point>
+				<coordinates>8.8196668,53.0778915,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lindenstraße</name>
+			<address>Lindenstraße, 4, 06193, Wettin-Löbejün</address>
+			<Point>
+				<coordinates>11.7953079,51.588323,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Grimmstraße</name>
+			<address>Grimmstraße, 11, 10967, Berlin</address>
+			<Point>
+				<coordinates>13.4129863,52.49278710000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Im Sarkberg</name>
+			<address>Im Sarkberg, 11, 54296, Trier</address>
+			<Point>
+				<coordinates>6.701668,49.7426103,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jankstraße</name>
+			<address>Jankstraße, 3, 81929, München</address>
+			<Point>
+				<coordinates>11.6533649,48.1452057,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Paul-Lincke-Ufer</name>
+			<address>Paul-Lincke-Ufer, 3a, 10999, Berlin</address>
+			<Point>
+				<coordinates>13.4363734,52.4916843,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Toppenstedter Kirchweg</name>
+			<address>Toppenstedter Kirchweg, 34, 21376, Salzhausen</address>
+			<Point>
+				<coordinates>10.1588522,53.23895659999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Im bendersgarten</name>
+			<address>Im bendersgarten, 13, 63303, Dreieich</address>
+			<Point>
+				<coordinates>8.7426919,49.979793,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sternbuschweg</name>
+			<address>Sternbuschweg, 13, 47057, Duisburg</address>
+			<Point>
+				<coordinates>6.7963454,51.4325252,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Höslstraße</name>
+			<address>Höslstraße, 9, 81927, München</address>
+			<Point>
+				<coordinates>11.6328853,48.1515379,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Teebaumweg</name>
+			<address>Teebaumweg, 1-47, 51109, Köln</address>
+			<Point>
+				<coordinates>7.053682999999999,50.9407031,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rupertusstraße</name>
+			<address>Rupertusstraße, 26, 84508, Burgkirchen an der Alz</address>
+			<Point>
+				<coordinates>12.7277955,48.1678416,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Eggensteiner Str.</name>
+			<address>Eggensteiner Str., 18A, 76187, Karlsruhe</address>
+			<Point>
+				<coordinates>8.3366726,49.0327667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fackenburger Allee</name>
+			<address>Fackenburger Allee, 72, 23554, Lübeck</address>
+			<Point>
+				<coordinates>10.6642373,53.87585499999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tulpenweg</name>
+			<address>Tulpenweg, 1, 83080, Oberaudorf</address>
+			<Point>
+				<coordinates>12.1782746,47.6615105,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Am Heidekrug</name>
+			<address>Am Heidekrug, 9, 40724, Hilden</address>
+			<Point>
+				<coordinates>6.9600531,51.16721039999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Balanstraße</name>
+			<address>Balanstraße, 367, 81549, München</address>
+			<Point>
+				<coordinates>11.6108991,48.0909359,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hauptstraße</name>
+			<address>Hauptstraße, 51, 83352, Altenmarkt an der Alz</address>
+			<Point>
+				<coordinates>12.5351885,48.0037647,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bauweberstraße</name>
+			<address>Bauweberstraße, 48-86, 81476, Forstenried</address>
+			<Point>
+				<coordinates>11.4896369,48.0874145,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>St.-Peter-Straße</name>
+			<address>St.-Peter-Straße, 81, 97274, Leinach</address>
+			<Point>
+				<coordinates>9.7923716,49.861847,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Büsnauer Str.</name>
+			<address>Büsnauer Str., 27, 71229, Leonberg</address>
+			<Point>
+				<coordinates>8.992107899999999,48.7636607,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Frida-Schuhmacher-Straße</name>
+			<address>Frida-Schuhmacher-Straße, 37, 74078, Heilbronn</address>
+			<Point>
+				<coordinates>9.1955292,49.1721229,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mönchhaldenstraße</name>
+			<address>Mönchhaldenstraße, 111, 70191, Stuttgart</address>
+			<Point>
+				<coordinates>9.1787399,48.7943884,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Seestraße</name>
+			<address>Seestraße, 30, 73666, Baltmannsweiler</address>
+			<Point>
+				<coordinates>9.446531799999999,48.7443442,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dammstr.</name>
+			<address>Dammstr., 19, 76437, Rastatt</address>
+			<Point>
+				<coordinates>8.1533485,48.8872747,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Friedhofstraße</name>
+			<address>Friedhofstraße, 7, 67127, Rödersheim-Gronau</address>
+			<Point>
+				<coordinates>8.2564645,49.4312147,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kirchweg</name>
+			<address>Kirchweg, 1, 25524, Itzehoe</address>
+			<Point>
+				<coordinates>9.4940423,53.9500193,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bergaggerstraße</name>
+			<address>Bergaggerstraße, 14, 53797, Lohmar</address>
+			<Point>
+				<coordinates>7.264354599999999,50.9096468,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dossenbergerstraße</name>
+			<address>Dossenbergerstraße, 9, 89358, Kammeltal</address>
+			<Point>
+				<coordinates>10.3652111,48.3930723,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Burggrabenstraße</name>
+			<address>Burggrabenstraße, 12, 35415, Pohlheim</address>
+			<Point>
+				<coordinates>8.7275995,50.5092346,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Malteserstraße</name>
+			<address>Malteserstraße, 52, 53639, Königswinter</address>
+			<Point>
+				<coordinates>7.1842786,50.7087629,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Luisenstr.</name>
+			<address>Luisenstr., 2, 47799, Krefeld</address>
+			<Point>
+				<coordinates>6.570677900000001,51.3272485,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Schiffbeker Schanze</name>
+			<address>Schiffbeker Schanze, 14, 22117, Hamburg</address>
+			<Point>
+				<coordinates>10.1122333,53.5355891,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Oderberger Str.</name>
+			<address>Oderberger Str., 13, 10435, Berlin</address>
+			<Point>
+				<coordinates>13.4088081,52.53915929999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Albrecht-Dürer-Straße</name>
+			<address>Albrecht-Dürer-Straße, 9, 68809, Neulußheim</address>
+			<Point>
+				<coordinates>8.5183654,49.2958508,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kaufhausstraße</name>
+			<address>Kaufhausstraße, 22, 78333, Stockach</address>
+			<Point>
+				<coordinates>9.0132096,47.8518805,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Peterskampweg</name>
+			<address>Peterskampweg, 17, 22089, Wandsbek</address>
+			<Point>
+				<coordinates>10.0511849,53.5674359,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Metzer Straße</name>
+			<address>Metzer Straße, 13,10405, Berlin</address>
+			<Point>
+				<coordinates>13.4166187,52.53117390000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Selchower Str.</name>
+			<address>Selchower Str., 32, 12049, Berlin</address>
+			<Point>
+				<coordinates>13.424367,52.4788885,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wiesbadener Str.</name>
+			<address>Wiesbadener Str., 120, 61462, Königstein im Taunus</address>
+			<Point>
+				<coordinates>8.4672384,50.17435649999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bülowstraße</name>
+			<address>Bülowstraße, 122, 45479, Mühlheim</address>
+			<Point>
+				<coordinates>6.8596265,51.4249012,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alte Dielbacher</name>
+			<address>Alte Dielbacher, Str., 69412, Eberbach</address>
+			<Point>
+				<coordinates>9.0090892,49.4599182,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Richard-Wagner-Straße</name>
+			<address>Richard-Wagner-Straße, 15, 67433, Neustadt an der Weinstraße</address>
+			<Point>
+				<coordinates>8.1487357,49.3522487,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Zentrumstraße</name>
+			<address>Zentrumstraße, 14-22, 59192, Bergkamen</address>
+			<Point>
+				<coordinates>7.6280221,51.6136505,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kuno-Liesenberg-Kehre</name>
+			<address>Kuno-Liesenberg-Kehre, 10A-C, 22844, Norderstedt</address>
+			<Point>
+				<coordinates>9.987869199999999,53.731722,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stärkestraße</name>
+			<address>Stärkestraße, 18b, 30451, Hannover</address>
+			<Point>
+				<coordinates>9.7119909,52.374587,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Am Alten Sportpl.</name>
+			<address>Am Alten Sportpl., 6, 35423, Lich</address>
+			<Point>
+				<coordinates>8.7538237,50.4784981,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Beerenschlag</name>
+			<address>Beerenschlag, 3a, 90602, Pyrbaum</address>
+			<Point>
+				<coordinates>11.29582,49.29927,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wiesenstraße</name>
+			<address>Wiesenstraße, 60A, 64331, Weiterstadt</address>
+			<Point>
+				<coordinates>8.609337499999999,49.8859143,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gerokstraße</name>
+			<address>Gerokstraße, 15, 71665, Vaihingen an der Enz</address>
+			<Point>
+				<coordinates>8.964967399999999,48.9373652,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Am Blütenhang</name>
+			<address>Am Blütenhang, 6, 78359, Orsingen-Nenzingen</address>
+			<Point>
+				<coordinates>8.9595436,47.8398869,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Prassbergstr.</name>
+			<address>Prassbergstr., 10, 88239, Wangen im Allgäu</address>
+			<Point>
+				<coordinates>9.833406199999999,47.6918373,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hembacher Straße</name>
+			<address>Hembacher Straße, 33,91126, Rednitzhembach</address>
+			<Point>
+				<coordinates>11.061938,49.3062103,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Str. vor Schönholz</name>
+			<address>Str. vor Schönholz, 15,13158, Berlin</address>
+			<Point>
+				<coordinates>13.3811475,52.5744838,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Grevenbroicher Weg</name>
+			<address>Grevenbroicher Weg, 25a, 40547, Düsseldorf</address>
+			<Point>
+				<coordinates>6.728833000000001,51.2428058,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Maenherstraße</name>
+			<address>Maenherstraße, 14, 81375, München</address>
+			<Point>
+				<coordinates>11.5002289,48.12525189999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hauptstraße</name>
+			<address>Hauptstraße, 39, 86866, Mickhausen</address>
+			<Point>
+				<coordinates>10.6380405,48.2391042,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Eggerten</name>
+			<address>Eggerten, 49, 76646, Bruchsal</address>
+			<Point>
+				<coordinates>8.5990079,49.1189406,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Elkenbachstraße</name>
+			<address>Elkenbachstraße, 2, 60316, Frankfurt</address>
+			<Point>
+				<coordinates>8.69228,50.1193645,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>König-Heinrich-Weg</name>
+			<address>König-Heinrich-Weg, 80, 22459, Hamburg</address>
+			<Point>
+				<coordinates>9.9584348,53.6292752,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Am Klosterweiher</name>
+			<address>Am Klosterweiher, 14,83671, Benediktbeuern</address>
+			<Point>
+				<coordinates>11.4044567,47.7057043,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ketteler Straße</name>
+			<address>Ketteler Straße, 15,59329, Wadersloh</address>
+			<Point>
+				<coordinates>8.176675399999999,51.734701,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Schnepfenreuther Hauptstraße</name>
+			<address>Schnepfenreuther Hauptstraße, 4,90425, Nürnberg</address>
+			<Point>
+				<coordinates>11.0573977,49.4797478,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Oberhöchstadter Straße</name>
+			<address>Oberhöchstadter Straße, 7,61449, Steinbach</address>
+			<Point>
+				<coordinates>8.5804835,50.2005759,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Haydstraße</name>
+			<address>Haydstraße, 16, 85354, Freising</address>
+			<Point>
+				<coordinates>11.7364518,48.4022825,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sonntagstraße</name>
+			<address>Sonntagstraße, 32, 58099, Hagen</address>
+			<Point>
+				<coordinates>7.459920199999999,51.3836717,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Augusta Straße</name>
+			<address>Augusta Straße, 9a,53721, Siegburg</address>
+			<Point>
+				<coordinates>7.201041699999998,50.8031836,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lindenstraße</name>
+			<address>Lindenstraße, 52-54, 28755, Bremen</address>
+			<Point>
+				<coordinates>8.6049765,53.1765002,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bergstraße</name>
+			<address>Bergstraße, 42, 79194, Gundelfingen</address>
+			<Point>
+				<coordinates>7.8719994,48.0418524,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Oberer Wachtelberg</name>
+			<address>Oberer Wachtelberg, 4, 96369, Weißenbrunn</address>
+			<Point>
+				<coordinates>11.346147,50.1970402,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Zechenweg</name>
+			<address>Zechenweg, 6a, 79111, Freiburg im Breisgau</address>
+			<Point>
+				<coordinates>7.8006531,47.9740203,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Färbergasse</name>
+			<address>Färbergasse, 11, 82362, Weilheim</address>
+			<Point>
+				<coordinates>11.1411192,47.8415287,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Weidenweg</name>
+			<address>Weidenweg, 39, 55299, Nackenheim</address>
+			<Point>
+				<coordinates>8.344025,49.9236264,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rathausstraße</name>
+			<address>Rathausstraße, 12A, 65510, Hünstetten</address>
+			<Point>
+				<coordinates>8.23965,50.1895468,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Winterstraße</name>
+			<address>Winterstraße, 37, 53177, Bonn</address>
+			<Point>
+				<coordinates>7.1474419,50.6837659,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Friedrichstraße</name>
+			<address>Friedrichstraße, 31, 90408, Nürnberg</address>
+			<Point>
+				<coordinates>11.080654,49.461751,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kirchweg</name>
+			<address>Kirchweg, 14, 76534, Baden-Baden</address>
+			<Point>
+				<coordinates>8.2621351,48.7402216,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lessingstr.</name>
+			<address>Lessingstr., 28c, 25524, Itzehoe</address>
+			<Point>
+				<coordinates>9.5105579,53.9323922,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bölschestraße</name>
+			<address>Bölschestraße, 119, 12587, Berlin</address>
+			<Point>
+				<coordinates>13.6241884,52.4494898,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pidinger Str.</name>
+			<address>Pidinger Str., 81, 83454, Anger</address>
+			<Point>
+				<coordinates>12.8996308,47.77560270000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Römersteinstraße</name>
+			<address>Römersteinstraße, 73-1, 72766, Reutlingen</address>
+			<Point>
+				<coordinates>9.220485499999999,48.5172383,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stubaier Str.</name>
+			<address>Stubaier Str., 20, 70327, Stuttgart</address>
+			<Point>
+				<coordinates>9.2523809,48.7816838,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Erlenweg</name>
+			<address>Erlenweg, 1, 38159, Vechelde</address>
+			<Point>
+				<coordinates>10.3604687,52.2615258,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bergmannstraße</name>
+			<address>Bergmannstraße, 4, 14163, Berlin</address>
+			<Point>
+				<coordinates>13.2506625,52.4369182,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Werderstraße</name>
+			<address>Werderstraße, 9, 71032, Böblingen</address>
+			<Point>
+				<coordinates>9.0173367,48.6927928,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gartenweg</name>
+			<address>Gartenweg, 46, 51143, Köln</address>
+			<Point>
+				<coordinates>7.053136899999999,50.8683029,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Langweidenstraße</name>
+			<address>Langweidenstraße, 12a-h, 60488, Frankfurt am Main</address>
+			<Point>
+				<coordinates>8.6304892,50.1322136,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kantstraße</name>
+			<address>Kantstraße, 7, 69493, Hirschberg</address>
+			<Point>
+				<coordinates>8.6625139,49.5120455,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Marienburger Straße</name>
+			<address>Marienburger Straße, 4, 87616, Marktoberdorf</address>
+			<Point>
+				<coordinates>10.6215092,47.7942079,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hintere Str.</name>
+			<address>Hintere Str., 2, 71642, Ludwigsburg</address>
+			<Point>
+				<coordinates>9.2629459,48.907765,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gleiwitzer Str.</name>
+			<address>Gleiwitzer Str., 3, 55131, Mainz</address>
+			<Point>
+				<coordinates>8.2643156,49.9857066,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kleiner Seeweg</name>
+			<address>Kleiner Seeweg, 1-14,15806, Zossen</address>
+			<Point>
+				<coordinates>13.5748279,52.2007062,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kochstraße</name>
+			<address>Kochstraße, 11, 70806, Kornwestheim</address>
+			<Point>
+				<coordinates>9.1924417,48.86237060000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kelkheimer Str.</name>
+			<address>Kelkheimer Str., 18, 65779, Kelkheim (Taunus)</address>
+			<Point>
+				<coordinates>8.4247827,50.1495012,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bussardstraße</name>
+			<address>Bussardstraße, 49, 39179, Barleben</address>
+			<Point>
+				<coordinates>11.6149642,52.2097341,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Burgerstraße</name>
+			<address>Burgerstraße, 2, 61476, Kronberg im Taunus</address>
+			<Point>
+				<coordinates>8.512839399999999,50.1772634,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Süggelberg</name>
+			<address>Süggelberg, 16, 44339, Dortmund</address>
+			<Point>
+				<coordinates>7.4740201,51.5602781,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Andreasstraße</name>
+			<address>Andreasstraße, 72, 10243, Berlin</address>
+			<Point>
+				<coordinates>13.4305182,52.5120997,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>An der Breite</name>
+			<address>An der Breite, 14, 82229, Seefeld</address>
+			<Point>
+				<coordinates>11.2174816,48.0351068,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Schmidener Str.</name>
+			<address>Schmidener Str., 17, 70372, Stuttgart</address>
+			<Point>
+				<coordinates>9.2189582,48.8087955,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gartenstraße</name>
+			<address>Gartenstraße, 7, 04435, Schkeuditz</address>
+			<Point>
+				<coordinates>12.2899522,51.4245926,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gerdsmeyerweg</name>
+			<address>Gerdsmeyerweg, 1-7A, 12105, Berlin</address>
+			<Point>
+				<coordinates>13.36961,52.4547538,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lamboystraße</name>
+			<address>Lamboystraße, 53, 60598, Frankfurt am Main</address>
+			<Point>
+				<coordinates>8.6816974,50.0910748,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Marienstr.</name>
+			<address>Marienstr., 18, 41462, Neuss</address>
+			<Point>
+				<coordinates>6.6795125,51.2043396,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bahnhofstraße</name>
+			<address>Bahnhofstraße, 1, 68526, Ladenburg</address>
+			<Point>
+				<coordinates>8.602147400000002,49.4725134,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Siekreystr.</name>
+			<address>Siekreystr., 17a-d, 22459, Hamburg</address>
+			<Point>
+				<coordinates>9.9148196,53.6264736,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>B. d.</name>
+			<address>B. d., Kirche, 89150, Laichingen</address>
+			<Point>
+				<coordinates>9.6283972,48.4756616,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vincentistraße</name>
+			<address>Vincentistraße, 1, 76530, Baden-Baden</address>
+			<Point>
+				<coordinates>8.244825,48.7628158,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Eggbergstraße</name>
+			<address>Eggbergstraße, 42, 79618, Rheinfelden (Baden)</address>
+			<Point>
+				<coordinates>7.7403197,47.5537889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Henny-Schütz-Allee</name>
+			<address>Henny-Schütz-Allee, 32-38, 22419, Hamburg</address>
+			<Point>
+				<coordinates>10.0077863,53.6717902,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gerhart-Hauptmann-Weg</name>
+			<address>Gerhart-Hauptmann-Weg, 8, 51519, Odenthal</address>
+			<Point>
+				<coordinates>7.1099592,51.04114320000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Zeiseweg</name>
+			<address>Zeiseweg, 56, 22765, Hamburg</address>
+			<Point>
+				<coordinates>9.9482889,53.559692,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Feldweg</name>
+			<address>Feldweg, 35, 24340, Eckernförde</address>
+			<Point>
+				<coordinates>9.8437056,54.48128490000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Forchenstraße</name>
+			<address>Forchenstraße, 17, 89537, Giengen an der Brenz</address>
+			<Point>
+				<coordinates>10.2731618,48.6238025,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Röckrather</name>
+			<address>Röckrather, Hauptstraße, 41472, Neuss</address>
+			<Point>
+				<coordinates>6.6393058,51.1622618,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Klutenscheuer</name>
+			<address>Klutenscheuer, 40, 40822, Mettmann</address>
+			<Point>
+				<coordinates>6.97908,51.2474226,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Straßburger Str.</name>
+			<address>Straßburger Str., 29, 46047, Oberhausen</address>
+			<Point>
+				<coordinates>6.8739997,51.4734032,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Köhlerstraße</name>
+			<address>Köhlerstraße, 22, 12205, Berlin</address>
+			<Point>
+				<coordinates>13.289413,52.4367039,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Am Widey</name>
+			<address>Am Widey, 39, 59757, Arnsberg (Holzen)</address>
+			<Point>
+				<coordinates>7.9169509,51.4148766,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hülsenanger</name>
+			<address>Hülsenanger, 5, 51467, Bergisch Gladbach</address>
+			<Point>
+				<coordinates>7.0841492,51.0105246,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bergwiesenstraße</name>
+			<address>Bergwiesenstraße, 4, 71093, Weil im Schönbuch</address>
+			<Point>
+				<coordinates>9.0579353,48.6376252,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>In d. Bitz</name>
+			<address>In d. Bitz, 14, 56567, Neuwied</address>
+			<Point>
+				<coordinates>7.4421389,50.4466578,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hauptstraße</name>
+			<address>Hauptstraße, 16, 87757, Kirchheim</address>
+			<Point>
+				<coordinates>10.4790658,48.1721996,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Darmstädterstraße</name>
+			<address>Darmstädterstraße, 51, 64572, Büttelborn</address>
+			<Point>
+				<coordinates>8.5184611,49.8989717,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Grillparzerstraße</name>
+			<address>Grillparzerstraße, 34, 22085, Hamburg</address>
+			<Point>
+				<coordinates>10.0176178,53.5796798,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Am Walde</name>
+			<address>Am Walde, 2, 38302, Wolfenbüttel</address>
+			<Point>
+				<coordinates>10.5424803,52.1764154,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Schwarzwaldstr.</name>
+			<address>Schwarzwaldstr., 125, 76532, Baden-Baden</address>
+			<Point>
+				<coordinates>8.1983898,48.7816851,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Im Wisshole</name>
+			<address>Im Wisshole, 11, 38116, Braunschweig</address>
+			<Point>
+				<coordinates>10.4456642,52.2666536,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jahnstraße</name>
+			<address>Jahnstraße, 3, 79312, Emmendingen</address>
+			<Point>
+				<coordinates>7.8590404,48.1164979,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rebhuhnweg</name>
+			<address>Rebhuhnweg, 2, 75365, Calw</address>
+			<Point>
+				<coordinates>8.7773355,48.7005646,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fridolin-Holzer-Straße</name>
+			<address>Fridolin-Holzer-Straße, 28, 88178, Weiler-Simmerberg</address>
+			<Point>
+				<coordinates>9.9143296,47.5826649,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jungholzweg</name>
+			<address>Jungholzweg, 16B, 53340, Meckenheim</address>
+			<Point>
+				<coordinates>7.033481,50.6192483,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hunnenswarf</name>
+			<address>Hunnenswarf, 3, 25863, Langeneß</address>
+			<Point>
+				<coordinates>8.6390966,54.6493981,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Markgrafenallee</name>
+			<address>Markgrafenallee, 99-101, 74541, Vellberg</address>
+			<Point>
+				<coordinates>9.871042,49.0846679,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Maisenweg</name>
+			<address>Maisenweg, 10, 53797, Lohmar</address>
+			<Point>
+				<coordinates>7.229007699999999,50.8482956,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Planegger Straße</name>
+			<address>Planegger Straße, 55-57d,82110, Germering</address>
+			<Point>
+				<coordinates>11.3778126,48.1203078,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Friedrichshafener Str.</name>
+			<address>Friedrichshafener Str., 41, 81243, München</address>
+			<Point>
+				<coordinates>11.4407894,48.14678379999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kaiserswerther Str.</name>
+			<address>Kaiserswerther Str., 12, 50739, Köln</address>
+			<Point>
+				<coordinates>6.9385055,50.9591074,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hermannstraße</name>
+			<address>Hermannstraße, 63, 28201, Bremen</address>
+			<Point>
+				<coordinates>8.7962356,53.0655223,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Zum Hasenwinkel</name>
+			<address>Zum Hasenwinkel, 12, 38446, Wolfsburg</address>
+			<Point>
+				<coordinates>10.8350957,52.3328133,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Chausseestraße</name>
+			<address>Chausseestraße, 6, 10115, Berlin</address>
+			<Point>
+				<coordinates>13.3868609,52.5281884,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Waldstraße</name>
+			<address>Waldstraße, 17a, 77833, Unzhurst Ottersweier</address>
+			<Point>
+				<coordinates>8.0530989,48.6892821,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Philipp-Ulrich-Straße</name>
+			<address>Philipp-Ulrich-Straße, 143, 63073, Offenbach</address>
+			<Point>
+				<coordinates>8.8065734,50.0952187,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Seegraben</name>
+			<address>Seegraben, 3, 63791, Karlstein</address>
+			<Point>
+				<coordinates>8.9993001,50.0573489,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Adolf-Reichwein-Straße</name>
+			<address>Adolf-Reichwein-Straße, 9, 65553, Limburg an der Lahn</address>
+			<Point>
+				<coordinates>8.090355599999999,50.4070844,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lessingstraße</name>
+			<address>Lessingstraße, 23a, 12305, Berlin</address>
+			<Point>
+				<coordinates>13.3913772,52.4058144,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Am Boden</name>
+			<address>Am Boden, 1, 35460, Staufenberg</address>
+			<Point>
+				<coordinates>8.7469285,50.65770699999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Am Haldenholz</name>
+			<address>Am Haldenholz, 32, 71334, Waiblingen</address>
+			<Point>
+				<coordinates>9.2999288,48.8572757,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Borghagener Straße</name>
+			<address>Borghagener Straße, 21,44581, Castrop-Rauxel</address>
+			<Point>
+				<coordinates>7.319896499999999,51.58767880000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>In der Krümm</name>
+			<address>In der Krümm, 1,65934, Frankfurt</address>
+			<Point>
+				<coordinates>8.562832499999999,50.1014614,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hardtgrundweg</name>
+			<address>Hardtgrundweg, 26, 61462, Königstein</address>
+			<Point>
+				<coordinates>8.4932163,50.1676206,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Allacherstraße</name>
+			<address>Allacherstraße, 256, 80999, München</address>
+			<Point>
+				<coordinates>11.4636735,48.1820488,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Birkenweg</name>
+			<address>Birkenweg, 3, 79359, Riegel</address>
+			<Point>
+				<coordinates>7.766580099999999,48.1508996,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pfauenweg</name>
+			<address>Pfauenweg, 2, 69123, Heidelberg</address>
+			<Point>
+				<coordinates>8.6392261,49.3998853,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Buschweg</name>
+			<address>Buschweg, 2, 38110, Braunschweig</address>
+			<Point>
+				<coordinates>10.515978,52.3226098,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Allmendstraße</name>
+			<address>Allmendstraße, 23a, 74889, Sinsheim</address>
+			<Point>
+				<coordinates>8.7769015,49.2535969,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>An der Schanze</name>
+			<address>An der Schanze, 32,55128, Mainz</address>
+			<Point>
+				<coordinates>8.2512157,49.9877255,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hoher Nickel</name>
+			<address>Hoher Nickel, 22,63110, Rodgau</address>
+			<Point>
+				<coordinates>8.8881937,50.0563611,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Schöntaler Weg</name>
+			<address>Schöntaler Weg, 15, 12437, Berlin</address>
+			<Point>
+				<coordinates>13.4848824,52.4687744,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Am Roten Kreuz</name>
+			<address>Am Roten Kreuz, 119, 40880, Ratingen</address>
+			<Point>
+				<coordinates>6.8284986,51.3117781,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hohewartstraße</name>
+			<address>Hohewartstraße, 30, 70469, Stuttgart</address>
+			<Point>
+				<coordinates>9.153709899999999,48.8078497,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Im Läninger</name>
+			<address>Im Läninger, 7,72072, Tübingen</address>
+			<Point>
+				<coordinates>9.00166,48.48103,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Weichser Straße</name>
+			<address>Weichser Straße, 2,85258, Weichs</address>
+			<Point>
+				<coordinates>11.426204,48.3943259,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Trills</name>
+			<address>Trills, 18, 40699, Erkrath</address>
+			<Point>
+				<coordinates>6.946018199999999,51.21303570000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hauptstr.</name>
+			<address>Hauptstr., 20, 86482, Aystetten</address>
+			<Point>
+				<coordinates>10.7705541,48.40374449999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jahnstraße</name>
+			<address>Jahnstraße, 25, 67434, Neustadt</address>
+			<Point>
+				<coordinates>8.130258,49.35095889999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hagenstr.</name>
+			<address>Hagenstr., 4, 18375, Prerow</address>
+			<Point>
+				<coordinates>12.561132,54.4473416,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bockhöh</name>
+			<address>Bockhöh, 5, 24857, Fahrdorf</address>
+			<Point>
+				<coordinates>9.597230699999999,54.5013735,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Erikaweg</name>
+			<address>Erikaweg, 2A-F, 21149, Hamburg</address>
+			<Point>
+				<coordinates>9.8789536,53.47152510000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Waltfrieden</name>
+			<address>Waltfrieden, 11, 93128, Regenstauf</address>
+			<Point>
+				<coordinates>12.1448808,49.1172889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Unterer Hainberg</name>
+			<address>Unterer Hainberg, 3a,37120, Bovenden</address>
+			<Point>
+				<coordinates>9.9599605,51.5943155,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Am Rosenberg</name>
+			<address>Am Rosenberg, 30,45525, Hattingen</address>
+			<Point>
+				<coordinates>7.1977575,51.4004031,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Karwendelstraße</name>
+			<address>Karwendelstraße, 21, 82467, Garmisch Partenkirchen</address>
+			<Point>
+				<coordinates>11.1263114,47.4865942,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bei der Lutherbuche</name>
+			<address>Bei der Lutherbuche, 3,22529, Hamburg</address>
+			<Point>
+				<coordinates>9.9649745,53.5975087,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hermann-Pleuer-Straße</name>
+			<address>Hermann-Pleuer-Straße, 18, 70192, Stuttgart</address>
+			<Point>
+				<coordinates>9.166119799999999,48.7986574,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Turmbergstraße</name>
+			<address>Turmbergstraße, 5, 76307, Karlsbad</address>
+			<Point>
+				<coordinates>8.4734441,48.8997304,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bachstraße</name>
+			<address>Bachstraße, 26, 86556, Kühbach</address>
+			<Point>
+				<coordinates>11.1732756,48.5319898,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Talweg</name>
+			<address>Talweg, 103, 77654, Offenburg</address>
+			<Point>
+				<coordinates>7.9980519,48.4693525,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Am Hampfberg</name>
+			<address>Am Hampfberg, 9,21224, Rosengarten</address>
+			<Point>
+				<coordinates>9.905691899999999,53.4455663,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Liebfrauenstraße</name>
+			<address>Liebfrauenstraße, 56, 53757, Sankt Augustin</address>
+			<Point>
+				<coordinates>7.1370352,50.7745093,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tauschlagstraße</name>
+			<address>Tauschlagstraße, 65/67, 45966, Gladbeck</address>
+			<Point>
+				<coordinates>6.980903499999999,51.5873967,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Im Winkel</name>
+			<address>Im Winkel, 4, 79599, Wittlingen</address>
+			<Point>
+				<coordinates>7.6483604,47.6576055,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Herdweg</name>
+			<address>Herdweg, 4, 72119, Ammerbuch</address>
+			<Point>
+				<coordinates>8.9674145,48.551189,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Weißgerber Graben</name>
+			<address>Weißgerber Graben, 18, 93047, Regensburg</address>
+			<Point>
+				<coordinates>12.0900251,49.0206282,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Auf dem Hirschberg</name>
+			<address>Auf dem Hirschberg, 28, 53225, Bonn</address>
+			<Point>
+				<coordinates>7.112295100000001,50.7518048,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Warburger Str.</name>
+			<address>Warburger Str., 14, 58135, Hagen</address>
+			<Point>
+				<coordinates>7.427148000000001,51.3569843,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kornblumenring</name>
+			<address>Kornblumenring, 65A, 12357, Berlin</address>
+			<Point>
+				<coordinates>13.5002135,52.4238981,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kettelerstraße</name>
+			<address>Kettelerstraße, 32a, 91088, Bubenreuth</address>
+			<Point>
+				<coordinates>11.0089482,49.6184713,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>William-Zipperer-Straße</name>
+			<address>William-Zipperer-Straße, 52, 04177, Leipzig</address>
+			<Point>
+				<coordinates>12.3269746,51.3420217,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Billrothstraße</name>
+			<address>Billrothstraße, 57, 22767, Hamburg</address>
+			<Point>
+				<coordinates>9.9488022,53.5535175,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Birkenallee</name>
+			<address>Birkenallee, 12a, 82445, Schwaigen</address>
+			<Point>
+				<coordinates>11.11477,47.64722,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ruststraße</name>
+			<address>Ruststraße, 4, 04229, Leipzig</address>
+			<Point>
+				<coordinates>12.3244358,51.3164866,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Libanonstraße</name>
+			<address>Libanonstraße, 60, 70184, Stuttgart</address>
+			<Point>
+				<coordinates>9.2014846,48.7792439,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Madamenweg</name>
+			<address>Madamenweg, 10, 38118, Braunschweig</address>
+			<Point>
+				<coordinates>10.5054138,52.260861,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dörnbergstraße</name>
+			<address>Dörnbergstraße, 57, 34292, Ahnatal</address>
+			<Point>
+				<coordinates>9.3865122,51.3618624,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bächbergweg</name>
+			<address>Bächbergweg, 5, 74676, Niedernhall</address>
+			<Point>
+				<coordinates>9.618062499999999,49.2927045,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bokermühlstr.</name>
+			<address>Bokermühlstr., 33, 45879, Geslenkirchen</address>
+			<Point>
+				<coordinates>7.1005734,51.5012014,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Moltkegestraße</name>
+			<address>Moltkegestraße, 70, 47058, Duisburg</address>
+			<Point>
+				<coordinates>6.78858,51.43664,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Theodor-Storm-Straße</name>
+			<address>Theodor-Storm-Straße, 48B, 23843, Bad Oldesloe</address>
+			<Point>
+				<coordinates>10.3598361,53.8043711,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Eichenstraße</name>
+			<address>Eichenstraße, 20, 85419, Mauern</address>
+			<Point>
+				<coordinates>11.8988765,48.5208103,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Weidentrift</name>
+			<address>Weidentrift, 51-57, 21502, Geesthacht</address>
+			<Point>
+				<coordinates>10.3543282,53.45112719999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hauptstraße</name>
+			<address>Hauptstraße, 44, 63843, Niedernberg</address>
+			<Point>
+				<coordinates>9.141093699999999,49.915253,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Weinstraße</name>
+			<address>Weinstraße, 30, 79336, Herbolzheim</address>
+			<Point>
+				<coordinates>7.807319,48.2162953,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Brunnenweg</name>
+			<address>Brunnenweg, 29, 88239, Wangen im Allgäu</address>
+			<Point>
+				<coordinates>9.766074300000001,47.6674335,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Römischer Ring</name>
+			<address>Römischer Ring, 33-43, 60486, Frankfurt am Main</address>
+			<Point>
+				<coordinates>8.6309737,50.1094731,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Schaeferstraße</name>
+			<address>Schaeferstraße, 81, 44623, Herne</address>
+			<Point>
+				<coordinates>7.232365599999999,51.5439083,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hauptmannsreute</name>
+			<address>Hauptmannsreute, 4, 70192, Stuttgart-Feuerbach</address>
+			<Point>
+				<coordinates>9.1588538,48.7893641,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Siemensstraße</name>
+			<address>Siemensstraße, 16-40A, 51145, Köln</address>
+			<Point>
+				<coordinates>7.0705808,50.8852103,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Friedenstraße</name>
+			<address>Friedenstraße, 15, 15569, Woltersdorf</address>
+			<Point>
+				<coordinates>13.7687406,52.4392359,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vatan</name>
+			<address>Vatan, 1-19, 46537, Dinslaken</address>
+			<Point>
+				<coordinates>6.762236000000001,51.5862536,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lichtenplattenweg</name>
+			<address>Lichtenplattenweg, 29, 63071, Offenbach am Main</address>
+			<Point>
+				<coordinates>8.7780945,50.0970058,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Flurstraße</name>
+			<address>Flurstraße, 5, 83135, Schechen</address>
+			<Point>
+				<coordinates>12.1214996,47.9298458,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rosenstraße</name>
+			<address>Rosenstraße, 18, 73033, Göppingen</address>
+			<Point>
+				<coordinates>9.6528493,48.7078263,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Am Ganter</name>
+			<address>Am Ganter, 12, 85635, Höhenkirchen-Siegertsbrunn</address>
+			<Point>
+				<coordinates>11.7205541,48.0206412,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mauthausstraße</name>
+			<address>Mauthausstraße, 22, 88145, Hergatz</address>
+			<Point>
+				<coordinates>9.8413679,47.6760533,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Max-Scheiff-Straße</name>
+			<address>Max-Scheiff-Straße, 19, 40882, Ratingen</address>
+			<Point>
+				<coordinates>6.867967999999999,51.2995434,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Perlgrasweg</name>
+			<address>Perlgrasweg, 10, 70599, Stuttgart</address>
+			<Point>
+				<coordinates>9.209412799999999,48.70534110000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Carl-Adam-Petri-Straße</name>
+			<address>Carl-Adam-Petri-Straße, 37, 14469, Potsdam</address>
+			<Point>
+				<coordinates>13.0563254,52.43177559999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nöpps</name>
+			<address>Nöpps, 12, 22043, Wandsbek</address>
+			<Point>
+				<coordinates>10.0806877,53.5634731,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Neukelsterbacher Str.</name>
+			<address>Neukelsterbacher Str., 33, 65451, Kelsterbach</address>
+			<Point>
+				<coordinates>8.5289409,50.0709803,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mitteldeich</name>
+			<address>Mitteldeich, 13, 25845, Nordstrand</address>
+			<Point>
+				<coordinates>8.8199236,54.4983876,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wasserwerksweg</name>
+			<address>Wasserwerksweg, 11, 24222, Schwentinental</address>
+			<Point>
+				<coordinates>10.2247996,54.2946347,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Am Webergarten</name>
+			<address>Am Webergarten, 13, 61118, Bad Vilbel</address>
+			<Point>
+				<coordinates>8.744327499999999,50.1787106,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Unteren Kienle</name>
+			<address>Unteren Kienle, 19, 70184, Stuttgart</address>
+			<Point>
+				<coordinates>9.1908851,48.7656339,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Overather Straße</name>
+			<address>Overather Straße, 62,51429, Bergisch Gladbach</address>
+			<Point>
+				<coordinates>7.1713523,50.9579852,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Moosrainerstraße</name>
+			<address>Moosrainerstraße, 20c, 82418, Murnau am Staffelsee</address>
+			<Point>
+				<coordinates>11.2041398,47.6775102,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sautierstraße</name>
+			<address>Sautierstraße, 3, 79104, Freiburg</address>
+			<Point>
+				<coordinates>7.852211199999999,48.00297579999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Im Elbbahnhof</name>
+			<address>Im Elbbahnhof, 35, 39104, Magdeburg</address>
+			<Point>
+				<coordinates>11.6326919,52.1184687,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alter Weinberg</name>
+			<address>Alter Weinberg, 32, 88048, Friedrichshafen</address>
+			<Point>
+				<coordinates>9.474778299999999,47.6888331,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Schramberger Winkel</name>
+			<address>Schramberger Winkel, 8, 68239, Mannheim</address>
+			<Point>
+				<coordinates>8.5524312,49.4683595,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Am Wasserturm</name>
+			<address>Am Wasserturm, 2, 42929, Wermelskirchen</address>
+			<Point>
+				<coordinates>7.228792100000001,51.1453716,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rubensstraße</name>
+			<address>Rubensstraße, 25, 60596, Frankfurt</address>
+			<Point>
+				<coordinates>8.672627799999999,50.1002175,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Erfurter Str.</name>
+			<address>Erfurter Str., 4, 67165, Waldsee</address>
+			<Point>
+				<coordinates>8.4435445,49.3984461,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Burgackerstraße</name>
+			<address>Burgackerstraße, 30, 50169, Kerpen</address>
+			<Point>
+				<coordinates>6.769077999999999,50.8472179,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vockenhauser Straße</name>
+			<address>Vockenhauser Straße, 7,78048, Villingen-Schwenningen</address>
+			<Point>
+				<coordinates>8.4569225,48.0685859,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aachstraße</name>
+			<address>Aachstraße, 22, 88682, Salem</address>
+			<Point>
+				<coordinates>9.3101742,47.7586925,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Finowstr.</name>
+			<address>Finowstr., 18, 10247, Berlin</address>
+			<Point>
+				<coordinates>13.4663564,52.5106125,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Im kleinen Felde</name>
+			<address>Im kleinen Felde, 46, 30982, Pattensen</address>
+			<Point>
+				<coordinates>9.7488007,52.26995489999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jungstraße</name>
+			<address>Jungstraße, 8, 10247, Berlin</address>
+			<Point>
+				<coordinates>13.4668846,52.5131957,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Schlossbachstraße</name>
+			<address>Schlossbachstraße, 37, 77855, Oberachern</address>
+			<Point>
+				<coordinates>8.08657,48.61338,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alpenblickstraße</name>
+			<address>Alpenblickstraße, 24, 87659, Hopferau</address>
+			<Point>
+				<coordinates>10.6360972,47.6127143,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Schweinfurthstr.</name>
+			<address>Schweinfurthstr., 27, 14195, Berlin</address>
+			<Point>
+				<coordinates>13.2946172,52.4676766,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kreillerstr.</name>
+			<address>Kreillerstr., 104, 81825, München</address>
+			<Point>
+				<coordinates>11.6464745,48.1256086,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>In d. Goldgrube</name>
+			<address>In d. Goldgrube, 9, 56073, Koblenz</address>
+			<Point>
+				<coordinates>7.582935999999999,50.35387230000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rottfeldstraße</name>
+			<address>Rottfeldstraße, 15, 68199, Mannheim</address>
+			<Point>
+				<coordinates>8.4883534,49.46002720000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>St.-Erhard-Straße</name>
+			<address>St.-Erhard-Straße, 4, 85356, Freising</address>
+			<Point>
+				<coordinates>11.7730721,48.3802312,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lindacher Str.</name>
+			<address>Lindacher Str., 9, 81249, München</address>
+			<Point>
+				<coordinates>11.4142625,48.1700512,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Huchtinger Heerstr.</name>
+			<address>Huchtinger Heerstr., 178-188, 28259, Bremen</address>
+			<Point>
+				<coordinates>8.711524299999999,53.0560179,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Derfflingerstraße</name>
+			<address>Derfflingerstraße, 24, 12249, Berlin</address>
+			<Point>
+				<coordinates>13.336915,52.4285102,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Goldrautenweg</name>
+			<address>Goldrautenweg, 3, 81547, München</address>
+			<Point>
+				<coordinates>11.5728287,48.0968358,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Goethestr.</name>
+			<address>Goethestr., 21, 44623, Herne</address>
+			<Point>
+				<coordinates>7.229781999999998,51.5387772,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Zur Wildzähnecke</name>
+			<address>Zur Wildzähnecke, 7, 38448, Wolfsburg</address>
+			<Point>
+				<coordinates>10.8440334,52.46260299999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Habichtweg</name>
+			<address>Habichtweg, 4, 71287, Weissach</address>
+			<Point>
+				<coordinates>8.9216268,48.8516494,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Zum Wiesengrund</name>
+			<address>Zum Wiesengrund, 17, 64560, Riedelstadt</address>
+			<Point>
+				<coordinates>8.5047968,49.8136343,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Klinkstraße</name>
+			<address>Klinkstraße, 32, 22117, Hamburg</address>
+			<Point>
+				<coordinates>10.1172198,53.534691,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Föhrenwinkel</name>
+			<address>Föhrenwinkel, 14, 91227, Leinburg</address>
+			<Point>
+				<coordinates>11.2989116,49.4610399,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bronnwasenstraße</name>
+			<address>Bronnwasenstraße, 3, 73614, Schorndorf</address>
+			<Point>
+				<coordinates>9.5502077,48.8258661,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fuhlsbütteler Damm</name>
+			<address>Fuhlsbütteler Damm, 91-93, 22335, Hamburg</address>
+			<Point>
+				<coordinates>10.0207365,53.625125,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kistnerstraße</name>
+			<address>Kistnerstraße, 39, 27576, Bremerhaven</address>
+			<Point>
+				<coordinates>8.578727299999999,53.5554249,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Am Jungfernsee</name>
+			<address>Am Jungfernsee, 54, 14469, Potsdam</address>
+			<Point>
+				<coordinates>13.0565561,52.4319701,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Auf dem Godesberg</name>
+			<address>Auf dem Godesberg, 1, 53177, Bonn</address>
+			<Point>
+				<coordinates>7.149156,50.68447099999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kurze Reihe</name>
+			<address>Kurze Reihe, 14a, 44143, Dortmund</address>
+			<Point>
+				<coordinates>7.504794500000001,51.5120961,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hellsieksweg</name>
+			<address>Hellsieksweg, 20, 31863, Coppenbrügge</address>
+			<Point>
+				<coordinates>9.4630975,52.09298829999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kiefernschlag</name>
+			<address>Kiefernschlag, 13, 90542, Eckental</address>
+			<Point>
+				<coordinates>11.2125092,49.5763893,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Am Falltor</name>
+			<address>Am Falltor, 22, 64390, Erzhausen</address>
+			<Point>
+				<coordinates>8.640116299999999,49.9489081,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Oldendorpstraße</name>
+			<address>Oldendorpstraße, 15A, 18059, Rostock</address>
+			<Point>
+				<coordinates>12.1115016,54.0812939,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Raaberg</name>
+			<address>Raaberg, 2d-h, 24576, Bad Bramstedt</address>
+			<Point>
+				<coordinates>9.88942,53.92505999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Am Ziegelteich</name>
+			<address>Am Ziegelteich, 28, 22525, Hamburg</address>
+			<Point>
+				<coordinates>9.933012999999999,53.5746181,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Forststraße</name>
+			<address>Forststraße, 22, 70794, Filderstadt</address>
+			<Point>
+				<coordinates>9.1962224,48.6463917,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Winkelstraße</name>
+			<address>Winkelstraße, 12, 46562, Voerde (Niederrhein)</address>
+			<Point>
+				<coordinates>6.621951800000001,51.6085838,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fischstraße</name>
+			<address>Fischstraße, 19, 23552, Lübeck</address>
+			<Point>
+				<coordinates>10.6823848,53.8674889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Schlesierstraße</name>
+			<address>Schlesierstraße, 43, 67112, Mutterstadt</address>
+			<Point>
+				<coordinates>8.3456006,49.4394901,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hermannstadtstr.</name>
+			<address>Hermannstadtstr., 16, 40591, Düsseldorf</address>
+			<Point>
+				<coordinates>6.8362205,51.1849241,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rochusstraße</name>
+			<address>Rochusstraße, 212, 53121, Bonn</address>
+			<Point>
+				<coordinates>7.0483557,50.7150216,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Thalbacher Str.</name>
+			<address>Thalbacher Str., 22B, 85368, Moosburg an der Isar</address>
+			<Point>
+				<coordinates>11.9360371,48.47063300000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kalksee Straße</name>
+			<address>Kalksee Straße, 17,12587, Friedrichshagen</address>
+			<Point>
+				<coordinates>13.6389468,52.44909029999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kirchgasse</name>
+			<address>Kirchgasse, 10, 63796, Kahl am Main</address>
+			<Point>
+				<coordinates>9.0103247,50.06846849999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pankstraße</name>
+			<address>Pankstraße, 26, 13357, Berlin</address>
+			<Point>
+				<coordinates>13.3748509,52.54788629999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kalbacher Straße</name>
+			<address>Kalbacher Straße, 13,61352, Bad Homburg v.d.H.</address>
+			<Point>
+				<coordinates>8.649244999999999,50.2143921,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mühlenstraße</name>
+			<address>Mühlenstraße, 34, 14167, Berlin</address>
+			<Point>
+				<coordinates>13.2724913,52.431037,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kaiserstraße</name>
+			<address>Kaiserstraße, 90, 72764, Reutlingen</address>
+			<Point>
+				<coordinates>9.2230165,48.4888585,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lessingstraße</name>
+			<address>Lessingstraße, 56, 68723, Plankstadt</address>
+			<Point>
+				<coordinates>8.5919886,49.39026519999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Reichenhallerstr.</name>
+			<address>Reichenhallerstr., 46, 81547, München</address>
+			<Point>
+				<coordinates>11.5687869,48.10577379999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Breitewiesen</name>
+			<address>Breitewiesen, 52, 75210, Keltern</address>
+			<Point>
+				<coordinates>8.54097,48.88197,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Breite Str.</name>
+			<address>Breite Str., 93, 76135, Karlsruhe</address>
+			<Point>
+				<coordinates>8.388283099999999,48.99155469999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Philipp-Wolfrum-Weg</name>
+			<address>Philipp-Wolfrum-Weg, 2, 69121, Heidelberg</address>
+			<Point>
+				<coordinates>8.683444999999999,49.4240611,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Delbrückstr.</name>
+			<address>Delbrückstr., 11a, 28209, Bremen</address>
+			<Point>
+				<coordinates>8.8206325,53.0826721,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Grosse Heerstr.</name>
+			<address>Grosse Heerstr., 39, 72793, Pfullingen</address>
+			<Point>
+				<coordinates>9.2288072,48.46400209999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tannwaldstr.</name>
+			<address>Tannwaldstr., 1, 76332, Bad Herrenalb</address>
+			<Point>
+				<coordinates>8.4498485,48.8019775,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Leustetter Str.</name>
+			<address>Leustetter Str., 10, 88682, Salem</address>
+			<Point>
+				<coordinates>9.317593,47.8030019,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lepsiusstr.</name>
+			<address>Lepsiusstr., 87, 12165, Steglitz</address>
+			<Point>
+				<coordinates>13.3154271,52.4582196,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Erlengrund</name>
+			<address>Erlengrund, 6, 51429, Bergisch Gladbach</address>
+			<Point>
+				<coordinates>7.146818,50.9594499,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Talstr.</name>
+			<address>Talstr., 11, 57614, Borod</address>
+			<Point>
+				<coordinates>7.706442,50.66740850000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alte Bahnhofstr.</name>
+			<address>Alte Bahnhofstr., 17, 38470, Parsau</address>
+			<Point>
+				<coordinates>10.9036982,52.548753,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Turmstraße</name>
+			<address>Turmstraße, 2, 66459, Kirkel</address>
+			<Point>
+				<coordinates>7.2835861,49.3197559,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Schmiedgasse</name>
+			<address>Schmiedgasse, 10, 73614, Schorndorf</address>
+			<Point>
+				<coordinates>9.5108714,48.8315831,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ellingshohl</name>
+			<address>Ellingshohl, 1d, 56076, Koblenz</address>
+			<Point>
+				<coordinates>7.6060489,50.34607250000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Auf den Steinen</name>
+			<address>Auf den Steinen, 52, 53340, Meckenheim</address>
+			<Point>
+				<coordinates>6.9997313,50.6516093,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stiftstraße</name>
+			<address>Stiftstraße, 6, 71384, Weinstadt</address>
+			<Point>
+				<coordinates>9.3892955,48.8052123,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fürbringerstraße</name>
+			<address>Fürbringerstraße, 21, 10961, Berlin</address>
+			<Point>
+				<coordinates>13.3976574,52.4930889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Goslarsche Str.</name>
+			<address>Goslarsche Str., 96, 38118, Braunschweig</address>
+			<Point>
+				<coordinates>10.5076398,52.2622617,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Riedweg</name>
+			<address>Riedweg, 11, 86551, Aichach</address>
+			<Point>
+				<coordinates>11.158312,48.43239699999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wendenring</name>
+			<address>Wendenring, 18, 38114, Braunschweig</address>
+			<Point>
+				<coordinates>10.5162202,52.2742442,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bergstr.</name>
+			<address>Bergstr., 19, 71263, Weil der Stadt</address>
+			<Point>
+				<coordinates>8.8509285,48.7647545,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Reismühlenstr.</name>
+			<address>Reismühlenstr., 23, 81477, München</address>
+			<Point>
+				<coordinates>11.5101041,48.0834915,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Im Wiesengrund</name>
+			<address>Im Wiesengrund, 18, 27726, Worpswede</address>
+			<Point>
+				<coordinates>8.9260506,53.2273018,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Geranienstraße</name>
+			<address>Geranienstraße, 6, 79312, Emmendingen</address>
+			<Point>
+				<coordinates>7.858568699999999,48.1042766,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sudetenstr.</name>
+			<address>Sudetenstr., 13, 64546, Mörfelden-Walldorf</address>
+			<Point>
+				<coordinates>8.5576996,49.9739316,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hauptstraße</name>
+			<address>Hauptstraße, 25, 24867, Dannewerk</address>
+			<Point>
+				<coordinates>9.5090059,54.4864927,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alte Hauptstraße</name>
+			<address>Alte Hauptstraße, 73b, 45289, Essen</address>
+			<Point>
+				<coordinates>7.112252000000001,51.4149715,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Am Weißen Kreuz</name>
+			<address>Am Weißen Kreuz, 14, 59469, Ense</address>
+			<Point>
+				<coordinates>8.006634700000001,51.4956364,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Takustraße</name>
+			<address>Takustraße, 15, 50825, Köln</address>
+			<Point>
+				<coordinates>6.9129403,50.9578293,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Erzbergerstraße</name>
+			<address>Erzbergerstraße, 30, 68782, Brühl</address>
+			<Point>
+				<coordinates>8.5344173,49.39993219999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fiedlerstr.</name>
+			<address>Fiedlerstr., 4, 01468, Moritzburg</address>
+			<Point>
+				<coordinates>13.681381,51.1632146,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Helmstedter Straße</name>
+			<address>Helmstedter Straße, 15/15a, 38446, Wolfsburg</address>
+			<Point>
+				<coordinates>10.8490003,52.4350494,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hauptstrasse</name>
+			<address>Hauptstrasse, 150, 69117, Heidelberg</address>
+			<Point>
+				<coordinates>8.7075388,49.4116491,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mühlbergstraße</name>
+			<address>Mühlbergstraße, 14, 82319, Starnberg</address>
+			<Point>
+				<coordinates>11.3346758,47.9989634,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kieler Straße</name>
+			<address>Kieler Straße, 106, 25474, Bönningstedt</address>
+			<Point>
+				<coordinates>9.9044169,53.66605149999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Brehmstraße</name>
+			<address>Brehmstraße, 52-56, 40239, Düsseldorf</address>
+			<Point>
+				<coordinates>6.801429799999999,51.2451574,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Johann-Sebastian-Bach-Straße</name>
+			<address>Johann-Sebastian-Bach-Straße, 14, 66780, Rehlingen-Siersburg</address>
+			<Point>
+				<coordinates>6.676719200000001,49.3724898,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lindenstr.</name>
+			<address>Lindenstr., 21, 14532, Stahnsdorf</address>
+			<Point>
+				<coordinates>13.2190021,52.3902991,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mühlenstraße</name>
+			<address>Mühlenstraße, 2, 23774, Heiligenhafen</address>
+			<Point>
+				<coordinates>10.9779868,54.3720073,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Finkenweg</name>
+			<address>Finkenweg, 22, 71404, Korb</address>
+			<Point>
+				<coordinates>9.358098499999999,48.8460287,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Maximilianstraße</name>
+			<address>Maximilianstraße, 78, 85399, Hallbergmoos</address>
+			<Point>
+				<coordinates>11.7408374,48.3179932,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Arthur Scheunert Allee</name>
+			<address>Arthur Scheunert Allee, 154a, 14558, Nuthetal</address>
+			<Point>
+				<coordinates>13.1078701,52.3438347,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Böttnerstraße</name>
+			<address>Böttnerstraße, 5, 42799, Leichlingen</address>
+			<Point>
+				<coordinates>6.997163,51.1064388,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Falckstr.</name>
+			<address>Falckstr., 8, 24103, Kiel</address>
+			<Point>
+				<coordinates>10.1399494,54.3245048,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gaistalstr.</name>
+			<address>Gaistalstr., 117, 76332, Bad Herrenalb</address>
+			<Point>
+				<coordinates>8.447144300000001,48.7828523,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Willöperstraße</name>
+			<address>Willöperstraße, 18, 22047, Hamburg</address>
+			<Point>
+				<coordinates>10.1040139,53.5833303,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Konkordienstraße</name>
+			<address>Konkordienstraße, 24, 01127, Dresden</address>
+			<Point>
+				<coordinates>13.7264181,51.075686,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hauptstr.</name>
+			<address>Hauptstr., 15, 78086, Brigachtal</address>
+			<Point>
+				<coordinates>8.4691475,48.0082458,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Zingel</name>
+			<address>Zingel, 5, 31134, Hildesheim</address>
+			<Point>
+				<coordinates>9.954631700000002,52.1509704,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Badstr.</name>
+			<address>Badstr., 13, 72250, Freudenstadt</address>
+			<Point>
+				<coordinates>8.413887299999999,48.4623679,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Landsbergstrasse</name>
+			<address>Landsbergstrasse, 29-31, 50678, Köln</address>
+			<Point>
+				<coordinates>6.9612267,50.9279857,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Im Höhngesgarten</name>
+			<address>Im Höhngesgarten, 47, 51491, Overath</address>
+			<Point>
+				<coordinates>7.250293800000001,50.951789,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Im Wiesengrund</name>
+			<address>Im Wiesengrund, 6, 14532, Stahnsdorf</address>
+			<Point>
+				<coordinates>13.2175562,52.385738,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hintergasse</name>
+			<address>Hintergasse, 9b-e, 60389, Frankfurt am Main</address>
+			<Point>
+				<coordinates>8.7248802,50.1456524,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hohe Egge Höhenweg</name>
+			<address>Hohe Egge Höhenweg, 18, 45549, Sprockhövel</address>
+			<Point>
+				<coordinates>7.264892199999999,51.36838059999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Eisvogelweg</name>
+			<address>Eisvogelweg, 8, 71032, Böblingen</address>
+			<Point>
+				<coordinates>9.029856299999999,48.6790291,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Röntgenstraße</name>
+			<address>Röntgenstraße, 7, 69126, Heidelberg</address>
+			<Point>
+				<coordinates>8.6915667,49.3762433,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Burghaldenweg</name>
+			<address>Burghaldenweg, 10, 70469, Stuttgart</address>
+			<Point>
+				<coordinates>9.162075399999999,48.8054515,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Im Grabenfeld</name>
+			<address>Im Grabenfeld, 7A, 65468, Trebur</address>
+			<Point>
+				<coordinates>8.3965763,49.8799726,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kirkesweg</name>
+			<address>Kirkesweg, 14, 45481, Mülheim an der Ruhr</address>
+			<Point>
+				<coordinates>6.877788499999999,51.4023423,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ottilie-Hoffmann-Straße</name>
+			<address>Ottilie-Hoffmann-Straße, 91, 28213, Bremen</address>
+			<Point>
+				<coordinates>8.840713299999999,53.0956617,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Am Tannenhang</name>
+			<address>Am Tannenhang, 13, 67316, Carlsberg</address>
+			<Point>
+				<coordinates>8.0301628,49.4963851,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Oberdorffelderstr.</name>
+			<address>Oberdorffelderstr., 15, 61138, Niederdorfelden</address>
+			<Point>
+				<coordinates>8.8007596,50.193514,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Luis-Weber Str.</name>
+			<address>Luis-Weber Str., 19, 36364, Bad Salzschlirf</address>
+			<Point>
+				<coordinates>9.5074638,50.6211147,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rübezahlstr.</name>
+			<address>Rübezahlstr., 11, 82538, Geretsried</address>
+			<Point>
+				<coordinates>11.4732034,47.8741286,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>An d. Stüweneiche</name>
+			<address>An d. Stüweneiche, 17, 17039, Neuenkirchen</address>
+			<Point>
+				<coordinates>13.3387623,53.5921286,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Schillerstraße</name>
+			<address>Schillerstraße, 19, 13156, Berlin</address>
+			<Point>
+				<coordinates>13.4091584,52.5916438,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alt Seulberg</name>
+			<address>Alt Seulberg, 7, 61381, Friedrichsdorf</address>
+			<Point>
+				<coordinates>8.6526553,50.2422309,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>St. Bernhardsberg</name>
+			<address>St. Bernhardsberg, 16, 94501, Aldersbach</address>
+			<Point>
+				<coordinates>13.0916431,48.5861917,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sander Str.</name>
+			<address>Sander Str., 211a, 51515, Bergisch Gladbach</address>
+			<Point>
+				<coordinates>7.1540357,50.9898326,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Herrmann-Steinhäuser-Straße</name>
+			<address>Herrmann-Steinhäuser-Straße, 27a, 63065, Offenbach</address>
+			<Point>
+				<coordinates>8.7717514,50.1055243,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Franzstraße</name>
+			<address>Franzstraße, 8, 50321, Brühl</address>
+			<Point>
+				<coordinates>6.912439999999999,50.83097,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Beethovenstr.</name>
+			<address>Beethovenstr., 12, 30449, Hannover</address>
+			<Point>
+				<coordinates>9.709530299999999,52.3682434,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lüssumer Str.</name>
+			<address>Lüssumer Str., 35, 28779, Bremen</address>
+			<Point>
+				<coordinates>8.577458,53.1869781,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Palmstraße</name>
+			<address>Palmstraße, 8, 65187, Wiesbaden</address>
+			<Point>
+				<coordinates>8.2246661,50.05482440000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Am Großen Wannsee</name>
+			<address>Am Großen Wannsee, 48, 14109, Berlin</address>
+			<Point>
+				<coordinates>13.1653306,52.4303317,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Eichbühlstraße</name>
+			<address>Eichbühlstraße, 1A, 79669, Zell im Wiesental</address>
+			<Point>
+				<coordinates>7.8489157,47.7026301,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Am Schneisbroich</name>
+			<address>Am Schneisbroich, 19, 40468, Düsseldorf</address>
+			<Point>
+				<coordinates>6.791682199999999,51.2651416,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Panoramastr.</name>
+			<address>Panoramastr., 2, 71679, Asperg</address>
+			<Point>
+				<coordinates>9.135389199999999,48.90819279999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jessnerstraße</name>
+			<address>Jessnerstraße, 23, 10247, Berlin</address>
+			<Point>
+				<coordinates>13.4725285,52.5115588,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Glogauer Straße</name>
+			<address>Glogauer Straße, 3, 85053, Ingolstadt</address>
+			<Point>
+				<coordinates>11.44854,48.7610597,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Holtzendorffstraße</name>
+			<address>Holtzendorffstraße, 12, 81549, München</address>
+			<Point>
+				<coordinates>11.5912031,48.0968211,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mozartstr.</name>
+			<address>Mozartstr., 8, 40479, Düsseldorf</address>
+			<Point>
+				<coordinates>6.7837482,51.23243069999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hoheneichen</name>
+			<address>Hoheneichen, 9, 22391, Hamburg</address>
+			<Point>
+				<coordinates>10.0644252,53.63766589999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fasanenweg</name>
+			<address>Fasanenweg, 19A, 63674, Altenstadt</address>
+			<Point>
+				<coordinates>8.9688172,50.2682091,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Otto-Hahn-Straße</name>
+			<address>Otto-Hahn-Straße, 1F, 64589, Stockstadt am Rhein</address>
+			<Point>
+				<coordinates>8.469076,49.80035729999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tulpenstr.</name>
+			<address>Tulpenstr., 10, 63263, Neu-Isenburg</address>
+			<Point>
+				<coordinates>8.6995323,50.0471839,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Eichenstraße</name>
+			<address>Eichenstraße, 16, 95490, Mistelgau</address>
+			<Point>
+				<coordinates>11.4599785,49.9096645,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cuxhavener Straße</name>
+			<address>Cuxhavener Straße, 10, 90766, Fürth</address>
+			<Point>
+				<coordinates>10.9536896,49.4873979,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ostpreußenstr.</name>
+			<address>Ostpreußenstr., 5, 95497, Goldkronach</address>
+			<Point>
+				<coordinates>11.6815645,50.0066087,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rädestrasse</name>
+			<address>Rädestrasse, 1, 01169, Dresden</address>
+			<Point>
+				<coordinates>13.6590018,51.0404585,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Äußeres Pfaffengäßchen</name>
+			<address>Äußeres Pfaffengäßchen, 40, 86152, Augsburg</address>
+			<Point>
+				<coordinates>10.9003196,48.3738263,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Landsberger Str.</name>
+			<address>Landsberger Str., 22, 82110, Germering</address>
+			<Point>
+				<coordinates>11.3861017,48.13511039999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alte Reichsstraße</name>
+			<address>Alte Reichsstraße, 31, 86356, Neusäß</address>
+			<Point>
+				<coordinates>10.826718,48.3744872,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nordring</name>
+			<address>Nordring, 82, 64807, Dieburg</address>
+			<Point>
+				<coordinates>8.8631195,49.9148994,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Glarenstr.</name>
+			<address>Glarenstr., 23, 88267, Vogt</address>
+			<Point>
+				<coordinates>9.7621633,47.77371249999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gaisgasse</name>
+			<address>Gaisgasse, 1, 70825, Korntal-Münchingen</address>
+			<Point>
+				<coordinates>9.0893505,48.8532473,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Menterstraße</name>
+			<address>Menterstraße, 59-59E, 81247, München</address>
+			<Point>
+				<coordinates>11.4722399,48.1598945,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Birkenfeld</name>
+			<address>Birkenfeld, 11, 37133, Friedland</address>
+			<Point>
+				<coordinates>9.9379974,51.4398023,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Taunusstraße</name>
+			<address>Taunusstraße, 53, 65760, Eschborn</address>
+			<Point>
+				<coordinates>8.5419974,50.1574237,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dürerweg</name>
+			<address>Dürerweg, 8, 87600, Kaufbeuren</address>
+			<Point>
+				<coordinates>10.634012,47.9086193,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fontanestraße</name>
+			<address>Fontanestraße, 24, 69469, Weinheim</address>
+			<Point>
+				<coordinates>8.6652402,49.5216078,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Marburger Straße</name>
+			<address>Marburger Straße, 2A, 35112, Fronhausen</address>
+			<Point>
+				<coordinates>8.6950104,50.7056604,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Saseler Chaussee</name>
+			<address>Saseler Chaussee, 84, 22391, Hamburg</address>
+			<Point>
+				<coordinates>10.0987558,53.64248079999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Daimler-Benz-Straße</name>
+			<address>Daimler-Benz-Straße, 15, 76571, Gaggenau</address>
+			<Point>
+				<coordinates>8.3315739,48.8021819,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Viktoriastraße</name>
+			<address>Viktoriastraße, 11, 12203, Berlin</address>
+			<Point>
+				<coordinates>13.303479,52.4436883,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Edith-Stein-Straße</name>
+			<address>Edith-Stein-Straße, 36a, 63225, Langen</address>
+			<Point>
+				<coordinates>8.674417799999999,49.99288379999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Elsasser Straße</name>
+			<address>Elsasser Straße, 125, 28211, Bremen</address>
+			<Point>
+				<coordinates>8.8442249,53.0778202,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rüsselsheimer Str.</name>
+			<address>Rüsselsheimer Str., 79, 65451, Kelsterbach</address>
+			<Point>
+				<coordinates>8.52181,50.0605144,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Eiderweg</name>
+			<address>Eiderweg, 23, 30851, Langenhagen</address>
+			<Point>
+				<coordinates>9.7452915,52.4317613,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Reichenbachstraße</name>
+			<address>Reichenbachstraße, 45, 70372, Stuttgart</address>
+			<Point>
+				<coordinates>9.225081099999999,48.7987202,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Claustaler Straße</name>
+			<address>Claustaler Straße, 14, 45145, Essen</address>
+			<Point>
+				<coordinates>6.979416,51.4454487,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lupinenstraße</name>
+			<address>Lupinenstraße, 8, 74417, Gschwend</address>
+			<Point>
+				<coordinates>9.731789,48.934239,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Breslauer Weg</name>
+			<address>Breslauer Weg, 1, 66130, Saarbrücken</address>
+			<Point>
+				<coordinates>7.046172100000001,49.2112264,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Steenwisch</name>
+			<address>Steenwisch, 29, 22527, Hamburg</address>
+			<Point>
+				<coordinates>9.939586799999999,53.5822543,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ilse-Cartellieri-Straße</name>
+			<address>Ilse-Cartellieri-Straße, 24-30, 21337, Lüneburg</address>
+			<Point>
+				<coordinates>10.4378691,53.2523113,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hauptstr.</name>
+			<address>Hauptstr., 123, 68799, Reilingen</address>
+			<Point>
+				<coordinates>8.5679952,49.2931563,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Regerstrasse</name>
+			<address>Regerstrasse, 2, 33604, Bielefeld</address>
+			<Point>
+				<coordinates>8.5364991,52.0124474,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jessnerstraße</name>
+			<address>Jessnerstraße, 35, 10247, Berlin</address>
+			<Point>
+				<coordinates>13.4718373,52.5109088,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kapitän-Dallmann-Straße</name>
+			<address>Kapitän-Dallmann-Straße, 1, 28779, Bremen</address>
+			<Point>
+				<coordinates>8.572360699999999,53.1816872,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gartenstraße</name>
+			<address>Gartenstraße, 16, 30880, Laatzen</address>
+			<Point>
+				<coordinates>9.784954299999999,52.3198024,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Quellstraße</name>
+			<address>Quellstraße, 14, 83346, Bergen</address>
+			<Point>
+				<coordinates>12.5926369,47.8238388,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lilienstraße</name>
+			<address>Lilienstraße, 53, 53881, Euskirchen</address>
+			<Point>
+				<coordinates>6.8076818,50.644188,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Belfortstraße</name>
+			<address>Belfortstraße, 2, 76133, Karlsruhe</address>
+			<Point>
+				<coordinates>8.389217799999999,49.0088538,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rothenbaumchaussee</name>
+			<address>Rothenbaumchaussee, 223, 20149, Hamburg</address>
+			<Point>
+				<coordinates>9.9882299,53.5799996,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rathausstraße</name>
+			<address>Rathausstraße, 7A, 24960, Glücksburg (Ostsee)</address>
+			<Point>
+				<coordinates>9.5489411,54.834715,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lorenzstaffel</name>
+			<address>Lorenzstaffel, 7, 70182, Stuttgart</address>
+			<Point>
+				<coordinates>9.1846486,48.7723588,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Clemensstraße</name>
+			<address>Clemensstraße, 67, 80796, München</address>
+			<Point>
+				<coordinates>11.574141,48.1632828,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Im Flecken</name>
+			<address>Im Flecken, 3, 65375, Oestrich-Winkel</address>
+			<Point>
+				<coordinates>8.002583099999999,49.9974327,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Walsroder Straße</name>
+			<address>Walsroder Straße, 6, 28215, Bremen</address>
+			<Point>
+				<coordinates>8.8026486,53.0930617,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Waldstr.</name>
+			<address>Waldstr., 36A-D, 14513, Teltow</address>
+			<Point>
+				<coordinates>13.2911067,52.3940936,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Geitauer Str.</name>
+			<address>Geitauer Str., 14, 81379, München</address>
+			<Point>
+				<coordinates>11.5436338,48.0967503,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sulzweg</name>
+			<address>Sulzweg, 9, 81827, München</address>
+			<Point>
+				<coordinates>11.6909192,48.1160948,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Köttinger Weg</name>
+			<address>Köttinger Weg, 41, 50997, Köln</address>
+			<Point>
+				<coordinates>6.9235269,50.8593738,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Haspelstraße</name>
+			<address>Haspelstraße, 45B, 66538, Neunkirchen</address>
+			<Point>
+				<coordinates>7.1845826,49.3407114,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wasserstraße</name>
+			<address>Wasserstraße, 2, 44379, Dortmund</address>
+			<Point>
+				<coordinates>7.373983200000001,51.5227985,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Friedensstraße</name>
+			<address>Friedensstraße, 53, 61476, Kronberg im Taunus</address>
+			<Point>
+				<coordinates>8.5457273,50.17717469999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Krumme Straße</name>
+			<address>Krumme Straße, 2, 30559, Hannover</address>
+			<Point>
+				<coordinates>9.8581757,52.3618041,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Allgäuer Straße</name>
+			<address>Allgäuer Straße, 109, 81475, München</address>
+			<Point>
+				<coordinates>11.4860971,48.0792917,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hermannstr</name>
+			<address>Hermannstr, 53, 45891, Gelsenkirchen</address>
+			<Point>
+				<coordinates>7.0969628,51.5509321,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Uftseestrasse</name>
+			<address>Uftseestrasse, 8, 53937, Schleiden</address>
+			<Point>
+				<coordinates>6.494692,50.5752937,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kunzweg</name>
+			<address>Kunzweg, 4, 81243, München</address>
+			<Point>
+				<coordinates>11.4439488,48.1420493,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Situlistrasse</name>
+			<address>Situlistrasse, 8, 80939, München</address>
+			<Point>
+				<coordinates>11.6145503,48.18912599999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Öscher Weg</name>
+			<address>Öscher Weg, 1, 87459, Pfronte</address>
+			<Point>
+				<coordinates>10.5591485,47.5731255,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Falbenhennenstr.</name>
+			<address>Falbenhennenstr., 10, 70180, Stuttgart</address>
+			<Point>
+				<coordinates>9.1769,48.76655,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kuddenberg</name>
+			<address>Kuddenberg, 12, 51515, Kürten</address>
+			<Point>
+				<coordinates>7.2900902,51.0590963,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ölmühlweg</name>
+			<address>Ölmühlweg, 13, 61462, Königstein im Taunus</address>
+			<Point>
+				<coordinates>8.4612258,50.1865465,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Weiherwiese</name>
+			<address>Weiherwiese, 28-30, 65510, Idstein</address>
+			<Point>
+				<coordinates>8.272353,50.2211231,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Am Spitzwald</name>
+			<address>Am Spitzwald, 9, 21509, Glinde</address>
+			<Point>
+				<coordinates>10.2215985,53.55639790000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Am Kammerforst</name>
+			<address>Am Kammerforst, 11, 66663, Merzig</address>
+			<Point>
+				<coordinates>6.646921499999999,49.4639578,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nuthestraße</name>
+			<address>Nuthestraße, 19, 12307, Berlin</address>
+			<Point>
+				<coordinates>13.3916251,52.3961265,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Haus</name>
+			<address>Haus, 56a, 25938, Oldsum</address>
+			<Point>
+				<coordinates>8.4407499,54.7256049,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mittlere Beutau</name>
+			<address>Mittlere Beutau, 44, 73728, Esslingen am Neckar</address>
+			<Point>
+				<coordinates>9.306934,48.746086,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Halverstraße</name>
+			<address>Halverstraße, 6, 58515, Lüdenscheid</address>
+			<Point>
+				<coordinates>7.565783100000001,51.208659,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wallstraße</name>
+			<address>Wallstraße, 26, 89231, Neu-Ulm</address>
+			<Point>
+				<coordinates>10.0054064,48.396193,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sonnenrainweg</name>
+			<address>Sonnenrainweg, 41, 71088, Holzgerlingen</address>
+			<Point>
+				<coordinates>9.0236451,48.6441475,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Buchenweg</name>
+			<address>Buchenweg, 19, 74918, Angelbachtal</address>
+			<Point>
+				<coordinates>8.7774174,49.2237907,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Würzburgerstraße</name>
+			<address>Würzburgerstraße, 91, 63517, Rodenbach</address>
+			<Point>
+				<coordinates>9.0315276,50.1398074,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Blumhardtstraße</name>
+			<address>Blumhardtstraße, 4, 70794, Filderstadt</address>
+			<Point>
+				<coordinates>9.2085739,48.6788617,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Friedrichstraße</name>
+			<address>Friedrichstraße, 7, 23562, Lübeck</address>
+			<Point>
+				<coordinates>10.6857173,53.84702799999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alleenstraße</name>
+			<address>Alleenstraße, 5, 70825, Korntal-Münchingen</address>
+			<Point>
+				<coordinates>9.0962082,48.8543483,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Zur Mittelau</name>
+			<address>Zur Mittelau, 33, 92360, Mühlhausen</address>
+			<Point>
+				<coordinates>11.4443043,49.1614025,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pfingstbrunnenstraße</name>
+			<address>Pfingstbrunnenstraße, 19, 65824, Schwalbach am Taunus</address>
+			<Point>
+				<coordinates>8.5306471,50.1505124,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Albert-Einstein-Straße</name>
+			<address>Albert-Einstein-Straße, 89, 40789, Monheim am Rhein</address>
+			<Point>
+				<coordinates>6.889602,51.080177,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hinterriedstraße</name>
+			<address>Hinterriedstraße, 11, 71272, Renningen</address>
+			<Point>
+				<coordinates>8.931858,48.77157099999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hinterbergstraße</name>
+			<address>Hinterbergstraße, 11, 65207, Wiesbaden</address>
+			<Point>
+				<coordinates>8.3253951,50.0824186,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Neckarstraße</name>
+			<address>Neckarstraße, 49, 71686, Remseck am Neckar</address>
+			<Point>
+				<coordinates>9.2559273,48.8671751,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Am Steinberg</name>
+			<address>Am Steinberg, 29, 65719, Hofheim am Taunus</address>
+			<Point>
+				<coordinates>8.450602,50.0955392,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wieckstraße</name>
+			<address>Wieckstraße, 22, 22527, Hamburg</address>
+			<Point>
+				<coordinates>9.9429417,53.5834892,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Südendamm</name>
+			<address>Südendamm, 8a, 48324, Sendenhorst</address>
+			<Point>
+				<coordinates>7.8291088,51.840381,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fichtestraße</name>
+			<address>Fichtestraße, 8A, 31275, Lehrte</address>
+			<Point>
+				<coordinates>9.9693545,52.3666546,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fuchskaulenstraße</name>
+			<address>Fuchskaulenstraße, 3, 50354, Hürth</address>
+			<Point>
+				<coordinates>6.8575738,50.8685184,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Eugenstr</name>
+			<address>Eugenstr, 42, 72072, Tübingen</address>
+			<Point>
+				<coordinates>9.0642389,48.5133758,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fasangartenstraße</name>
+			<address>Fasangartenstraße, 160, 81549, München</address>
+			<Point>
+				<coordinates>11.5963833,48.0865444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hauptstraße</name>
+			<address>Hauptstraße, 107, 67735, Mehlbach</address>
+			<Point>
+				<coordinates>7.714374099999999,49.5266749,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bonner Talweg</name>
+			<address>Bonner Talweg, 47, 53113, Bonn</address>
+			<Point>
+				<coordinates>7.102484199999999,50.7253654,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Auf d. Helle</name>
+			<address>Auf d. Helle, 5, 58313, Herdecke</address>
+			<Point>
+				<coordinates>7.421008499999999,51.4032997,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hirsekamp</name>
+			<address>Hirsekamp, 1c, 22175, Hamburg</address>
+			<Point>
+				<coordinates>10.0862199,53.62585439999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Brunnenallee</name>
+			<address>Brunnenallee, 8, 53173, Bonn</address>
+			<Point>
+				<coordinates>7.150466499999999,50.6815553,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Waldgartenstraße</name>
+			<address>Waldgartenstraße, 59a, 81377, München</address>
+			<Point>
+				<coordinates>11.4824164,48.1062462,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tiergarten- Straße</name>
+			<address>Tiergarten- Straße, 257, 42117, Elberfeld</address>
+			<Point>
+				<coordinates>7.1112688,51.2461279,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Albrecht-Dürer Straße</name>
+			<address>Albrecht-Dürer Straße, 25, 67240, Bobenheim-Roxheim</address>
+			<Point>
+				<coordinates>8.3557574,49.5791633,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kuenstraße</name>
+			<address>Kuenstraße, 35, 50733, Köln</address>
+			<Point>
+				<coordinates>6.958985299999999,50.9612795,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Peiner Heerstraße</name>
+			<address>Peiner Heerstraße, 4, 31275, Lehrte</address>
+			<Point>
+				<coordinates>9.9824523,52.40238129999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bietigheimer Straße</name>
+			<address>Bietigheimer Straße, 17, 71691, Freiberg am Neckar</address>
+			<Point>
+				<coordinates>9.1838904,48.9411847,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kleinschmidtstraße</name>
+			<address>Kleinschmidtstraße, 13, 60431, Frankfurt am Main</address>
+			<Point>
+				<coordinates>8.6598322,50.1522477,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Blankenburger Straße</name>
+			<address>Blankenburger Straße, 79, 13156, Berlin</address>
+			<Point>
+				<coordinates>13.4163307,52.5844858,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Schubertstraße</name>
+			<address>Schubertstraße, 8, 82194, Gröbenzell</address>
+			<Point>
+				<coordinates>11.3748066,48.1968063,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hauptstr.</name>
+			<address>Hauptstr., 73, 79364, Malterdingen</address>
+			<Point>
+				<coordinates>7.789081199999999,48.1605737,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jahnstraße</name>
+			<address>Jahnstraße, 30, 69221, Dossenheim</address>
+			<Point>
+				<coordinates>8.6686595,49.4453405,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Löwenstraße</name>
+			<address>Löwenstraße, 94, 70597, Stuttgart</address>
+			<Point>
+				<coordinates>9.177723799999999,48.7481795,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Trollingerweg</name>
+			<address>Trollingerweg, 14, 74348, Lauffen</address>
+			<Point>
+				<coordinates>9.1402027,49.0686054,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sonnenrainweg</name>
+			<address>Sonnenrainweg, 11, 71297, Mönsheim</address>
+			<Point>
+				<coordinates>8.8649526,48.8684454,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mannertstraße</name>
+			<address>Mannertstraße, 26, 80997, München</address>
+			<Point>
+				<coordinates>11.4617317,48.2114387,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tulpenhofstraße</name>
+			<address>Tulpenhofstraße, 18, 63067, Offenbach am Main</address>
+			<Point>
+				<coordinates>8.752784,50.10010639999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Insterburgerstraße</name>
+			<address>Insterburgerstraße, 2, 81929, München</address>
+			<Point>
+				<coordinates>11.6411101,48.1510549,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Katharinenstraße</name>
+			<address>Katharinenstraße, 58, 73728, Esslingen</address>
+			<Point>
+				<coordinates>9.316132,48.7409461,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Füssener Straße</name>
+			<address>Füssener Straße, 35, 82383, Hohenpeißenberg</address>
+			<Point>
+				<coordinates>10.9914744,47.80179400000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mainzer Straße</name>
+			<address>Mainzer Straße, 183, 53179, Bonn</address>
+			<Point>
+				<coordinates>7.1918846,50.6613668,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Seeblickstr.</name>
+			<address>Seeblickstr., 9, 78253, Eigeltingen</address>
+			<Point>
+				<coordinates>8.891327,47.8590065,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hanweiler Straße</name>
+			<address>Hanweiler Straße, 36, 71404, Korb</address>
+			<Point>
+				<coordinates>9.3696921,48.84216989999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Finkenweg</name>
+			<address>Finkenweg, 22-34, 93059, Regensburg</address>
+			<Point>
+				<coordinates>12.1041057,49.03646990000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hintere Straße</name>
+			<address>Hintere Straße, 84a-86k, 90768, Fürth</address>
+			<Point>
+				<coordinates>10.936998,49.49247889999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Furtenbach Straße</name>
+			<address>Furtenbach Straße, 5A, 90453, Nürnberg</address>
+			<Point>
+				<coordinates>11.0311621,49.3816877,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Doktor-Rosa-Goldschmidt Straße</name>
+			<address>Doktor-Rosa-Goldschmidt Straße, 41-59, 63075, Offenbach</address>
+			<Point>
+				<coordinates>8.8129682,50.112568,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Koppelweg</name>
+			<address>Koppelweg, 8a, 30826, Garbsen</address>
+			<Point>
+				<coordinates>9.5519343,52.4670456,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Amsterdamer Straße</name>
+			<address>Amsterdamer Straße, 269, 50735, Köln</address>
+			<Point>
+				<coordinates>6.9681916,50.9788253,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rantzaustraße</name>
+			<address>Rantzaustraße, 100, 22041, Hamburg</address>
+			<Point>
+				<coordinates>10.0763086,53.57034179999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mainzer Straße</name>
+			<address>Mainzer Straße, 1, 65719, Hofheim am Taunus</address>
+			<Point>
+				<coordinates>8.4380641,50.07945770000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Osterholzallee</name>
+			<address>Osterholzallee, 6, 71636, Ludwigsburg</address>
+			<Point>
+				<coordinates>9.178889999999999,48.89738,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Heimenhofenstraße</name>
+			<address>Heimenhofenstraße, 1, 87545, Burgberg im Allgäu</address>
+			<Point>
+				<coordinates>10.287322,47.5373549,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Zum Steinberg</name>
+			<address>Zum Steinberg, 59, 69121, Heidelberg</address>
+			<Point>
+				<coordinates>8.6840712,49.4340581,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Allerheiligenstraße</name>
+			<address>Allerheiligenstraße, 19, 99084, Erfurt</address>
+			<Point>
+				<coordinates>11.0272401,50.9785667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hauptstraße</name>
+			<address>Hauptstraße, 293a, 65760, Eschborn</address>
+			<Point>
+				<coordinates>8.547036,50.1573726,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Graf-Adolf-Str.</name>
+			<address>Graf-Adolf-Str., 13, 58239, Schwerte</address>
+			<Point>
+				<coordinates>7.569368600000001,51.4470334,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Am Gemeindegarten</name>
+			<address>Am Gemeindegarten, 5, 65933, Frankfurt am Main</address>
+			<Point>
+				<coordinates>8.608682,50.0938497,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mainstraße</name>
+			<address>Mainstraße, 41, 28199, Bremen</address>
+			<Point>
+				<coordinates>8.7938875,53.0695519,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Zschopaustraße</name>
+			<address>Zschopaustraße, 44/46, 74172, Neckarsulm</address>
+			<Point>
+				<coordinates>9.2542473,49.2092827,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Whitehorse-Straße</name>
+			<address>Whitehorse-Straße, 1-38, 14513, Berlin</address>
+			<Point>
+				<coordinates>13.2674056,52.3946656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Karlstraße</name>
+			<address>Karlstraße, 14, 45661, Recklinghausen</address>
+			<Point>
+				<coordinates>7.1886381,51.5602676,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Venusbergweg</name>
+			<address>Venusbergweg, 37, 53115, Bonn</address>
+			<Point>
+				<coordinates>7.0953221,50.7243283,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Neubruchweg</name>
+			<address>Neubruchweg, 29, 82205, Gilching</address>
+			<Point>
+				<coordinates>11.2889516,48.0941637,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Im Lerchenholz</name>
+			<address>Im Lerchenholz, 23, 71636, Ludwigsburg</address>
+			<Point>
+				<coordinates>9.1857693,48.8846267,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Heiderhöfen</name>
+			<address>Heiderhöfen, 111, 46049, Oberhausen</address>
+			<Point>
+				<coordinates>6.823886300000001,51.4597618,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Heiderhöfen</name>
+			<address>Heiderhöfen, 113&amp;115, 46049, Oberhausen</address>
+			<Point>
+				<coordinates>6.8273404,51.4587587,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Albert-Einstein-Straße</name>
+			<address>Albert-Einstein-Straße, 30, 60437, Frankfurt am Main</address>
+			<Point>
+				<coordinates>8.679356799999999,50.2008085,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Auf der Steinrausch</name>
+			<address>Auf der Steinrausch, 8, 56295, Lonnig</address>
+			<Point>
+				<coordinates>7.401547,50.3089958,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kochendorferstraße</name>
+			<address>Kochendorferstraße, 1, 74229, Oedheim</address>
+			<Point>
+				<coordinates>9.25127,49.23894,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Elsässer Straße</name>
+			<address>Elsässer Straße, 20, 77694, Kehl am Rhein</address>
+			<Point>
+				<coordinates>7.8506097,48.5685389,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Römerweg</name>
+			<address>Römerweg, 11, 61449, Steinbach (Taunus)</address>
+			<Point>
+				<coordinates>8.5658622,50.1664708,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kirchstraße</name>
+			<address>Kirchstraße, 26, 89233, Neu-Ulm</address>
+			<Point>
+				<coordinates>10.042155,48.4075139,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Trabener Straße</name>
+			<address>Trabener Straße, 68a, 14193, Berlin</address>
+			<Point>
+				<coordinates>13.2781421,52.4942808,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rudersbergerstraße</name>
+			<address>Rudersbergerstraße, 34, 73614, Schorndorf</address>
+			<Point>
+				<coordinates>9.5405695,48.8439269,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Carl Severing Str.</name>
+			<address>Carl Severing Str., 78, 33649, Bielefeld</address>
+			<Point>
+				<coordinates>8.4885506,51.9982243,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Salmbacherstraße</name>
+			<address>Salmbacherstraße, 81, 12349, Berlin</address>
+			<Point>
+				<coordinates>13.4149763,52.427903,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Staatsrat-Schwamb-Straße</name>
+			<address>Staatsrat-Schwamb-Straße, 60, 55278, Undenheim</address>
+			<Point>
+				<coordinates>8.2256032,49.8400942,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sudetenlandstraße</name>
+			<address>Sudetenlandstraße, 76, 85221, Dachau</address>
+			<Point>
+				<coordinates>11.4661048,48.26230990000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Heßler Straße</name>
+			<address>Heßler Straße, 349, 45329, Essen</address>
+			<Point>
+				<coordinates>7.0397408,51.5128658,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hohenzollernstraße</name>
+			<address>Hohenzollernstraße, 3, 14163, Berlin</address>
+			<Point>
+				<coordinates>13.2552778,52.43234950000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Münchinger Straße</name>
+			<address>Münchinger Straße, 34, 71254, Ditzingen</address>
+			<Point>
+				<coordinates>9.070580699999999,48.8283047,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Römerstraße</name>
+			<address>Römerstraße, 29, 69115, Heidelberg</address>
+			<Point>
+				<coordinates>8.6849134,49.4036858,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bachstraße</name>
+			<address>Bachstraße, 28, 53115, Bonn</address>
+			<Point>
+				<coordinates>7.0905977,50.7323952,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Große Rainstraße</name>
+			<address>Große Rainstraße, 15, 22765, Hamburg</address>
+			<Point>
+				<coordinates>9.930774399999999,53.5528741,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rüppurer Straße</name>
+			<address>Rüppurer Straße, 18, 76137, Karlsruhe</address>
+			<Point>
+				<coordinates>8.4102447,49.00305789999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Blankeneser Landstraße</name>
+			<address>Blankeneser Landstraße, 5, 22587, Hamburg</address>
+			<Point>
+				<coordinates>9.8110841,53.56311290000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Von-Kahr-Straße</name>
+			<address>Von-Kahr-Straße, 23, 80997, München</address>
+			<Point>
+				<coordinates>11.4822476,48.17798060000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Halfinger Straße</name>
+			<address>Halfinger Straße, 28, 81825, München</address>
+			<Point>
+				<coordinates>11.6529886,48.1256956,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lindenstraße</name>
+			<address>Lindenstraße, 17, 74395, Mundelsheim</address>
+			<Point>
+				<coordinates>9.2083908,48.9985192,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sterngasse</name>
+			<address>Sterngasse, 123, 64347, Griesheim</address>
+			<Point>
+				<coordinates>8.5706697,49.8556559,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Skylineblick</name>
+			<address>Skylineblick, 17, 60438, Frankfurt am Main</address>
+			<Point>
+				<coordinates>8.640972999999999,50.17924499999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Christian-Grunert-Straße</name>
+			<address>Christian-Grunert-Straße, 1, 04288, Leipzig</address>
+			<Point>
+				<coordinates>12.458726,51.3077036,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Olgastraße</name>
+			<address>Olgastraße, 38, 73630, Remshalden</address>
+			<Point>
+				<coordinates>9.419471699999999,48.818468,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Graurheindorfer Straße</name>
+			<address>Graurheindorfer Straße, 73, 53111, Bonn</address>
+			<Point>
+				<coordinates>7.095402,50.74502400000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Freseniusstraße</name>
+			<address>Freseniusstraße, 49, 65193, Wiesbaden</address>
+			<Point>
+				<coordinates>8.2416815,50.09695989999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hallgartenstraße</name>
+			<address>Hallgartenstraße, 11, 61250, Usingen</address>
+			<Point>
+				<coordinates>8.5670313,50.3627865,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kohlklinge</name>
+			<address>Kohlklinge, 5, 69469, Weinheim</address>
+			<Point>
+				<coordinates>8.74227,49.50892,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rheindorfer Straße</name>
+			<address>Rheindorfer Straße, 104, 53225, Bonn</address>
+			<Point>
+				<coordinates>7.116937999999999,50.7445668,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Auf der Haardt</name>
+			<address>Auf der Haardt, 7, 75385, Bad Teinach-Zavelstein</address>
+			<Point>
+				<coordinates>8.6730497,48.7048374,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kärntner Str.</name>
+			<address>Kärntner Str., 35, 71636, Ludwigsburg</address>
+			<Point>
+				<coordinates>9.1699732,48.8962216,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Neißestraße</name>
+			<address>Neißestraße, 6, 66740, Saarlouis</address>
+			<Point>
+				<coordinates>6.743981499999999,49.3398731,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lucian-Reich-Straße</name>
+			<address>Lucian-Reich-Straße, 13, 76473, Iffezheim</address>
+			<Point>
+				<coordinates>8.1496116,48.8159505,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Überkinger Str.</name>
+			<address>Überkinger Str., 16, 70372, Stuttgart</address>
+			<Point>
+				<coordinates>9.214450399999999,48.8065417,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Herman-Löns-Weg</name>
+			<address>Herman-Löns-Weg, 8, 70619, Stuttgart</address>
+			<Point>
+				<coordinates>9.2024548,48.74434189999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Konviktstraße</name>
+			<address>Konviktstraße, 21-23, 79098, Freiburg</address>
+			<Point>
+				<coordinates>7.854699999999999,47.9945,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ludwig-Lesser-Straße</name>
+			<address>Ludwig-Lesser-Straße, 3, 16761, Hennigsdorf</address>
+			<Point>
+				<coordinates>13.2079894,52.6369418,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Schellenbergstraße</name>
+			<address>Schellenbergstraße, 15, 82110, Germering</address>
+			<Point>
+				<coordinates>11.3574704,48.1314539,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Austraße</name>
+			<address>Austraße, 34, 86492, Egling</address>
+			<Point>
+				<coordinates>10.9766801,48.1896401,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gerhart-Hauptmann-Str.</name>
+			<address>Gerhart-Hauptmann-Str., 12, 76703, Kraichtal</address>
+			<Point>
+				<coordinates>8.7158666,49.12064710000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>St.-Joseph-Str.</name>
+			<address>St.-Joseph-Str., 20, 56068, Koblenz</address>
+			<Point>
+				<coordinates>7.59102,50.34674,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Helene-Engelbrecht Straße</name>
+			<address>Helene-Engelbrecht Straße, 116, 38124, Braunschweig</address>
+			<Point>
+				<coordinates>10.5163432,52.2206036,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bahnhofstraße</name>
+			<address>Bahnhofstraße, 10, 99192, Nesse- Apfelstädt</address>
+			<Point>
+				<coordinates>10.9115448,50.9138248,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Peter-Kreuder-Straße</name>
+			<address>Peter-Kreuder-Straße, 15, 81245, München</address>
+			<Point>
+				<coordinates>11.4450895,48.1590721,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Flottbeker Drift</name>
+			<address>Flottbeker Drift, 42, 22607, Hamburg</address>
+			<Point>
+				<coordinates>9.8757196,53.5734699,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Neufeldstraße</name>
+			<address>Neufeldstraße, 24, 82256, Fürstenfeldbruck</address>
+			<Point>
+				<coordinates>11.2541067,48.18861219999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Humboldt Str.</name>
+			<address>Humboldt Str., 30, 14193, Berlin</address>
+			<Point>
+				<coordinates>13.2868184,52.4901174,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Amselweg</name>
+			<address>Amselweg, 1, 82110, Germering</address>
+			<Point>
+				<coordinates>11.3645953,48.1248023,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Blumenstr.</name>
+			<address>Blumenstr., 15, 72658, Bempflingen</address>
+			<Point>
+				<coordinates>9.2656907,48.5701261,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pinkowitz</name>
+			<address>Pinkowitz, 1, 01665, Kilpphausen</address>
+			<Point>
+				<coordinates>13.548627,51.1048552,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wünsdorfer Straße</name>
+			<address>Wünsdorfer Straße, 113, 12307, Berlin</address>
+			<Point>
+				<coordinates>13.395027,52.3880951,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hüpfelinstraße</name>
+			<address>Hüpfelinstraße, 6, 80939, München</address>
+			<Point>
+				<coordinates>11.5877199,48.1956773,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wannackerweg</name>
+			<address>Wannackerweg, 3, 76534, Baden Baden</address>
+			<Point>
+				<coordinates>8.2451072,48.7218684,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ingeborg-Kreßmann Straße</name>
+			<address>Ingeborg-Kreßmann Straße, 1a, 38518, Gifhorn</address>
+			<Point>
+				<coordinates>10.5738924,52.4674562,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Franzosenkoppel</name>
+			<address>Franzosenkoppel, 73, 22547, Hamburg</address>
+			<Point>
+				<coordinates>9.8779598,53.6027229,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Münchinger Straße</name>
+			<address>Münchinger Straße, , 70439, Stuttgart</address>
+			<Point>
+				<coordinates>9.148252,48.8497297,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rolandstraße</name>
+			<address>Rolandstraße, 83, 50677, Köln</address>
+			<Point>
+				<coordinates>6.955429,50.9191486,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sperberstr.</name>
+			<address>Sperberstr., 33, 13505, Berlin</address>
+			<Point>
+				<coordinates>13.2235058,52.5873135,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Schützenstraße</name>
+			<address>Schützenstraße, 5, 57392, Schmallenberg</address>
+			<Point>
+				<coordinates>8.3150443,51.1924948,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Heidestraße</name>
+			<address>Heidestraße, 89, 60385, Frankfurt</address>
+			<Point>
+				<coordinates>8.7042164,50.1259728,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Merheimer Straße</name>
+			<address>Merheimer Straße, 502, 50735, Köln</address>
+			<Point>
+				<coordinates>6.945913900000001,50.9796858,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Franz-Lenders-Straße</name>
+			<address>Franz-Lenders-Straße, 20, 50226, Frechen</address>
+			<Point>
+				<coordinates>6.7660141,50.94023259999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Spießstr.</name>
+			<address>Spießstr., 31, 90441, Nürnberg</address>
+			<Point>
+				<coordinates>11.0586779,49.4247069,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Brüsseler Platz</name>
+			<address>Brüsseler Platz, 24, 50674, Köln</address>
+			<Point>
+				<coordinates>6.933100800000001,50.9389263,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Möhlstraße</name>
+			<address>Möhlstraße, 25, 51069, Köln</address>
+			<Point>
+				<coordinates>7.0706095,50.9800826,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Deglergasse</name>
+			<address>Deglergasse, 3a-3b, 82362, Weilheim in Oberbayern</address>
+			<Point>
+				<coordinates>11.1469078,47.836327,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bergstraße</name>
+			<address>Bergstraße, 42, 14532, Stahnsdorf</address>
+			<Point>
+				<coordinates>13.2026405,52.38192009999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Skladanowsky Straße</name>
+			<address>Skladanowsky Straße, 3, 13156, Berlin</address>
+			<Point>
+				<coordinates>13.3956789,52.5819523,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Krankenhausstraße</name>
+			<address>Krankenhausstraße, 10-12-12a, 42555, Velbert</address>
+			<Point>
+				<coordinates>7.1140729,51.3524651,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bahnhofstraße</name>
+			<address>Bahnhofstraße, 41, 67149, Meckenheim</address>
+			<Point>
+				<coordinates>8.2441386,49.4065463,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Friedrichstraße</name>
+			<address>Friedrichstraße, 5, 90522, Oberasbach</address>
+			<Point>
+				<coordinates>10.9667538,49.4149977,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dahlener Heide</name>
+			<address>Dahlener Heide, 30, 41179, Mönchengladbach</address>
+			<Point>
+				<coordinates>6.3892881,51.1669729,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>In der Dumpwies</name>
+			<address>In der Dumpwies, 28, 66839, Schmelz</address>
+			<Point>
+				<coordinates>6.8995941,49.4705687,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hauptstraße</name>
+			<address>Hauptstraße, 61, 69488, Birkenau</address>
+			<Point>
+				<coordinates>8.7032484,49.5616503,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wilhelm-Liebhaber-Straße</name>
+			<address>Wilhelm-Liebhaber-Straße, 27, 83607, Holzkirchen</address>
+			<Point>
+				<coordinates>11.6872463,47.8833012,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Oberdorfstraße</name>
+			<address>Oberdorfstraße, 15a, 70567, Stuttgart</address>
+			<Point>
+				<coordinates>9.1428087,48.72544430000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Achalmstr.</name>
+			<address>Achalmstr., 18, 70771, Leinfelden</address>
+			<Point>
+				<coordinates>9.1186356,48.7031864,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wittelsbacher Weg</name>
+			<address>Wittelsbacher Weg, 16, 86551, Aichach</address>
+			<Point>
+				<coordinates>11.1423751,48.4642327,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Weißenburger Str.</name>
+			<address>Weißenburger Str., 49, 28211, Bremen</address>
+			<Point>
+				<coordinates>8.854044799999999,53.0813906,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wielandstraße</name>
+			<address>Wielandstraße, 25A, 12159, Berlin</address>
+			<Point>
+				<coordinates>13.3393026,52.4696583,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Moosstraße</name>
+			<address>Moosstraße, 8, 83128, Halfing</address>
+			<Point>
+				<coordinates>12.2770711,47.95288069999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hauptstraße</name>
+			<address>Hauptstraße, 3, 73430, Obersontheim</address>
+			<Point>
+				<coordinates>9.8974237,49.0577275,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Thormattenweg</name>
+			<address>Thormattenweg, 10, 79194, Gundelfingen</address>
+			<Point>
+				<coordinates>7.860777799999999,48.0481332,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Zähringerstraße</name>
+			<address>Zähringerstraße, 2, 79211, Denzlingen</address>
+			<Point>
+				<coordinates>7.8785715,48.0676593,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Missenharter Weg</name>
+			<address>Missenharter Weg, 34, 70839, Gerlingen</address>
+			<Point>
+				<coordinates>9.0494214,48.7893416,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Egerlandweg</name>
+			<address>Egerlandweg, 15, 70736, Fellbach</address>
+			<Point>
+				<coordinates>9.2605716,48.8394282,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>St.-Erentrudis-Straße</name>
+			<address>St.-Erentrudis-Straße, 16, 79112, Freiburg im Breisgau</address>
+			<Point>
+				<coordinates>7.699460500000001,47.9689248,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Eichendorffstraße</name>
+			<address>Eichendorffstraße, 10, 95158, Kirchenlamitz</address>
+			<Point>
+				<coordinates>11.9463921,50.1491826,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Seilerweg</name>
+			<address>Seilerweg, 20, 45527, Hattingen</address>
+			<Point>
+				<coordinates>7.226036799999999,51.4048434,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Papenstraße</name>
+			<address>Papenstraße, 135, 22089, Hamburg</address>
+			<Point>
+				<coordinates>10.052626,53.56514319999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stuttgarter Str.</name>
+			<address>Stuttgarter Str., 76, 74211, Leingarten</address>
+			<Point>
+				<coordinates>9.129484699999999,49.1376161,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rohrerstraße</name>
+			<address>Rohrerstraße, 105-107, 70771, Leinfelden</address>
+			<Point>
+				<coordinates>9.1249749,48.7058256,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Effnerstr.</name>
+			<address>Effnerstr., 13, 81925, München</address>
+			<Point>
+				<coordinates>11.6149323,48.153641,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Effnerstr.</name>
+			<address>Effnerstr., 11, 81925, München</address>
+			<Point>
+				<coordinates>11.6148171,48.1536541,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Keldenichstraße</name>
+			<address>Keldenichstraße, 71, 40625, Düsseldorf</address>
+			<Point>
+				<coordinates>6.85431,51.238,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alter Hof</name>
+			<address>Alter Hof, 9, 38112, Braunschweig</address>
+			<Point>
+				<coordinates>10.4900955,52.30283240000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sperlingstr.</name>
+			<address>Sperlingstr., 8, 53881, Euskirchen</address>
+			<Point>
+				<coordinates>6.8539463,50.62734709999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>König-Heinrich-Weg</name>
+			<address>König-Heinrich-Weg, 68, 22459, Hamburg</address>
+			<Point>
+				<coordinates>9.957425899999999,53.6286221,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Unter den Linden</name>
+			<address>Unter den Linden, 7, 28876, Oyten</address>
+			<Point>
+				<coordinates>9.014681,53.05887999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mühlheimer Straße</name>
+			<address>Mühlheimer Straße, 15, 40239, Düsseldorf</address>
+			<Point>
+				<coordinates>6.798911599999999,51.2387142,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rubensstraße</name>
+			<address>Rubensstraße, 3, 71229, Leonberg</address>
+			<Point>
+				<coordinates>9.0108902,48.8198722,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Marie Alexandra Straße</name>
+			<address>Marie Alexandra Straße, 64b, 76135, Karlsruhe</address>
+			<Point>
+				<coordinates>8.3866491,48.9933902,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Begasstraße</name>
+			<address>Begasstraße, 2, 12157, Berlin</address>
+			<Point>
+				<coordinates>13.3424776,52.4692015,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Schneiderstraße</name>
+			<address>Schneiderstraße, 33a, 33613, Bielefeld</address>
+			<Point>
+				<coordinates>8.5064207,52.0439568,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Spanische Allee</name>
+			<address>Spanische Allee, 111, 14129, Berlin</address>
+			<Point>
+				<coordinates>13.1994787,52.434404,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Prechtlstraße</name>
+			<address>Prechtlstraße, 14, 84048, Mainburg</address>
+			<Point>
+				<coordinates>11.7747585,48.638386,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dahlener Straße</name>
+			<address>Dahlener Straße, 421, 41239, Mönchengladbach</address>
+			<Point>
+				<coordinates>6.4206239,51.1619634,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Zum Gesselbusch</name>
+			<address>Zum Gesselbusch, 10, 37431, Bad Lauterberg</address>
+			<Point>
+				<coordinates>10.4193427,51.6198111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jägerstraße</name>
+			<address>Jägerstraße, 35, 23774, Heiligenhafen</address>
+			<Point>
+				<coordinates>10.9656739,54.3702032,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Altfelix Straße</name>
+			<address>Altfelix Straße, 14, 77933, Lahr</address>
+			<Point>
+				<coordinates>7.8838469,48.3426406,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hauffstraße</name>
+			<address>Hauffstraße, 6, 75391, Gechingen</address>
+			<Point>
+				<coordinates>8.830419,48.6973852,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mühlbergweg</name>
+			<address>Mühlbergweg, 5, 65344, Eltville</address>
+			<Point>
+				<coordinates>8.1205004,50.0546194,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hans Sachs Straße</name>
+			<address>Hans Sachs Straße, 1+3, 85521, Ottobrunn</address>
+			<Point>
+				<coordinates>11.6881816,48.0673712,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>König-Wilhelm Straße</name>
+			<address>König-Wilhelm Straße, 33, 88471, Laupheim</address>
+			<Point>
+				<coordinates>9.8794001,48.2323457,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kirschbergstraße</name>
+			<address>Kirschbergstraße, 63, 04155, Leipzig</address>
+			<Point>
+				<coordinates>12.3524567,51.36347680000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Werneuchener Straße</name>
+			<address>Werneuchener Straße, 4a, 13055, Berlin</address>
+			<Point>
+				<coordinates>13.4902453,52.54180299999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hämmerlingstr.</name>
+			<address>Hämmerlingstr., 34, 12555, Berlin</address>
+			<Point>
+				<coordinates>13.5711684,52.46364939999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hainbuchenstr.</name>
+			<address>Hainbuchenstr., 32, 13465, Berlin</address>
+			<Point>
+				<coordinates>13.2699367,52.6361305,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alsbergstraße</name>
+			<address>Alsbergstraße, 31, 57518, Betzdorf</address>
+			<Point>
+				<coordinates>7.8710042,50.7774115,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hüetlin Straße</name>
+			<address>Hüetlin Straße, 13, 78462, Konstanz</address>
+			<Point>
+				<coordinates>9.1742513,47.6571049,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hammstraße</name>
+			<address>Hammstraße, 20, 80935, München</address>
+			<Point>
+				<coordinates>11.5622949,48.206596,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gewerbestraße</name>
+			<address>Gewerbestraße, 46, 82211, Herrsching</address>
+			<Point>
+				<coordinates>11.1736498,48.0018453,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Niendorfer Straße</name>
+			<address>Niendorfer Straße, 68, 22529, Hamburg</address>
+			<Point>
+				<coordinates>9.9568862,53.6064747,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Am Stiegelschlag</name>
+			<address>Am Stiegelschlag, 14, 60385, Frankfurt</address>
+			<Point>
+				<coordinates>8.7150045,50.133311,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Brettheimer Weg</name>
+			<address>Brettheimer Weg, 9, 70435, Stuttgart</address>
+			<Point>
+				<coordinates>9.179039,48.8262706,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Buchenstr.</name>
+			<address>Buchenstr., 40, 85716, Unterschleißheim</address>
+			<Point>
+				<coordinates>11.5873105,48.27806409999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Maximilian-Kolbe-Straße</name>
+			<address>Maximilian-Kolbe-Straße, 13, 44793, Bochum</address>
+			<Point>
+				<coordinates>7.2109744,51.4777055,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kleestraße</name>
+			<address>Kleestraße, 1, 49492, Westerkappeln</address>
+			<Point>
+				<coordinates>7.8666206,52.3174516,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stauferstr.</name>
+			<address>Stauferstr., 1, 86842, Türkheim</address>
+			<Point>
+				<coordinates>10.6347926,48.0578166,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wiener Straße</name>
+			<address>Wiener Straße, 35A, 61381, Friedrichsdorf</address>
+			<Point>
+				<coordinates>8.6500801,50.2707505,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sybelstr.</name>
+			<address>Sybelstr., 59, 45145, Essen</address>
+			<Point>
+				<coordinates>6.976237599999999,51.44855,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Max-Ander-Straße</name>
+			<address>Max-Ander-Straße, 12, 85375, Neufahrn</address>
+			<Point>
+				<coordinates>11.6710983,48.3215198,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Herderstraße</name>
+			<address>Herderstraße, 16, 06114, Halle</address>
+			<Point>
+				<coordinates>11.9776767,51.4923,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dorfstraße</name>
+			<address>Dorfstraße, 5b, 79206, Breisach am Rhein</address>
+			<Point>
+				<coordinates>7.609507199999999,48.0197775,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Glotter Pfad</name>
+			<address>Glotter Pfad, 5, 79194, Gundelfingen</address>
+			<Point>
+				<coordinates>7.9413154,48.0493038,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hauptstraße</name>
+			<address>Hauptstraße, 13, 65346, Eltville</address>
+			<Point>
+				<coordinates>8.096851299999999,50.0213724,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Garagen Erlenweg</name>
+			<address>Garagen Erlenweg, , 25469, Halstenbek</address>
+			<Point>
+				<coordinates>9.8591944,53.6124894,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Beethovenstr.</name>
+			<address>Beethovenstr., 2, 71726, Benningen</address>
+			<Point>
+				<coordinates>9.2470363,48.94157509999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kreuznacher Str.</name>
+			<address>Kreuznacher Str., 24, 70372, Stuttgart - Bad Cannstatt</address>
+			<Point>
+				<coordinates>9.2208752,48.8050423,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Degerstr.</name>
+			<address>Degerstr., 22, 40235, Düsseldorf</address>
+			<Point>
+				<coordinates>6.811560999999999,51.2310112,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Badstr.</name>
+			<address>Badstr., 24, 74072, Heilbronn</address>
+			<Point>
+				<coordinates>9.2129928,49.1396488,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hörstenweg</name>
+			<address>Hörstenweg, 34, 13125, Berlin</address>
+			<Point>
+				<coordinates>13.4986529,52.64499559999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fohrenbühlstraße</name>
+			<address>Fohrenbühlstraße, 8, 71067, Sindelfingen</address>
+			<Point>
+				<coordinates>9.0056802,48.7237135,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Müllenhofweg</name>
+			<address>Müllenhofweg, 74, 22607, Hamburg</address>
+			<Point>
+				<coordinates>9.8826238,53.570291,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wehrstaudenstr.</name>
+			<address>Wehrstaudenstr., 47, 85757, Karlsfeld</address>
+			<Point>
+				<coordinates>11.4579745,48.218968,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lerchesbergring</name>
+			<address>Lerchesbergring, 1, 60598, Frankfurt am Main</address>
+			<Point>
+				<coordinates>8.6852199,50.0848463,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Klettenbergstraße</name>
+			<address>Klettenbergstraße, 1, 60322, Frankfurt am Main</address>
+			<Point>
+				<coordinates>8.6772764,50.1275206,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wilhelmstr.</name>
+			<address>Wilhelmstr., 1, 76530, Baden-Baden</address>
+			<Point>
+				<coordinates>8.237477,48.763047,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Körnerstraße</name>
+			<address>Körnerstraße, 12, 68804, Altlussheim</address>
+			<Point>
+				<coordinates>8.500882899999999,49.3059049,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Deutz-Mülheimer-Str.</name>
+			<address>Deutz-Mülheimer-Str., 254, 51063, Köln</address>
+			<Point>
+				<coordinates>6.9946546,50.95759469999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Leonberger Str.</name>
+			<address>Leonberger Str., 19, 71272, Renningen</address>
+			<Point>
+				<coordinates>8.938462900000001,48.7662019,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Maronenring</name>
+			<address>Maronenring, 1b, 14822, Borkheide</address>
+			<Point>
+				<coordinates>12.8619316,52.2156562,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Im Kirchental</name>
+			<address>Im Kirchental, 11, 78315, Radolfzell</address>
+			<Point>
+				<coordinates>8.9864886,47.7715141,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Moltkestraße</name>
+			<address>Moltkestraße, 15, 76133, Karlsruhe</address>
+			<Point>
+				<coordinates>8.390279399999999,49.014338,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Boschstraße</name>
+			<address>Boschstraße, 71, 40589, Düsseldorf</address>
+			<Point>
+				<coordinates>6.8193309,51.17790919999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Zoppoter Straße</name>
+			<address>Zoppoter Straße, 11, 81927, München</address>
+			<Point>
+				<coordinates>11.6385474,48.1509902,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Karlstrasse</name>
+			<address>Karlstrasse, 17, 73266, Bissingen an der Teck</address>
+			<Point>
+				<coordinates>9.4925634,48.6027727,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rönskenstraße</name>
+			<address>Rönskenstraße, 71A, 46562, Voerde</address>
+			<Point>
+				<coordinates>6.688719799999999,51.6040259,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tültorstr.</name>
+			<address>Tültorstr., 26, 85276, Pfaffenhofen an der Ilm</address>
+			<Point>
+				<coordinates>11.5093619,48.5323092,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Helgolandweg</name>
+			<address>Helgolandweg, 8, 33334, Gütersloh</address>
+			<Point>
+				<coordinates>8.4082072,51.9414205,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Obermatten</name>
+			<address>Obermatten, 4, 79194, Gundelfingen</address>
+			<Point>
+				<coordinates>7.8740526,48.03386769999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Benzweg</name>
+			<address>Benzweg, 14-16, 64293, Darmstadt</address>
+			<Point>
+				<coordinates>8.640487499999999,49.8854749,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Heinrich von Stephan Strasse</name>
+			<address>Heinrich von Stephan Strasse, 105, 63150, Heusenstamm</address>
+			<Point>
+				<coordinates>8.791212,50.048804,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lothar-Bucher-Straße</name>
+			<address>Lothar-Bucher-Straße, 19, 12157, Berlin</address>
+			<Point>
+				<coordinates>13.3362302,52.4612062,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Goldregenweg</name>
+			<address>Goldregenweg, 6, 70794, Filderstadt</address>
+			<Point>
+				<coordinates>9.1830407,48.659561,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Behringstraße</name>
+			<address>Behringstraße, 7, 12437, Berlin</address>
+			<Point>
+				<coordinates>13.4894309,52.4663248,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alter Postweg</name>
+			<address>Alter Postweg, 275+279, 28207, Bremen</address>
+			<Point>
+				<coordinates>8.871651199999999,53.0644891,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Plettenbergstr.</name>
+			<address>Plettenbergstr., 30, 70186, Stuttgart</address>
+			<Point>
+				<coordinates>9.217665700000001,48.7789687,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Am Reichenbächle</name>
+			<address>Am Reichenbächle, 1, 79350, Sexau</address>
+			<Point>
+				<coordinates>7.908177999999999,48.1036684,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alte Poststr.</name>
+			<address>Alte Poststr., 56, 63801, Kleinostheim</address>
+			<Point>
+				<coordinates>9.0755112,50.0018059,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vogelsanger Straße</name>
+			<address>Vogelsanger Straße, 417, 50829, Köln</address>
+			<Point>
+				<coordinates>6.8868334,50.95526359999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dinkelweg</name>
+			<address>Dinkelweg, 13/15, 74523, Schwäbisch Hall</address>
+			<Point>
+				<coordinates>9.7645863,49.1036452,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Oberamteistrasse</name>
+			<address>Oberamteistrasse, 5, 74348, Lauffen</address>
+			<Point>
+				<coordinates>9.158677299999999,49.07643969999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ernst-Moritz-Arndt-Straße</name>
+			<address>Ernst-Moritz-Arndt-Straße, 5, 74722, Buchen</address>
+			<Point>
+				<coordinates>9.3489344,49.5223307,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nelkenweg</name>
+			<address>Nelkenweg, 8, 74369, Löchgau</address>
+			<Point>
+				<coordinates>9.108318599999999,48.999551,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kalkofen</name>
+			<address>Kalkofen, 2, 78224, Umkirch</address>
+			<Point>
+				<coordinates>7.766350699999999,48.02993679999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kupferbergstr.</name>
+			<address>Kupferbergstr., 54, 67292, Kirchheimbolanden</address>
+			<Point>
+				<coordinates>7.993877800000001,49.6715302,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hintere Str.</name>
+			<address>Hintere Str., 13, 71263, Weil der Stadt</address>
+			<Point>
+				<coordinates>8.8507941,48.7698279,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wendelsteinstraße</name>
+			<address>Wendelsteinstraße, 8a, 83052, Bruckmühl</address>
+			<Point>
+				<coordinates>11.9502843,47.867379,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Scheidterstrasse</name>
+			<address>Scheidterstrasse, 59, 66123, Saarbrücken</address>
+			<Point>
+				<coordinates>7.014069,49.2394583,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Am Hang</name>
+			<address>Am Hang, 9, 91315, Höchstadt</address>
+			<Point>
+				<coordinates>10.8010492,49.7152523,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Buchenweg</name>
+			<address>Buchenweg, 4, 82194, Gröbenzell</address>
+			<Point>
+				<coordinates>11.3652969,48.2022194,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hohlstraße</name>
+			<address>Hohlstraße, 5, 76275, Ettlingen</address>
+			<Point>
+				<coordinates>8.4321321,48.91347709999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Asternstraße</name>
+			<address>Asternstraße, 12, 30167, Hannover</address>
+			<Point>
+				<coordinates>9.722702499999999,52.3853027,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lottumstrasse</name>
+			<address>Lottumstrasse, 2, 10119, Berlin</address>
+			<Point>
+				<coordinates>13.409379,52.530236,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wolfershofen</name>
+			<address>Wolfershofen, 10, 88178, Heimenkirch</address>
+			<Point>
+				<coordinates>9.9036445,47.6293674,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hartfeldstrasse</name>
+			<address>Hartfeldstrasse, 66, 75417, Mühläcker</address>
+			<Point>
+				<coordinates>8.7950009,48.9397169,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ludwigstraße</name>
+			<address>Ludwigstraße, 70a, 90763, Fürth</address>
+			<Point>
+				<coordinates>10.9886881,49.46335999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kühtrieb</name>
+			<address>Kühtrieb, 11, 63853, Mömlingen</address>
+			<Point>
+				<coordinates>9.085224,49.8541821,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hermann-Lange-Straße</name>
+			<address>Hermann-Lange-Straße, 2, 28279, Bremen</address>
+			<Point>
+				<coordinates>8.8334112,53.0312507,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sudetenstraße</name>
+			<address>Sudetenstraße, 6, 71686, Remseck</address>
+			<Point>
+				<coordinates>9.2487,48.8638478,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Im Rusch</name>
+			<address>Im Rusch, 24, 27726, Worpswede</address>
+			<Point>
+				<coordinates>8.9225627,53.2252033,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tannehof</name>
+			<address>Tannehof, 134, 22397, Hamburg</address>
+			<Point>
+				<coordinates>10.0826888,53.6869879,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wachtelweg</name>
+			<address>Wachtelweg, 2, 65719, Hofheim</address>
+			<Point>
+				<coordinates>8.4143358,50.0607601,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Friedenstrasse</name>
+			<address>Friedenstrasse, 5, 30175, Hannover</address>
+			<Point>
+				<coordinates>9.7585879,52.3773207,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Unnastraße</name>
+			<address>Unnastraße, 19, 20253, Hamburg</address>
+			<Point>
+				<coordinates>9.9598771,53.57864199999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Indrastraße</name>
+			<address>Indrastraße, 11, 13089, Berlin</address>
+			<Point>
+				<coordinates>13.4336335,52.5682294,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Filderhauptstraße</name>
+			<address>Filderhauptstraße, 27, 70599, Stuttgart</address>
+			<Point>
+				<coordinates>9.2123397,48.7008947,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lechlweg</name>
+			<address>Lechlweg, 2, 83209, Prien am Chiemsee</address>
+			<Point>
+				<coordinates>12.3500662,47.8509865,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dachshofstraße</name>
+			<address>Dachshofstraße, 2a, 81249, München</address>
+			<Point>
+				<coordinates>11.4091746,48.1746463,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sarweystraße</name>
+			<address>Sarweystraße, 40-76, 70191, Stuttgart</address>
+			<Point>
+				<coordinates>9.1863837,48.805691,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nahestr.</name>
+			<address>Nahestr., 2, 64560, Riedstadt</address>
+			<Point>
+				<coordinates>8.5013247,49.82995210000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Friedhofstrasse</name>
+			<address>Friedhofstrasse, 6, 72661, Grafenberg</address>
+			<Point>
+				<coordinates>9.30434,48.57112,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Karoxbosteler Chaussee</name>
+			<address>Karoxbosteler Chaussee, 65, 21218, Seevetal</address>
+			<Point>
+				<coordinates>10.0113139,53.3952361,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Reutherstraße</name>
+			<address>Reutherstraße, 4, 91301, Forchheim</address>
+			<Point>
+				<coordinates>11.1122487,49.7204968,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bergstraße</name>
+			<address>Bergstraße, 14a, 82152, Krailling</address>
+			<Point>
+				<coordinates>11.4129308,48.1025138,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bramfelder Weg</name>
+			<address>Bramfelder Weg, 99, 22159, Hamburg</address>
+			<Point>
+				<coordinates>10.107658,53.6118792,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ole Wisch</name>
+			<address>Ole Wisch, 23-29, 21244, Buchholz in der Nordheide</address>
+			<Point>
+				<coordinates>9.8843718,53.3358252,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hasenbergsteige</name>
+			<address>Hasenbergsteige, 90, 70197, Stuttgart</address>
+			<Point>
+				<coordinates>9.147198200000002,48.7650947,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Westerwikstraße</name>
+			<address>Westerwikstraße, 1, 44379, Dortmund</address>
+			<Point>
+				<coordinates>7.3739298,51.52551200000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hagendeel</name>
+			<address>Hagendeel, 69, 22529, Hamburg</address>
+			<Point>
+				<coordinates>9.942641600000002,53.6065575,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Huchenstraße</name>
+			<address>Huchenstraße, 54, 81825, München</address>
+			<Point>
+				<coordinates>11.6645242,48.1197698,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wilhelm-Enssle-Strasse</name>
+			<address>Wilhelm-Enssle-Strasse, 68, 73630, Remshalden</address>
+			<Point>
+				<coordinates>9.4486863,48.8082461,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lindenweg</name>
+			<address>Lindenweg, 9, 89197, Weidenstädten</address>
+			<Point>
+				<coordinates>9.993358599999999,48.5497808,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>In den</name>
+			<address>In den, Grundwiesen, 73266, Bissingen an der Teck</address>
+			<Point>
+				<coordinates>9.5134657,48.5787085,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Schönauer Straße</name>
+			<address>Schönauer Straße, 12B, 70569, Stuttgart</address>
+			<Point>
+				<coordinates>9.1296038,48.7365037,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Natalie-von-Harder-Straße</name>
+			<address>Natalie-von-Harder-Straße, 11, 55218, Ingelheim am Rhein</address>
+			<Point>
+				<coordinates>8.0705556,49.9776912,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Herrendienstweg</name>
+			<address>Herrendienstweg, 106, 32120, Hiddenhausen</address>
+			<Point>
+				<coordinates>8.6644391,52.1439083,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>St.-Jakob-Straße</name>
+			<address>St.-Jakob-Straße, 19, 89233, Neu-Ulm</address>
+			<Point>
+				<coordinates>10.0744006,48.4154507,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gotenstraße</name>
+			<address>Gotenstraße, 78, 65929, Frankfurt am Main</address>
+			<Point>
+				<coordinates>8.5394595,50.1118095,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lanzstraße</name>
+			<address>Lanzstraße, 13, 65193, Wiesbaden</address>
+			<Point>
+				<coordinates>8.2367248,50.0946885,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wacholderweg</name>
+			<address>Wacholderweg, 2,4,6,8,10, 53721, Siegburg</address>
+			<Point>
+				<coordinates>7.223516299999999,50.8075844,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Winzerstraße</name>
+			<address>Winzerstraße, 25, 79588, Efringen-Kirchen</address>
+			<Point>
+				<coordinates>7.563926899999999,47.657038,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>An der Bismarckschule</name>
+			<address>An der Bismarckschule, 8c, 30173, Hannover</address>
+			<Point>
+				<coordinates>9.7469554,52.35678309999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hauptstraße</name>
+			<address>Hauptstraße, 65/2, 70771, Leinfelden-Echterdingen</address>
+			<Point>
+				<coordinates>9.166640200000002,48.6880731,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Am Berg</name>
+			<address>Am Berg, 5, 18059, Papendorf</address>
+			<Point>
+				<coordinates>12.1292523,54.0357318,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Trögelweg</name>
+			<address>Trögelweg, 10, 04289, Leipzig</address>
+			<Point>
+				<coordinates>12.4248826,51.3074989,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Weißenburgstraße</name>
+			<address>Weißenburgstraße, 9, 93055, Regensburg</address>
+			<Point>
+				<coordinates>12.1119886,49.0164494,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Im Winterfeld</name>
+			<address>Im Winterfeld, 9, 38321, Denkte</address>
+			<Point>
+				<coordinates>10.6102142,52.1476965,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mühlau</name>
+			<address>Mühlau, 2, 83714, Miesbach</address>
+			<Point>
+				<coordinates>11.88249,47.78644,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stüdlstraße</name>
+			<address>Stüdlstraße, 23, 80995, München</address>
+			<Point>
+				<coordinates>11.5437666,48.21705540000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fliederweg</name>
+			<address>Fliederweg, 10, 78647, Trossingen</address>
+			<Point>
+				<coordinates>8.6340024,48.0641094,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Conradstraße</name>
+			<address>Conradstraße, 27, 69198, Schriesheim</address>
+			<Point>
+				<coordinates>8.6539769,49.4704017,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Düsseldorfer Straße</name>
+			<address>Düsseldorfer Straße, 88, 47051, Duisburg</address>
+			<Point>
+				<coordinates>6.7644527,51.4282935,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Herbststraße</name>
+			<address>Herbststraße, 20, 13409, Berlin</address>
+			<Point>
+				<coordinates>13.3767551,52.5713301,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ludwigshöherstr.</name>
+			<address>Ludwigshöherstr., 39a, 81479, München</address>
+			<Point>
+				<coordinates>11.5241507,48.076168,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Zum Ritzhagen</name>
+			<address>Zum Ritzhagen, 10b, 34508, Willingen</address>
+			<Point>
+				<coordinates>8.5941691,51.2929301,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Näherstiller Straße</name>
+			<address>Näherstiller Straße, 33, 98574, Schmalkalden</address>
+			<Point>
+				<coordinates>10.4651459,50.718455,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fritz-von-Graevenitz-Str.</name>
+			<address>Fritz-von-Graevenitz-Str., 8, 70839, Gerlingen</address>
+			<Point>
+				<coordinates>9.0535836,48.7865469,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lohkampstraße</name>
+			<address>Lohkampstraße, 275+277, 22523, Hamburg</address>
+			<Point>
+				<coordinates>9.874047,53.6161561,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hofgasse</name>
+			<address>Hofgasse, 26, 89312, Günzburg</address>
+			<Point>
+				<coordinates>10.2760715,48.45480999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gemingstraße</name>
+			<address>Gemingstraße, 24, 81929, München</address>
+			<Point>
+				<coordinates>11.6631773,48.1445607,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Otto-Weddigen-Str.</name>
+			<address>Otto-Weddigen-Str., 30, 46145, Oberhausen</address>
+			<Point>
+				<coordinates>6.854830199999999,51.5116983,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>J2</name>
+			<address>J2, 8, 68159, Mannheim</address>
+			<Point>
+				<coordinates>8.468468699999999,49.4917209,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ehrlichstraße</name>
+			<address>Ehrlichstraße, 36, 10318, Berlin</address>
+			<Point>
+				<coordinates>13.5189958,52.48117569999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lerchenweg</name>
+			<address>Lerchenweg, 20, 71032, Böblingen</address>
+			<Point>
+				<coordinates>9.0367556,48.6782374,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Banngartenstraße</name>
+			<address>Banngartenstraße, 19a, 69207, Sandhausen</address>
+			<Point>
+				<coordinates>8.662865,49.3400516,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Naheweg</name>
+			<address>Naheweg, 9, 53347, Alfter</address>
+			<Point>
+				<coordinates>7.0203932,50.7157017,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sophie-Scholl-Straße</name>
+			<address>Sophie-Scholl-Straße, 57, 68623, Lampertsheim</address>
+			<Point>
+				<coordinates>8.488724,49.5920919,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ludwig-Erhard Straße</name>
+			<address>Ludwig-Erhard Straße, 26, 41564, Kaarst</address>
+			<Point>
+				<coordinates>6.5951688,51.2278143,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Friedrich-Ebert-Straße</name>
+			<address>Friedrich-Ebert-Straße, 35, 30459, Hannover</address>
+			<Point>
+				<coordinates>9.719540199999999,52.3487135,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Am Nesseufer</name>
+			<address>Am Nesseufer, 36, 26789, Leer</address>
+			<Point>
+				<coordinates>7.453979399999999,53.2267839,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Adlerstraße</name>
+			<address>Adlerstraße, 50, 70199, Stuttgart</address>
+			<Point>
+				<coordinates>9.162137399999999,48.7653253,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stäblistr.</name>
+			<address>Stäblistr., 17-17b, 81477, München</address>
+			<Point>
+				<coordinates>11.5055015,48.0879793,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Portastraße</name>
+			<address>Portastraße, 6A, 32457, Porta Westfalica</address>
+			<Point>
+				<coordinates>8.9115912,52.2477132,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rotkäppchenstraße</name>
+			<address>Rotkäppchenstraße, 61A, 81739, München</address>
+			<Point>
+				<coordinates>11.6585169,48.0808838,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Schillerstraße</name>
+			<address>Schillerstraße, 20, 85368, München</address>
+			<Point>
+				<coordinates>11.9405726,48.4706135,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sandleithe</name>
+			<address>Sandleithe, 18, 90768, Fürth</address>
+			<Point>
+				<coordinates>10.962664,49.5193874,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Klöckner Str.</name>
+			<address>Klöckner Str., 8, 30926, Seelze</address>
+			<Point>
+				<coordinates>9.6475219,52.3967568,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Corneliusstr.</name>
+			<address>Corneliusstr., 110, 40215, Düsseldorf</address>
+			<Point>
+				<coordinates>6.782957199999999,51.2104631,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Preußenstr.</name>
+			<address>Preußenstr., 111, 41464, Neuss</address>
+			<Point>
+				<coordinates>6.6705689,51.1892948,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kiebitzgrund</name>
+			<address>Kiebitzgrund, 18, 25421, Pinneberg</address>
+			<Point>
+				<coordinates>9.7870537,53.646974,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Martin-Luther-Straße</name>
+			<address>Martin-Luther-Straße, 8, 18209, Bad Doberan</address>
+			<Point>
+				<coordinates>11.9074345,54.1049656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bergstraße</name>
+			<address>Bergstraße, 40, 71686, Remseck am Neckar</address>
+			<Point>
+				<coordinates>9.2797123,48.8879919,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Scheuerlenstraße</name>
+			<address>Scheuerlenstraße, 22a, 79822, Titisee Neustadt</address>
+			<Point>
+				<coordinates>8.2147018,47.9134115,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Koburger Straße</name>
+			<address>Koburger Straße, 2, 10825, Berlin</address>
+			<Point>
+				<coordinates>13.3465459,52.48107599999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sonnenau</name>
+			<address>Sonnenau, 5, 56132, Dausenau</address>
+			<Point>
+				<coordinates>7.7677193,50.3225104,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Schöbergstraße</name>
+			<address>Schöbergstraße, 33, 65199, Wiesbaden</address>
+			<Point>
+				<coordinates>8.2006134,50.079483,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Frühlingstr.</name>
+			<address>Frühlingstr., 8, 93128, Regenstauf</address>
+			<Point>
+				<coordinates>12.1360963,49.1210561,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rennbachweg</name>
+			<address>Rennbachweg, 3, 75181, Pforzheim</address>
+			<Point>
+				<coordinates>8.7403108,48.9104137,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Oldesloer Str.</name>
+			<address>Oldesloer Str., 51, 22457, Hamburg</address>
+			<Point>
+				<coordinates>9.918533799999999,53.6370297,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Waldstraße</name>
+			<address>Waldstraße, 3, 53773, Hennef</address>
+			<Point>
+				<coordinates>7.2730474,50.7717636,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Trautenauer Weg</name>
+			<address>Trautenauer Weg, 6, 84478, Waldkraiburg</address>
+			<Point>
+				<coordinates>12.3894339,48.20437339999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Danzigstr.</name>
+			<address>Danzigstr., 18, 38268, Lengede</address>
+			<Point>
+				<coordinates>10.3338201,52.18397969999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hofener-Straße</name>
+			<address>Hofener-Straße, 90, 70372, Stuttgart</address>
+			<Point>
+				<coordinates>9.2231088,48.8128406,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dietersdorferstr.</name>
+			<address>Dietersdorferstr., 40, 91126, Rednitzhembach</address>
+			<Point>
+				<coordinates>11.0225265,49.3621197,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Parkstr.</name>
+			<address>Parkstr., 30, 66538, Neunkirchen</address>
+			<Point>
+				<coordinates>7.1856159,49.3464426,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Atzelbergstraße</name>
+			<address>Atzelbergstraße, 92, 60389, Frankfurt am Main</address>
+			<Point>
+				<coordinates>8.722503,50.1419733,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Am Gehölz</name>
+			<address>Am Gehölz, 16, 14480, Potsdam</address>
+			<Point>
+				<coordinates>13.13169,52.38638570000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Große Straße</name>
+			<address>Große Straße, 30, 38116, Braunschweig</address>
+			<Point>
+				<coordinates>10.4862936,52.269738,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Riedhäuserhofstraße</name>
+			<address>Riedhäuserhofstraße, 17, 64560, Riedstadt</address>
+			<Point>
+				<coordinates>8.440073,49.8588807,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bieberer Str.</name>
+			<address>Bieberer Str., 311, 63071, Offenbach</address>
+			<Point>
+				<coordinates>8.7978727,50.09403460000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Johannes-Niemeyer-Weg</name>
+			<address>Johannes-Niemeyer-Weg, 19, 14109, Berlin</address>
+			<Point>
+				<coordinates>13.1326468,52.3883956,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Unterstr.</name>
+			<address>Unterstr., 150, 53859, Niederkassel</address>
+			<Point>
+				<coordinates>7.046339400000001,50.7985733,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Everslohstr.</name>
+			<address>Everslohstr., 77, 46145, Oberhausen</address>
+			<Point>
+				<coordinates>6.854837799999999,51.5498323,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fuhrmannsgasse</name>
+			<address>Fuhrmannsgasse, 2, 50374, Erftstadt</address>
+			<Point>
+				<coordinates>6.8169141,50.7827867,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Roseggerweg</name>
+			<address>Roseggerweg, 4, 71696, Möglingen</address>
+			<Point>
+				<coordinates>9.1313844,48.8910789,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jaguarstieg</name>
+			<address>Jaguarstieg, 26, 22527, Hamburg</address>
+			<Point>
+				<coordinates>9.9392686,53.5839774,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Buch</name>
+			<address>Buch, 2, 94166, Stubenberg</address>
+			<Point>
+				<coordinates>13.0863453,48.2876698,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Berlinerheerstr.</name>
+			<address>Berlinerheerstr., 20, 38104, Braunschweig</address>
+			<Point>
+				<coordinates>10.5919391,52.2866896,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Konrad-Adenauer-Straße</name>
+			<address>Konrad-Adenauer-Straße, 40, 34132, Kassel</address>
+			<Point>
+				<coordinates>9.4102484,51.2959594,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Grüner Weg</name>
+			<address>Grüner Weg, 79, 58644, Iserlohn</address>
+			<Point>
+				<coordinates>7.6768049,51.37109299999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Melanchthonstraße</name>
+			<address>Melanchthonstraße, 17, 70374, Stuttgart</address>
+			<Point>
+				<coordinates>9.2316834,48.8070527,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Teckstraße</name>
+			<address>Teckstraße, 4, 71679, Asperg</address>
+			<Point>
+				<coordinates>9.1493068,48.9072374,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Niemeierstraße</name>
+			<address>Niemeierstraße, 15, 30449, Hannover</address>
+			<Point>
+				<coordinates>9.7134711,52.35962139999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bellermannstr.</name>
+			<address>Bellermannstr., 95, 13357, Berlin</address>
+			<Point>
+				<coordinates>13.3848385,52.554657,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Meisenweg</name>
+			<address>Meisenweg, 1, 70794, Filderstadt</address>
+			<Point>
+				<coordinates>9.2410532,48.6770939,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alpspitzstr.</name>
+			<address>Alpspitzstr., 1a-c, 85591, Vaterstetten</address>
+			<Point>
+				<coordinates>11.7684125,48.10490919999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Neuenbergstr.</name>
+			<address>Neuenbergstr., 4b, 91301, Forcheim</address>
+			<Point>
+				<coordinates>11.0699838,49.7225023,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Schumann Straße</name>
+			<address>Schumann Straße, 2-42, 33803, Steinhagen</address>
+			<Point>
+				<coordinates>8.420361699999999,52.00263880000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rheinstraße</name>
+			<address>Rheinstraße, 53A, 76479, Steinmauern</address>
+			<Point>
+				<coordinates>8.1902116,48.901208,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Am Lahbusch</name>
+			<address>Am Lahbusch, 2, 29556, Suderburg-Holxen</address>
+			<Point>
+				<coordinates>10.4800261,52.91176,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Schwabstr.</name>
+			<address>Schwabstr., 59, 71032, Böblingen</address>
+			<Point>
+				<coordinates>9.0288051,48.68604080000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Zum Paradies</name>
+			<address>Zum Paradies, 4, 34516, Vöhl</address>
+			<Point>
+				<coordinates>8.905612099999999,51.2084092,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Münzstraße</name>
+			<address>Münzstraße, 6a, 33602, Bielefeld</address>
+			<Point>
+				<coordinates>8.5377079,52.02106759999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Borbecker Straße</name>
+			<address>Borbecker Straße, 122, 45475, Mülheim a. d. R.</address>
+			<Point>
+				<coordinates>6.9053818,51.4646102,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Friedrich-Blink-Straße</name>
+			<address>Friedrich-Blink-Straße, 2, 74925, Epfenbach</address>
+			<Point>
+				<coordinates>8.910029999999999,49.33869,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ringstraße</name>
+			<address>Ringstraße, 9, 63695, Glauburg</address>
+			<Point>
+				<coordinates>9.0211416,50.326329,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jahnstraße</name>
+			<address>Jahnstraße, 10, 64546, Mörfelden-Walldorf</address>
+			<Point>
+				<coordinates>8.580163899999999,50.0066377,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Beilngrieser Straße</name>
+			<address>Beilngrieser Straße, 149, 85055, Ingolstadt</address>
+			<Point>
+				<coordinates>11.4416774,48.793992,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dresdner Str.</name>
+			<address>Dresdner Str., 18, 63110, Rodgau</address>
+			<Point>
+				<coordinates>8.8763244,50.0029501,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Choriner Str.</name>
+			<address>Choriner Str., 13, 16248, Niederfinow</address>
+			<Point>
+				<coordinates>13.9286101,52.8350496,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mahlower Straße</name>
+			<address>Mahlower Straße, 229, 14513, Teltow</address>
+			<Point>
+				<coordinates>13.298165,52.3892697,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Waldstraße</name>
+			<address>Waldstraße, 40, 15370, Petershagen</address>
+			<Point>
+				<coordinates>13.7937114,52.5205229,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Neckarstraße</name>
+			<address>Neckarstraße, 28, 68259, Mannheim</address>
+			<Point>
+				<coordinates>8.532052199999999,49.4839745,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hohensalzerstraße</name>
+			<address>Hohensalzerstraße, 24, 81929, München</address>
+			<Point>
+				<coordinates>11.6478506,48.1494851,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Prof.-Dr.-Schemann-Weg</name>
+			<address>Prof.-Dr.-Schemann-Weg, 37, 58091, Hagen</address>
+			<Point>
+				<coordinates>7.496172400000001,51.3391311,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Berchetstraße</name>
+			<address>Berchetstraße, 14, 82275, Emmering</address>
+			<Point>
+				<coordinates>11.2960683,48.1824831,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Westendstr.</name>
+			<address>Westendstr., 13, 90427, Nürnberg</address>
+			<Point>
+				<coordinates>11.0204449,49.4698366,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Birkenstr.</name>
+			<address>Birkenstr., 29, 66119, Saarbrücken</address>
+			<Point>
+				<coordinates>6.990642299999999,49.222031,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kuthsweg</name>
+			<address>Kuthsweg, 31, 40231, Düsseldorf</address>
+			<Point>
+				<coordinates>6.8283456,51.2070909,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gagernring</name>
+			<address>Gagernring, 110, 65779, Kelkheim</address>
+			<Point>
+				<coordinates>8.455815099999999,50.1494742,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Burgallee</name>
+			<address>Burgallee, 7, 63454, Hanau</address>
+			<Point>
+				<coordinates>8.890843199999999,50.1291753,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Römerstr.</name>
+			<address>Römerstr., 91, 74078, Heilbronn</address>
+			<Point>
+				<coordinates>9.1978022,49.1642566,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vorgebirgsstraße</name>
+			<address>Vorgebirgsstraße, 48, 53913, Swisttal</address>
+			<Point>
+				<coordinates>6.9146359,50.7194633,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hohe Eiche</name>
+			<address>Hohe Eiche, 49, 44892, Bochum</address>
+			<Point>
+				<coordinates>7.309385700000001,51.4765926,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hauptstraße</name>
+			<address>Hauptstraße, 346, 30826, Garbsen</address>
+			<Point>
+				<coordinates>9.610253199999999,52.4654815,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Badenberg</name>
+			<address>Badenberg, 38, 87499, Wildpoldsried</address>
+			<Point>
+				<coordinates>10.4085736,47.77182639999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stephanstraße</name>
+			<address>Stephanstraße, 62a, 22047, Hamburg</address>
+			<Point>
+				<coordinates>10.0845063,53.5872101,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Avelsbacherstr</name>
+			<address>Avelsbacherstr, 25, 54295, Trier</address>
+			<Point>
+				<coordinates>6.646099800000001,49.74104699999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Karlsruher Str.</name>
+			<address>Karlsruher Str., 16, 76307, Karlsbad</address>
+			<Point>
+				<coordinates>8.4684828,48.8973144,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Zur Lochmühle</name>
+			<address>Zur Lochmühle, 10, 88634, Herdwangen-Schönach</address>
+			<Point>
+				<coordinates>9.237976699999999,47.8616861,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Im Hupfuf</name>
+			<address>Im Hupfuf, 23, 79224, Umkirch</address>
+			<Point>
+				<coordinates>7.770441900000001,48.0303985,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Windthorst</name>
+			<address>Windthorst, 9, 65239, Hochheim</address>
+			<Point>
+				<coordinates>8.3567909,50.0215517,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Böhmestr.</name>
+			<address>Böhmestr., 5, 40474, Düsseldorf</address>
+			<Point>
+				<coordinates>6.749415,51.2695532,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Am Bellenbaum</name>
+			<address>Am Bellenbaum, 10, 64846, Großzimmern</address>
+			<Point>
+				<coordinates>8.8344634,49.8665666,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Angerstraße</name>
+			<address>Angerstraße, 18, 82194, Gröbenzell</address>
+			<Point>
+				<coordinates>11.3698771,48.1993106,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Schmeddingstr.</name>
+			<address>Schmeddingstr., 34, 48161, Münster</address>
+			<Point>
+				<coordinates>7.592444299999999,51.9567686,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bosauer Str.</name>
+			<address>Bosauer Str., 12, 23823, Seedorf</address>
+			<Point>
+				<coordinates>10.4282319,54.0581778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Waidstraße</name>
+			<address>Waidstraße, 15, 79241, Ihringen</address>
+			<Point>
+				<coordinates>7.6509762,48.0388072,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Würmtalstr.</name>
+			<address>Würmtalstr., 182, 81375, München</address>
+			<Point>
+				<coordinates>11.468698,48.1150275,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gutenbergstr.</name>
+			<address>Gutenbergstr., 20, 67227, Frankenthal</address>
+			<Point>
+				<coordinates>8.352115,49.5408644,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lenglerner Straße</name>
+			<address>Lenglerner Straße, 64, 37079, Göttingen</address>
+			<Point>
+				<coordinates>9.892372199999999,51.5608109,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ludwigstr.</name>
+			<address>Ludwigstr., 36A, 63667, Nidda</address>
+			<Point>
+				<coordinates>8.9997059,50.4095601,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hagellochstr.</name>
+			<address>Hagellochstr., 74a, 67063, Ludwigshafen am Rhein</address>
+			<Point>
+				<coordinates>8.4146707,49.4981641,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Paul-Essers-Straße</name>
+			<address>Paul-Essers-Straße, 13, 45468, Mülheim</address>
+			<Point>
+				<coordinates>6.8914111,51.4253722,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Schlossberg</name>
+			<address>Schlossberg, 37, 69117, Heidelberg</address>
+			<Point>
+				<coordinates>8.711072399999999,49.4094443,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mülbergerstraße</name>
+			<address>Mülbergerstraße, 168, 73728, Esslingen</address>
+			<Point>
+				<coordinates>9.311850699999999,48.7487342,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Louis-Mannstaedt-Straße</name>
+			<address>Louis-Mannstaedt-Straße, 37, 53840, Troisdorf</address>
+			<Point>
+				<coordinates>7.163981300000001,50.8034174,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Schloßstraße</name>
+			<address>Schloßstraße, 58, 77971, Kippenheim</address>
+			<Point>
+				<coordinates>7.8591285,48.2790328,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bergstraße</name>
+			<address>Bergstraße, 30, 65618, Eisenbach</address>
+			<Point>
+				<coordinates>8.2592465,50.3403631,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>An der Wildbahn</name>
+			<address>An der Wildbahn, 72, 13503, Berlin</address>
+			<Point>
+				<coordinates>13.2430879,52.6084581,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Schubertweg</name>
+			<address>Schubertweg, 19, 16727, Velten</address>
+			<Point>
+				<coordinates>13.1819212,52.69725460000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ewaldstraße</name>
+			<address>Ewaldstraße, 123, 45699, Herten</address>
+			<Point>
+				<coordinates>7.1462632,51.5850912,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stephanstr.</name>
+			<address>Stephanstr., 24, 71638, Ludwigsburg</address>
+			<Point>
+				<coordinates>9.2078736,48.8898693,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gudrunstraße</name>
+			<address>Gudrunstraße, 106, 22559, Hamburg</address>
+			<Point>
+				<coordinates>9.7611625,53.5923342,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rübenstraße</name>
+			<address>Rübenstraße, 3, 42289, Wuppertal</address>
+			<Point>
+				<coordinates>7.2223431,51.2700654,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wasserstraße</name>
+			<address>Wasserstraße, 9, 73054, Eislingen/Fils</address>
+			<Point>
+				<coordinates>9.7120357,48.7023247,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kurt-Georg-Kiesinger-Allee</name>
+			<address>Kurt-Georg-Kiesinger-Allee, 6, 28279, Bremen</address>
+			<Point>
+				<coordinates>8.835834,53.0328574,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Paul-Klee-Straße</name>
+			<address>Paul-Klee-Straße, 42, 99085, Erfurt</address>
+			<Point>
+				<coordinates>11.073166,50.9900202,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hauptstraße</name>
+			<address>Hauptstraße, 61, 68526, Ladenburg</address>
+			<Point>
+				<coordinates>8.61177,49.47262,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pienzenauerstraße</name>
+			<address>Pienzenauerstraße, 70, 81925, München</address>
+			<Point>
+				<coordinates>11.6092219,48.1582684,0</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+</kml>
